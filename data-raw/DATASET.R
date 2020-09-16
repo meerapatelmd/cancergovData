@@ -1,0 +1,7 @@
+library(broca)
+CONCEPT <- broca::simply_read_csv('data-raw/CONCEPT.csv')
+CONCEPT_DEFINITION <- broca::simply_read_csv('data-raw/CONCEPT_DEFINITION.csv')
+CONCEPT_LOG <- broca::simply_read_csv('data-raw/CONCEPT_LOG.csv')
+CONCEPT_RELATIONSHIP <- broca::simply_read_csv('data-raw/CONCEPT_RELATIONSHIP.csv')
+CONCEPT_SYNONYM <- broca::simply_read_csv('data-raw/CONCEPT_SYNONYM.csv')
+usethis::use_data(CONCEPT,CONCEPT_DEFINITION,CONCEPT_LOG,CONCEPT_RELATIONSHIP,CONCEPT_SYNONYM, overwrite = TRUE)
