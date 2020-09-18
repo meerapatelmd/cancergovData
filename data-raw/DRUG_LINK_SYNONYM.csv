@@ -9343,6 +9343,7 @@ dls_datetime,drug_link,x1,x2
 2020-09-18T06:12:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793675,Synonym:,donor-derived CD34+ HPCs/CD3+ T cells MDR-101
 2020-09-18T06:12:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793675,Code name:,MDR 101
 2020-09-18T06:12:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793675,Code name:,MDR-101
+2020-09-18T06:42:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800217,Code name:,CPI-0209
 2020-09-18T06:12:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792552,Synonym:,allogeneic CIML NK cells
 2020-09-18T06:12:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792552,Synonym:,allogeneic CIML NKs
 2020-09-18T06:12:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792552,Synonym:,allogeneic cytokine-induced memory-like NK cell
@@ -9394,6 +9395,7 @@ dls_datetime,drug_link,x1,x2
 2020-09-18T06:13:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dotapchol-fus1-liposome-complex,Synonym:,DOTAP:cholesterol-Fus1
 2020-09-18T06:13:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dotapchol-fus1-liposome-complex,Synonym:,DOTAP:cholesterol-Fus1 liposome complex
 2020-09-18T06:13:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dotapchol-fus1-liposome-complex,Synonym:,DOTAP:chol-Fus1
+2020-09-18T06:50:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prasterone,Code name:,GL701
 2020-09-18T06:13:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadoterate-meglumine,Synonym:,Gd-DOTA
 2020-09-18T06:13:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadoterate-meglumine,US brand name:,DOTAREM
 2020-09-18T06:13:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadoterate-meglumine,Foreign brand name:,DOTAREM
@@ -10590,6 +10592,7 @@ dls_datetime,drug_link,x1,x2
 2020-09-18T06:37:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ethinyl-estradiol-norethindrone,US brand name:,Norcept-E
 2020-09-18T06:37:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ethinyl-estradiol-norethindrone,US brand name:,Norethin
 2020-09-18T06:37:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ethinyl-estradiol-norethindrone,US brand name:,Norinyl
+2020-09-18T06:51:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flaxseed,Synonym:,lint bells
 2020-09-18T06:37:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ethinyl-estradiol-norethindrone,US brand name:,Nortrel
 2020-09-18T06:37:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ethinyl-estradiol-norethindrone,US brand name:,Ortho-Novum
 2020-09-18T06:37:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ethinyl-estradiol-norethindrone,US brand name:,Ovcon
@@ -10750,3 +10753,1046 @@ dls_datetime,drug_link,x1,x2
 2020-09-18T06:42:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794051,US brand name:,Xtampza ER
 2020-09-18T06:42:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/extended-release-onapristone,Synonym:,ER onapristone
 2020-09-18T06:42:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/extended-release-onapristone,Synonym:,"onapristone, extended-release formulation"
+2020-09-18T06:42:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/povidone-iodine-solution,Synonym:,Betadine topical
+2020-09-18T06:42:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/povidone-iodine-solution,Synonym:,iodine povidone topical
+2020-09-18T06:42:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/povidone-iodine-solution,Synonym:,iodopovidone solution
+2020-09-18T06:42:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/povidone-iodine-solution,US brand name:,Betadine
+2020-09-18T06:42:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/povidone-iodine-solution,US brand name:,Betadine Solution
+2020-09-18T06:42:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/povidone-iodine-solution,US brand name:,E-Z Prep
+2020-09-18T06:42:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/povidone-iodine-solution,US brand name:,E-Z Scrub
+2020-09-18T06:42:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/povidone-iodine-solution,US brand name:,Traumasept
+2020-09-18T06:42:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/povidone-iodine-solution,US brand name:,Ultradine
+2020-09-18T06:42:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/povidone-iodine-solution,US brand name:,Videne
+2020-09-18T06:42:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/povidone-iodine-solution,Foreign brand name:,Betaisodona
+2020-09-18T06:42:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/povidone-iodine-solution,Abbreviation:,PVP iodine
+2020-09-18T06:42:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/povidone-iodine-solution,Synonym:,Betadine topical
+2020-09-18T06:42:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/povidone-iodine-solution,Synonym:,iodine povidone topical
+2020-09-18T06:42:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/povidone-iodine-solution,Synonym:,iodopovidone solution
+2020-09-18T06:42:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/povidone-iodine-solution,US brand name:,Betadine
+2020-09-18T06:42:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/povidone-iodine-solution,US brand name:,Betadine Solution
+2020-09-18T06:42:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/povidone-iodine-solution,US brand name:,E-Z Prep
+2020-09-18T06:42:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/povidone-iodine-solution,US brand name:,E-Z Scrub
+2020-09-18T06:42:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/povidone-iodine-solution,US brand name:,Traumasept
+2020-09-18T06:42:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/povidone-iodine-solution,US brand name:,Ultradine
+2020-09-18T06:42:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/povidone-iodine-solution,US brand name:,Videne
+2020-09-18T06:42:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/povidone-iodine-solution,Foreign brand name:,Betaisodona
+2020-09-18T06:42:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/povidone-iodine-solution,Abbreviation:,PVP iodine
+2020-09-18T06:42:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ezatiostat-hydrochloride,US brand name:,Telintra
+2020-09-18T06:42:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ezatiostat-hydrochloride,Code name:,TLK199
+2020-09-18T06:42:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ezatiostat-hydrochloride,Chemical structure:,"ethyl (2R)-[(4S)-4-amino-5-ethoxy-5-oxopentanoyl]-S-benzyl-L-cysteinyl-2- phenylglycinate hydrochlorideglycine, L-γ-glutamyl-S-(phenylmethyl)-L-cysteinyl-2-phenyl-, diethyl ester, monohydrochloride, (2R)-"
+2020-09-18T06:42:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ezetimibe,Synonym:,ezedoc
+2020-09-18T06:42:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ezetimibe,US brand name:,Zetia
+2020-09-18T06:42:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ezetimibe,Chemical structure:,1-(4-fluorophenyl)-3(R)-[3-(4-fluorophenyl)-3(S)-hydroxypropyl]-4(S)-(4-hydroxyphenyl)-2-azetidinone
+2020-09-18T06:42:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ezetimibe-simvastatin,US brand name:,Vytorin
+2020-09-18T06:42:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802064,Synonym:,EZH1 and EZH2 inhibitor HH2853
+2020-09-18T06:42:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802064,Code name:,HH 2853
+2020-09-18T06:42:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802064,Code name:,HH2853
+2020-09-18T06:42:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802064,Code name:,HH-2853
+2020-09-18T06:42:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800217,Code name:,CPI 0209
+2020-09-18T06:42:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800217,Code name:,CPI0209
+2020-09-18T06:42:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ezh2-inhibitor-cpi-1205,Code name:,CPI-1205
+2020-09-18T06:42:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795703,Code name:,PF 06821497
+2020-09-18T06:42:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795703,Code name:,PF06821497
+2020-09-18T06:42:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795703,Code name:,PF-06821497
+2020-09-18T06:43:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797374,Synonym:,enhancer of Zeste homolog 2 inhibitor SHR2554
+2020-09-18T06:43:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797374,Code name:,SHR 2554
+2020-09-18T06:43:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797374,Code name:,SHR2554
+2020-09-18T06:43:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797374,Code name:,SHR-2554
+2020-09-18T06:43:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/f-18-fluorodeoxygalactose,Synonym:,18-F-deoxygalactose
+2020-09-18T06:43:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/f-18-fluorodeoxygalactose,Synonym:,18-F-deoxy-galactose
+2020-09-18T06:43:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/f-18-fluorodeoxygalactose,Synonym:,fluorodeoxygalactose F-18
+2020-09-18T06:43:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/f-18-fluorodeoxygalactose,Abbreviation:,FDGal
+2020-09-18T06:43:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/f16-il2-fusion-protein,Synonym:,teleukin
+2020-09-18T06:43:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/f-18-16-alpha-fluoroestradiol,Synonym:,fluorine-18 16 alpha-fluoroestradiol
+2020-09-18T06:43:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/f-18-16-alpha-fluoroestradiol,Abbreviation:,F-18 FES
+2020-09-18T06:43:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/f-18-fluoroethyltyrosine,Abbreviation:,F-18 FET
+2020-09-18T06:43:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/f-18-fluoroethyltyrosine,Chemical structure:,O-(2-[F 18]fluoroethyl)-1-tyrosine
+2020-09-18T06:43:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fact-complex-targeting-curaxin-cbl0137,Code name:,CBL0137
+2020-09-18T06:43:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795707,Code name:,LNP 023
+2020-09-18T06:43:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795707,Code name:,LNP023
+2020-09-18T06:43:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795707,Code name:,LNP-023
+2020-09-18T06:43:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802304,Synonym:,FD inhibitor ALXN2050
+2020-09-18T06:43:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802304,Code name:,ACH 0145228
+2020-09-18T06:43:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802304,Code name:,ACH 5228
+2020-09-18T06:43:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802304,Code name:,ACH0145228
+2020-09-18T06:43:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802304,Code name:,ACH-0145228
+2020-09-18T06:43:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802304,Code name:,ACH5228
+2020-09-18T06:43:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802304,Code name:,ACH-5228
+2020-09-18T06:43:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802304,Code name:,ALXN 2050
+2020-09-18T06:43:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802304,Code name:,ALXN2050
+2020-09-18T06:43:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802304,Code name:,ALXN-2050
+2020-09-18T06:43:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/factor-viia-inhibitor-pci-27483,Code name:,PCI-27483
+2020-09-18T06:43:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/factor-vii-targeting-immunoconjugate-protein-icon-1,Synonym:,FVII modified conjugate ICON-1
+2020-09-18T06:43:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/factor-vii-targeting-immunoconjugate-protein-icon-1,Synonym:,FVII-targeting immunoconjugate protein ICON-1
+2020-09-18T06:43:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/factor-vii-targeting-immunoconjugate-protein-icon-1,Synonym:,human immuno-conjugate 1
+2020-09-18T06:43:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/factor-vii-targeting-immunoconjugate-protein-icon-1,Synonym:,VII-Fc fusion protein ICON-1
+2020-09-18T06:43:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/factor-vii-targeting-immunoconjugate-protein-icon-1,Code name:,ICON-1
+2020-09-18T06:43:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fadrozole-hydrochloride,Code name:,CGS-16949A
+2020-09-18T06:43:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fak-inhibitor-gsk2256098,Synonym:,focal adhesion kinase inhibitor GSK2256098
+2020-09-18T06:43:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fak-inhibitor-gsk2256098,Code name:,GSK2256098
+2020-09-18T06:44:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fak-inhibitor-pf-00562271,Synonym:,focal adhesion kinase inhibitor PF-00562271
+2020-09-18T06:44:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fak-inhibitor-pf-00562271,Code name:,PF-00562271
+2020-09-18T06:44:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fak-inhibitor-vs-4718,Code name:,VS-4718
+2020-09-18T06:44:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801583,Code name:,APG 2449
+2020-09-18T06:44:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801583,Code name:,APG2449
+2020-09-18T06:44:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801583,Code name:,APG-2449
+2020-09-18T06:44:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/falimarev,Synonym:,recombinant fowlpox-CEA-MUC-1-TRICOM vaccine
+2020-09-18T06:44:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/falimarev,Synonym:,rfowlpox-CEA(D609)/MUC1(L93)/TRICOM vaccine
+2020-09-18T06:44:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/falimarev,US brand name:,PANVAC-F
+2020-09-18T06:44:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/falimarev,Abbreviation:,fCEA-MUC-1-TRI
+2020-09-18T06:44:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/famitinib,NA,NA
+2020-09-18T06:44:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/famotidine,US brand name:,Pepcid
+2020-09-18T06:44:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/famotidine,US brand name:,Pepcid AC
+2020-09-18T06:44:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-her2-adc-ds-8201a,Synonym:,trastuzumab deruxtecan
+2020-09-18T06:44:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-her2-adc-ds-8201a,US brand name:,Enhertu
+2020-09-18T06:44:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-her2-adc-ds-8201a,Code name:,DS-8201
+2020-09-18T06:44:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-her2-adc-ds-8201a,Code name:,DS-8201a
+2020-09-18T06:44:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-her2-adc-ds-8201a,Code name:,DS-8201a
+2020-09-18T06:44:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-her2-adc-ds-8201a,Code name:,WHO 10516
+2020-09-18T06:44:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fap-specific-cd8-positive-t-cells,NA,NA
+2020-09-18T06:44:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/toremifene-citrate,US brand name:,Fareston
+2020-09-18T06:44:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/toremifene-citrate,Code name:,FC-1157a
+2020-09-18T06:44:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/toremifene-citrate,Code name:,GTx-006
+2020-09-18T06:44:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/toremifene-citrate,Chemical structure:,"(Z)-2-[4-(4-chloro-1,2-diphenyl-1-butenyl)phenoxy]-N,N-dimethylethanamine 2-Hydroxy-1,2,3-propanetricarboxylate (1:1)2-(p-[(Z)-4-chloro-1,2-diphenyl-1-butenyl]-phenoxy)- N,N-dimethylethylamine citrate (1:1)"
+2020-09-18T06:44:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/farletuzumab,Synonym:,anti-GP-3 monoclonal antibody
+2020-09-18T06:44:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/farletuzumab,Code name:,MORAb-003
+2020-09-18T06:44:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/panobinostat,Synonym:,HDAC inhibitor LBH589
+2020-09-18T06:44:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/panobinostat,Synonym:,histone deacetylase inhibitor LBH589
+2020-09-18T06:44:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/panobinostat,US brand name:,Farydak
+2020-09-18T06:44:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/panobinostat,Foreign brand name:,Faridak
+2020-09-18T06:44:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/panobinostat,Code name:,LBH589
+2020-09-18T06:45:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fas-receptor-agonist-apo010,Synonym:,mega-FasLigand
+2020-09-18T06:45:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fas-receptor-agonist-apo010,Code name:,APO010
+2020-09-18T06:45:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tinidazole,US brand name:,Fasigyn
+2020-09-18T06:45:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tinidazole,US brand name:,Tindamax
+2020-09-18T06:45:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tinidazole,Foreign brand name:,Simplotan
+2020-09-18T06:45:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tinidazole,Abbreviation:,TDZ
+2020-09-18T06:45:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fulvestrant,US brand name:,Faslodex
+2020-09-18T06:45:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fulvestrant,Code name:,"ICI 182,780"
+2020-09-18T06:45:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fulvestrant,Code name:,ZD9238
+2020-09-18T06:45:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fulvestrant,Chemical structure:,"7a-[9-[(4,4,5,5,5,-Pentafluoropentyl)sulphinyl]nonyl]-estra-1,3,5(10)-triene-3,17b-diol"
+2020-09-18T06:45:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fasn-inhibitor-tvb-2640,Code name:,TVB-2640
+2020-09-18T06:45:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fat-emulsion,Synonym:,intravenous fat emulsion
+2020-09-18T06:45:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fat-emulsion,US brand name:,Intralipid
+2020-09-18T06:45:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fazarabine,Synonym:,Kymarabine
+2020-09-18T06:45:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fazarabine,Abbreviation:,Ara AC
+2020-09-18T06:45:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fazarabine,Abbreviation:,ARA-AC
+2020-09-18T06:45:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fazarabine,Chemical structure:,"1,3, 5-triazin-2(1H)-one, 4-Amino-1-beta-D- arabinofuranosyl- (9CI)1-beta-D-arabinofuranosyl-5-azacytosine"
+2020-09-18T06:45:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800787,Synonym:,anti-CD40 agonist antibody 2141-V11
+2020-09-18T06:45:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800787,Synonym:,anti-CD40 agonistic antibody 2141-V11
+2020-09-18T06:45:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800787,Synonym:,Fc-engineered anti-CD40 agonistic antibody 2141-V11
+2020-09-18T06:45:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800787,Synonym:,Fc-enhanced wnti-CD40 wntibody 2141-V11
+2020-09-18T06:45:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800787,Code name:,2141 V11
+2020-09-18T06:45:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800787,Code name:,2141 V-11
+2020-09-18T06:45:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800787,Code name:,2141-V11
+2020-09-18T06:45:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/febuxostat,US brand name:,Uloric
+2020-09-18T06:45:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/febuxostat,Code name:,TMX 67
+2020-09-18T06:45:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/febuxostat,Chemical structure:,2-(3-cyano-4-(2-methylpropoxy)phenyl)-4-methylthiazole-5-carboxylic acid
+2020-09-18T06:45:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fec-regimen,Synonym:,CEF
+2020-09-18T06:45:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fec-regimen,Synonym:,CEF regimen
+2020-09-18T06:45:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fec-regimen,Synonym:,CTX/EPI/5-FU
+2020-09-18T06:45:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fec-regimen,Synonym:,FEC
+2020-09-18T06:45:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fec-regimen,Synonym:,FEC 100
+2020-09-18T06:45:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fec-regimen,Synonym:,fluorouracil-epirubicin-cyclophosphamide regimen
+2020-09-18T06:45:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800681,Synonym:,fecal microbiota preparation delivery capsule
+2020-09-18T06:45:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800681,Synonym:,FMPCapDE
+2020-09-18T06:45:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800681,Synonym:,FMT Capsule DE
+2020-09-18T06:45:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800681,Synonym:,FMT capsule delivery
+2020-09-18T06:45:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800681,Synonym:,FMT DE capsule
+2020-09-18T06:45:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/jak2-inhibitor-tg101348,Synonym:,fedratinib dihydrochloride monohydrate
+2020-09-18T06:45:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/jak2-inhibitor-tg101348,US brand name:,Inrebic
+2020-09-18T06:45:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/jak2-inhibitor-tg101348,Code name:,SAR302503a
+2020-09-18T06:46:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/piroxicam,US brand name:,Feldene
+2020-09-18T06:46:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/piroxicam,Abbreviation:,PXM
+2020-09-18T06:46:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/piroxicam,Chemical structure:,"4-Hydroxy-2-methyl-N-2-pyridinyl-2H-1,2-benzothiazine-3-carboximide-1,1-dioxide"
+2020-09-18T06:46:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/letrozole,US brand name:,Femara
+2020-09-18T06:46:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/letrozole,Abbreviation:,LTZ
+2020-09-18T06:46:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/letrozole,Code name:,CGS 20267
+2020-09-18T06:46:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/letrozole,Chemical structure:,"4,4'-(1H-1,2,4triazol-1-ylmethylene)dibenzonitrile"
+2020-09-18T06:46:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/conjugated-estrogens,US brand name:,Femest
+2020-09-18T06:46:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/conjugated-estrogens,US brand name:,Premarin
+2020-09-18T06:46:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/conjugated-estrogens,Foreign brand name:,Conestron
+2020-09-18T06:46:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/conjugated-estrogens,Foreign brand name:,Sodestrin
+2020-09-18T06:46:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/conjugated-estrogens,Abbreviation:,EST
+2020-09-18T06:46:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/conjugated-estrogens,Code name:,Tag-39
+2020-09-18T06:46:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ethinyl-estradiol,US brand name:,Estinyl
+2020-09-18T06:46:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ethinyl-estradiol,US brand name:,Ethinoral
+2020-09-18T06:46:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ethinyl-estradiol,US brand name:,Feminone
+2020-09-18T06:46:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ethinyl-estradiol,US brand name:,Orestralyn
+2020-09-18T06:46:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ethinyl-estradiol,Foreign brand name:,Diogyn E
+2020-09-18T06:46:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ethinyl-estradiol,Foreign brand name:,Eticylol
+2020-09-18T06:46:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ethinyl-estradiol,Foreign brand name:,Inestra
+2020-09-18T06:46:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ethinyl-estradiol,Foreign brand name:,Lynoral
+2020-09-18T06:46:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ethinyl-estradiol,Abbreviation:,EE
+2020-09-18T06:46:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ethinyl-estradiol,Chemical structure:,"(17alpha)-19-norpregna-1,3,5(10)-trien-20-yne-3,17-diol"
+2020-09-18T06:46:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fenofibrate,US brand name:,Tricor
+2020-09-18T06:46:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fenretinide,Synonym:,fenretinimide
+2020-09-18T06:46:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fenretinide,Abbreviation:,4-HPR
+2020-09-18T06:46:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fenretinide,Code name:,McN-R-1967
+2020-09-18T06:46:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fenretinide,Chemical structure:,4-(all-trans-retino-yl)aminophenol4-hydroxyphenylretinamideAll-trans-4'-hydroxyretinanilideall-trans-N-(4-hydroxyphenyl)retinamideall-trans-N-4'-hydroxyretinanilideN-(4-hydroxyphenyl)retinamide
+2020-09-18T06:46:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fenretinide-lipid-matrix,Synonym:,fenretinide LXS
+2020-09-18T06:46:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fenretinide-lipid-matrix,US brand name:,Fenretinide Lym-X-Sorb
+2020-09-18T06:46:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fenretinide-lipid-matrix,Synonym:,fenretinide LXS
+2020-09-18T06:46:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fenretinide-lipid-matrix,US brand name:,Fenretinide Lym-X-Sorb
+2020-09-18T06:46:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fentanyl-buccal-soluble-film,US brand name:,Onsolis
+2020-09-18T06:46:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fentanyl-citrate-buccal-tablet,Synonym:,fentanyl buccal tablet
+2020-09-18T06:46:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fentanyl-citrate-buccal-tablet,US brand name:,Fentora
+2020-09-18T06:46:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fentanyl-citrate-pectin-based-nasal-spray,US brand name:,Lazanda
+2020-09-18T06:46:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fentanyl-citrate-pectin-based-nasal-spray,US brand name:,Nasalfent
+2020-09-18T06:46:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fentanyl-citrate-pectin-based-nasal-spray,Foreign brand name:,Nasalfent
+2020-09-18T06:46:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fentanyl-citrate-pectin-based-nasal-spray,Foreign brand name:,PecFent
+2020-09-18T06:46:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fentanyl-citrate-containing-nasal-spray,Synonym:,intranasal fentanyl spray
+2020-09-18T06:46:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fentanyl-citrate-containing-nasal-spray,Foreign brand name:,Instanyl
+2020-09-18T06:47:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fentanyl-matrix-transdermal-patch,Synonym:,fentanyl matrix transdermal delivery system
+2020-09-18T06:47:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fentanyl-matrix-transdermal-patch,Foreign brand name:,Durogesic DTrans
+2020-09-18T06:47:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fentanyl-sublingual-spray,Abbreviation:,fentanyl SL spray
+2020-09-18T06:47:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fentanyl-sublingual-spray,Abbreviation:,FSS
+2020-09-18T06:47:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fentanyl-citrate-buccal-tablet,Synonym:,fentanyl buccal tablet
+2020-09-18T06:47:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fentanyl-citrate-buccal-tablet,US brand name:,Fentora
+2020-09-18T06:47:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferumoxytol-non-stoichiometric-magnetite,Synonym:,black iron oxide
+2020-09-18T06:47:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferumoxytol-non-stoichiometric-magnetite,Synonym:,ferrosoferric oxide
+2020-09-18T06:47:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferumoxytol-non-stoichiometric-magnetite,Synonym:,iron black
+2020-09-18T06:47:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferumoxytol-non-stoichiometric-magnetite,Synonym:,magnetic black
+2020-09-18T06:47:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferumoxytol-non-stoichiometric-magnetite,Synonym:,magnetite
+2020-09-18T06:47:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferumoxytol-non-stoichiometric-magnetite,Synonym:,Sienna+
+2020-09-18T06:47:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferumoxytol-non-stoichiometric-magnetite,US brand name:,Feraheme
+2020-09-18T06:47:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferumoxytol-non-stoichiometric-magnetite,Abbreviation:,Fe3O4
+2020-09-18T06:47:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferumoxytol-non-stoichiometric-magnetite,Chemical structure:,iron oxidetriiron tetraoxide
+2020-09-18T06:47:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferumoxides-injectable-solution,US brand name:,Feridex
+2020-09-18T06:47:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800204,Synonym:,fermented soy
+2020-09-18T06:47:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800204,Synonym:,fermented soy extract
+2020-09-18T06:47:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800204,US brand name:,Q-Can Plus
+2020-09-18T06:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fermented-soybean-protein-beverage,US brand name:,Haelan 951
+2020-09-18T06:47:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fermented-wheat-germ-extract,US brand name:,Avemar
+2020-09-18T06:47:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fermented-wheat-germ-extract,Foreign brand name:,Avemar
+2020-09-18T06:47:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fermented-wheat-germ-extract,Acronym:,FWGE
+2020-09-18T06:47:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dextroamphetamine-sulfate,Synonym:,d-amphetamine sulphate
+2020-09-18T06:47:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dextroamphetamine-sulfate,US brand name:,Dexampex
+2020-09-18T06:47:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dextroamphetamine-sulfate,US brand name:,Dexedrine
+2020-09-18T06:47:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dextroamphetamine-sulfate,US brand name:,Dextrostat
+2020-09-18T06:47:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dextroamphetamine-sulfate,US brand name:,Ferndex
+2020-09-18T06:47:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dextroamphetamine-sulfate,Chemical structure:,"(+)-alpha-methylphenethylamine sulphate (2:1)(S)-alpha-methylbenzeneethanamine sulfatebenzeneethanamine, alpha-methyl-, (S)-, sulfate (2:1)d-alpha-methylphenethylamine sulfate"
+2020-09-18T06:47:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferric-carboxymaltose-solution,Synonym:,ferric carboxymaltose injection
+2020-09-18T06:47:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferric-carboxymaltose-solution,US brand name:,Injectafer
+2020-09-18T06:47:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferric-carboxymaltose-solution,Foreign brand name:,Ferinject
+2020-09-18T06:47:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferric-carboxymaltose-solution,Abbreviation:,FCM
+2020-09-18T06:47:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/sodium-ferric-gluconate-complex-in-sucrose,US brand name:,Ferrlecit
+2020-09-18T06:48:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferrous-fumarate,NA,NA
+2020-09-18T06:48:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferrous-sulfate,Synonym:,Iron(II) Sulfate
+2020-09-18T06:48:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferumoxides-injectable-solution,US brand name:,Feridex
+2020-09-18T06:48:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferumoxsil-oral-suspension,US brand name:,GastroMARK
+2020-09-18T06:48:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferumoxsil-oral-suspension,US brand name:,Lumirem
+2020-09-18T06:48:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferumoxtran-10,Synonym:,Ultrasmall Particulate Iron Oxide
+2020-09-18T06:48:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferumoxtran-10,US brand name:,Combidex
+2020-09-18T06:48:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferumoxtran-10,Foreign brand name:,Sinerem
+2020-09-18T06:48:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferumoxtran-10,Abbreviation:,USPIO
+2020-09-18T06:48:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferumoxtran-10,Code name:,AMI-227
+2020-09-18T06:48:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferumoxtran-10,Code name:,G-53425
+2020-09-18T06:48:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferumoxytol-non-stoichiometric-magnetite,Synonym:,black iron oxide
+2020-09-18T06:48:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferumoxytol-non-stoichiometric-magnetite,Synonym:,ferrosoferric oxide
+2020-09-18T06:48:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferumoxytol-non-stoichiometric-magnetite,Synonym:,iron black
+2020-09-18T06:48:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferumoxytol-non-stoichiometric-magnetite,Synonym:,magnetic black
+2020-09-18T06:48:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferumoxytol-non-stoichiometric-magnetite,Synonym:,magnetite
+2020-09-18T06:48:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferumoxytol-non-stoichiometric-magnetite,Synonym:,Sienna+
+2020-09-18T06:48:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferumoxytol-non-stoichiometric-magnetite,US brand name:,Feraheme
+2020-09-18T06:48:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferumoxytol-non-stoichiometric-magnetite,Abbreviation:,Fe3O4
+2020-09-18T06:48:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ferumoxytol-non-stoichiometric-magnetite,Chemical structure:,iron oxidetriiron tetraoxide
+2020-09-18T06:48:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fesoterodine-fumarate,US brand name:,Toviaz
+2020-09-18T06:48:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgf-fgfr-pathway-inhibitor-e7090,Code name:,E7090
+2020-09-18T06:48:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgf401-inhibitor-fgf401,Code name:,FGF401
+2020-09-18T06:48:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr-inhibitor-asp5878,Code name:,ASP5878
+2020-09-18T06:48:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr-inhibitor-azd4547,Code name:,AZD4547
+2020-09-18T06:49:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802158,Code name:,CPL 304110
+2020-09-18T06:49:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802158,Code name:,CPL304110
+2020-09-18T06:49:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802158,Code name:,CPL-304110
+2020-09-18T06:49:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802158,Code name:,PG19
+2020-09-18T06:49:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr-inhibitor-debio-1347,Synonym:,CH5183284
+2020-09-18T06:49:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr-inhibitor-debio-1347,Synonym:,debiopharm 1347
+2020-09-18T06:49:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr-inhibitor-debio-1347,Synonym:,FF284
+2020-09-18T06:49:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr-inhibitor-debio-1347,Code name:,debio 1347
+2020-09-18T06:49:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr-inhibitor-debio-1347,Code name:,debio 1347-101
+2020-09-18T06:49:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792789,Synonym:,FGFR inhibitor HMPL-453
+2020-09-18T06:49:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792789,Code name:,HMPL 453
+2020-09-18T06:49:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792789,Code name:,HMPL-453
+2020-09-18T06:49:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr1-receptor-antagonist-hgs1036,Synonym:,FGFR1 receptor antagonist FP-1039
+2020-09-18T06:49:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr1-receptor-antagonist-hgs1036,Synonym:,GSK3052230
+2020-09-18T06:49:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr1-receptor-antagonist-hgs1036,Code name:,FP-1039
+2020-09-18T06:49:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr1-receptor-antagonist-hgs1036,Code name:,HGS1036
+2020-09-18T06:49:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr4-antagonist-incb062079,Synonym:,fibroblast growth factor receptor 4 antagonist INCB062079
+2020-09-18T06:49:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr4-antagonist-incb062079,Code name:,INCB 062079
+2020-09-18T06:49:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr4-antagonist-incb062079,Code name:,INCB062079
+2020-09-18T06:49:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr4-antagonist-incb062079,Code name:,INCB-062079
+2020-09-18T06:49:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr4-antagonist-incb062079,Code name:,INCB62079
+2020-09-18T06:49:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr4-inhibitor-h3b-6527,Synonym:,fibroblast growth factor receptor 4 inhibitor H3B-6527
+2020-09-18T06:49:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr4-inhibitor-h3b-6527,Code name:,H3B 6527
+2020-09-18T06:49:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr4-inhibitor-h3b-6527,Code name:,H3B6527
+2020-09-18T06:49:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr4-inhibitor-h3b-6527,Code name:,H3B-6527
+2020-09-18T06:49:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798826,Synonym:,FGFR4 antagonist ICP-105
+2020-09-18T06:49:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798826,Code name:,ICP 105
+2020-09-18T06:49:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798826,Code name:,ICP105
+2020-09-18T06:49:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798826,Code name:,ICP-105
+2020-09-18T06:49:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fibrin-sealant,US brand name:,Fibrocaps
+2020-09-18T06:49:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fibrin-sealant,US brand name:,TISSEEL VH
+2020-09-18T06:49:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fibrin-sealant,Foreign brand name:,Beriplast P
+2020-09-18T06:49:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fibrin-sealant,US brand name:,Fibrocaps
+2020-09-18T06:49:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fibrin-sealant,US brand name:,TISSEEL VH
+2020-09-18T06:49:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fibrin-sealant,Foreign brand name:,Beriplast P
+2020-09-18T06:49:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/recombinant-human-fusion-protein-l19tnfalpha,Synonym:,recombinant human fusion protein L19TNFalpha
+2020-09-18T06:49:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/recombinant-human-fusion-protein-l19tnfalpha,Abbreviation:,L19TNF alpha
+2020-09-18T06:49:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/recombinant-human-fusion-protein-l19tnfalpha,Abbreviation:,L19-TNF-alpha
+2020-09-18T06:49:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ficlatuzumab,Synonym:,anti-HGF monoclonal antibody SCH900105
+2020-09-18T06:49:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ficlatuzumab,Code name:,AV-299
+2020-09-18T06:49:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ficlatuzumab,Code name:,SCH 900105
+2020-09-18T06:49:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fidaxomicin,Synonym:,clostomicin B1
+2020-09-18T06:49:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fidaxomicin,Synonym:,difimicin
+2020-09-18T06:49:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fidaxomicin,Synonym:,lipiamycin A3
+2020-09-18T06:49:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fidaxomicin,Code name:,OPT-80
+2020-09-18T06:49:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fidaxomicin,Code name:,PAR-101
+2020-09-18T06:50:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prasterone,Synonym:,Dehydroisoandrosterone
+2020-09-18T06:50:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prasterone,Synonym:,therapeutic dehydroepiandrosterone
+2020-09-18T06:50:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prasterone,US brand name:,Fidelin
+2020-09-18T06:50:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prasterone,Abbreviation:,DHEA
+2020-09-18T06:50:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prasterone,Chemical structure:,3beta-Hydroxyandrost-5-en-17-one
+2020-09-18T06:50:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/figitumumab,Code name:,"CP-751,871"
+2020-09-18T06:50:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim,Synonym:,filgrastim XM02
+2020-09-18T06:50:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim,Synonym:,filgrastim-sndz
+2020-09-18T06:50:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim,Synonym:,G-CSF
+2020-09-18T06:50:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim,Synonym:,granulocyte colony-stimulating factor
+2020-09-18T06:50:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim,Synonym:,Recombinant Methionyl Human Granulocyte Colony Stimulating Factor
+2020-09-18T06:50:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim,Synonym:,tbo-filgrastim
+2020-09-18T06:50:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim,Synonym:,Tbo-filgrastim
+2020-09-18T06:50:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim,US brand name:,Granix
+2020-09-18T06:50:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim,US brand name:,Neupogen
+2020-09-18T06:50:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim,US brand name:,Zarxio
+2020-09-18T06:50:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim,Foreign brand name:,Grasin
+2020-09-18T06:50:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim,Foreign brand name:,Nivestim
+2020-09-18T06:50:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim,Foreign brand name:,Tevagrastim
+2020-09-18T06:50:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim,Abbreviation:,G-CSF
+2020-09-18T06:50:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim,Abbreviation:,r-metHuG-CSF
+2020-09-18T06:50:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim-primed-peripheral-blood-progenitor-cells,Synonym:,G-CSF-primed peripheral blood progenitor cells
+2020-09-18T06:50:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim-primed-peripheral-blood-progenitor-cells,Abbreviation:,filgrastim-primed PBPC
+2020-09-18T06:50:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim-primed-peripheral-blood-progenitor-cells,Abbreviation:,GPBPCI
+2020-09-18T06:50:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799987,Chemical structure:,"4,4'-(15,20-diphenyl-7,8(or 12,13 or 17,18)-dihydro-21H,23H-porphine-5,10-diyl)bisbenzenesulfonic acid, mixture of three isomers A, B and C (25%,50%,25%)"
+2020-09-18T06:50:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/finasteride,US brand name:,Proscar
+2020-09-18T06:50:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/finasteride,Foreign brand name:,Chibro-Proscar
+2020-09-18T06:50:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/finasteride,Foreign brand name:,Finastid
+2020-09-18T06:50:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/finasteride,Foreign brand name:,Pro-Cure
+2020-09-18T06:50:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/finasteride,Foreign brand name:,Prostide
+2020-09-18T06:50:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/finasteride,Foreign brand name:,Uprosan
+2020-09-18T06:50:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/finasteride,Code name:,MK 906
+2020-09-18T06:50:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/finasteride,Chemical structure:,"(5alpha,17beta)-N-(1,1-dimethylethyl)-3-oxo-4-azaandrost-1-ene-17-carboxamide"
+2020-09-18T06:50:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/degarelix,US brand name:,Firmagon
+2020-09-18T06:50:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/degarelix,Code name:,ASP3550
+2020-09-18T06:50:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/degarelix,Code name:,FE200486
+2020-09-18T06:50:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fish-oil,Synonym:,"oil, fish"
+2020-09-18T06:50:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fish-oil,Synonym:,seafood oil
+2020-09-18T06:50:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fish-oil-glycerol-egg-lecithin-based-emulsion,Synonym:,omega-3 fatty acid infusion
+2020-09-18T06:50:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fish-oil-glycerol-egg-lecithin-based-emulsion,Foreign brand name:,Omegaven
+2020-09-18T06:50:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr4-inhibitor-blu-554,Synonym:,fibroblast growth factor receptor 4 inhibitor BLU-554
+2020-09-18T06:50:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr4-inhibitor-blu-554,Code name:,BLU 554
+2020-09-18T06:50:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr4-inhibitor-blu-554,Code name:,BLU554
+2020-09-18T06:50:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr4-inhibitor-blu-554,Code name:,CS 3008
+2020-09-18T06:50:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr4-inhibitor-blu-554,Code name:,CS3008
+2020-09-18T06:50:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr4-inhibitor-blu-554,Chemical structure:,"2-propenamide, N-((3S,4S)-3-((6-(2,6-dichloro-3,5-dimethoxyphenyl)-2-quinazolinyl)amino)tetrahydro-2H-pyran-4-yl)-N-((3S,4S)-3-((6-(2,6-dichloro-3,5-dimethoxyphenyl)quinazolin-2-yl)amino)oxan-4-yl)prop-2-enamide"
+2020-09-18T06:50:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/metronidazole-hydrochloride,US brand name:,Flagyl
+2020-09-18T06:50:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/metronidazole-hydrochloride,US brand name:,Satric
+2020-09-18T06:50:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/metronidazole-hydrochloride,Code name:,SC 32642
+2020-09-18T06:51:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flanvotumab,Code name:,IMC-20D7S
+2020-09-18T06:51:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flavone-acetic-acid,Abbreviation:,FAA
+2020-09-18T06:51:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flavone-acetic-acid,Code name:,LM 975
+2020-09-18T06:51:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flavone-acetic-acid,Chemical structure:,"4H-1-benzopyran-8-acetic acid, 4-oxo-2-phenylflavone-8-acetic acid"
+2020-09-18T06:51:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flavonoid-tablet,NA,NA
+2020-09-18T06:51:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flaxseed,Synonym:,linseed
+2020-09-18T06:51:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flaxseed,Synonym:,linum
+2020-09-18T06:51:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flaxseed,Synonym:,Linum usitatissimum
+2020-09-18T06:51:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799713,Synonym:,flax lignan
+2020-09-18T06:51:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/diclofenac-epolamine-patch,US brand name:,Flector Patch
+2020-09-18T06:51:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/sodium-biphosphate-sodium-phosphate-oral-laxative,US brand name:,Fleet Phospho-soda
+2020-09-18T06:51:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/sodium-biphosphate-sodium-phosphate-oral-laxative,Foreign brand name:,Fleet Phospho-soda
+2020-09-18T06:51:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cyclobenzaprine-hydrochloride,Synonym:,cloben
+2020-09-18T06:51:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cyclobenzaprine-hydrochloride,Synonym:,Novo-Cycloprine
+2020-09-18T06:51:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cyclobenzaprine-hydrochloride,US brand name:,Cycloflex
+2020-09-18T06:51:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cyclobenzaprine-hydrochloride,US brand name:,Flexeril
+2020-09-18T06:51:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cyclobenzaprine-hydrochloride,US brand name:,Flexiban
+2020-09-18T06:51:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cyclobenzaprine-hydrochloride,Code name:,FR2100873
+2020-09-18T06:51:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cyclobenzaprine-hydrochloride,Chemical structure:,"10,11delta-amitriptyline hydrochloride1-propanamine, 3-(5H-dibenzo(a,d)cyclohepten-5-ylidene)-N,N-dimethyl-, hydrochloride3-(5H-dibenzo(a,d)cyclohepten-5-ylidene)propyl(dimethyl)ammonium chloride"
+2020-09-18T06:51:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cyclobenzaprine-hydrochloride,Synonym:,cloben
+2020-09-18T06:51:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cyclobenzaprine-hydrochloride,Synonym:,Novo-Cycloprine
+2020-09-18T06:51:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cyclobenzaprine-hydrochloride,US brand name:,Cycloflex
+2020-09-18T06:51:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cyclobenzaprine-hydrochloride,US brand name:,Flexeril
+2020-09-18T06:51:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cyclobenzaprine-hydrochloride,US brand name:,Flexiban
+2020-09-18T06:51:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cyclobenzaprine-hydrochloride,Code name:,FR2100873
+2020-09-18T06:51:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cyclobenzaprine-hydrochloride,Chemical structure:,"10,11delta-amitriptyline hydrochloride1-propanamine, 3-(5H-dibenzo(a,d)cyclohepten-5-ylidene)-N,N-dimethyl-, hydrochloride3-(5H-dibenzo(a,d)cyclohepten-5-ylidene)propyl(dimethyl)ammonium chloride"
+2020-09-18T06:51:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797893,NA,NA
+2020-09-18T06:51:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tamsulosin-hydrochloride,US brand name:,Flomax
+2020-09-18T06:52:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluticasone-propionate,US brand name:,Flonase
+2020-09-18T06:52:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluticasone-propionate,US brand name:,Flovent
+2020-09-18T06:52:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluticasone-propionate,Chemical structure:,"(6alpha,11beta,16alpha,17alpha)-6,9-Difluoro-11-hydroxy-16-methyl-3-oxo-17-(1-oxopropoxy)androsta-1,4-diene-17-carbothioic Acid, S-(Fluoromethyl) Ester"
+2020-09-18T06:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,US brand name:,Florafur
+2020-09-18T06:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,US brand name:,Fluorofur
+2020-09-18T06:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Citofur
+2020-09-18T06:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Coparogin
+2020-09-18T06:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Exonal
+2020-09-18T06:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Fental
+2020-09-18T06:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,ftorafur
+2020-09-18T06:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Ftoral
+2020-09-18T06:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Ftoralon
+2020-09-18T06:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Fulaid
+2020-09-18T06:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Fulfeel
+2020-09-18T06:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Furafluor
+2020-09-18T06:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Furofutran
+2020-09-18T06:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Futraful
+2020-09-18T06:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Lamar
+2020-09-18T06:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Lifril
+2020-09-18T06:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Neberk
+2020-09-18T06:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Nitobanil
+2020-09-18T06:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Riol
+2020-09-18T06:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Sinoflurol
+2020-09-18T06:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Sunfural
+2020-09-18T06:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Tefsiel
+2020-09-18T06:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Utefos
+2020-09-18T06:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Abbreviation:,FT
+2020-09-18T06:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Code name:,FT-207
+2020-09-18T06:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Code name:,MJF-12264
+2020-09-18T06:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Code name:,WR-220066
+2020-09-18T06:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Chemical structure:,"5-fluoro-1-(tetrahydro-2-furanyl)-2,4(1H,3H)-pyrimidinedione5-fluoro-1-(tetrahydro-2-furyl)-uracilN1-(2'-furanidyl)-5-fluorouracil"
+2020-09-18T06:52:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fludrocortisone-acetate,Synonym:,Florinef acetate
+2020-09-18T06:52:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fludrocortisone-acetate,Synonym:,fludrocortisone
+2020-09-18T06:52:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fludrocortisone-acetate,US brand name:,Florinef
+2020-09-18T06:52:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd123-cd3-monoclonal-antibody-mgd006,Synonym:,anti-CD123/CD3 monoclonal antibody MGD006
+2020-09-18T06:52:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd123-cd3-monoclonal-antibody-mgd006,Synonym:,CD123 x CD3 DART bi-specific antibody MGD006
+2020-09-18T06:52:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd123-cd3-monoclonal-antibody-mgd006,Synonym:,CD123 x CD3 dual affinity re-targeting bi-specific antibody MGD006
+2020-09-18T06:52:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd123-cd3-monoclonal-antibody-mgd006,Code name:,MGD006
+2020-09-18T06:52:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd123-cd3-monoclonal-antibody-mgd006,Code name:,RES234
+2020-09-18T06:52:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd123-cd3-monoclonal-antibody-mgd006,Code name:,S80880
+2020-09-18T06:52:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluticasone-propionate,US brand name:,Flonase
+2020-09-18T06:52:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluticasone-propionate,US brand name:,Flovent
+2020-09-18T06:52:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluticasone-propionate,Chemical structure:,"(6alpha,11beta,16alpha,17alpha)-6,9-Difluoro-11-hydroxy-16-methyl-3-oxo-17-(1-oxopropoxy)androsta-1,4-diene-17-carbothioic Acid, S-(Fluoromethyl) Ester"
+2020-09-18T06:52:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/floxuridine,Synonym:,FdUrD
+2020-09-18T06:52:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/floxuridine,Synonym:,floxuridin
+2020-09-18T06:52:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/floxuridine,Synonym:,fluorodeoxyuridine
+2020-09-18T06:52:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/floxuridine,Synonym:,fluorouridine deoxyribose
+2020-09-18T06:52:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/floxuridine,Synonym:,fluoruridine deoxyribose
+2020-09-18T06:52:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/floxuridine,US brand name:,FUDF
+2020-09-18T06:52:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/floxuridine,Abbreviation:,5-FUDR
+2020-09-18T06:52:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/floxuridine,Abbreviation:,FDUR
+2020-09-18T06:52:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/floxuridine,Abbreviation:,FUdR
+2020-09-18T06:52:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/floxuridine,Code name:,WR-138720
+2020-09-18T06:52:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/floxuridine,Chemical structure:,1-(2-deoxy-beta-D-ribofuranosyl)-5-fluorouracil2'-deoxy-5-fluorouridine5-fluoro-2'-deoxy-beta-uridine5-fluoro-2'-deoxyuridine5-fluorodeoxyuridine5-fluorouridine deoxyribose
+2020-09-18T06:52:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flt3-inhibitor-ff-10101-succinate,Synonym:,FF-10101 succinate
+2020-09-18T06:52:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flt3-inhibitor-ff-10101-succinate,Synonym:,FF10101 Succinate
+2020-09-18T06:52:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799742,Synonym:,FMS-like tyrosine kinase 3 inhibitor HM43239
+2020-09-18T06:52:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799742,Code name:,HM 43239
+2020-09-18T06:52:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799742,Code name:,HM43239
+2020-09-18T06:52:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799742,Code name:,HM-43239
+2020-09-18T06:52:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794986,Synonym:,FLT3 kinase inhibitor SKI-G-801
+2020-09-18T06:52:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794986,Synonym:,FLT3 tyrosine kinase inhibitor SKI-G-801
+2020-09-18T06:52:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794986,Synonym:,G-749 HCl salt
+2020-09-18T06:52:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794986,Synonym:,G749 hydrochloride
+2020-09-18T06:52:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794986,Code name:,G-801
+2020-09-18T06:52:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794986,Code name:,SKI-G-801
+2020-09-18T06:52:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flt3-cdk4-6-inhibitor-flx925,Code name:,FLX925
+2020-09-18T06:52:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flt3-kit-kinase-inhibitor-akn-028,Code name:,AKN-028
+2020-09-18T06:52:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flt3-kit-kinase-inhibitor-akn-028,Code name:,BVT-II
+2020-09-18T06:53:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801585,Code name:,NMS 03592088
+2020-09-18T06:53:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801585,Code name:,NMS P088
+2020-09-18T06:53:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801585,Code name:,NMS03592088
+2020-09-18T06:53:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801585,Code name:,NMS-03592088
+2020-09-18T06:53:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793562,Code name:,MRX 2843
+2020-09-18T06:53:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793562,Code name:,MRX2843
+2020-09-18T06:53:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793562,Code name:,MRX-2843
+2020-09-18T06:53:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flu-matrix-peptide-p58-66,NA,NA
+2020-09-18T06:53:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluconazole,US brand name:,Diflucan
+2020-09-18T06:53:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluconazole,Abbreviation:,FCZ
+2020-09-18T06:53:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluconazole,Chemical structure:,"alpha-(2,4-difluorophenyl)-alpha- (1,2,4-triazol-1-ylmethyl)-1,2, 4- triazole-1-ethanol"
+2020-09-18T06:53:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fludarabine-phosphate,Synonym:,fludarabine monophosphate
+2020-09-18T06:53:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fludarabine-phosphate,Foreign brand name:,Beneflur
+2020-09-18T06:53:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fludarabine-phosphate,Abbreviation:,2-F-ara-AMP
+2020-09-18T06:53:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fludarabine-phosphate,Code name:,SH T 586
+2020-09-18T06:53:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fludarabine-phosphate,Chemical structure:,"9H-purin-6-amine, 2-fluoro-9-(5-O-phosphono-.beta.-D-arabinofuranosyl)fludarabine-5'-monophosphate"
+2020-09-18T06:53:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/recombinant-cell-surface-anchored-sialidase-das181,Synonym:,273-666-neuraminidase [273-methionine] (actinomyces viscosus clone DAS181) fusion protein with 125-145-preproamphiregulin (human)
+2020-09-18T06:53:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/recombinant-cell-surface-anchored-sialidase-das181,US brand name:,Fludase
+2020-09-18T06:53:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/recombinant-cell-surface-anchored-sialidase-das181,Code name:,DAS181
+2020-09-18T06:53:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/recombinant-cell-surface-anchored-sialidase-das181,Code name:,DAS181-F02
+2020-09-18T06:53:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fludeoxyglucose-f-18,Synonym:,Fluorine-18 2-Fluoro-2-deoxy-D-Glucose
+2020-09-18T06:53:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fludeoxyglucose-f-18,Synonym:,fluorodeoxyglucose F 18
+2020-09-18T06:53:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fludeoxyglucose-f-18,Abbreviation:,18FDG
+2020-09-18T06:53:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fludeoxyglucose-f-18,Abbreviation:,FDG
+2020-09-18T06:53:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fludeoxyglucose-f-18,Chemical structure:,2-F18-fluoro-2-deoxy-D-glucose2-F18-fluoro-2-deoxyglucose
+2020-09-18T06:53:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fludrocortisone-acetate,Synonym:,Florinef acetate
+2020-09-18T06:53:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fludrocortisone-acetate,Synonym:,fludrocortisone
+2020-09-18T06:53:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fludrocortisone-acetate,US brand name:,Florinef
+2020-09-18T06:53:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flumatinib-mesylate,Code name:,HH-GV678
+2020-09-18T06:53:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flumatinib-mesylate,Code name:,HH-GV-678
+2020-09-18T06:53:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flumatinib-mesylate,Chemical structure:,4-(4-Methyl-piperazin-1-ylmethyl)-N-[6-methyl-5-(4-pyridin-3-yl-pyrimidin-2-ylamino)-pyridin-3-yl]-3-trifluoromethyl-benzamide Mesylate
+2020-09-18T06:53:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/trivalent-live-attenuated-influenza-vaccine,Synonym:,"trivalent intranasal influenza vaccine, live"
+2020-09-18T06:53:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/trivalent-live-attenuated-influenza-vaccine,US brand name:,FluMist
+2020-09-18T06:53:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/trivalent-live-attenuated-influenza-vaccine,Foreign brand name:,Fluenz
+2020-09-18T06:53:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluocinonide-cream,Synonym:,fluocinonide
+2020-09-18T06:53:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluocinonide-cream,US brand name:,Lidex
+2020-09-18T06:53:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluocinonide-cream,US brand name:,Vanos
+2020-09-18T06:53:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluocinonide-cream,Chemical structure:,"(6alpha,11beta,16alpha)-21-(acetyloxy)-6,9-difluoro-11-hydroxy-16,17-[(1-methylethylidene)bis(oxy)]pregna-1,4-diene-3,20-dione"
+2020-09-18T06:54:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorescein-sodium-injection,Synonym:,AK-FLUOR
+2020-09-18T06:54:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorescein-sodium-injection,US brand name:,Fluorescite
+2020-09-18T06:54:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorescein-sodium-injection,Chemical structure:,"spiro[isobenzofuran-1(3H),9'-[9H]xanthene]-3-one, 3'6'-dihydroxy,disodium salt"
+2020-09-18T06:54:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792555,Synonym:,fluorescein-labeled WFA
+2020-09-18T06:54:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792555,Synonym:,fluorescein-labeled WFL
+2020-09-18T06:54:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792555,Synonym:,fluorescein-labeled Wisteria floribunda lectin
+2020-09-18T06:54:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorescence-imaging-agent-emi-137,Code name:,EMI-137
+2020-09-18T06:54:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorescent-antibody-sgm-101,Synonym:,anti-CEA fluorescent antibody SGM-101
+2020-09-18T06:54:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorescent-antibody-sgm-101,Code name:,SGM-101
+2020-09-18T06:54:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorescent-crgdy-peg-cy55-c-dots,Synonym:,cRGDY-PEG-Cy5.5-C dots
+2020-09-18T06:54:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorescent-dye-ls301,Synonym:,NIR fluorescent probe LS301
+2020-09-18T06:54:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorescent-dye-ls301,Code name:,LS 301
+2020-09-18T06:54:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorescent-dye-ls301,Code name:,LS301
+2020-09-18T06:54:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorescent-dye-ls301,Code name:,LS-301
+2020-09-18T06:54:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorescent-dye-ls301,Chemical structure:,cypate-cyclo (D-Cys-Gly-Arg--Asp-Ser-Pro-Cys)-Lys-OH
+2020-09-18T06:54:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorescent-imaging-ligand-otl38,Code name:,OTL38
+2020-09-18T06:54:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorescent-protease-activated-peptide-avb-620,Code name:,AVB-620
+2020-09-18T06:54:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorescein-sodium-injection,Synonym:,AK-FLUOR
+2020-09-18T06:54:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorescein-sodium-injection,US brand name:,Fluorescite
+2020-09-18T06:54:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorescein-sodium-injection,Chemical structure:,"spiro[isobenzofuran-1(3H),9'-[9H]xanthene]-3-one, 3'6'-dihydroxy,disodium salt"
+2020-09-18T06:54:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-18-f-fludarabine,Synonym:,18F-fludarabine
+2020-09-18T06:54:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-18-f-fludarabine,Synonym:,2-[(18)F]fludarabine
+2020-09-18T06:54:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-18-f-fludarabine,Synonym:,fluorine 18 F fludarabine
+2020-09-18T06:54:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-alphavbeta6-binding-peptide,Synonym:,18F-alphaVbeta6-binding peptide
+2020-09-18T06:54:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-alphavbeta6-binding-peptide,Synonym:,18F-alphaVbeta6-binding-peptide
+2020-09-18T06:54:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-alphavbeta6-binding-peptide,Synonym:,fluorine F 18-alphaVbeta6-binding peptide
+2020-09-18T06:54:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-alphavbeta6-binding-peptide,Synonym:,fluorine F 18-alphaVbeta6-binding-peptide
+2020-09-18T06:54:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-alphavbeta6-binding-peptide,Abbreviation:,18F-aVb6-BP
+2020-09-18T06:55:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-choline,Synonym:,18F-fluorocholine
+2020-09-18T06:55:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-choline,Abbreviation:,[18F]-choline
+2020-09-18T06:55:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-choline,Abbreviation:,18F-choline
+2020-09-18T06:55:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-clofarabine,Synonym:,[18F]-clofarabine
+2020-09-18T06:55:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-clofarabine,Synonym:,18F-clofarabine
+2020-09-18T06:55:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-clofarabine,Synonym:,cl-18F-ara-A
+2020-09-18T06:55:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-clofarabine,Abbreviation:,18F-CA
+2020-09-18T06:55:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-clofarabine,Chemical structure:,2-chloro-9-(2'-deoxy-2'-18F-fluoro-beta-D-arabinofuranosyl)adenine
+2020-09-18T06:55:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-cp18-peptide,Synonym:,[F18]CP-18 peptide
+2020-09-18T06:55:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-cp18-peptide,Synonym:,18F-CP18 peptide
+2020-09-18T06:55:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799978,Synonym:,[18F]-C-SNAT4
+2020-09-18T06:55:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799978,Synonym:,18F C SNAT4
+2020-09-18T06:55:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799978,Synonym:,18F-C-SNAT4
+2020-09-18T06:55:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-dabrafenib,Synonym:,[F18]dabrafenib
+2020-09-18T06:55:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796994,Synonym:,18F-DASA-23
+2020-09-18T06:55:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796994,Synonym:,F18-labeled PKM2 inhibitor DASA-23
+2020-09-18T06:55:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796994,Synonym:,F18-labeled pyruvate kinase M2 inhibitor DASA-23
+2020-09-18T06:55:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796994,Chemical structure:,1-((2-fluoro-6-[18F]fluorophenyl)sulfonyl)-4-((4-methoxyphenyl)sulfonyl)piperazine
+2020-09-18T06:55:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-dcfbc,Abbreviation:,[18]F-DCFBC
+2020-09-18T06:55:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-dcfbc,Abbreviation:,18F-DCFBC
+2020-09-18T06:55:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-dcfbc,Chemical structure:,"N-[N-[(S)-1,3-dicarboxypropyl]carbamoyl]-4-[18F]fluorobenzyl-L-cysteine"
+2020-09-18T06:55:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-dcfpyl,Abbreviation:,18F-DCFPyL
+2020-09-18T06:55:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-dcfpyl,Chemical structure:,2-(3-{1-carboxy-5-[(6-[(18)F]fluoro-pyridine-3-carbonyl)-amino]-pentyl}-ureido)-pentanedioic acid
+2020-09-18T06:55:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-d-fmau,Chemical structure:,1-(2'-deoxy-2'-[18F]fluoro-beta-D-arabinofuranosyl)thymine18F-2'-fluoro-5-methyl-1-beta-D-arabinofuranosyluracil-clevudine2'-deoxy-2'-[18F]fluoro-5-methyl-1-beta-D-arabinofuranosyluracil
+2020-09-18T06:55:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-ef5,Abbreviation:,18F-EF5
+2020-09-18T06:55:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fdht,Synonym:,fluorine F 18 16-beta-fluoro-5-alpha-dihydrotestosterone
+2020-09-18T06:55:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fdht,Synonym:,fluorine F 18-FDHT
+2020-09-18T06:55:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fdht,Synonym:,fluorine F18-FDHT
+2020-09-18T06:55:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fdht,Abbreviation:,(18)F-FDHT
+2020-09-18T06:55:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fdht,Abbreviation:,18F-FDHT
+2020-09-18T06:55:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fdht,Abbreviation:,fluorine F 18 dihydrotestosterone
+2020-09-18T06:56:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-feqa,Abbreviation:,F-18 FEQA
+2020-09-18T06:56:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-feqa,Chemical structure:,N-{4-[(3'- [F-18] fluoroethylphenyl)amino]-6-quinazolinyl}-acrylamide
+2020-09-18T06:56:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fluoro-furanyl-norprogesterone,Abbreviation:,F18-FFNP
+2020-09-18T06:56:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fluorobenzyl-triphenyl-phosphonium,Synonym:,18F-fluorobenzyl triphenyl phosphonium
+2020-09-18T06:56:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fluorobenzyl-triphenyl-phosphonium,Abbreviation:,(18)F-FBnTP
+2020-09-18T06:56:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fluorodopa,Abbreviation:,(18)F-FDOPA
+2020-09-18T06:56:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fluorodopa,Abbreviation:,18F-6- L-fluorodopa
+2020-09-18T06:56:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fluorodopa,Abbreviation:,18F-DOPA
+2020-09-18T06:56:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fluorodopa,Abbreviation:,18F-FDOPA
+2020-09-18T06:59:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fluciclovine,Synonym:,fluciclovine (18F)
+2020-09-18T06:56:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fluorodopa,Chemical structure:,"3,4-dihydroxy-6-(18)F-fluoro-l-phenylalanineL-6-[ 18F]fluoro-3, 4-dihydroxyphenylalanine"
+2020-09-18T06:56:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fluoroethylcholine,Abbreviation:,18F-ethylcholine
+2020-09-18T06:56:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fluoromethylcholine,Synonym:,18F-fluoromethylcholine
+2020-09-18T06:56:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fluoropaclitaxel,Abbreviation:,18-F FPAC
+2020-09-18T06:56:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fluoro-peg6-ipqa,Abbreviation:,[(18)F]F-PEG6-IPQA
+2020-09-18T06:56:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fluoro-peg6-ipqa,Abbreviation:,18F-fluoro-PEG6-IPQA
+2020-09-18T06:56:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fluoro-peg6-ipqa,Chemical structure:,4-[(3-iodophenyl)amino]-7-{2-[2-{2-(2-[2-{2-([(18)F]fluoroethoxy)-ethoxy}-ethoxy]-ethoxy)-ethoxy}-ethoxy]-quinazoline-6-yl-acrylamide
+2020-09-18T06:56:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fluorthanatrace,Synonym:,[18F]FluorThanatrace
+2020-09-18T06:56:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fluorthanatrace,Abbreviation:,[18F]FTT
+2020-09-18T06:56:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fmdht,Synonym:,18F FMDHT
+2020-09-18T06:56:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fmdht,Chemical structure:,[7alpha-18F]fluoro-17alpha-methyl-5alpha-dihydrotestosterone
+2020-09-18T06:56:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fp-r01-mg-f2,Synonym:,[18F] FP-R01-MG-F2
+2020-09-18T06:57:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-galacto-rgd-peptide,Synonym:,[18F]Galacto-RGD
+2020-09-18T06:57:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-galacto-rgd-peptide,Synonym:,18F-Galacto-RGD
+2020-09-18T06:57:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-galacto-rgd-peptide,Synonym:,fluorine F 18 glycosylated RGD peptide
+2020-09-18T06:57:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792848,Synonym:,18F-alphavbeta6-binding peptide
+2020-09-18T06:57:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792848,Synonym:,18F-aVb6-binding-peptide
+2020-09-18T06:57:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792848,Abbreviation:,18F-αvβ6-BP
+2020-09-18T06:57:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-iso-1,Abbreviation:,[18F]ISO-1
+2020-09-18T06:57:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-l-glutamate-derivative-bay94-9392,Synonym:,(4S)-(3-[F-18]fluoropropyl)-L-glutamic acid
+2020-09-18T06:57:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-l-glutamate-derivative-bay94-9392,Synonym:,18F-FSPG
+2020-09-18T06:57:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-l-glutamate-derivative-bay94-9392,Code name:,BAY94-9392
+2020-09-18T06:57:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-l-glutamate-derivative-bay94-9392,Code name:,FSPG
+2020-09-18T06:57:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-l-glutamate-derivative-bay94-9392,Chemical structure:,(4S)-4-(3-18F-fluoropropyl)-L-glutamate(S)-4-(3-18F-fluoropropyl)-L-glutamic acid
+2020-09-18T06:57:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800445,Synonym:,(18)F-NOS
+2020-09-18T06:57:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800445,Synonym:,[18F]NOS
+2020-09-18T06:57:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800445,Synonym:,18F NOS
+2020-09-18T06:57:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800445,Synonym:,18F-NOS
+2020-09-18T06:57:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800445,Synonym:,FNOS
+2020-09-18T06:57:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-ods2004436,Synonym:,[18F]-ODS2004436
+2020-09-18T06:57:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-ods2004436,Synonym:,18F-ODS2004436
+2020-09-18T06:57:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794783,Synonym:,[18F]PARP1-targeted probe
+2020-09-18T06:57:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794783,Synonym:,[18F]PARPi
+2020-09-18T06:57:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794783,Synonym:,[18F]PARPi imaging agent
+2020-09-18T06:57:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794783,Synonym:,18F fluorinated PARP1-targeted probe
+2020-09-18T06:57:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794783,Synonym:,18F-1(2H)phthalazinone-based PARPi imaging agent
+2020-09-18T06:57:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794783,Synonym:,18F-radiolabeled 1(2H)phthalazinone PARPi
+2020-09-18T06:57:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794783,Synonym:,fluorine F 18 PARPi
+2020-09-18T06:57:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794783,Synonym:,fluorine F 18 poly(ADP-ribose) polymerase inhibitor
+2020-09-18T06:57:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-rgd-based-integrin-peptide-polymer-ah111585,Abbreviation:,18F-AH111585
+2020-09-18T06:57:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-rgd-k5,Abbreviation:,F18 RGD-K5
+2020-09-18T06:57:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-ski-249380,Synonym:,[18F] SKI-249380
+2020-09-18T06:57:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-ski-249380,Synonym:,F-SKI249380
+2020-09-18T06:57:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-ski-249380,Chemical structure:,[18F]-N-(2-chloro-6-methylphenyl)-2-(6-(4-(2-fluoroethyl)piperazin-1-yl)-2-methylpyrimidin-4-ylamino)thiazole-5-carboxamide
+2020-09-18T06:57:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-sodium-fluoride,Abbreviation:,18 F-NaF
+2020-09-18T06:57:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-sodium-fluoride,Abbreviation:,F-18 NaF
+2020-09-18T06:58:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792157,Synonym:,18F-tetrafluoroborate
+2020-09-18T06:58:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792157,Abbreviation:,18F-TFB
+2020-09-18T06:58:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-4-l-fluoroglutamine-2s4r,Synonym:,"(2S,4R)4-FGln"
+2020-09-18T06:58:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-4-l-fluoroglutamine-2s4r,Synonym:,"[18F] 4-L-fluoroglutamine (2S,4R)"
+2020-09-18T06:58:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-4-l-fluoroglutamine-2s4r,Synonym:,F-glutamine
+2020-09-18T06:58:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-4-l-fluoroglutamine-2s4r,Synonym:,"fluorine F 18 4-L-fluoroglutamine (2S,4R)"
+2020-09-18T06:58:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-4-l-fluoroglutamine-2s4r,Abbreviation:,18F fluoroglutamine
+2020-09-18T06:58:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-5-fluoro-2-deoxycytidine,Synonym:,[F-18]-5-fluoro-2'-deoxycytidine
+2020-09-18T06:58:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-5-fluoro-2-deoxycytidine,Synonym:,fluorine F 18 5-fluoro-2-deoxycytidine
+2020-09-18T06:58:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-5-fluoro-2-deoxycytidine,Abbreviation:,[F-18]FdCyd
+2020-09-18T06:58:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-6-fluorodopamine,Synonym:,18F]-6F-dopamine
+2020-09-18T06:58:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-6-fluorodopamine,Synonym:,18F-fluorodopamine
+2020-09-18T06:58:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-6-fluorodopamine,Synonym:,"3,4-dihydroxy-6-fluorophenethylamine F-18"
+2020-09-18T06:58:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-6-fluorodopamine,Synonym:,6-fluorodopamine F-18
+2020-09-18T06:58:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-6-fluorodopamine,Synonym:,fluorine F 18 6-fluorodopamine
+2020-09-18T06:58:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-6-fluorodopamine,Abbreviation:,[18F]-6F-DA
+2020-09-18T06:58:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-6-fluorodopamine,Abbreviation:,18F-DA
+2020-09-18T06:58:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-6-fluorodopamine,Abbreviation:,6-[18F]FDA
+2020-09-18T06:58:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-6-fluorodopamine,Chemical structure:,"1,2-benzenediol, 4-(2-aminoethyl)-5-(fluoro-18F)-"
+2020-09-18T06:58:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796741,Abbreviation:,18F-ASIS
+2020-09-18T06:58:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795028,Synonym:,[18F]AlF-NOTA-neurotensin
+2020-09-18T06:58:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795028,Synonym:,"[18F]aluminum fluoride-1,4,7-triazacyclononane-1,4,7-triacetic acid-neurotensin"
+2020-09-18T06:58:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795028,Synonym:,18F-AlF-NOTA-neurotensin
+2020-09-18T06:58:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795028,Synonym:,18F-AlF-NOTA-NT
+2020-09-18T06:58:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795028,Synonym:,"18F-aluminum fluoride-1,4,7-triazacyclononane-1,4,7-triacetic acid-neurotensin"
+2020-09-18T06:58:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795028,Synonym:,fluorine F 18-Al-NOTA-neurotensin
+2020-09-18T06:58:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-alfatide-ii,Synonym:,(18)F-AlF-NOTA-E[PEG4-c(RGDfk)]2
+2020-09-18T06:58:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-alfatide-ii,Synonym:,18F-Alfatide II
+2020-09-18T06:58:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-alfatide-ii,Synonym:,18F-AlF-NOTA-PRGD2
+2020-09-18T06:58:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-alfatide-ii,Synonym:,18F-Al-NOTA-PRGD2
+2020-09-18T06:58:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-alfatide-ii,Synonym:,fluorine F 18 alfatide II
+2020-09-18T06:58:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799307,Synonym:,[18F]AlF-cysVar3 pHLIP
+2020-09-18T06:58:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799307,Synonym:,18F-AlF-Var3 pHLIP
+2020-09-18T06:58:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799307,Synonym:,fluorine F 18-cys-Var3 pHLIP
+2020-09-18T06:58:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792640,Synonym:,18F-Al-NOTA-MATBBN
+2020-09-18T06:58:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801491,Synonym:,18F-AlF-NOTA-octreotide
+2020-09-18T06:58:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801491,Synonym:,18F-IMP-466
+2020-09-18T06:58:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801491,Synonym:,Al18F-OC
+2020-09-18T06:58:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801491,Synonym:,fluorine F 18-IMP-466
+2020-09-18T06:58:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801491,Synonym:,fluorine F 18-NOTA octreotide
+2020-09-18T06:58:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801491,Chemical structure:,"Al18F-1,4,7-triazacyclononane-1,4,7-triacetate-octreotide"
+2020-09-18T06:58:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-ara-g,Synonym:,[18F]F-ara-G
+2020-09-18T06:58:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-ara-g,Synonym:,18F-F-ara-G
+2020-09-18T06:58:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-ara-g,Synonym:,fluorine F 18 ara-G
+2020-09-18T06:58:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-ara-g,Chemical structure:,2'-deoxy-2'-[18F]fluoro-9-beta-D-arabinofuranosylguanine
+2020-09-18T06:59:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-av-133,Synonym:,18F-AV-133
+2020-09-18T06:59:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-av-133,Synonym:,18F-FP-(+)-DTBZ
+2020-09-18T06:59:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794120,Synonym:,[18F]-azafol
+2020-09-18T06:59:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794120,Synonym:,3'-Aza-2'-[(18)F]fluorofolic acid
+2020-09-18T06:59:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794120,Synonym:,fluorine F 18 azafol
+2020-09-18T06:59:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800220,Synonym:,18F-BMS-986229
+2020-09-18T06:59:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800220,Synonym:,fluorine F 18-labeled BMS-986229
+2020-09-18T06:59:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fluciclovine,Synonym:,anti-1-amino-3-[18F ]fluorocyclobutane-1-carboxylic acid
+2020-09-18T06:59:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fluciclovine,US brand name:,Axumin
+2020-09-18T06:59:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fluciclovine,Abbreviation:,[18F]FACBC
+2020-09-18T06:59:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/18f-fluoroazomycin-arabinoside,Synonym:,18F-fluoroazomycin arabinoside
+2020-09-18T06:59:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/18f-fluoroazomycin-arabinoside,Abbreviation:,18F-FAZA
+2020-09-18T06:59:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fluorothymidine,Synonym:,18F-FLT
+2020-09-18T06:59:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fluorothymidine,Synonym:,3'-deoxy-3'-(18F) fluorothymidine
+2020-09-18T06:59:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fluorothymidine,Synonym:,3'-deoxy-3'-[18F]fluorothymidine
+2020-09-18T06:59:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fluorothymidine,Synonym:,fluorothymidine F 18
+2020-09-18T06:59:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fluorothymidine,Synonym:,fluorothymidine F-18
+2020-09-18T06:59:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-fluorothymidine,Synonym:,"Thymidine, 3'-deoxy-3'-(18F)fluoro-"
+2020-09-18T06:59:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-labeled-s-3-fluoropropylhomocysteine-hydrochloride,Synonym:,S-(3-[18F]fluoropropyl) homocysteine hydrochloride
+2020-09-18T06:59:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-labeled-s-3-fluoropropylhomocysteine-hydrochloride,Abbreviation:,[(18)F]FPHCys
+2020-09-18T06:59:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-labeled-s-3-fluoropropylhomocysteine-hydrochloride,Abbreviation:,18F-FPM
+2020-09-18T06:59:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800312,Synonym:,[18F]-PSMA-1007
+2020-09-18T06:59:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800312,Synonym:,18FPSMA-1007
+2020-09-18T06:59:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800312,Synonym:,fluorine-18 PSMA-1007
+2020-09-18T06:59:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800312,Abbreviation:,18F-PSMA-1007
+2020-09-18T06:59:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800312,Abbreviation:,F-18-PSMA-1007
+2020-09-18T06:59:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,US brand name:,Florafur
+2020-09-18T06:59:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,US brand name:,Fluorofur
+2020-09-18T06:59:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Citofur
+2020-09-18T06:59:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Coparogin
+2020-09-18T06:59:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Exonal
+2020-09-18T06:59:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Fental
+2020-09-18T06:59:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,ftorafur
+2020-09-18T06:59:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Ftoral
+2020-09-18T06:59:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Ftoralon
+2020-09-18T06:59:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Fulaid
+2020-09-18T06:59:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Fulfeel
+2020-09-18T06:59:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Furafluor
+2020-09-18T06:59:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Furofutran
+2020-09-18T06:59:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Futraful
+2020-09-18T06:59:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Lamar
+2020-09-18T06:59:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Lifril
+2020-09-18T06:59:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Neberk
+2020-09-18T06:59:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Nitobanil
+2020-09-18T06:59:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Riol
+2020-09-18T06:59:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Sinoflurol
+2020-09-18T06:59:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Sunfural
+2020-09-18T06:59:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Tefsiel
+2020-09-18T06:59:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Foreign brand name:,Utefos
+2020-09-18T06:59:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Abbreviation:,FT
+2020-09-18T06:59:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Code name:,FT-207
+2020-09-18T06:59:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Code name:,MJF-12264
+2020-09-18T06:59:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Code name:,WR-220066
+2020-09-18T06:59:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tegafur,Chemical structure:,"5-fluoro-1-(tetrahydro-2-furanyl)-2,4(1H,3H)-pyrimidinedione5-fluoro-1-(tetrahydro-2-furyl)-uracilN1-(2'-furanidyl)-5-fluorouracil"
+2020-09-18T06:59:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/topical-fluorouracil,Synonym:,Timazin
+2020-09-18T06:59:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/topical-fluorouracil,Synonym:,topical 5-fluorouracil
+2020-09-18T06:59:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/topical-fluorouracil,US brand name:,Carac
+2020-09-18T06:59:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/topical-fluorouracil,US brand name:,Efudex
+2020-09-18T06:59:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/topical-fluorouracil,US brand name:,Fluoroplex
+2020-09-18T06:59:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/topical-fluorouracil,US brand name:,Tolak
+2020-09-18T06:59:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/topical-fluorouracil,Foreign brand name:,Actino-Hermal
+2020-09-18T06:59:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/topical-fluorouracil,Foreign brand name:,Arumel
+2020-09-18T06:59:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/topical-fluorouracil,Foreign brand name:,Cytosafe
+2020-09-18T06:59:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/topical-fluorouracil,Foreign brand name:,Efurix
+2020-09-18T06:59:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/topical-fluorouracil,Foreign brand name:,Fiverocil
+2020-09-18T06:59:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/topical-fluorouracil,Foreign brand name:,Flurox
+2020-09-18T06:59:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/topical-fluorouracil,Abbreviation:,5-FU topical
+2020-09-18T06:59:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801791,Synonym:,5-fluoropyrimidine
+2020-09-18T07:00:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorouracil-implant,Foreign brand name:,Sinofuan
+2020-09-18T07:00:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorouracil-injection,Synonym:,5-fluorouracil injection
+2020-09-18T07:00:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorouracil-injection,Synonym:,5-Fluracil
+2020-09-18T07:00:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorouracil-injection,Synonym:,fluouracil
+2020-09-18T07:00:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorouracil-injection,Synonym:,Fluracil
+2020-09-18T07:00:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorouracil-injection,US brand name:,Efudex
+2020-09-18T07:00:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorouracil-injection,Foreign brand name:,AccuSite
+2020-09-18T07:00:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorouracil-injection,Foreign brand name:,Flurablastin
+2020-09-18T07:00:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorouracil-injection,Foreign brand name:,Fluracedyl
+2020-09-18T07:00:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorouracil-injection,Foreign brand name:,Fluril
+2020-09-18T07:00:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorouracil-injection,Foreign brand name:,Fluroblastin
+2020-09-18T07:00:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorouracil-injection,Foreign brand name:,Ribofluor
+2020-09-18T07:00:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorouracil-injection,Abbreviation:,5-FU injection
+2020-09-18T07:00:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorouracil-injection,Abbreviation:,FU
+2020-09-18T07:00:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorouracil-injection,Code name:,Ro-2-9757
+2020-09-18T07:00:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorouracil-injection,Chemical structure:,"2,4-dioxo-5-fluoropyrimidine5-fluoro-2,4(1H,3H)-pyrimidinedione"
+2020-09-18T07:00:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorouracil-e-therapeutic-implant,Synonym:,5-fluorouracil/epi
+2020-09-18T07:00:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorouracil-e-therapeutic-implant,Synonym:,5-FU/epi gel
+2020-09-18T07:00:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorouracil-e-therapeutic-implant,Synonym:,fluorouracil/epi
+2020-09-18T07:00:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorouracil-e-therapeutic-implant,Synonym:,fluorouracil-epinephrine therapeutic implant
+2020-09-18T07:00:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorouracil-e-therapeutic-implant,Abbreviation:,5-FU-e TI
+2020-09-18T07:00:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluphenazine-hydrochloride,US brand name:,Permitil
+2020-09-18T07:00:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluphenazine-hydrochloride,US brand name:,Prolixin
+2020-09-18T07:00:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tarenflurbil,Synonym:,R-flurbiprofen
+2020-09-18T07:00:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tarenflurbil,US brand name:,Flurizan
+2020-09-18T07:00:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tarenflurbil,Code name:,E-7869
+2020-09-18T07:00:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tarenflurbil,Code name:,MPC-7869
+2020-09-18T07:00:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tarenflurbil,Chemical structure:,"(R)-2-Fluoro-alpha-methyl[1,1'-biphenyl]-4-acetic Acid"
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Synonym:,Flucinom
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Synonym:,Flugerel
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Synonym:,Niftolide
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Apimid
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Cebatrol
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Chimax
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Cytomid
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Drogenil
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Euflex
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Eulexine
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Flucinome
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Fluken
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Flulem
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Flutabene
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Flutacan
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Fluta-Gry
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Flutamex
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Flutamin
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Flutan
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Flutaplex
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Fugerel
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Grisetin
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Oncosal
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Profamid
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Prostacur
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Prostadirex
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Prostica
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Prostogenat
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Tafenil
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Tecnoflut
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Testotard
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Abbreviation:,FLUT
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Code name:,Sch 13521
+2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Chemical structure:,"2-methyl-N-[4-nitro-3-(trifluoromethyl)phenyl]propanamide4'-nitro-3'-trifluoromethylisobutyranilidealpha,alpha,alpha-trifluoro-2-methy-4'-nitro-m-propionotoluidide"
+2020-09-18T07:00:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutemetamol-f-18,Synonym:,[18F]flutemetamol
+2020-09-18T07:00:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutemetamol-f-18,Synonym:,[18F]FPIB
+2020-09-18T07:00:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutemetamol-f-18,Synonym:,[18F]GE-067
+2020-09-18T07:00:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutemetamol-f-18,Synonym:,fluorine F 18 flutemetamol
+2020-09-18T07:00:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutemetamol-f-18,US brand name:,Vizamyl
+2020-09-18T07:00:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutemetamol-f-18,Chemical structure:,"2-[3-(18F)fluoro-4-(methylamino)phenyl]-1,3-benzothiazol-6-ol"
+2020-09-18T07:00:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluticasone-propionate,US brand name:,Flonase
+2020-09-18T07:00:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluticasone-propionate,US brand name:,Flovent
+2020-09-18T07:00:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluticasone-propionate,Chemical structure:,"(6alpha,11beta,16alpha,17alpha)-6,9-Difluoro-11-hydroxy-16-methyl-3-oxo-17-(1-oxopropoxy)androsta-1,4-diene-17-carbothioic Acid, S-(Fluoromethyl) Ester"
+2020-09-18T07:00:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluvastatin-sodium,US brand name:,Lescol
+2020-09-18T07:00:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluvastatin-sodium,Chemical structure:,"(3R,5S,6E)-(+/-)-7-(3-(4-Fluorophenyl)-1-(1-methylethyl)-1H-indol-2-yl)-3,5-dihydroxy-6-heptenoic Acid"
+2020-09-18T07:00:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluvoxamine-maleate,Synonym:,fluoxamine
+2020-09-18T07:00:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluvoxamine-maleate,US brand name:,Luvox
+2020-09-18T07:00:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluzoparib,Code name:,SHR-3162
+2020-09-18T07:01:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fms-inhibitor-jnj-40346527,Code name:,JNJ-40346527
+2020-09-18T07:01:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fms-trk-tyrosine-kinase-inhibitor-plx7486,Code name:,PLX7486
+2020-09-18T07:01:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folate-binding-protein-e39-peptide-vaccine,Synonym:,E39 peptide vaccine
+2020-09-18T07:01:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folate-binding-protein-e39-peptide-vaccine,Synonym:,FBP E39 peptide vaccine
+2020-09-18T07:01:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folate-binding-protein-j65-peptide-vaccine,Synonym:,FBP J65 peptide vaccine
+2020-09-18T07:01:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folate-binding-protein-j65-peptide-vaccine,Synonym:,J65 peptide vaccine
+2020-09-18T07:01:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folate-receptor-alpha-loaded-dendritic-cell-vaccine,Abbreviation:,FRalphaDC vaccine
+2020-09-18T07:01:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folate-receptor-alpha-loaded-dendritic-cell-vaccine,Abbreviation:,FRαDC vaccine
+2020-09-18T07:01:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folate-receptor-targeted-epothilone-bms753493,Code name:,BMS753493
+2020-09-18T07:01:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folate-receptor-targeted-technetium-tc-99m-ec20,Synonym:,technetium Tc 99m EC20
+2020-09-18T07:01:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folate-receptor-targeted-technetium-tc-99m-ec20,Abbreviation:,99mTc-EC20
+2020-09-18T07:01:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folate-receptor-targeted-tubulysin-conjugate-ec1456,Synonym:,folate receptor-targeting folate-tubulysin conjugate EC1456
+2020-09-18T07:01:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folate-receptor-targeted-tubulysin-conjugate-ec1456,Code name:,EC1456
+2020-09-18T07:01:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folate-receptor-targeted-vinca-alkaloid-ec0489,NA,NA
+2020-09-18T07:01:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folate-receptor-targeted-vinca-alkaloid-mitomycin-c-ec0225,Code name:,EC0225
+2020-09-18T07:01:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folate-fitc,Synonym:,folate fluorescein isothiocyanate conjugate
+2020-09-18T07:01:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folate-fitc,Code name:,EC17
+2020-09-18T07:02:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folfiri-regimen,Synonym:,FOLinic acid-Fluorouracil-IRInotecan regimen
+2020-09-18T07:02:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folfiri-regimen,Abbreviation:,FOLFIRI
+2020-09-18T07:02:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folfiri-bevacizumab-regimen,Synonym:,FOLFIRI-Avastin regimen
+2020-09-18T07:02:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folfiri-bevacizumab-regimen,Synonym:,folinic acid-fluorouracil-irinotecan-bevacizumab regimen
+2020-09-18T07:02:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folfiri-cetuximab-regimen,Synonym:,FOLFIRI-Erbitux regimen
+2020-09-18T07:02:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folfiri-cetuximab-regimen,Synonym:,leucovorin-fluorouracil-irinotecan-cetuximab regimen
+2020-09-18T07:02:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folfirinox-regimen,Synonym:,"fluorouracil with irinotecan hydrochloride, leucovorin calcium and oxaliplatin"
+2020-09-18T07:02:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folfirinox-regimen,Synonym:,fluorouracil-leucovorin-irinotecan-oxaliplatin regimen
+2020-09-18T07:02:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folfirinox-regimen,Synonym:,FOLFIRINOX protocol
+2020-09-18T07:02:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folfox-regimen,Synonym:,fluorouracil/leucovorin calcium/oxaliplatin
+2020-09-18T07:02:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folfox-regimen,Synonym:,FOLinic acid-Fluororuracil-OXaliplatin regimen
+2020-09-18T07:02:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folfox-regimen,Abbreviation:,CF/5-FU/L-OHP
+2020-09-18T07:02:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folic-acid,Synonym:,folicin
+2020-09-18T07:02:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folic-acid,Synonym:,pteroylmonoglutamic acid
+2020-09-18T07:02:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folic-acid,Acronym:,FA
+2020-09-18T07:02:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folic-acid,Chemical structure:,"2-[4-[(2-amino-4-oxo-1H-pteridin-6-yl)methylamino]benzoyl]aminopentanedioic acidN-[4-[[(2-Amino-1,4-dihydro-4-oxo-6-pteridinyl)methyl]amino]benzoyl]-L-glutamic Acid"
+2020-09-18T07:02:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folitixorin,Synonym:,"5,10 methylenetetrahydrofolate"
+2020-09-18T07:02:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folitixorin,Synonym:,"5,10-methylenetetrahydrofolate"
+2020-09-18T07:02:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folitixorin,US brand name:,CoFactor
+2020-09-18T07:02:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folitixorin,Abbreviation:,"5,10-MTHF"
+2020-09-18T07:02:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folitixorin,Abbreviation:,MTHF
+2020-09-18T07:02:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/folitixorin,Code name:,ANX-510
+2020-09-18T07:02:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/recombinant-human-chorionic-gonadotropin,Synonym:,human chorionic gonadotropin
+2020-09-18T07:02:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/recombinant-human-chorionic-gonadotropin,US brand name:,Follutein
+2020-09-18T07:02:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/recombinant-human-chorionic-gonadotropin,US brand name:,Novarel
+2020-09-18T07:02:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/recombinant-human-chorionic-gonadotropin,US brand name:,Pregnyl
+2020-09-18T07:02:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/recombinant-human-chorionic-gonadotropin,US brand name:,Profasi
+2020-09-18T07:02:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/recombinant-human-chorionic-gonadotropin,Abbreviation:,rhCG
+2020-09-18T07:02:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/recombinant-human-chorionic-gonadotropin,Code name:,LDI-200
+2020-09-18T07:02:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pralatrexate,US brand name:,Folotyn
+2020-09-18T07:02:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pralatrexate,Code name:,PDX
+2020-09-18T07:02:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pralatrexate,Chemical structure:,"(2S)-2-[[4-[(1RS)-1-[(2, 4-diaminopteridin-6-yl)methyl]but-3-ynyl]benzoyl]amino]pentanedioic acid10-propargyl-10-deazaaminopterin"
+2020-09-18T07:02:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fondaparinux-sodium,US brand name:,Arixtra
+2020-09-18T07:02:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/foretinib,Code name:,GSK1363089G
+2020-09-18T07:02:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/foretinib,Code name:,XL880
+2020-09-18T07:03:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/formestane,Synonym:,4-hydroxyandrostenedione
+2020-09-18T07:03:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/formestane,Foreign brand name:,Lentaron
+2020-09-18T07:03:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/formestane,Abbreviation:,4-OHA
+2020-09-18T07:03:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/formestane,Abbreviation:,4-OHAD
+2020-09-18T07:03:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/formestane,Code name:,CGP-32349
+2020-09-18T07:03:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/formestane,Chemical structure:,"4-Hydroxyandrost-4-ene-3,17-dione"
+2020-09-18T07:03:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/formoterol-fumarate-oral,Code name:,APD209
+2020-09-18T07:03:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/formoterol-fumarate-roxithromycin,US brand name:,BetaMarc
+2020-09-18T07:03:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/forodesine-hydrochloride,Synonym:,immucillin-H
+2020-09-18T07:03:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/forodesine-hydrochloride,Code name:,BCX-1777
+2020-09-18T07:03:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/metformin-hydrochloride,Synonym:,Metformin HCl
+2020-09-18T07:03:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/metformin-hydrochloride,US brand name:,Fortamet
+2020-09-18T07:03:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/metformin-hydrochloride,US brand name:,Glucophage
+2020-09-18T07:03:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/metformin-hydrochloride,US brand name:,Glucophage XR
+2020-09-18T07:03:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/metformin-hydrochloride,US brand name:,Glumetza
+2020-09-18T07:03:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/metformin-hydrochloride,US brand name:,Riomet
+2020-09-18T07:03:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/metformin-hydrochloride,Foreign brand name:,Cidophage
+2020-09-18T07:03:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/metformin-hydrochloride,Foreign brand name:,Dimefor
+2020-09-18T07:03:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/metformin-hydrochloride,Foreign brand name:,Glifage
+2020-09-18T07:03:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/metformin-hydrochloride,Foreign brand name:,Glucoformin
+2020-09-18T07:03:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/metformin-hydrochloride,Foreign brand name:,Siofor
+2020-09-18T07:03:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/metformin-hydrochloride,Chemical structure:,"1,1-dimethylbiguanide hydrochlorideN,N-dimethylimidodicarbonimidic diamide monohydrochloride"
+2020-09-18T07:03:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ceftazidime-sodium,US brand name:,Fortaz
+2020-09-18T07:03:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ceftazidime-sodium,US brand name:,Tazicef
+2020-09-18T07:03:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fosbretabulin-disodium,Synonym:,Combretastatin
+2020-09-18T07:03:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fosbretabulin-disodium,Synonym:,Combretastatin A4 Disodium Phosphate
+2020-09-18T07:03:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fosbretabulin-disodium,Synonym:,Combretastatin A4 Prodrug
+2020-09-18T07:03:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fosbretabulin-disodium,US brand name:,ZYBRESTAT
+2020-09-18T07:03:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fosbretabulin-disodium,Abbreviation:,CA4PD
+2020-09-18T07:03:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fosbretabulin-disodium,Chemical structure:,"2-methoxy-5-[(1Z)-2-(3,4,5-trimethoxyphenyl)ethenyl]phenyl disodium phosphate"
+2020-09-18T07:03:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fosbretabulin-tromethamine,Synonym:,combretastatin A4 phosphate
+2020-09-18T07:03:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fosbretabulin-tromethamine,US brand name:,Zybrestat
+2020-09-18T07:03:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fosbretabulin-tromethamine,Abbreviation:,CA4P
+2020-09-18T07:03:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fosfomycin-tromethamine,Synonym:,fosfomycin compound with trometamol
+2020-09-18T07:03:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fosfomycin-tromethamine,Synonym:,fosfomycin trometamol salt
+2020-09-18T07:03:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fosfomycin-tromethamine,US brand name:,Monurol
+2020-09-18T07:03:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fosfomycin-tromethamine,Chemical structure:,"(1R,2S)-(1,2-epoxypropyl)phosphonic acid, compound with 2-amino-2-(hydroxymethyl)-1,3-propanediol(1:1)"
+2020-09-18T07:03:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antineoplastic-agent-trx-818,Code name:,CVM 1118
+2020-09-18T07:03:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antineoplastic-agent-trx-818,Code name:,CVM1118
+2020-09-18T07:03:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antineoplastic-agent-trx-818,Code name:,CVM-1118
+2020-09-18T07:03:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antineoplastic-agent-trx-818,Code name:,TRX 818
+2020-09-18T07:03:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antineoplastic-agent-trx-818,Code name:,TRX818
+2020-09-18T07:03:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antineoplastic-agent-trx-818,Code name:,TRX-818
+2020-09-18T07:03:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antineoplastic-agent-trx-818,Chemical structure:,"4(1H)-quinolinone, 2-(3-fluorophenyl)-6-methoxy-5-(phosphonooxy)-"
+2020-09-18T07:03:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792159,Synonym:,fosnetupitant/palonosetron HCl combination
+2020-09-18T07:03:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792159,Synonym:,fosnetupitant-palonosetron HCl
+2020-09-18T07:03:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792159,Synonym:,pronetupitant/palonosetron HCl
+2020-09-18T07:03:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792159,Synonym:,pro-netupitant/palonosetron HCl
+2020-09-18T07:03:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792159,Abbreviation:,IV NEPA FDC
+2020-09-18T07:04:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797055,US brand name:,Cerebyx
+2020-09-18T07:04:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797055,Code name:,NPC-06
+2020-09-18T07:04:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797055,Chemical structure:,"2,4-Imidazolidinedione, 5,5-diphenyl-3-((phosphonooxy)methyl)-, disodium salt"
+2020-09-18T07:04:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fosquidone,Code name:,GR63178A
+2020-09-18T07:04:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fostamatinib-disodium,Synonym:,fostamatinib disodium hexahydrate
+2020-09-18T07:04:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fostamatinib-disodium,Synonym:,Syk kinase inhibitor R935788
+2020-09-18T07:04:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fostamatinib-disodium,US brand name:,Tavalisse
+2020-09-18T07:04:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fostamatinib-disodium,Code name:,R788 sodium
+2020-09-18T07:04:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fostamatinib-disodium,Code name:,R935788 sodium
+2020-09-18T07:04:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fostriecin,Synonym:,phosphotrienin
+2020-09-18T07:04:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fostriecin,Abbreviation:,FST
+2020-09-18T07:04:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fostriecin,Chemical structure:,"2H-pyran-2-one,5,6-dihydro-6-(3,6,13-trihydroxy-3-methyl-4-(phosphonooxy)-1,7,9,11,-tridecatetraenyl)-,trans"
+2020-09-18T07:04:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fotemustine,Foreign brand name:,Muphoran
+2020-09-18T07:04:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fotemustine,Code name:,S 10036
+2020-09-18T07:04:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fotemustine,Chemical structure:,[1-[[[(2-chloroethyl)nitrosamino]-carbonyl]amino]ethyl]phosphonic acid diethyl ester1-[N-(2-chloroethyl)-N-nitrosoureido]ethylphosphonic acid diethyl esterdiethyl[1-[3-(2-chloroethyl)-3-nitrosoureido]ethyl]phosphonate
+2020-09-18T07:04:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fowlpox-virus-vaccine-vector,Abbreviation:,FOWLVAC
+2020-09-18T07:04:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fowlpox-ny-eso-1-vaccine,Abbreviation:,rF-NY-ESO-1
+2020-09-18T07:04:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dalteparin-sodium,US brand name:,Depo-Heparin
+2020-09-18T07:04:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dalteparin-sodium,US brand name:,Fragmin
+2020-09-18T07:04:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dalteparin-sodium,US brand name:,Fragmin V
+2020-09-18T07:04:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dalteparin-sodium,Code name:,ALFA 87-120
+2020-09-18T07:04:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dalteparin-sodium,US brand name:,Depo-Heparin
+2020-09-18T07:04:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dalteparin-sodium,US brand name:,Fragmin
+2020-09-18T07:04:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dalteparin-sodium,US brand name:,Fragmin V
+2020-09-18T07:04:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dalteparin-sodium,Code name:,ALFA 87-120
+2020-09-18T07:04:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/freeze-dried-black-raspberry-bioadhesive-gel,Abbreviation:,FBR gel
+2020-09-18T07:04:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/french-maritime-pine-bark-extract,US brand name:,Pycnogenol
+2020-09-18T07:04:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/french-maritime-pine-bark-extract,Abbreviation:,PYC
+2020-09-18T07:04:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fresolimumab,Synonym:,anti-TGF-beta monoclonal antibody GC1008
+2020-09-18T07:04:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fresolimumab,Synonym:,human anti-TGF-beta monoclonal antibody GC1008
+2020-09-18T07:04:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fresolimumab,Code name:,GC1008
+2020-09-18T07:05:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fructooligosaccharide-supplement,Synonym:,FOS supplement
+2020-09-18T07:05:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fructooligosaccharide-supplement,Synonym:,fructo-oligosaccharide supplement
+2020-09-18T07:05:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fructooligosaccharide-supplement,Synonym:,fructo-oligosaccharides supplement
+2020-09-18T07:05:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fructooligosaccharide-supplement,Synonym:,oligofructan supplement
+2020-09-18T07:05:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fructooligosaccharide-supplement,Synonym:,oligofructose supplement
+2020-09-18T07:05:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/778524,Synonym:,fructooligosaccharide/L. paracasei/L. rhamnosus/L. acidophilus/B. lactis probiotic supplement
+2020-09-18T07:05:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/778524,Foreign brand name:,LactoFos
+2020-09-18T07:05:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fruit-and-vegetable-extracts,US brand name:,Juice Plus
+2020-09-18T07:05:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fruquintinib,Synonym:,VEGFR-1/2/3 inhibitor HMPL-013
+2020-09-18T07:05:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fruquintinib,US brand name:,Elunate
+2020-09-18T07:05:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fruquintinib,Code name:,HMPL-013
+2020-09-18T07:05:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/floxuridine,Synonym:,FdUrD
+2020-09-18T07:05:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/floxuridine,Synonym:,floxuridin
+2020-09-18T07:05:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/floxuridine,Synonym:,fluorodeoxyuridine
+2020-09-18T07:05:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/floxuridine,Synonym:,fluorouridine deoxyribose
+2020-09-18T07:05:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/floxuridine,Synonym:,fluoruridine deoxyribose
+2020-09-18T07:05:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/floxuridine,US brand name:,FUDF
+2020-09-18T07:05:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/floxuridine,Abbreviation:,5-FUDR
+2020-09-18T07:05:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/floxuridine,Abbreviation:,FDUR
+2020-09-18T07:05:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/floxuridine,Abbreviation:,FUdR
+2020-09-18T07:05:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/floxuridine,Code name:,WR-138720
+2020-09-18T07:05:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/floxuridine,Chemical structure:,1-(2-deoxy-beta-D-ribofuranosyl)-5-fluorouracil2'-deoxy-5-fluorouridine5-fluoro-2'-deoxy-beta-uridine5-fluoro-2'-deoxyuridine5-fluorodeoxyuridine5-fluorouridine deoxyribose
+2020-09-18T07:05:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pegfilgrastim,Synonym:,Filgrastim SD-01
+2020-09-18T07:05:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pegfilgrastim,Synonym:,pegfilgrastim biosimilar pegcyte
+2020-09-18T07:05:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pegfilgrastim,Synonym:,PEG-rhG-CSF
+2020-09-18T07:05:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pegfilgrastim,Synonym:,SD-01
+2020-09-18T07:05:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pegfilgrastim,Synonym:,SD-01 sustained duration G-CSF
+2020-09-18T07:05:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pegfilgrastim,US brand name:,Fulphila
+2020-09-18T07:05:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pegfilgrastim,US brand name:,Neulasta
+2020-09-18T07:05:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pegfilgrastim,Foreign brand name:,Jinyouli
+2020-09-18T07:05:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pegfilgrastim,Foreign brand name:,Neulastim
+2020-09-18T07:05:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pegfilgrastim,Abbreviation:,GCSF-SD01
+2020-09-18T07:05:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pegfilgrastim,Code name:,HSP-130
+2020-09-18T07:05:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fulranumab,Synonym:,anti-nerve growth factor monoclonal antibody JNJ-42160443
+2020-09-18T07:05:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fulranumab,Synonym:,Anti-NGF monoclonal antibody JNJ-42160443
+2020-09-18T07:05:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fulranumab,Code name:,JNJ-42160443
+2020-09-18T07:05:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fu-lv-regimen,Synonym:,5FU/LV
+2020-09-18T07:05:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fu-lv-regimen,Synonym:,de Gramont regimen
+2020-09-18T07:05:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fu-lv-regimen,Synonym:,fluorouracil-leucovorin regimen
+2020-09-18T07:05:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fulvestrant,US brand name:,Faslodex
+2020-09-18T07:05:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fulvestrant,Code name:,"ICI 182,780"
+2020-09-18T07:05:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fulvestrant,Code name:,ZD9238
+2020-09-18T07:05:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fulvestrant,Chemical structure:,"7a-[9-[(4,4,5,5,5,-Pentafluoropentyl)sulphinyl]nonyl]-estra-1,3,5(10)-triene-3,17b-diol"
+2020-09-18T07:05:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/crofelemer,US brand name:,Fulyzaq
+2020-09-18T07:05:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/crofelemer,US brand name:,Virend
+2020-09-18T07:05:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/crofelemer,Code name:,SP 303
+2020-09-18T07:05:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/crofelemer,Code name:,SP-303
+2020-09-18T07:05:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fumagillin-derived-polymer-conjugate-xmt-1107,Code name:,XMT-1107
+2020-09-18T07:06:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793140,Synonym:,IC2000 fluorescence imaging agent
+2020-09-18T07:06:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793140,Code name:,IC 2000
+2020-09-18T07:06:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793140,Code name:,IC2000
+2020-09-18T07:06:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/furosemide,US brand name:,Lasix
+2020-09-18T07:06:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/furosemide,US brand name:,SK-Furosemide
+2020-09-18T07:06:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/furosemide,Abbreviation:,FRS
+2020-09-18T07:06:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/furosemide,Code name:,LB-502
+2020-09-18T07:06:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793933,Synonym:,furosemide topical gel CLS 006
+2020-09-18T07:06:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793933,Synonym:,furosemide topical gel CLS-006
+2020-09-18T07:06:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793933,Code name:,CLS 006
+2020-09-18T07:06:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793933,Code name:,CLS006
+2020-09-18T07:06:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793933,Code name:,CLS-006
+2020-09-18T07:06:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798476,Synonym:,digoxin-furosemide topical gel CLS003
+2020-09-18T07:06:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798476,Synonym:,ICVT product CLS003
+2020-09-18T07:06:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798476,Code name:,CLS 003
+2020-09-18T07:06:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798476,Code name:,CLS003
+2020-09-18T07:06:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798476,Code name:,CLS-003
+2020-09-18T07:06:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fursultiamine,Synonym:,thiamine tetrahydrofurfuryl disulfide
+2020-09-18T07:06:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fursultiamine,Abbreviation:,TTFD
+2020-09-18T07:06:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fusidic-acid-betamethasone-valerate-topical-cream,Foreign brand name:,Verutex B
+2020-09-18T07:06:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/levoleucovorin-calcium,Synonym:,calcium levoleucovorin
+2020-09-18T07:06:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/levoleucovorin-calcium,US brand name:,Fusilev
+2020-09-18T07:06:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr-inhibitor-tas-120,Synonym:,FGFR inhibitor TAS-120
+2020-09-18T07:06:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr-inhibitor-tas-120,Code name:,TAS-120
+2020-09-18T07:06:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793850,Code name:,992 DS
+2020-09-18T07:06:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793850,Code name:,992DS
+2020-09-18T07:06:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793850,Code name:,992-DS
+2020-09-18T07:06:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793850,Chemical structure:,"immunoglobulin G1, anti-(human epidermal growth factor receptor extracellular domain III) (human-Mus musculus monoclonal 992 DS heavy chain), disulfide with human-Mus musculus monoclonal 992 DS light chain, dimer"
+2020-09-18T07:06:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/perampanel,US brand name:,Fycompa
+2020-09-18T07:06:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/perampanel,Code name:,E2007
+2020-09-18T07:06:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/perampanel,Chemical structure:,"3-(2-cyanophenyl)-5-(2-pyridyl)-1-phenyl-1,2-dihydropyridin-2-onebenzonitrile, 2-(1',6'-dihydro-6'-oxo-1'-phenyl(2,3'-bipyridin)-5'-yl)-"
+2020-09-18T07:06:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799991,Synonym:,GPER agonist LNS8801
+2020-09-18T07:06:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799991,Code name:,LNS 8801
+2020-09-18T07:06:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799991,Code name:,LNS8801
+2020-09-18T07:06:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799991,Code name:,LNS-8801
+2020-09-18T07:07:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/g2-checkpoint-inhibitor-cbp501,Code name:,CBP501
+2020-09-18T07:07:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/g207,Synonym:,oncolytic HSV-1 G207
+2020-09-18T07:07:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/g250-peptide-vaccine,NA,NA
+2020-09-18T07:07:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ga-68-labeled-fab-2--trastuzumab,NA,NA
+2020-09-18T07:07:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gabapentin,US brand name:,Gralise
+2020-09-18T07:07:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gabapentin,US brand name:,Neurontin
+2020-09-18T07:07:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gabapentin,Chemical structure:,1-(aminomethyl)cyclohexaneacetic Acid
+2020-09-18T07:07:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadobutrol,US brand name:,Gadavist
+2020-09-18T07:07:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadobutrol,US brand name:,Gadovist
+2020-09-18T07:07:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadobenate-dimeglumine,Synonym:,gadolinium benzyloxypropionictetraacetate
+2020-09-18T07:07:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadobenate-dimeglumine,US brand name:,MultiHance
+2020-09-18T07:07:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadobenate-dimeglumine,Abbreviation:,Gd-BOPTA
+2020-09-18T07:07:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadobenate-dimeglumine,Chemical structure:,"(4RS)-[4-carboxy-5,8,11-tris(carboxymethyl)-1-phenyl-2-oxa-5,8,11-triazatridecan-13-oato(5-)] gadolinate(2-) dihydrogen compound with 1-deoxy-1-(methylamino)-D-glucitol (1:2)"
+2020-09-18T07:07:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadobutrol,US brand name:,Gadavist
+2020-09-18T07:07:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadobutrol,US brand name:,Gadovist
+2020-09-18T07:07:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadodiamide,Synonym:,Gadolinium-DTPA-BMA
+2020-09-18T07:07:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadodiamide,US brand name:,OmniScan
+2020-09-18T07:07:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadodiamide,Abbreviation:,Gd-DTPA-BMA
+2020-09-18T07:07:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadodiamide,Code name:,DV 7572
+2020-09-18T07:07:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadodiamide,Code name:,HSDB 7547
+2020-09-18T07:07:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadodiamide,Chemical structure:,"gadolinium, (5,8-bis((carboxy-kappaO)methyl)-11-(2-(methylamino)-2-(oxo-kappaO)ethyl)-3-(oxo-kappaO)-2,5,8,11-tetraazatridecan-13-oato(3-)-kappaN5,kappaN8,kappaN11,kappaO13)-"
+2020-09-18T07:07:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadolinium-chelate,Synonym:,Gadolinium Coordination Complex
+2020-09-18T07:07:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadolinium-chelate,Synonym:,Gadolinium-Chelant Complex
+2020-09-18T07:07:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadopentetate-dimeglumine,Synonym:,gadolinium DTPA
+2020-09-18T07:07:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadopentetate-dimeglumine,US brand name:,Magnevist
+2020-09-18T07:07:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadopentetate-dimeglumine,US brand name:,MultiHance
+2020-09-18T07:07:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadopentetate-dimeglumine,Abbreviation:,Gd-DTPA
+2020-09-18T07:08:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadolinium-based-contrast-agent-p03277,Code name:,P 03277
+2020-09-18T07:08:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadolinium-based-contrast-agent-p03277,Code name:,P03277
+2020-09-18T07:08:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadolinium-based-contrast-agent-p03277,Code name:,P-03277
+2020-09-18T07:08:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadoterate-meglumine,Synonym:,Gd-DOTA
+2020-09-18T07:08:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadoterate-meglumine,US brand name:,DOTAREM
+2020-09-18T07:08:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadoterate-meglumine,Foreign brand name:,DOTAREM
+2020-09-18T07:08:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadobutrol,US brand name:,Gadavist
+2020-09-18T07:08:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadobutrol,US brand name:,Gadovist
+2020-09-18T07:08:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadoxetate-disodium,Synonym:,"gadoxetic acid, disodium"
+2020-09-18T07:08:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadoxetate-disodium,US brand name:,Eovist
+2020-09-18T07:08:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadoxetate-disodium,Foreign brand name:,EOB Primavist
+2020-09-18T07:08:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadoxetate-disodium,Foreign brand name:,Primovist
+2020-09-18T07:08:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadoxetate-disodium,Abbreviation:,Gd-EOB-DTPA
+2020-09-18T07:08:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gadoxetate-disodium,Chemical structure:,"(4S)-4-(4-ththoxylmethyl)-3,6,9-tris(carboxylatomethyl)-3,6,9-triazaundecanedoic acid, gadolinium complex, disodium salt"
+2020-09-18T07:08:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gag267-274-peptide-vaccine,Synonym:,ILGLNKIV
+2020-09-18T07:08:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/galactomannan-derivative,Synonym:,"1,4-beta-D-galactomannan"
+2020-09-18T07:08:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/galactomannan-derivative,US brand name:,DAVANAT
+2020-09-18T07:08:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/galactomannan-derivative,Abbreviation:,GD
