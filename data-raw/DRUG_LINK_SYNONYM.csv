@@ -492,6 +492,7 @@ dls_datetime,drug_link,x1,x2
 2020-09-18T01:21:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/alteplase,US brand name:,Activase
 2020-09-18T01:21:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/alteplase,Abbreviation:,rt-PA
 2020-09-18T01:21:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/activated-marrow-infiltrating-lymphocytes,Abbreviation:,aMIL
+2020-09-18T01:40:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798284,Code name:,SCM010
 2020-09-18T01:21:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/activated-marrow-infiltrating-lymphocytes,Abbreviation:,MIL
 2020-09-18T01:21:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/estradiol-norethindrone-acetate-tablet,US brand name:,Activella
 2020-09-18T01:21:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ih636-grape-seed-proanthocyanidin-extract,US brand name:,ActiVin
@@ -669,3 +670,147 @@ dls_datetime,drug_link,x1,x2
 2020-09-18T01:39:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/adenovirus-vector,Synonym:,Adenoviral Vector
 2020-09-18T01:39:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/adenovirus-vector,Abbreviation:,ADV
 2020-09-18T01:39:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/727131,NA,NA
+2020-09-18T01:39:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797169,Synonym:,Ad-E6/E7
+2020-09-18T01:39:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797169,Synonym:,Ad-E6E7
+2020-09-18T01:39:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797169,Synonym:,adenoviral-expressing mutant HPV E6/E7
+2020-09-18T01:39:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797169,Synonym:,adenoviral-HPV E6E7 vaccine
+2020-09-18T01:39:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797169,Synonym:,adenoviral-HPV E6E7 vaccine
+2020-09-18T01:39:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797169,Synonym:,adenovirus vaccine expressing mutant HPV E6 and E7
+2020-09-18T01:39:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/adenovirus-expressing-tlr5-tlr5-agonist-nanoformulation-m-vm3,US brand name:,Mobilan
+2020-09-18T01:39:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/adenovirus-expressing-tlr5-tlr5-agonist-nanoformulation-m-vm3,Code name:,M-VM3
+2020-09-18T01:39:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/adenovirus-mediated-human-interleukin-12,Synonym:,adenovirus-interleukin-12
+2020-09-18T01:39:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/adenovirus-mediated-human-interleukin-12,Abbreviation:,Ad.hIL-12
+2020-09-18T01:39:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/adenovirus-mediated-human-interleukin-12-inxn-2001-plus-veledimex,Synonym:,adenovirus-mediated human interleukin-12 INXN-2001 plus activator ligand INXN-1001
+2020-09-18T01:39:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/adenovirus-mediated-human-interleukin-12-inxn-2001-plus-veledimex,Abbreviation:,Ad-RTS-IL-12 plus AL
+2020-09-18T01:39:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/adenovirus-mediated-human-interleukin-12-inxn-2001-plus-veledimex,Code name:,INXN-2001/1001
+2020-09-18T01:39:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/adenovirus-mediated-human-interleukin-12-inxn-2001-plus-veledimex,Code name:,ZIN ATI-001
+2020-09-18T01:39:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/adenovirus-p53-transduced-dendritic-cell-vaccine,Abbreviation:,Ad.p53-DC vaccine
+2020-09-18T01:40:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/adenovirus-psa-prostate-cancer-vaccine,Synonym:,Ad/PSA vaccine
+2020-09-18T01:40:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/adenovirus-psa-prostate-cancer-vaccine,Synonym:,adenovirus/PSA vaccine
+2020-09-18T01:40:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/adgmcaix-transduced-autologous-dendritic-cells,Synonym:,DCs expressing CMCA9 gene
+2020-09-18T01:40:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/adgmcaix-transduced-autologous-dendritic-cells,Synonym:,dendritic cells transduced with AdGMCA9 expressing GM-CSF-carbonic anhydrase IX fusion protein
+2020-09-18T01:40:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/adgmcaix-transduced-autologous-dendritic-cells,Abbreviation:,DC-AdGMCAIX
+2020-09-18T01:40:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/adh-1,US brand name:,Exherin
+2020-09-18T01:40:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ad-hcmv-flt3l,NA,NA
+2020-09-18T01:40:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ad-hcmv-tk,NA,NA
+2020-09-18T01:40:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798284,Synonym:,adipose derived stem cells SCM-010
+2020-09-18T01:40:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798284,Synonym:,adipose-derived expanded MSCs SCM-010
+2020-09-18T01:40:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798284,Synonym:,ADSCs SCM-010
+2020-09-18T01:40:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798284,Code name:,SCM 010
+2020-09-18T01:40:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798284,Code name:,SCM-010
+2020-09-18T01:40:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/adipose-derived-regenerative-cells,Acronym:,ADRC
+2020-09-18T01:40:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/adipose-derived-stromal-vascular-fraction-cells,Synonym:,adipose-derived SVF cells
+2020-09-18T01:40:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ad-isf35,Synonym:,Ad-CD154 ISF35
+2020-09-18T01:40:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ad-isf35,Synonym:,Ad-CD40L ISF35
+2020-09-18T01:40:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ad-isf35,Synonym:,recombinant adenovirus encoding CD40 ligand ISF35-transduced B lymphocytes
+2020-09-18T01:40:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ado-trastuzumab-emtansine,Synonym:,trastuzumab emtansine
+2020-09-18T01:40:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ado-trastuzumab-emtansine,Synonym:,trastuzumab-DM1
+2020-09-18T01:40:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ado-trastuzumab-emtansine,Synonym:,trastuzumab-MCC-DM1
+2020-09-18T01:40:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ado-trastuzumab-emtansine,Synonym:,trastuzumab-MCC-DM1 antibody-drug conjugate
+2020-09-18T01:40:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ado-trastuzumab-emtansine,Synonym:,trastuzumab-MCC-DM1 immunoconjugate
+2020-09-18T01:40:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ado-trastuzumab-emtansine,US brand name:,Kadcyla
+2020-09-18T01:40:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ado-trastuzumab-emtansine,Abbreviation:,T-DM1
+2020-09-18T01:40:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ado-trastuzumab-emtansine,Code name:,PRO132365
+2020-09-18T01:40:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ado-trastuzumab-emtansine,Code name:,RO5304020
+2020-09-18T01:40:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/adozelesin,Code name:,"U-73,975"
+2020-09-18T01:41:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ad-reic-dkk3-vaccine,Synonym:,adenovirus-mediated REIC/Dkk-3 secretory protein
+2020-09-18T01:41:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ad-reic-dkk3-vaccine,Synonym:,Ad-REIC/dickkopf homolog 3
+2020-09-18T01:41:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/adrenocorticotropic-hormone,Synonym:,ACTH
+2020-09-18T01:41:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/adrenocorticotropic-hormone,Synonym:,acthar
+2020-09-18T01:41:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/adrenocorticotropic-hormone,Synonym:,adrenocorticotropin
+2020-09-18T01:41:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/adrenocorticotropic-hormone,Synonym:,corticotropin
+2020-09-18T01:41:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/adrenocorticotropic-hormone,Abbreviation:,CCTROP
+2020-09-18T01:41:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792151,Synonym:,adaoviral-rheoswitch therapeutic system-human interleukin 12
+2020-09-18T01:41:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792151,Code name:,INXN 2001
+2020-09-18T01:41:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792151,Code name:,INXN-2001
+2020-09-18T01:41:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/adrtvp-1-transduced-prostate-cancer-cell-based-vaccine,Synonym:,Adenoviral vector-mediated RTVP-1 gene-modified prostate cancer cell-based vaccine
+2020-09-18T01:41:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ad-sig-hmuc-1-ecdcd40l-vaccine,Synonym:,Ad-sig-hMUC1/ecdCD40L adenoviral vector vaccine
+2020-09-18T01:41:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ae37-peptide-gm-csf-vaccine,NA,NA
+2020-09-18T01:41:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/aee788,NA,NA
+2020-09-18T01:41:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/aeg35156,US brand name:,GEM640
+2020-09-18T01:41:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/therapeutic-hydrocortisone,Synonym:,Barseb-HC
+2020-09-18T01:41:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/therapeutic-hydrocortisone,Synonym:,Cortifan
+2020-09-18T01:41:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/therapeutic-hydrocortisone,Synonym:,cortisol
+2020-09-18T01:41:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/therapeutic-hydrocortisone,Synonym:,Domolene
+2020-09-18T01:41:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/therapeutic-hydrocortisone,Synonym:,Komed-HC
+2020-09-18T01:41:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/therapeutic-hydrocortisone,US brand name:,Aeroseb-HC
+2020-09-18T01:41:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/therapeutic-hydrocortisone,US brand name:,Barseb HC
+2020-09-18T01:41:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/therapeutic-hydrocortisone,US brand name:,Cetacort
+2020-09-18T01:41:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/therapeutic-hydrocortisone,US brand name:,Cort-Dome
+2020-09-18T01:41:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/therapeutic-hydrocortisone,US brand name:,Cortef
+2020-09-18T01:41:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/therapeutic-hydrocortisone,US brand name:,Cortenema
+2020-09-18T01:41:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/therapeutic-hydrocortisone,US brand name:,Cortispray
+2020-09-18T01:41:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/therapeutic-hydrocortisone,US brand name:,Cortril
+2020-09-18T01:41:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/therapeutic-hydrocortisone,US brand name:,Dermacort
+2020-09-18T01:41:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/therapeutic-hydrocortisone,US brand name:,Domolene-HC
+2020-09-18T01:41:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/therapeutic-hydrocortisone,US brand name:,Eldecort
+2020-09-18T01:41:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/therapeutic-hydrocortisone,US brand name:,Hydrocortone
+2020-09-18T01:41:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/therapeutic-hydrocortisone,US brand name:,Hytone
+2020-09-18T01:41:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/therapeutic-hydrocortisone,US brand name:,Komed HC
+2020-09-18T01:41:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/therapeutic-hydrocortisone,US brand name:,Nutracort
+2020-09-18T01:41:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/therapeutic-hydrocortisone,US brand name:,Proctocort
+2020-09-18T01:41:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/therapeutic-hydrocortisone,US brand name:,Rectoid
+2020-09-18T01:41:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/therapeutic-hydrocortisone,Abbreviation:,HC
+2020-09-18T01:41:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/therapeutic-hydrocortisone,Chemical structure:,"(11beta)-11,17,21-Trihydroxypregn-4-ene-3,20-dione"
+2020-09-18T01:41:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793934,Synonym:,aerosolized GCB
+2020-09-18T01:41:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793934,Synonym:,aerosolized gemcitabine
+2020-09-18T01:41:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/aerosol-sargramostim,Synonym:,aerosol GM-CSF
+2020-09-18T01:42:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/aerosolized-aldesleukin,Synonym:,aerosolized recombinant IL-2
+2020-09-18T01:42:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/aerosolized-liposomal-rubitecan,Synonym:,aerosolized liposomal 9-nitrocamptothecin
+2020-09-18T01:42:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/aerosolized-liposomal-rubitecan,Code name:,L9NC
+2020-09-18T01:42:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/isoflurane,US brand name:,Aerrane
+2020-09-18T01:42:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/isoflurane,US brand name:,Forane
+2020-09-18T01:42:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/isoflurane,US brand name:,Isoflo
+2020-09-18T01:42:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/isoflurane,Chemical structure:,"1-chloro-2,2,2-trifluoroethyl difluoromethyl ether (SN); 2-chloro-2-(difluoromethoxy)-1,1,1-trifluoroethane"
+2020-09-18T01:42:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cenersen,Synonym:,OL(1)p53
+2020-09-18T01:42:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cenersen,US brand name:,Aezea®
+2020-09-18T01:42:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cenersen,Code name:,EL625
+2020-09-18T01:42:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/afamelanotide,Code name:,CUV1647
+2020-09-18T01:42:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/afamelanotide,Chemical structure:,N-acetyl-L-serinyl-L-tyrosyl-L-seryl-(2S)-2-aminohexanoyl-L-glutamyl-L-histidyl-D-phenylalanyl-L-arginyl-L-tryptophanylglycyl-L-lysyl-L-prolyl-L-valinamide
+2020-09-18T01:42:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/afatinib-dimaleate,US brand name:,Gilotrif
+2020-09-18T01:42:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/afatinib-dimaleate,Code name:,BIBW 2992 MA2
+2020-09-18T01:42:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/isis-3521,Synonym:,"DNA, d(P-thio)(GTTCTCGCTGGTGAGTTTCA)"
+2020-09-18T01:42:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/isis-3521,US brand name:,Affinitac
+2020-09-18T01:42:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/isis-3521,US brand name:,Affinitak
+2020-09-18T01:42:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/isis-3521,Code name:,CGP 64128A
+2020-09-18T01:42:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/isis-3521,Code name:,LY900003
+2020-09-18T01:42:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/isis-3521,Synonym:,"DNA, d(P-thio)(GTTCTCGCTGGTGAGTTTCA)"
+2020-09-18T01:42:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/isis-3521,US brand name:,Affinitac
+2020-09-18T01:42:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/isis-3521,US brand name:,Affinitak
+2020-09-18T01:42:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/isis-3521,Code name:,CGP 64128A
+2020-09-18T01:42:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/isis-3521,Code name:,LY900003
+2020-09-18T01:42:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/afimoxifene,Synonym:,4-Hydroxy-Tamoxifen
+2020-09-18T01:42:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/everolimus,Synonym:,42-O-(2-hydroxy)ethyl rapamycin
+2020-09-18T01:42:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/everolimus,US brand name:,Afinitor
+2020-09-18T01:42:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/everolimus,US brand name:,Afinitor Disperz
+2020-09-18T01:42:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/everolimus,US brand name:,Zortress
+2020-09-18T01:42:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/everolimus,Foreign brand name:,Certican
+2020-09-18T01:42:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/everolimus,Foreign brand name:,Votubia
+2020-09-18T01:42:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/everolimus,Code name:,RAD001
+2020-09-18T01:42:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/everolimus,Synonym:,42-O-(2-hydroxy)ethyl rapamycin
+2020-09-18T01:42:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/everolimus,US brand name:,Afinitor
+2020-09-18T01:42:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/everolimus,US brand name:,Afinitor Disperz
+2020-09-18T01:42:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/everolimus,US brand name:,Zortress
+2020-09-18T01:42:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/everolimus,Foreign brand name:,Certican
+2020-09-18T01:42:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/everolimus,Foreign brand name:,Votubia
+2020-09-18T01:42:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/everolimus,Code name:,RAD001
+2020-09-18T01:43:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/everolimus-tablets-for-oral-suspension,US brand name:,Afinitor Disperz
+2020-09-18T01:43:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/sulindac,Synonym:,Sulindac Sulfoxide
+2020-09-18T01:43:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/sulindac,US brand name:,Aflodac
+2020-09-18T01:43:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/sulindac,US brand name:,Clinoril
+2020-09-18T01:43:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/sulindac,Foreign brand name:,Algocetil
+2020-09-18T01:43:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/sulindac,Foreign brand name:,Apo-Sulin
+2020-09-18T01:43:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/sulindac,Foreign brand name:,Arthrocine
+2020-09-18T01:43:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/sulindac,Foreign brand name:,Artribid
+2020-09-18T01:43:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/sulindac,Foreign brand name:,Citireuma
+2020-09-18T01:43:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/sulindac,Foreign brand name:,Clisundac
+2020-09-18T01:43:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/sulindac,Foreign brand name:,Imbaral
+2020-09-18T01:43:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/sulindac,Foreign brand name:,Novo-Sundac
+2020-09-18T01:43:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/sulindac,Foreign brand name:,Reumofil
+2020-09-18T01:43:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/sulindac,Foreign brand name:,Reumyl
+2020-09-18T01:43:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/sulindac,Foreign brand name:,Sudac
+2020-09-18T01:43:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/sulindac,Foreign brand name:,Sulinol
+2020-09-18T01:43:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/sulindac,Foreign brand name:,Sulreuma
+2020-09-18T01:43:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/sulindac,Abbreviation:,SULIN
+2020-09-18T01:43:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/sulindac,Code name:,MK-231
+2020-09-18T01:43:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/sulindac,Chemical structure:,(Z)-5-fluoro-2-methyl-1-[[4-(methylsulfinyl)phenyl]methylene]-1H-indene-3-acetic acidcis-5-fluoro-2-methyl-1-[p-(methylsulfinyl)benzylidene]indene-3-acetic acid
