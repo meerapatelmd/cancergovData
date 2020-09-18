@@ -7490,6 +7490,7 @@ dls_datetime,drug_link,x1,x2
 2020-09-18T05:31:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clevudine,Abbreviation:,L-FMAU
 2020-09-18T05:31:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clevudine,Chemical structure:,"1-(2-Deoxy-2-fluoro-beta-L-arabinofuranosyl)-5-methyl-1-(2-Deoxy-2-fluoro-beta-L-arabinofuranosyl)thymine; 2,4(1H,3H)-pyrimidinedione2'-Fluoro-5-methyl-beta-L-arabinofuranosyluracil"
 2020-09-18T05:31:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clindamycin-phosphate,Code name:,U 28508
+2020-09-18T05:32:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794751,Code name:,MIYAIRI 588
 2020-09-18T05:31:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clindamycin-phosphate,Chemical structure:,7(S)-chloro-7-deoxylincomycin 2-phosphate
 2020-09-18T05:31:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clindamycin-hydrocortisone-lotion,NA,NA
 2020-09-18T05:31:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/olive-oil-soya-oil-egg-lecithin-based-emulsion,US brand name:,ClinOleic
@@ -7511,3 +7512,47 @@ dls_datetime,drug_link,x1,x2
 2020-09-18T05:32:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clofibrate,US brand name:,Atromid-S
 2020-09-18T05:32:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clofibrate,Abbreviation:,CFB
 2020-09-18T05:32:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clofibrate,Chemical structure:,2-(4-chlorophenoxy)-2-methylpropanoic acid ethyl esterethyl 2-(4-chlorophenoxy)-2-methylpropanoateethyl p-chlorophenoxyisobyturate
+2020-09-18T05:32:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clofarabine,US brand name:,Clolar
+2020-09-18T05:32:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clofarabine,Abbreviation:,CAFdA
+2020-09-18T05:32:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clofarabine,Chemical structure:,2-Chloro-9-(2-deoxy-2-fluoroarabinofuranosyl)adenine2-Chloro-9-(2-deoxy-2-fluoro-beta-D-arabinofuranosyl)-9H-purin-6-amine
+2020-09-18T05:32:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clomiphene-citrate,US brand name:,Clomid
+2020-09-18T05:32:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clomiphene-citrate,US brand name:,Serophene
+2020-09-18T05:32:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clomiphene-citrate,Chemical structure:,"2-[p-(2-chloro-1,2-diphenylvinyl)phenoxy]triethylamine citrate (1:1)"
+2020-09-18T05:32:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clomiphene-citrate,US brand name:,Clomid
+2020-09-18T05:32:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clomiphene-citrate,US brand name:,Serophene
+2020-09-18T05:32:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clomiphene-citrate,Chemical structure:,"2-[p-(2-chloro-1,2-diphenylvinyl)phenoxy]triethylamine citrate (1:1)"
+2020-09-18T05:32:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clonidine-hydrochloride,US brand name:,Catapres
+2020-09-18T05:32:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clonidine-containing-mucoadhesive-buccal-tablet,US brand name:,Clonidine Lauriad
+2020-09-18T05:32:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clonidine-containing-mucoadhesive-buccal-tablet,US brand name:,Clonidine Lauriad
+2020-09-18T05:32:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clopidogrel-bisulfate,Synonym:,Plavix
+2020-09-18T05:32:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clopidogrel-bisulfate,US brand name:,Plavix
+2020-09-18T05:32:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clopidogrel-bisulfate,Abbreviation:,CLOBI
+2020-09-18T05:32:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/laromustine,US brand name:,Cloretazine
+2020-09-18T05:32:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/laromustine,US brand name:,Onrigin
+2020-09-18T05:32:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/laromustine,Code name:,VNP40101M
+2020-09-18T05:32:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/laromustine,Chemical structure:,"1,2-bis(methylsulfonyl)-1-(2-chloroethyl)-2-(methylaminocarbonyl)hydrazine2'-(2-chloroethyl)-N-methyl-1',2'-bis(methylsulfonyl)carbamohydrazidemethanesulfonic acid, 1-(2-chloroethyl)-2-[(methylamino)carbonyl]-2- (methylsulfonyl)hydrazide"
+2020-09-18T05:32:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794751,Synonym:,C. butyricum CBM 588 probiotic strain
+2020-09-18T05:32:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794751,Synonym:,C. butyricum MIYAIRI strain
+2020-09-18T05:32:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794751,Synonym:,C. butyricum MIYAIRI strain CBM 588
+2020-09-18T05:32:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794751,Synonym:,C. butyricum strain MIYAIRI 588
+2020-09-18T05:32:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794751,Synonym:,Clostridium butyricum MIYAIRI 588
+2020-09-18T05:32:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794751,Synonym:,Clostridium butyricum MIYAIRI 588 probiotic strain
+2020-09-18T05:32:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794751,Synonym:,MIYAIRI 588 strain of C. butyricum
+2020-09-18T05:32:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794751,Code name:,CBM 588
+2020-09-18T05:32:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794751,Code name:,CBM588
+2020-09-18T05:32:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clostridium-butyricum-containing-probiotic,Synonym:,C. butyricum-containing probiotic
+2020-09-18T05:33:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clostridium-novyi-nt-spores,Abbreviation:,C. novyi-NT spores
+2020-09-18T05:33:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clotrimazole,US brand name:,Gyne-Lotrimin
+2020-09-18T05:33:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clotrimazole,US brand name:,Lotrimin
+2020-09-18T05:33:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clotrimazole,US brand name:,Mycelex
+2020-09-18T05:33:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clotrimazole,US brand name:,Mycelex Troche
+2020-09-18T05:33:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clotrimazole,Abbreviation:,CLOT
+2020-09-18T05:33:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clotrimazole,Chemical structure:,1-[(2-Chlorophenyl)diphenylmethyl]-1H-imidazole
+2020-09-18T05:33:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800675,Chemical structure:,"8-Chloro-11-(4-methyl-1-piperazinyl)-5H-dibenzo(b,e)(1,4)diazepine"
+2020-09-18T05:33:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cmet-car-mrna-electroporated-autologous-t-lymphocytes,Synonym:,cMet RNA CAR T cells
+2020-09-18T05:33:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800797,Code name:,ABN 401
+2020-09-18T05:33:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800797,Code name:,ABN401
+2020-09-18T05:33:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800797,Code name:,ABN-401
+2020-09-18T05:33:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/c-met-inhibitor-al2846,Code name:,AL 2846
+2020-09-18T05:33:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/c-met-inhibitor-al2846,Code name:,AL2846
+2020-09-18T05:33:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/c-met-inhibitor-al2846,Code name:,AL-2846
