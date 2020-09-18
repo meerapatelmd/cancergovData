@@ -13445,3 +13445,188 @@ dls_datetime,drug_link,x1,x2
 2020-09-18T07:50:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/palbociclib,Code name:,PD-0332991
 2020-09-18T07:50:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/palbociclib,Code name:,PD-332991
 2020-09-18T07:50:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/palbociclib,Chemical structure:,"6-acetyl-8-cyclopentyl-5-methyl-2-((5-(piperazin-1-yl)pyridin-2-yl)amino)pyrido[2,3-d]pyrimidin-7(8H)-one"
+2020-09-18T07:50:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798632,Abbreviation:,IBX
+2020-09-18T07:50:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798632,Code name:,MK 3118
+2020-09-18T07:50:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798632,Code name:,MK3118
+2020-09-18T07:50:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798632,Code name:,MK-3118
+2020-09-18T07:50:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798632,Code name:,SCY 078
+2020-09-18T07:50:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798632,Code name:,SCY078
+2020-09-18T07:50:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798632,Code name:,SCY-078
+2020-09-18T07:50:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ibritumomab-tiuxetan,US brand name:,Zevalin
+2020-09-18T07:50:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ibrutinib,Synonym:,Bruton's tyrosine kinase inhibitor PCI-32765
+2020-09-18T07:50:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ibrutinib,Synonym:,BTK inhibitor PCI-32765
+2020-09-18T07:50:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ibrutinib,US brand name:,Imbruvica
+2020-09-18T07:50:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ibrutinib,Code name:,CRA-032765
+2020-09-18T07:50:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ibrutinib,Code name:,PCI-32765
+2020-09-18T07:50:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ibrutinib,Chemical structure:,"2-propen-1-one, 1-((3R)-3-(4-amino-3-(4-phenoxyphenyl)-1h-pyrazolo(3,4-d)pyrimidin-1-yl)-1-piperidinyl)-"
+2020-09-18T07:50:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796798,Abbreviation:,IBD
+2020-09-18T07:50:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796798,Code name:,MN-166
+2020-09-18T07:50:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796798,Chemical structure:,"3-isobutyryl-2-isopropylpyrazolo[1,5-a]pyridine"
+2020-09-18T07:50:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ibuprofen,US brand name:,Motrin
+2020-09-18T07:50:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ibuprofen,Chemical structure:,"benzeneacetic acid, alpha-methyl-4-(2-methylpropyl)-p-isobutylhydratropic acid"
+2020-09-18T07:50:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ibuprofen-intravenous,US brand name:,Caldolor
+2020-09-18T07:50:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792461,Synonym:,GD2-CAR NKT cells
+2020-09-18T07:50:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792461,Synonym:,GD2-CAR-expressing autologous natural killer T cells
+2020-09-18T07:50:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792461,Synonym:,GINAKIT cells
+2020-09-18T07:50:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792461,Synonym:,GINAKIT-cells
+2020-09-18T07:50:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792461,Synonym:,iC9-GD2.CD28.OX40.zeta natural killer T cells
+2020-09-18T07:51:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ic9-gd2-cd28-ox40-expressing-t-lymphocytes,Synonym:,iC9-GD2 T lymphocytes
+2020-09-18T07:51:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ice-regimen,Synonym:,carboplatin/etoposide/ifosfamide
+2020-09-18T07:51:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ice-regimen,Synonym:,iosfamide-carboplatin-etoposide regimen
+2020-09-18T07:51:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ice-regimen,Abbreviation:,CBDCA/IFF/VP-16
+2020-09-18T07:51:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ice-regimen,Acronym:,ICE
+2020-09-18T07:51:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/indocyanine-green-solution,US brand name:,IC-GREEN
+2020-09-18T07:51:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/indocyanine-green-solution,Abbreviation:,ICG solution
+2020-09-18T07:51:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ponatinib-hydrochloride,Synonym:,multitargeted tyrosine kinase inhibitor AP24534
+2020-09-18T07:51:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ponatinib-hydrochloride,US brand name:,Iclusig
+2020-09-18T07:51:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ponatinib-hydrochloride,Code name:,AP24534
+2020-09-18T07:51:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/icodextrin-solution,NA,NA
+2020-09-18T07:51:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799811,Synonym:,eicosapentaenoic acid-free fatty acid
+2020-09-18T07:51:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799811,Abbreviation:,EPA-FFA
+2020-09-18T07:51:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/icotinib-hydrochloride,Foreign brand name:,Conmana
+2020-09-18T07:51:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/icotinib-hydrochloride,Code name:,BPI-2009
+2020-09-18T07:51:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/icrucumab,Synonym:,anti-vascular endothelial growth factor receptor-1 monoclonal antibody IMC-18F1
+2020-09-18T07:51:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/icrucumab,Synonym:,anti-VEGFR-1 monoclonal antibody IMC-18F1
+2020-09-18T07:51:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/icrucumab,Code name:,IMC-18F1
+2020-09-18T07:51:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idarubicin-hydrochloride,Synonym:,4-demethoxydaunomycin
+2020-09-18T07:51:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idarubicin-hydrochloride,Synonym:,4-demethoxydaunorubicin
+2020-09-18T07:51:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idarubicin-hydrochloride,Synonym:,DMDR
+2020-09-18T07:51:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idarubicin-hydrochloride,Synonym:,idarubicin HCl
+2020-09-18T07:51:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idarubicin-hydrochloride,US brand name:,Idamycin PFS
+2020-09-18T07:51:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idarubicin-hydrochloride,Foreign brand name:,Zavedos
+2020-09-18T07:51:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idarubicin-hydrochloride,Abbreviation:,4-DMDR
+2020-09-18T07:51:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idarubicin-hydrochloride,Abbreviation:,IDA
+2020-09-18T07:51:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idarubicin-hydrochloride,Code name:,IMI-30
+2020-09-18T07:51:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idarubicin-hydrochloride,Code name:,SC-33428
+2020-09-18T07:51:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idarubicin-hydrochloride,Synonym:,4-demethoxydaunomycin
+2020-09-18T07:51:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idarubicin-hydrochloride,Synonym:,4-demethoxydaunorubicin
+2020-09-18T07:51:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idarubicin-hydrochloride,Synonym:,DMDR
+2020-09-18T07:51:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idarubicin-hydrochloride,Synonym:,idarubicin HCl
+2020-09-18T07:51:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idarubicin-hydrochloride,US brand name:,Idamycin PFS
+2020-09-18T07:51:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idarubicin-hydrochloride,Foreign brand name:,Zavedos
+2020-09-18T07:51:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idarubicin-hydrochloride,Abbreviation:,4-DMDR
+2020-09-18T07:51:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idarubicin-hydrochloride,Abbreviation:,IDA
+2020-09-18T07:51:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idarubicin-hydrochloride,Code name:,IMI-30
+2020-09-18T07:51:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idarubicin-hydrochloride,Code name:,SC-33428
+2020-09-18T07:51:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idarubicin-eluting-beads,NA,NA
+2020-09-18T07:52:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idasanutlin,Synonym:,MDM2 antagonist RO5503781
+2020-09-18T07:52:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idasanutlin,Code name:,RG7388
+2020-09-18T07:52:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idasanutlin,Code name:,RO 5503781
+2020-09-18T07:52:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idelalisib,Synonym:,phosphoinositide-3 kinase delta inhibitor CAL-101
+2020-09-18T07:52:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idelalisib,Synonym:,PI3K delta inhibitor CAL-101
+2020-09-18T07:52:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idelalisib,US brand name:,Zydelig
+2020-09-18T07:52:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idelalisib,Code name:,CAL-101
+2020-09-18T07:52:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idelalisib,Code name:,GS-1101
+2020-09-18T07:52:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idelalisib,Chemical structure:,5-fluoro-3-phenyl-2-([S)]-1-[9H-purin-6-ylamino]-propyl)-3H-quinazolin-4-one
+2020-09-18T07:52:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idh1r132-inhibitor-idh305,Code name:,IDH305
+2020-09-18T07:52:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idh1r132h-mutation-targeting-idh1-peptide-vaccine,Synonym:,IDH1R132H-specific peptide vaccine
+2020-09-18T07:52:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idh1r132h-specific-peptide-vaccine-pepidh1m,Synonym:,PEPIDH1M vaccine
+2020-09-18T07:52:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idh1r132h-specific-peptide-vaccine-pepidh1m,Code name:,PEPIDH1M
+2020-09-18T07:52:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/enasidenib-mesylate,Synonym:,AG-221 mesylate
+2020-09-18T07:52:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/enasidenib-mesylate,Synonym:,enasidenib methanesulfonate
+2020-09-18T07:52:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/enasidenib-mesylate,US brand name:,Idhifa
+2020-09-18T07:52:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/enasidenib-mesylate,Code name:,CC-90007
+2020-09-18T07:52:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idiotype-pulsed-autologous-dendritic-cell-vaccine-apc8020,US brand name:,Mylovenge
+2020-09-18T07:52:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idiotype-pulsed-autologous-dendritic-cell-vaccine-apc8020,Code name:,APC8020
+2020-09-18T07:52:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ido-inhibitor-nlg919,Synonym:,NLG-919
+2020-09-18T07:52:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ido-inhibitor-nlg919,Code name:,NLG919
+2020-09-18T07:52:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793153,Synonym:,HTI 1090
+2020-09-18T07:52:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793153,Code name:,HTI-1090
+2020-09-18T07:52:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793153,Code name:,SHR9146
+2020-09-18T07:52:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ido1-inhibitor-bms-986205,Synonym:,IDO-1 inhibitor BMS-986205
+2020-09-18T07:52:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ido1-inhibitor-bms-986205,Synonym:,"indoleamine-pyrrole 2,3-dioxygenase inhibitor BMS-986205"
+2020-09-18T07:52:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ido1-inhibitor-bms-986205,Code name:,BMS 986205
+2020-09-18T07:52:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ido1-inhibitor-bms-986205,Code name:,BMS986205
+2020-09-18T07:52:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ido1-inhibitor-bms-986205,Code name:,BMS-986205
+2020-09-18T07:52:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ido1-inhibitor-bms-986205,Code name:,ONO-7701
+2020-09-18T07:52:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ido1-inhibitor-bms-986205,Chemical structure:,"(R)-N-(4-chlorophenyl)-2-((1S,4S)-4-(6-fluoroquinolin-4-yl)cyclohexyl)propenamide"
+2020-09-18T07:52:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ido1-inhibitor-khk2455,Synonym:,IDO-1 inhibitor KHK2455
+2020-09-18T07:52:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ido1-inhibitor-khk2455,Code name:,KHK 2455
+2020-09-18T07:52:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ido1-inhibitor-khk2455,Code name:,KHK2455
+2020-09-18T07:53:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794987,Code name:,LY3381916
+2020-09-18T07:53:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ido-1-inhibitor-pf-06840003,Code name:,PF 06840003
+2020-09-18T07:53:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ido-1-inhibitor-pf-06840003,Code name:,PF-06840003
+2020-09-18T07:53:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ido-1-inhibitor-pf-06840003,Chemical structure:,"indoleamine 2,3-dioxygenase inhibitor PF-06840003"
+2020-09-18T07:53:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800701,Synonym:,"indoleamine 2,3-dioxygenase-1/tryptophan 2,3-dioxygenase 2 inhibitor M4112"
+2020-09-18T07:53:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800701,Code name:,M 4112
+2020-09-18T07:53:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800701,Code name:,M4112
+2020-09-18T07:53:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800701,Code name:,M-4112
+2020-09-18T07:53:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800701,Code name:,MS201408-0005
+2020-09-18T07:53:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idoxuridine,Synonym:,1beta-D-2'-Deoxyribofuranosyl-5-iodouracil
+2020-09-18T07:53:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idoxuridine,Synonym:,2'-deoxy-5-iodouridine
+2020-09-18T07:53:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idoxuridine,Synonym:,5-iododeoxyuridine
+2020-09-18T07:53:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idoxuridine,Synonym:,5-IUdR
+2020-09-18T07:53:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idoxuridine,Synonym:,IDU
+2020-09-18T07:53:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idoxuridine,Synonym:,"uracil, 5-iodo-1-(2-deoxy-beta-D-ribofuranosyl)-"
+2020-09-18T07:53:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idoxuridine,Synonym:,"uridine, 2'-deoxy-5-iodo-"
+2020-09-18T07:53:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idoxuridine,US brand name:,Dendrid
+2020-09-18T07:53:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idoxuridine,US brand name:,Herplex
+2020-09-18T07:53:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idoxuridine,US brand name:,Stoxil
+2020-09-18T07:53:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idoxuridine,Foreign brand name:,Idexur
+2020-09-18T07:53:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idoxuridine,Foreign brand name:,Idoxene
+2020-09-18T07:53:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idoxuridine,Foreign brand name:,Idulea
+2020-09-18T07:53:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idoxuridine,Foreign brand name:,Iduridin
+2020-09-18T07:53:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idoxuridine,Foreign brand name:,Kerecid
+2020-09-18T07:53:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idoxuridine,Foreign brand name:,Virudox
+2020-09-18T07:53:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idoxuridine,Abbreviation:,IDUR
+2020-09-18T07:53:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idoxuridine,Abbreviation:,IdURD
+2020-09-18T07:53:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idoxuridine,Abbreviation:,IUdR
+2020-09-18T07:53:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idoxuridine,Code name:,SKF 14287
+2020-09-18T07:53:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idoxuridine,Chemical structure:,1-(2-deoxy-beta-D-ribofuranosyl)-5-iodouracil2'-deoxy-5-iodouridine5-iodo-2'-deoxyuridine
+2020-09-18T07:53:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idronoxil,Synonym:,phenoxodiol
+2020-09-18T07:53:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idronoxil,Code name:,NV-06
+2020-09-18T07:53:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idronoxil,Chemical structure:,3-(4-hydroxyphenyl)-2H-1-benzopyran-7-ol
+2020-09-18T07:53:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idronoxil-suppository-nox66,Code name:,NOX66
+2020-09-18T07:53:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798288,NA,NA
+2020-09-18T07:53:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Synonym:,Ifomide
+2020-09-18T07:53:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Synonym:,Iphosphamid
+2020-09-18T07:53:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Synonym:,iphosphamide
+2020-09-18T07:53:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Synonym:,Isoendoxan
+2020-09-18T07:53:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Synonym:,Iso-Endoxan
+2020-09-18T07:53:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Synonym:,isophosphamide
+2020-09-18T07:53:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Synonym:,Naxamide
+2020-09-18T07:53:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,US brand name:,Ifex
+2020-09-18T07:53:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Foreign brand name:,Holoxan
+2020-09-18T07:53:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Foreign brand name:,Holoxane
+2020-09-18T07:53:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Foreign brand name:,IFO-Cell
+2020-09-18T07:53:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Foreign brand name:,Ifolem
+2020-09-18T07:53:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Foreign brand name:,Ifomida
+2020-09-18T07:53:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Foreign brand name:,Ifoxan
+2020-09-18T07:53:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Foreign brand name:,Mitoxana
+2020-09-18T07:53:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Foreign brand name:,Tronoxal
+2020-09-18T07:53:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Abbreviation:,IFF
+2020-09-18T07:53:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Abbreviation:,IFO
+2020-09-18T07:53:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Abbreviation:,IFX
+2020-09-18T07:53:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Abbreviation:,IPP
+2020-09-18T07:53:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Code name:,Asta Z-4942
+2020-09-18T07:53:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Code name:,MJF-9325
+2020-09-18T07:53:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Code name:,Z-4942
+2020-09-18T07:53:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Chemical structure:,"2-oxo-N,3-bis-(2-chloroethyl) tetrahydro-2H-1,3,2-oxazaphosphorin- 2-amine3-(2-chloroethyl)-2-[(2-chloroethyl)amino]tetrahydro-2H-1,3,2-oxazaphosphorin-2-oxideN,3-bis(2-chloroethyl)tetrahydro-2H-1,3,2-oxazaphosphorin-2-amine 2-oxide"
+2020-09-18T07:53:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Synonym:,Ifomide
+2020-09-18T07:53:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Synonym:,Iphosphamid
+2020-09-18T07:53:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Synonym:,iphosphamide
+2020-09-18T07:53:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Synonym:,Isoendoxan
+2020-09-18T07:53:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Synonym:,Iso-Endoxan
+2020-09-18T07:53:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Synonym:,isophosphamide
+2020-09-18T07:53:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Synonym:,Naxamide
+2020-09-18T07:53:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,US brand name:,Ifex
+2020-09-18T07:53:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Foreign brand name:,Holoxan
+2020-09-18T07:53:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Foreign brand name:,Holoxane
+2020-09-18T07:53:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Foreign brand name:,IFO-Cell
+2020-09-18T07:53:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Foreign brand name:,Ifolem
+2020-09-18T07:53:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Foreign brand name:,Ifomida
+2020-09-18T07:53:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Foreign brand name:,Ifoxan
+2020-09-18T07:53:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Foreign brand name:,Mitoxana
+2020-09-18T07:53:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Foreign brand name:,Tronoxal
+2020-09-18T07:53:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Abbreviation:,IFF
+2020-09-18T07:53:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Abbreviation:,IFO
+2020-09-18T07:53:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Abbreviation:,IFX
+2020-09-18T07:53:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Abbreviation:,IPP
+2020-09-18T07:53:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Code name:,Asta Z-4942
+2020-09-18T07:53:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Code name:,MJF-9325
+2020-09-18T07:53:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Code name:,Z-4942
+2020-09-18T07:53:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ifosfamide,Chemical structure:,"2-oxo-N,3-bis-(2-chloroethyl) tetrahydro-2H-1,3,2-oxazaphosphorin- 2-amine3-(2-chloroethyl)-2-[(2-chloroethyl)amino]tetrahydro-2H-1,3,2-oxazaphosphorin-2-oxideN,3-bis(2-chloroethyl)tetrahydro-2H-1,3,2-oxazaphosphorin-2-amine 2-oxide"
+2020-09-18T07:53:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/igf-1r-antagonist-bms-754807,Code name:,BMS-754807
+2020-09-18T07:53:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802330,Synonym:,isopropanol
+2020-09-18T07:53:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802330,Chemical structure:,2-propanol
+2020-09-18T07:53:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/igf-1r-antisense-oligodeoxynucleotide-treated-autologous-glioma-cells,Synonym:,IGF-1R/AS ODN-treated autologous glioma cells
