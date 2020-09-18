@@ -1077,3 +1077,101 @@ dls_datetime,drug_link,x1,x2
 2020-09-18T01:49:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/melphalan,Code name:,CB-3025
 2020-09-18T01:49:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/melphalan,Code name:,WR-19813
 2020-09-18T01:49:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/melphalan,Chemical structure:,4-[bis(2-chloroethyl)amino]-L-phenylalaninep-di(chloroethyl)amino-L-phenylalanine
+2020-09-18T01:49:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/alk-fak-inhibitor-cep-37440,Code name:,CEP-37440
+2020-09-18T01:49:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799671,Code name:,ZG 0418
+2020-09-18T01:49:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799671,Code name:,ZG0418
+2020-09-18T01:49:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799671,Code name:,ZG-0418
+2020-09-18T01:49:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795374,Synonym:,alkylglycerol and rosemary capsules
+2020-09-18T01:49:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795374,Synonym:,rosemary/alkylglycerol dietary supplement
+2020-09-18T01:49:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fexofenadine-hydrochloride,Synonym:,fexofenadine HCl
+2020-09-18T01:49:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fexofenadine-hydrochloride,US brand name:,Allegra
+2020-09-18T01:49:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/triamcinolone-acetonide,US brand name:,AllerNaze
+2020-09-18T01:49:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/triamcinolone-acetonide,US brand name:,Aristocort A
+2020-09-18T01:49:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/triamcinolone-acetonide,US brand name:,Kenalog
+2020-09-18T01:49:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/triamcinolone-acetonide,US brand name:,Nasacort
+2020-09-18T01:49:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/triamcinolone-acetonide,Chemical structure:,"9-alpha-fluoro-11-beta,21-dihydroxy-16-alpha-isopropylidenedioxy-1,4-pregnadiene,3,20-dione"
+2020-09-18T01:49:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/alloantigen-specific-allogeneic-type-1-regulatory-t-cells-t-allo10,Synonym:,alloantigen-specific TR1 cells Allo10
+2020-09-18T01:49:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/alloantigen-specific-allogeneic-type-1-regulatory-t-cells-t-allo10,Synonym:,alloantigen-specific type 1 Tregs T-allo10
+2020-09-18T01:49:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/alloantigen-specific-allogeneic-type-1-regulatory-t-cells-t-allo10,Synonym:,donor-derived host alloantigen-specific IL-10 anergized T cells
+2020-09-18T01:49:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/alloantigen-specific-allogeneic-type-1-regulatory-t-cells-t-allo10,Synonym:,T-allo10 cells
+2020-09-18T01:49:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/alloantigen-specific-allogeneic-type-1-regulatory-t-cells-t-allo10,Abbreviation:,T-allo10
+2020-09-18T01:49:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allodepleted-haploidentical-t-cells-expressing-inducible-caspase-9,Synonym:,iCasp9 allogeneic T cells
+2020-09-18T01:49:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allodepleted-t-cell-immunotherapeutic-atir101,Synonym:,ATIR
+2020-09-18T01:49:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allodepleted-t-cell-immunotherapeutic-atir101,Synonym:,Theralux-ATIR
+2020-09-18T01:49:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allodepleted-t-cell-immunotherapeutic-atir101,US brand name:,Allodepleted T-cell ImmunotheRapeutics
+2020-09-18T01:49:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allodepleted-t-cell-immunotherapeutic-atir101,Code name:,ATIR101
+2020-09-18T01:49:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allodepleted-t-cell-immunotherapeutic-atir101,Synonym:,ATIR
+2020-09-18T01:49:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allodepleted-t-cell-immunotherapeutic-atir101,Synonym:,Theralux-ATIR
+2020-09-18T01:49:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allodepleted-t-cell-immunotherapeutic-atir101,US brand name:,Allodepleted T-cell ImmunotheRapeutics
+2020-09-18T01:49:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allodepleted-t-cell-immunotherapeutic-atir101,Code name:,ATIR101
+2020-09-18T01:49:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-acute-myeloid-leukemia-antigen-expressing-dendritic-cell-vaccine,Code name:,DCOne
+2020-09-18T01:49:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-acute-myeloid-leukemia-antigen-expressing-dendritic-cell-vaccine,Code name:,DCP-001
+2020-09-18T01:49:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-adenovirus-specific-cytotoxic-t-lymphocytes,Synonym:,allogeneic adenovirus-specific CTLs
+2020-09-18T01:50:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801471,Synonym:,allogeneic adipose-derived MSCs
+2020-09-18T01:50:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801471,Synonym:,allogeneic adipose-derived stem/stromal cells
+2020-09-18T01:50:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801471,Synonym:,allogeneic mesenchymal stem/stromal cells
+2020-09-18T01:50:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800201,Synonym:,ALLO-715 cells
+2020-09-18T01:50:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800201,Synonym:,alloCAR T ALLO-715
+2020-09-18T01:50:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800201,Synonym:,anti-BCMA allogeneic CAR T cells ALLO-715
+2020-09-18T01:50:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800201,Synonym:,BCMA allogeneic CAR T cells ALLO-715
+2020-09-18T01:50:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800201,Code name:,ALLO 715
+2020-09-18T01:50:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800201,Code name:,ALLO715
+2020-09-18T01:50:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800201,Code name:,ALLO-715
+2020-09-18T01:50:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802179,Synonym:,allogeneic anti-BCMA/SLAMF7 bispecific CAR-T cells
+2020-09-18T01:50:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802179,Synonym:,allogeneic BCMA/CS1 bispecific CAR-T cells
+2020-09-18T01:50:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802179,Synonym:,allogeneic BCMA/SLAMF7 bispecific CAR-T cells
+2020-09-18T01:50:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801229,Synonym:,allogeneic anti-BCMA CAR T cells PBCAR269A
+2020-09-18T01:50:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801229,Synonym:,allogeneic anti-BCMA-CAR T lymphocytes PBCAR269A
+2020-09-18T01:50:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801229,Code name:,PBCAR269A
+2020-09-18T01:50:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802167,Synonym:,allogeneic anti-CD19 UCAR-T cells CTA101
+2020-09-18T01:50:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802167,Synonym:,universal CD19-directed CAR-T cells CTA101
+2020-09-18T01:50:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802167,Code name:,CTA 101
+2020-09-18T01:50:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802167,Code name:,CTA101
+2020-09-18T01:50:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802167,Code name:,CTA-101
+2020-09-18T01:50:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797475,Synonym:,allogeneic anti-CD19-CAR T lymphocytes PBCAR0191
+2020-09-18T01:50:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797475,Synonym:,anti-CD19-CAR allogeneic T cells PBCAR0191
+2020-09-18T01:50:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797475,Code name:,PBCAR0191
+2020-09-18T01:50:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802323,Synonym:,LUCAR-20S CAR-T cells
+2020-09-18T01:50:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802323,Code name:,LUCAR 20S
+2020-09-18T01:50:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802323,Code name:,LUCAR20S
+2020-09-18T01:50:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802323,Code name:,LUCAR-20S
+2020-09-18T01:50:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800688,Synonym:,allogeneic anti-CD20 CAR T lymphocytes PBCAR20A
+2020-09-18T01:50:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800688,Code name:,BCAR20A
+2020-09-18T01:50:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800688,Code name:,PBCAR 20A
+2020-09-18T01:50:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800688,Code name:,PBCAR-20A
+2020-09-18T01:50:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tumor-cell-derived-dribbles-vaccine,Synonym:,allogeneic DRibble vaccine DPV-001
+2020-09-18T01:50:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tumor-cell-derived-dribbles-vaccine,Synonym:,allogeneic DRibble vaccine DPV-001
+2020-09-18T01:50:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tumor-cell-derived-dribbles-vaccine,Synonym:,dribble cancer vaccine DPV-001
+2020-09-18T01:50:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tumor-cell-derived-dribbles-vaccine,Synonym:,DRibble vaccine DPV-001
+2020-09-18T01:50:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tumor-cell-derived-dribbles-vaccine,Synonym:,dribbles vaccine DPV-001
+2020-09-18T01:50:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tumor-cell-derived-dribbles-vaccine,Synonym:,DRiPs and SLiPs-containing blebs vaccine DPV-001
+2020-09-18T01:50:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tumor-cell-derived-dribbles-vaccine,Synonym:,vaccine DPV-001
+2020-09-18T01:50:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tumor-cell-derived-dribbles-vaccine,Code name:,DPV 001
+2020-09-18T01:50:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tumor-cell-derived-dribbles-vaccine,Code name:,DPV001
+2020-09-18T01:50:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tumor-cell-derived-dribbles-vaccine,Code name:,DPV-001
+2020-09-18T01:50:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-b71-hla-a1-transfected-tumor-cell-vaccine,NA,NA
+2020-09-18T01:50:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792167,Synonym:,allogeneic engineered T cells expressing anti-CD123 chimeric antigen receptor
+2020-09-18T01:50:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792167,Synonym:,UCART123 T cells
+2020-09-18T01:50:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792167,Synonym:,universal chimeric antigen receptor T cell 123
+2020-09-18T01:50:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792167,Synonym:,universal chimeric antigen receptor T cells targeting CD123
+2020-09-18T01:50:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792167,Synonym:,universal TALEN gene-edited CART123 cells
+2020-09-18T01:50:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792167,Code name:,UCART123
+2020-09-18T01:51:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794267,Synonym:,allogeneic CARCIK-CD19 cells
+2020-09-18T01:51:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794267,Synonym:,transposon-manipulated allogeneic CARCIK-CD19 cells
+2020-09-18T01:51:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/717909,Synonym:,allogeneic CD19CAR-TCM cells
+2020-09-18T01:51:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-natural-killer-cell-line-nk-92,US brand name:,haNK
+2020-09-18T01:51:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-natural-killer-cell-line-nk-92,Code name:,NK-92
+2020-09-18T01:51:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-natural-killer-cell-line-nk-92,Code name:,NK-92 cells
+2020-09-18T01:51:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-cd19-specific-universal-car19-expressing-t-lymphocytes,Synonym:,TCR/CD52-deficient RQR8+ CD19-CAR+ T cells
+2020-09-18T01:51:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-cd19-specific-universal-car19-expressing-t-lymphocytes,Synonym:,UCART 19
+2020-09-18T01:51:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-cd19-specific-universal-car19-expressing-t-lymphocytes,Synonym:,UCART19 cells
+2020-09-18T01:51:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-cd19-specific-universal-car19-expressing-t-lymphocytes,Synonym:,universal chimeric antigen receptor T cell 19
+2020-09-18T01:51:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-cd19-specific-universal-car19-expressing-t-lymphocytes,Synonym:,universal TALEN gene-edited CART19 cells
+2020-09-18T01:51:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-cd19-specific-universal-car19-expressing-t-lymphocytes,Code name:,ALLO-501
+2020-09-18T01:51:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-cd19-specific-universal-car19-expressing-t-lymphocytes,Code name:,S68587
+2020-09-18T01:51:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-cd3--cd19--cd57-nkg2c-nk-cells-fate-nk100,Synonym:,adaptive memory natural killer cells FATE-NK100
+2020-09-18T01:51:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-cd3--cd19--cd57-nkg2c-nk-cells-fate-nk100,Synonym:,adaptive memory NKs cells FATE-NK100
+2020-09-18T01:51:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-cd3--cd19--cd57-nkg2c-nk-cells-fate-nk100,Synonym:,adaptive NK cells FATE-NK100
+2020-09-18T01:51:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-cd3--cd19--cd57-nkg2c-nk-cells-fate-nk100,Synonym:,NKG2C/CD57-expressing adaptive memory natural killer cells FATE-NK100
+2020-09-18T01:51:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-cd3--cd19--cd57-nkg2c-nk-cells-fate-nk100,Code name:,FATE NK100
+2020-09-18T01:51:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-cd3--cd19--cd57-nkg2c-nk-cells-fate-nk100,Code name:,FATE-NK100
