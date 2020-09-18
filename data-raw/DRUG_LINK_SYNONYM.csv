@@ -1175,3 +1175,63 @@ dls_datetime,drug_link,x1,x2
 2020-09-18T01:51:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-cd3--cd19--cd57-nkg2c-nk-cells-fate-nk100,Synonym:,NKG2C/CD57-expressing adaptive memory natural killer cells FATE-NK100
 2020-09-18T01:51:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-cd3--cd19--cd57-nkg2c-nk-cells-fate-nk100,Code name:,FATE NK100
 2020-09-18T01:51:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-cd3--cd19--cd57-nkg2c-nk-cells-fate-nk100,Code name:,FATE-NK100
+2020-09-18T01:51:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794297,Synonym:,allogeneic CD34+E- T-cell depleted PBSCs
+2020-09-18T01:51:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794297,Synonym:,allogeneic CD34+E- T-cell depleted peripheral blood stem cells
+2020-09-18T01:51:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794648,Synonym:,allogeneic CD34+E- T-cell-depleted PBSCs
+2020-09-18T01:51:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794648,Synonym:,allogeneic CD34+E- T-cell-depleted peripheral blood stem cells
+2020-09-18T01:51:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/580835,Foreign brand name:,AlloStim
+2020-09-18T01:51:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801194,Code name:,NEXI 001
+2020-09-18T01:51:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801194,Code name:,NEXI001
+2020-09-18T01:51:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801194,Code name:,NEXI-001
+2020-09-18T01:51:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796811,Synonym:,allogeneic CMV-specific antigen-selected T cells
+2020-09-18T01:51:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796811,Synonym:,allogeneic cytomegalovirus-specific CD4+ and CD8+ T cells
+2020-09-18T01:51:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796811,Synonym:,allogeneic cytomegalovirus-specific CD4+ and CD8+ T lymphocytes
+2020-09-18T01:51:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-cmv-adv-specific-cytotoxic-t-lymphocytes,NA,NA
+2020-09-18T01:52:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799962,Synonym:,allogeneic anti-CD19 CAR CRISPR-edited T cells CTX110
+2020-09-18T01:52:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799962,Synonym:,allogeneic anti-CD19 CAR-T cells CTX110
+2020-09-18T01:52:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799962,Synonym:,allogeneic CRISPR-Cas9 gene-editing CD19-directed CAR T cells CTX110
+2020-09-18T01:52:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799962,Synonym:,allogeneic CRISPR-Cas9-engineered anti-CD19 CAR T cells CTX110
+2020-09-18T01:52:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799962,Code name:,CTX 110
+2020-09-18T01:52:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799962,Code name:,CTX101
+2020-09-18T01:52:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799962,Code name:,CTX110
+2020-09-18T01:52:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799962,Code name:,CTX-110
+2020-09-18T01:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800121,Synonym:,allogeneic gene-edited CAR T cells UCARTCS1A
+2020-09-18T01:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800121,Synonym:,allogeneic TALEN gene-edited CAR T cells UCARTCS1A
+2020-09-18T01:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800121,Synonym:,allogenic engineered T cells expressing anti- CS1 CAR UCARTCS1A
+2020-09-18T01:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800121,Synonym:,UCARTCS1A cells
+2020-09-18T01:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800121,Code name:,UCART CS1A
+2020-09-18T01:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800121,Code name:,UCARTCS1A
+2020-09-18T01:52:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800121,Code name:,UCART-CS1A
+2020-09-18T01:52:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-cytomegalovirus-specific-cytotoxic-t-lymphocytes,Abbreviation:,allogeneic CMV-specific CTLs
+2020-09-18T01:52:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-dendritic-cell-vaccine-combig-dc,Synonym:,COMBIG-DC
+2020-09-18T01:52:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-dendritic-cell-myeloma-idiotype-vaccine,NA,NA
+2020-09-18T01:52:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792387,Synonym:,allogeneic DNT cells
+2020-09-18T01:52:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792387,Code name:,DNT-UHN-1
+2020-09-18T01:52:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-epstein-barr-virus-specific-cytotoxic-t-lymphocytes,Synonym:,allogeneic EBV-specific CTL
+2020-09-18T01:52:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801494,Synonym:,allogeneic glial restricted progenitor cells
+2020-09-18T01:52:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801494,Synonym:,Q-cells
+2020-09-18T01:52:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801494,Abbreviation:,GRPs
+2020-09-18T01:52:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/756037,NA,NA
+2020-09-18T01:52:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-gm-csf-secreting-breast-cancer-vaccine,Abbreviation:,GM-CSF BREAST VAC
+2020-09-18T01:52:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792158,Synonym:,GM-CSF gene-transfected breast cancer vaccine SV-BR-1-GM
+2020-09-18T01:52:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792158,Synonym:,SV-BR-1 breast cancer cell line vaccine
+2020-09-18T01:52:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792158,Synonym:,SV-BR-1-GM
+2020-09-18T01:52:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792158,Synonym:,SV-BR1-GM breast cancer vaccine
+2020-09-18T01:52:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792158,Synonym:,SV-BR-1-GM vaccine
+2020-09-18T01:52:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792158,US brand name:,Bria-IMT
+2020-09-18T01:53:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794145,Synonym:,GVAX allogeneic irradiated pancreatic tumor cell vaccine
+2020-09-18T01:53:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794145,Synonym:,irradiated allogeneic GM-CSF-secreting pancreatic tumor cell vaccine
+2020-09-18T01:53:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-gm-csf-secreting-lethally-irradiated-whole-melanoma-cell-vaccine,Synonym:,GVAX melanoma vaccine
+2020-09-18T01:53:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798454,Synonym:,allogeneic GM-CSF-secreting multiple myeloma vaccine
+2020-09-18T01:53:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798454,Synonym:,allogeneic GVAX myeloma vaccine
+2020-09-18T01:53:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798454,Synonym:,allogeneic myeloma vaccine with GM-CSF-secreting K562 cells
+2020-09-18T01:53:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798454,Synonym:,GVAX allogeneic myeloma vaccine
+2020-09-18T01:53:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-gm-csf-secreting-tumor-vaccine-panc-1005-pcdna-1-gm-neo,Synonym:,PANC 10.05 pcDNA-1/GM-Neo
+2020-09-18T01:53:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-gm-csf-secreting-tumor-vaccine-panc-603-pcdna-1-gm-neo,Synonym:,PANC 6.03 pcDNA-1/GM-Neo
+2020-09-18T01:53:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-gm-csf-transfected-myeloma-cell-vaccine,Synonym:,allogeneic GM-CSF-based myeloma cell vaccine
+2020-09-18T01:53:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-gm-csf-transfected-myeloma-cell-vaccine,Synonym:,allogeneic granulocyte macrophage colony-stimulating factor-transfected myeloma cell vaccine
+2020-09-18T01:53:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796810,Synonym:,allogeneic HAdV antigen-selected T cells
+2020-09-18T01:53:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796810,Synonym:,allogeneic HAdV antigen-selected T lymphocytes
+2020-09-18T01:53:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796810,Synonym:,allogeneic HAdV antigen-specific T cells
+2020-09-18T01:53:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796810,Synonym:,allogeneic human adenovirus-specific T lymphocytes
+2020-09-18T01:53:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-hla-a2-4-1bb-ligand-expressing-melanoma-vaccine,NA,NA
