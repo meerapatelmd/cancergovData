@@ -12591,3 +12591,85 @@ dls_datetime,drug_link,x1,x2
 2020-09-18T07:27:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794007,US brand name:,Sancuso
 2020-09-18T07:27:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794007,US brand name:,Sustol
 2020-09-18T07:27:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794007,Chemical structure:,1-methyl-N-(9-methyl-endo-9-azabicyclo(3.3.1)non-3-yl)-1H-indazole-3-carboxamide
+2020-09-18T07:27:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/granisetron-hydrochloride,Abbreviation:,GRAN
+2020-09-18T07:27:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/granisetron-hydrochloride-nasal-spray,Synonym:,granisetron HCl nasal spray
+2020-09-18T07:27:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/granisetron-hydrochloride-nasal-spray,Synonym:,intranasal granisetron hydrochloride
+2020-09-18T07:27:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/granisetron-hydrochloride-nasal-spray,Abbreviation:,GNS
+2020-09-18T07:27:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/granisetron-transdermal-system,Synonym:,granisetron transdermal patch
+2020-09-18T07:27:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/granisetron-transdermal-system,US brand name:,Sancuso
+2020-09-18T07:27:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim,Synonym:,filgrastim XM02
+2020-09-18T07:27:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim,Synonym:,filgrastim-sndz
+2020-09-18T07:27:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim,Synonym:,G-CSF
+2020-09-18T07:27:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim,Synonym:,granulocyte colony-stimulating factor
+2020-09-18T07:27:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim,Synonym:,Recombinant Methionyl Human Granulocyte Colony Stimulating Factor
+2020-09-18T07:27:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim,Synonym:,tbo-filgrastim
+2020-09-18T07:27:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim,Synonym:,Tbo-filgrastim
+2020-09-18T07:27:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim,US brand name:,Granix
+2020-09-18T07:27:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim,US brand name:,Neupogen
+2020-09-18T07:27:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim,US brand name:,Zarxio
+2020-09-18T07:27:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim,Foreign brand name:,Grasin
+2020-09-18T07:27:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim,Foreign brand name:,Nivestim
+2020-09-18T07:27:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim,Foreign brand name:,Tevagrastim
+2020-09-18T07:27:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim,Abbreviation:,G-CSF
+2020-09-18T07:27:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/filgrastim,Abbreviation:,r-metHuG-CSF
+2020-09-18T07:27:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/lenograstim,Synonym:,Glycosylated Recombinant G-CSF
+2020-09-18T07:27:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/lenograstim,Synonym:,Glycosylated Recombinant Granulocyte Colony Stimulating Factor
+2020-09-18T07:27:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/lenograstim,US brand name:,Granocyte
+2020-09-18T07:27:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/grape-seed-extract-supplement,Synonym:,GSE supplement
+2020-09-18T07:27:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/grape-seed-extract-supplement,Abbreviation:,GSE
+2020-09-18T07:27:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ep4-receptor-antagonist-aat-007,Synonym:,EP4 receptor antagonist AAT-007
+2020-09-18T07:27:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ep4-receptor-antagonist-aat-007,Code name:,AAT-007
+2020-09-18T07:27:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ep4-receptor-antagonist-aat-007,Code name:,"CJ-023,423"
+2020-09-18T07:27:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ep4-receptor-antagonist-aat-007,Code name:,RQ-00000007
+2020-09-18T07:27:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ep4-receptor-antagonist-aat-007,Code name:,RQ-07
+2020-09-18T07:27:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ep4-receptor-antagonist-aat-007,Chemical structure:,"N-[[2,4-(2-ethyl-4,6-dimethyl-1H-imidazo[4,5-c]pyridin-1-yl)phenylethylamino]carbonyl]-4-methyl-benzenesulfonamide"
+2020-09-18T07:27:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802229,Synonym:,green propolis in oil supplement
+2020-09-18T07:27:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802229,Synonym:,propolis supplement
+2020-09-18T07:27:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802229,Synonym:,Taiwan green propolis supplement
+2020-09-18T07:27:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/green-tea,NA,NA
+2020-09-18T07:28:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/green-tea-extract,Synonym:,green tea polyphenols
+2020-09-18T07:28:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/green-tea-extract-based-antioxidant-supplement,Synonym:,green tea polyphenols/epigallocatechin gallate antioxidant solution
+2020-09-18T07:28:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/green-tea-extract-based-antioxidant-supplement,US brand name:,Oncoxin
+2020-09-18T07:28:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/green-tea-lozenge,Foreign brand name:,Can-Tea
+2020-09-18T07:28:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797089,Synonym:,Ocoxin and Viusid
+2020-09-18T07:28:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797089,Synonym:,oral antioxidant solution
+2020-09-18T07:28:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797089,Foreign brand name:,Ocoxin/Viusid
+2020-09-18T07:28:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797089,Foreign brand name:,Ocoxin-Viusid
+2020-09-18T07:28:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799097,Synonym:,GHR antisense oligonucleotide IONIS-GHR-LRx
+2020-09-18T07:28:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799097,Synonym:,IONIS-GHR-LRx
+2020-09-18T07:28:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799097,Synonym:,LICA drug IONIS-GHR-LRx
+2020-09-18T07:28:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799097,Synonym:,ligand-conjugated antisense drug IONIS-GHR-LRx
+2020-09-18T07:28:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gs-pan-notch-inhibitor-bms-906024,Code name:,AL 101
+2020-09-18T07:28:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gs-pan-notch-inhibitor-bms-906024,Code name:,AL101
+2020-09-18T07:28:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gs-pan-notch-inhibitor-bms-906024,Code name:,AL-101
+2020-09-18T07:28:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gs-pan-notch-inhibitor-bms-906024,Code name:,BMS-906024
+2020-09-18T07:28:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796464,Synonym:,glycogen synthase kinase-3 inhibitor 9-ING-41
+2020-09-18T07:28:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796464,Code name:,9 ING 41
+2020-09-18T07:28:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796464,Code name:,9ING41
+2020-09-18T07:28:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796464,Code name:,9-ING-41
+2020-09-18T07:28:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gs-pan-notch-inhibitor-bms-986115,Code name:,BMS-986115
+2020-09-18T07:28:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gti-2040,NA,NA
+2020-09-18T07:28:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/nitroglycerin-transdermal-patch,Synonym:,glyceryl trinitrate transdermal patch
+2020-09-18T07:28:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/nitroglycerin-transdermal-patch,US brand name:,GTN transdermal patch
+2020-09-18T07:28:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/guadecitabine,Abbreviation:,DNMT inhibitor SGI-110
+2020-09-18T07:28:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/guadecitabine,Code name:,S110
+2020-09-18T07:28:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/guadecitabine,Code name:,SGI-110
+2020-09-18T07:29:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/guanabenz-acetate,US brand name:,Wytensin
+2020-09-18T07:29:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/guanabenz-acetate,Chemical structure:,"3-((2,6-dichlorophenyl)methylene)carbazamidine monoacetate"
+2020-09-18T07:29:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/guanazole,NA,NA
+2020-09-18T07:29:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/guarana-supplement,Synonym:,Paullinia cupana supplement
+2020-09-18T07:29:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794796,Synonym:,acacia gum solution
+2020-09-18T07:29:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794796,Synonym:,Acacia senegal
+2020-09-18T07:29:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794796,Synonym:,Acacia senegal solution
+2020-09-18T07:29:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794796,Synonym:,acacia solution
+2020-09-18T07:29:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794796,Synonym:,gum acacia solution
+2020-09-18T07:29:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792847,US brand name:,Tremfya
+2020-09-18T07:29:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792847,Code name:,CNTO 1959
+2020-09-18T07:29:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gusperimus,Synonym:,deoxyspergualin
+2020-09-18T07:29:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gusperimus,Synonym:,Deoxyspergualin Hydrochloride
+2020-09-18T07:29:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gusperimus,Synonym:,Gusperimus Trihydrochloride
+2020-09-18T07:29:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gusperimus,Foreign brand name:,Spanidin
+2020-09-18T07:29:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gusperimus,Abbreviation:,DSG
+2020-09-18T07:29:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gusperimus,Code name:,BMS-181173
+2020-09-18T07:29:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gusperimus,Code name:,BMY-42215-1
+2020-09-18T07:29:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gusperimus,Code name:,NKT-01
