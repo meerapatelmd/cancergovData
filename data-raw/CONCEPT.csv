@@ -7710,3 +7710,27 @@ concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concep
 913169031,Zyprexa,Drug,NCI Drug Dictionary,Label,NA,NA,2020-09-13,2099-12-31,NA
 913169032,Zytiga,Drug,NCI Drug Dictionary,Label,NA,NA,2020-09-13,2099-12-31,NA
 913169033,Zyvox,Drug,NCI Drug Dictionary,Label,NA,NA,2020-09-13,2099-12-31,NA
+915210509,allogeneic anti-CD20 CAR T cells LUCAR-20S,Drug,NCI Drug Dictionary,Label,NA,NA,2020-09-15,2099-12-31,NA
+915210510,allogeneic third-party suicide gene-transduced anti-HLA-DPB1*0401 CD4+ T cells CTL 19,Drug,NCI Drug Dictionary,Label,NA,NA,2020-09-15,2099-12-31,NA
+915210511,alpha-lipoic acid/Boswellia serrata extract/methylsulfonylmethane/bromelain dietary supplement,Drug,NCI Drug Dictionary,Label,NA,NA,2020-09-15,2099-12-31,NA
+915210512,anti-c-MET monoclonal antibody HLX55,Drug,NCI Drug Dictionary,Label,NA,NA,2020-09-15,2099-12-31,NA
+915210513,anti-CD4 CAR T cells,Drug,NCI Drug Dictionary,Label,NA,NA,2020-09-15,2099-12-31,NA
+915210514,anti-mesothelin/MMAE antibody-drug conjugate RC88,Drug,NCI Drug Dictionary,Label,NA,NA,2020-09-15,2099-12-31,NA
+915210515,anti-PD-1/anti-HER2 bispecific antibody IBI315,Drug,NCI Drug Dictionary,Label,NA,NA,2020-09-15,2099-12-31,NA
+915210516,anti-RANKL monoclonal antibody GB-223,Drug,NCI Drug Dictionary,Label,NA,NA,2020-09-15,2099-12-31,NA
+915210517,anti-VEGFR2 monoclonal antibody MSB0254,Drug,NCI Drug Dictionary,Label,NA,NA,2020-09-15,2099-12-31,NA
+915210518,autologous rapamycin-resistant Th1/Tc1 cells RAPA-201,Drug,NCI Drug Dictionary,Label,NA,NA,2020-09-15,2099-12-31,NA
+915210519,BCMA CART cells secreting mutant PD-1Fc fusion protein,Drug,NCI Drug Dictionary,Label,NA,NA,2020-09-15,2099-12-31,NA
+915210520,BCMA-CD19 compound CAR T cells,Drug,NCI Drug Dictionary,Label,NA,NA,2020-09-15,2099-12-31,NA
+915210521,BTK inhibitor HZ-A-018,Drug,NCI Drug Dictionary,Label,NA,NA,2020-09-15,2099-12-31,NA
+915210522,CDK4/6 inhibitor CS3002,Drug,NCI Drug Dictionary,Label,NA,NA,2020-09-15,2099-12-31,NA
+915210523,DNMT1 inhibitor NTX-301,Drug,NCI Drug Dictionary,Label,NA,NA,2020-09-15,2099-12-31,NA
+915210524,factor D inhibitor ALXN2050,Drug,NCI Drug Dictionary,Label,NA,NA,2020-09-15,2099-12-31,NA
+915210525,gallium Ga 68-NOTA-anti-MMR-VHH2 nanobody,Drug,NCI Drug Dictionary,Label,NA,NA,2020-09-15,2099-12-31,NA
+915210526,gallium Ga 68-NOTA-hGZP,Drug,NCI Drug Dictionary,Label,NA,NA,2020-09-15,2099-12-31,NA
+915210527,human lysozyme-containing goat milk,Drug,NCI Drug Dictionary,Label,NA,NA,2020-09-15,2099-12-31,NA
+915210528,liposome-encapsulated TAAs mRNA vaccine W_ova1,Drug,NCI Drug Dictionary,Label,NA,NA,2020-09-15,2099-12-31,NA
+915210529,lutetium Lu 177-DTPA-omburtamab,Drug,NCI Drug Dictionary,Label,NA,NA,2020-09-15,2099-12-31,NA
+915210530,MCL-1 inhibitor ABBV-467,Drug,NCI Drug Dictionary,Label,NA,NA,2020-09-15,2099-12-31,NA
+915210531,mecapegfilgrastim,Drug,NCI Drug Dictionary,Label,NA,NA,2020-09-15,2099-12-31,NA
+915210532,TMPRSS6 RNAi SLN124,Drug,NCI Drug Dictionary,Label,NA,NA,2020-09-15,2099-12-31,NA
