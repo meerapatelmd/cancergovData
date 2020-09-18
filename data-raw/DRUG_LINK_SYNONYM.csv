@@ -2750,3 +2750,76 @@ dls_datetime,drug_link,x1,x2
 2020-09-18T02:30:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfr-monoclonal-antibody-syn004,Code name:,SYN004
 2020-09-18T02:30:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfr-tap-antibody-drug-conjugate-imgn289,Synonym:,anti-EGFR-SMCC-DM1
 2020-09-18T02:30:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfr-tap-antibody-drug-conjugate-imgn289,Code name:,IMGN289
+2020-09-18T02:30:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797352,Synonym:,anti-cMET/EGFR bispecific antibody EMB-01
+2020-09-18T02:30:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797352,Synonym:,anti-EGFR/anti-c-Met bispecific antibody EMB-01
+2020-09-18T02:30:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797352,Synonym:,bispecific antibody EMB-01
+2020-09-18T02:30:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797352,Synonym:,FIT-013a
+2020-09-18T02:30:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797352,Code name:,EMB 01
+2020-09-18T02:30:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797352,Code name:,EMB01
+2020-09-18T02:30:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797352,Code name:,EMB-01
+2020-09-18T02:30:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfr-c-met-bispecific-antibody-jnj-61186372,Code name:,JNJ-61186372
+2020-09-18T02:30:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792639,Synonym:,ADC AVID100
+2020-09-18T02:30:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792639,Synonym:,antibody-drug conjugate AVID100
+2020-09-18T02:30:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792639,Code name:,AVID100
+2020-09-18T02:30:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfr-her2-her3-monoclonal-antibody-mixture-sym013,Synonym:,pan-HER mAb mixture Sym013
+2020-09-18T02:30:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfr-her2-her3-monoclonal-antibody-mixture-sym013,Code name:,Sym013
+2020-09-18T02:30:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfr-her2-her3-monoclonal-antibody-mixture-sym013,Code name:,Sym-013
+2020-09-18T02:30:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfr-her3-monoclonal-antibody-mehd7945a,Synonym:,anti-erbB1/erbB3 monoclonal antibody MEHD7945A
+2020-09-18T02:30:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfr-her3-monoclonal-antibody-mehd7945a,Code name:,MEHD7945A
+2020-09-18T02:31:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793472,Synonym:,ADC ABBV-321
+2020-09-18T02:31:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793472,Synonym:,anti-EGFR/PBD ADC ABBV-321
+2020-09-18T02:31:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793472,Code name:,ABBV 321
+2020-09-18T02:31:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793472,Code name:,ABBV321
+2020-09-18T02:31:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793472,Code name:,ABBV-321
+2020-09-18T02:31:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfrviii-antibody-drug-conjugate-amg-595,Synonym:,anti-EGFRvIII-DM1 immunoconjugate AMG 595
+2020-09-18T02:31:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfrviii-antibody-drug-conjugate-amg-595,Code name:,AMG 595
+2020-09-18T02:31:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfrviii-car-transduced-allogeneic-t-lymphocytes,Synonym:,anti-EGFRvIII CAR PG13-139-CD8-CD28BBZ-transduced T lymphocytes
+2020-09-18T02:31:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfrviii-immunotoxin-mr1-1,Synonym:,MR1-1KDEL
+2020-09-18T02:31:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfrviii-immunotoxin-mr1-1,Synonym:,MR1scFvPE38KDEL
+2020-09-18T02:31:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfrviii-immunotoxin-mr1-1,Code name:,MR1-1
+2020-09-18T02:31:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792074,Synonym:,anti-EGFRvIII x anti-CD3 bi-specific T-cell engager AMG 596
+2020-09-18T02:31:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792074,Synonym:,bispecific BITE antibody AMG 596
+2020-09-18T02:31:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792074,Synonym:,BiTE antibody AMG 596
+2020-09-18T02:31:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792074,Synonym:,EGFRvIII specific BiTE antibody AMG 596
+2020-09-18T02:31:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792074,Code name:,AMG 596
+2020-09-18T02:31:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792074,Code name:,AMG596
+2020-09-18T02:31:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792074,Code name:,AMG-596
+2020-09-18T02:31:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egp-2-immunotoxin-moc31-pe,Synonym:,anti-epithelial glycoprotein-2 immunotoxin MOC31-PE
+2020-09-18T02:31:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egp-2-immunotoxin-moc31-pe,Code name:,MOC31-PE
+2020-09-18T02:31:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-endosialin-tem1-monoclonal-antibody-morab-004,Code name:,MORAb-004
+2020-09-18T02:31:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-enpp3-antibody-drug-conjugate-ags-16c3f,Abbreviation:,ADC AGS-16C3F
+2020-09-18T02:31:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-enpp3-antibody-drug-conjugate-ags-16c3f,Code name:,AGS-16C3F
+2020-09-18T02:31:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ep-cam-monoclonal-antibody-ing-1,Code name:,ING 1
+2020-09-18T02:31:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ep-cam-monoclonal-antibody-ing-1,Code name:,ING-1
+2020-09-18T02:31:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-epha2-antibody-directed-liposomal-docetaxel-prodrug-mm-310,Synonym:,anti-EphA2 antibody-targeted nanoliposome MM-310
+2020-09-18T02:31:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-epha2-antibody-directed-liposomal-docetaxel-prodrug-mm-310,Synonym:,anti-EphA2 docetaxel-based nanoliposome MM-310
+2020-09-18T02:31:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-epha2-antibody-directed-liposomal-docetaxel-prodrug-mm-310,Synonym:,EphA2-targeted docetaxel nanoliposome MM-310
+2020-09-18T02:31:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-epha2-antibody-directed-liposomal-docetaxel-prodrug-mm-310,Code name:,MM 310
+2020-09-18T02:31:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-epha2-antibody-directed-liposomal-docetaxel-prodrug-mm-310,Code name:,MM310
+2020-09-18T02:31:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-epha2-antibody-directed-liposomal-docetaxel-prodrug-mm-310,Code name:,MM-310
+2020-09-18T02:31:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-epha2-monoclonal-antibody-ds-8895a,Code name:,DS-8895a
+2020-09-18T02:32:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-epha2-monoclonal-antibody-mmaf-immunoconjugate-medi-547,Synonym:,1C1-mcMMAF
+2020-09-18T02:32:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-epha2-monoclonal-antibody-mmaf-immunoconjugate-medi-547,Code name:,MEDI-547
+2020-09-18T02:32:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-epha3-monoclonal-antibody-kb004,Abbreviation:,anti-EphA3 mAb KB004
+2020-09-18T02:32:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-epha3-monoclonal-antibody-kb004,Code name:,KB004
+2020-09-18T02:32:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/778383,Synonym:,anti-epidermal growth factor receptor 2 antibody expressing pluripotent killer T cells
+2020-09-18T02:32:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/778383,Synonym:,anti-ERBB2 antibody expressing pluripotent killer T cells
+2020-09-18T02:32:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/778383,Synonym:,anti-ERBB2 antibody expressing pluripotent killer T lymphocytes
+2020-09-18T02:32:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/778383,Synonym:,anti-HER2 antibody expressing pluripotent killer T cells
+2020-09-18T02:32:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/778383,Synonym:,anti-HER2 antibody expressing pluripotent killer T lymphocytes
+2020-09-18T02:32:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/778383,Synonym:,PIK-HER2
+2020-09-18T02:32:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-erbb2-anti-erbb3-bispecific-monoclonal-antibody-mm-111,Code name:,MM-111
+2020-09-18T02:32:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797411,Synonym:,anti-HER3 antibody ISU104
+2020-09-18T02:32:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797411,Code name:,ISU 104
+2020-09-18T02:32:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797411,Code name:,ISU104
+2020-09-18T02:32:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797411,Code name:,ISU-104
+2020-09-18T02:32:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-erbb3-monoclonal-antibody-av-203,Synonym:,anti-ErbB3 MoAb AV-203
+2020-09-18T02:32:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-erbb3-monoclonal-antibody-av-203,Code name:,AV-203
+2020-09-18T02:32:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-erbb3-monoclonal-antibody-ktn3379,Synonym:,anti-ErbB3 monoclonal antibody KTN3379
+2020-09-18T02:32:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-erbb3-monoclonal-antibody-ktn3379,Synonym:,anti-HER3 monoclonal antibody CDX-3379
+2020-09-18T02:32:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-erbb3-monoclonal-antibody-ktn3379,Code name:,CDX 3379
+2020-09-18T02:32:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-erbb3-monoclonal-antibody-ktn3379,Code name:,CDX3379
+2020-09-18T02:32:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-erbb3-monoclonal-antibody-ktn3379,Code name:,CDX-3379
+2020-09-18T02:32:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-erbb3-monoclonal-antibody-ktn3379,Code name:,KTN 3379
+2020-09-18T02:32:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-erbb3-monoclonal-antibody-ktn3379,Code name:,KTN3379
+2020-09-18T02:32:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-erbb3-monoclonal-antibody-ktn3379,Code name:,KTN-3379
