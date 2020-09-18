@@ -10326,3 +10326,92 @@ dls_datetime,drug_link,x1,x2
 2020-09-18T06:32:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoetin-alfa,US brand name:,Retacrit
 2020-09-18T06:32:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoetin-alfa,Foreign brand name:,Eprex
 2020-09-18T06:32:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoetin-alfa,Abbreviation:,EPO
+2020-09-18T06:32:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoetin-beta,US brand name:,Recormon
+2020-09-18T06:32:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoetin-beta,Foreign brand name:,NeoRecormon
+2020-09-18T06:32:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoetin-beta,Acronym:,EPOB
+2020-09-18T06:32:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoetin-zeta,Foreign brand name:,Retacrit
+2020-09-18T06:32:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoetin-zeta,Foreign brand name:,Silapo
+2020-09-18T06:32:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoetin-zeta,Code name:,SB309
+2020-09-18T06:32:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoetin-alfa,Synonym:,erythropoietin
+2020-09-18T06:32:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoetin-alfa,Synonym:,r-HuEPO
+2020-09-18T06:32:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoetin-alfa,US brand name:,Epogen
+2020-09-18T06:32:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoetin-alfa,US brand name:,Procrit
+2020-09-18T06:32:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoetin-alfa,US brand name:,Retacrit
+2020-09-18T06:32:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoetin-alfa,Foreign brand name:,Eprex
+2020-09-18T06:32:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoetin-alfa,Abbreviation:,EPO
+2020-09-18T06:32:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epothilone-analog-utd1,Code name:,UTD1
+2020-09-18T06:32:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epothilone-d,Synonym:,"12,13-Deoxyepothilone B"
+2020-09-18T06:32:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epothilone-d,Synonym:,desoxyepothilone B
+2020-09-18T06:32:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epothilone-d,Code name:,KOS 862
+2020-09-18T06:32:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epothilone-d,Chemical structure:,"(4S-(4R*,7S,8R*,9R*,13Z,16R*(E)))-4,8-Dihydroxy-5,5,7,9,13-pentamethyl-16-(1-methyl-2-(2-methyl-4-thiazolyl)ethenyl)oxacyclohexadec-13-ene-2,6-dione"
+2020-09-18T06:32:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epothilone-kos-1584,Code name:,KOS-1584
+2020-09-18T06:32:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epothilone-kos-1584,Chemical structure:,"9,10-didehydroepothilone D"
+2020-09-18T06:32:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epratuzumab,Synonym:,AMG 412
+2020-09-18T06:32:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epratuzumab,Synonym:,Humanized Anti-CD22 Monoclonal Antibody IgG1
+2020-09-18T06:32:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epratuzumab,Synonym:,LL2
+2020-09-18T06:32:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epratuzumab,Synonym:,monoclonal antibody LL2
+2020-09-18T06:32:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epratuzumab,US brand name:,LymphoCide
+2020-09-18T06:32:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epratuzumab,Abbreviation:,hLL2
+2020-09-18T06:32:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epratuzumab,Abbreviation:,MOAB LL2
+2020-09-18T06:32:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794990,Synonym:,ADC ADCT-602
+2020-09-18T06:32:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794990,Synonym:,antibody-drug conjugate ADCT-602
+2020-09-18T06:32:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794990,Synonym:,anti-CD22/PBD ADC ADCT-602
+2020-09-18T06:32:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794990,Synonym:,epratuzumab-cys-SG3249
+2020-09-18T06:32:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794990,Synonym:,hLL2-cys-PBD
+2020-09-18T06:32:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794990,Synonym:,hLL2-cys-SG3249
+2020-09-18T06:32:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794990,Code name:,ADCT 602
+2020-09-18T06:32:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794990,Code name:,ADCT602
+2020-09-18T06:32:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794990,Code name:,ADCT-602
+2020-09-18T06:33:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/eprodisate-disodium,US brand name:,Kiacta
+2020-09-18T06:33:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/eprodisate-disodium,Code name:,NC 503
+2020-09-18T06:33:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/eprodisate-disodium,Chemical structure:,"1,3-propanedisulfonic acid, disodium salt"
+2020-09-18T06:33:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792670,Synonym:,EPS8 peptide-specific DCs
+2020-09-18T06:33:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799764,Synonym:,ER alpha PROTAC protein degrader ARV-471
+2020-09-18T06:33:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799764,Synonym:,estrogen receptor alpha PROTAC protein degrader ARV-471
+2020-09-18T06:33:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799764,Synonym:,PROTAC protein degrader ARV-471
+2020-09-18T06:33:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799764,Code name:,ARV 471
+2020-09-18T06:33:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799764,Code name:,ARV471
+2020-09-18T06:33:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799764,Code name:,ARV-471
+2020-09-18T06:33:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/era36-modulator-icaritin,Synonym:,icaritin
+2020-09-18T06:33:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/era36-modulator-icaritin,Chemical structure:,"4H-1-benzopyran-4-one, 3,5,7-trihydroxy-2-(4-methoxyphenyl)-8-(3-methyl-2-butenyl)-"
+2020-09-18T06:33:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erastin-analogue-prlx-93936,Code name:,PRLX 93936
+2020-09-18T06:33:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erb-38-immunotoxin,Synonym:,erb-38
+2020-09-18T06:33:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cetuximab,Synonym:,Anti-EGFR Monoclonal Antibody
+2020-09-18T06:33:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cetuximab,Synonym:,Anti-Epidermal Growth Factor Receptor Monoclonal Antibody
+2020-09-18T06:33:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cetuximab,Synonym:,C225 monoclonal antibody
+2020-09-18T06:33:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cetuximab,Synonym:,cetuximab biosimilar CDP-1
+2020-09-18T06:33:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cetuximab,Synonym:,cetuximab biosimilar CMAB009
+2020-09-18T06:33:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cetuximab,Synonym:,cetuximab biosimilar KL 140
+2020-09-18T06:33:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cetuximab,Synonym:,Chimeric Anti-EGFR Monoclonal Antibody
+2020-09-18T06:33:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cetuximab,Synonym:,Chimeric Monoclonal Antibody C225
+2020-09-18T06:33:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cetuximab,Synonym:,"Immunoglobulin G1, anti-(human epidermal growth factor receptor) (human-mouse monoclonal C225 gamma1-chain), disulfide with human-mouse monoclonal C225 kappa-chain, dimer"
+2020-09-18T06:33:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cetuximab,Synonym:,monoclonal antibody C225
+2020-09-18T06:33:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cetuximab,US brand name:,Erbitux
+2020-09-18T06:33:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cetuximab,Abbreviation:,Chimeric MoAb C225
+2020-09-18T06:33:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cetuximab,Abbreviation:,MOAB C225
+2020-09-18T06:33:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cetuximab,Code name:,C225
+2020-09-18T06:33:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cetuximab,Code name:,IMC-C225
+2020-09-18T06:33:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erdafitinib,Synonym:,pan-FGFR tyrosine kinase inhibitor JNJ-42756493
+2020-09-18T06:33:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erdafitinib,US brand name:,Balversa
+2020-09-18T06:33:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erdafitinib,Code name:,JNJ-42756493
+2020-09-18T06:33:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/levamisole-hydrochloride,Synonym:,l-tetramisole hydrochloride
+2020-09-18T06:33:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/levamisole-hydrochloride,US brand name:,Ergamisol
+2020-09-18T06:33:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/levamisole-hydrochloride,Foreign brand name:,Ascaridil
+2020-09-18T06:33:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/levamisole-hydrochloride,Foreign brand name:,Decaris
+2020-09-18T06:33:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/levamisole-hydrochloride,Foreign brand name:,Ergamisole
+2020-09-18T06:33:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/levamisole-hydrochloride,Foreign brand name:,Ketrax
+2020-09-18T06:33:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/levamisole-hydrochloride,Foreign brand name:,Solaskil
+2020-09-18T06:33:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/levamisole-hydrochloride,Abbreviation:,LEV
+2020-09-18T06:33:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/levamisole-hydrochloride,Code name:,ICI-59623
+2020-09-18T06:33:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/levamisole-hydrochloride,Code name:,R 12564
+2020-09-18T06:33:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/levamisole-hydrochloride,Code name:,RP-20605
+2020-09-18T06:33:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/levamisole-hydrochloride,Chemical structure:,"(-)-( S)-2,3,5, 6-tetrahydro-6-phenylimidazo [2,1-b] thiazole monohydrochloride"
+2020-09-18T06:33:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ergocalciferol,Synonym:,vitamin D2
+2020-09-18T06:33:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ergocalciferol,Chemical structure:,"9,10-secoergosta-5,7,10(19),22-tetraen-3-beta-ol"
+2020-09-18T06:33:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/eribulin-mesylate,Synonym:,halichrondrin B analog
+2020-09-18T06:33:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/eribulin-mesylate,US brand name:,Halaven
+2020-09-18T06:33:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/eribulin-mesylate,Code name:,B1939 mesylate
+2020-09-18T06:33:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/eribulin-mesylate,Code name:,E7389
+2020-09-18T06:33:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/eribulin-mesylate,Code name:,ER-086526
+2020-09-18T06:34:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/eritoran-tetrasodium,Code name:,E5564
+2020-09-18T06:34:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/eritoran-tetrasodium,Chemical structure:,"alpha-D-glucopyranose,3-O-decyl-2-deoxy-6-O-[2-deoxy-3-O-[(3R)-3-methoxydecyl]-6-O-methyl-2-[[(11Z)-1-oxo-11-octadecenyl]amino]-4-O-phosphono--D-glucopyranosyl]-2-[(1,3-dioxotetradecyl)amino]-1-(dihydrogen phosphate), tetrasodium salt"
