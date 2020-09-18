@@ -12673,3 +12673,82 @@ dls_datetime,drug_link,x1,x2
 2020-09-18T07:29:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gusperimus,Code name:,BMS-181173
 2020-09-18T07:29:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gusperimus,Code name:,BMY-42215-1
 2020-09-18T07:29:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gusperimus,Code name:,NKT-01
+2020-09-18T07:29:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gvax-pancreatic-cancer-vaccine,Synonym:,GM-CSF gene transduced autologous pancreatic cancer vaccine
+2020-09-18T07:29:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794878,Synonym:,prodrug APX001
+2020-09-18T07:29:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794878,Code name:,APX001
+2020-09-18T07:29:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794878,Code name:,E1211
+2020-09-18T07:29:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clotrimazole,US brand name:,Gyne-Lotrimin
+2020-09-18T07:29:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clotrimazole,US brand name:,Lotrimin
+2020-09-18T07:29:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clotrimazole,US brand name:,Mycelex
+2020-09-18T07:29:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clotrimazole,US brand name:,Mycelex Troche
+2020-09-18T07:29:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clotrimazole,Abbreviation:,CLOT
+2020-09-18T07:29:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/clotrimazole,Chemical structure:,1-[(2-Chlorophenyl)diphenylmethyl]-1H-imidazole
+2020-09-18T07:29:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/h1299-tumor-cell-lysate-vaccine,Synonym:,H1299 lysate vaccine
+2020-09-18T07:29:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/h33k27m-specific-peptide-vaccine,Synonym:,H3.3K27M peptide vaccine
+2020-09-18T07:30:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792681,Synonym:,bacteriophage cancer vaccine SNS-301
+2020-09-18T07:30:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792681,Synonym:,HAAH-1/2/3 lambda phage vaccine SNS-301
+2020-09-18T07:30:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792681,Synonym:,nanoparticle HAAH vaccine SNS-301
+2020-09-18T07:30:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792681,Code name:,PAN 301-1
+2020-09-18T07:30:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792681,Code name:,PAN-301-1
+2020-09-18T07:30:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792681,Code name:,SNS 301
+2020-09-18T07:30:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792681,Code name:,SNS301
+2020-09-18T07:30:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792681,Code name:,SNS-301
+2020-09-18T07:30:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fermented-soybean-protein-beverage,US brand name:,Haelan 951
+2020-09-18T07:30:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hafnium-oxide-containing-nanoparticles-nbtxr3,Code name:,NBTXR3
+2020-09-18T07:30:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/eribulin-mesylate,Synonym:,halichrondrin B analog
+2020-09-18T07:30:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/eribulin-mesylate,US brand name:,Halaven
+2020-09-18T07:30:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/eribulin-mesylate,Code name:,B1939 mesylate
+2020-09-18T07:30:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/eribulin-mesylate,Code name:,E7389
+2020-09-18T07:30:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/eribulin-mesylate,Code name:,ER-086526
+2020-09-18T07:30:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/haloperidol,US brand name:,Haldol
+2020-09-18T07:30:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/haloperidol,Code name:,McN-JR-1625
+2020-09-18T07:30:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/haloperidol,Code name:,R-1625
+2020-09-18T07:30:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/haloperidol,Chemical structure:,4-[4-(4-chlorophenyl)-4-hydroxy-1-piperidinyl]-1-(4-fluorophenyl)-1-butanone
+2020-09-18T07:30:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795713,Code name:,E 7130
+2020-09-18T07:30:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795713,Code name:,E7130
+2020-09-18T07:30:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795713,Code name:,E-7130
+2020-09-18T07:30:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/halofuginone-hydrobromide,Synonym:,halofuginone IV (intravenous)
+2020-09-18T07:30:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/halofuginone-hydrobromide,US brand name:,Tempostatin
+2020-09-18T07:30:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/halofuginone-hydrobromide,Code name:,RU 19110
+2020-09-18T07:30:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/haloperidol,US brand name:,Haldol
+2020-09-18T07:30:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/haloperidol,Code name:,McN-JR-1625
+2020-09-18T07:30:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/haloperidol,Code name:,R-1625
+2020-09-18T07:30:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/haloperidol,Chemical structure:,4-[4-(4-chlorophenyl)-4-hydroxy-1-piperidinyl]-1-(4-fluorophenyl)-1-butanone
+2020-09-18T07:30:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793914,Synonym:,ledipasvir and sofosbuvir
+2020-09-18T07:30:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793914,Synonym:,ledipasvir/sofosbuvir
+2020-09-18T07:30:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793914,Synonym:,ledipasvir/sofosbuvir tablet
+2020-09-18T07:30:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793914,Synonym:,ledipasvir-sofosbuvir
+2020-09-18T07:30:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793914,US brand name:,Harvoni
+2020-09-18T07:30:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hepatitis-a-vaccine,US brand name:,Havrix
+2020-09-18T07:30:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hepatitis-a-vaccine,US brand name:,Vaqta
+2020-09-18T07:30:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hcv-dna-vaccine-ino-8000,Code name:,INO-8000
+2020-09-18T07:31:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797880,Synonym:,class I/IIb HDACi HG146
+2020-09-18T07:31:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797880,Synonym:,HDAC I/IIb selective inhibitor HG146
+2020-09-18T07:31:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797880,Code name:,HG 146
+2020-09-18T07:31:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797880,Code name:,HG0146
+2020-09-18T07:31:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797880,Code name:,HG146
+2020-09-18T07:31:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797880,Code name:,HG-146
+2020-09-18T07:31:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797880,Code name:,HG280146
+2020-09-18T07:31:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797880,Code name:,HG280146-P1
+2020-09-18T07:31:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hdac-inhibitor-acy-241,Synonym:,histone deacetylase inhibitor ACY-241
+2020-09-18T07:31:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hdac-inhibitor-acy-241,Code name:,ACY-241
+2020-09-18T07:31:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hdac-inhibitor-ar-42,Code name:,AR-42
+2020-09-18T07:31:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hdac-inhibitor-ar-42,Code name:,HDAC-42
+2020-09-18T07:31:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hdac-inhibitor-ar-42,Code name:,OSU-HDAC42
+2020-09-18T07:31:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hdac-inhibitor-ar-42,Chemical structure:,(S)-N-hydroxy-4-(3-methyl-2-phenylbutanamido)benzamide
+2020-09-18T07:31:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hdac-inhibitor-cg200745,Abbreviation:,HDI CG200745
+2020-09-18T07:31:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hdac-inhibitor-cg200745,Code name:,CG200745
+2020-09-18T07:31:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hdac-inhibitor-cg200745,Chemical structure:,(E)-N(1)-(3-(dimethylamino)propyl)-N(8)-hydroxy-2-((naphthalene-1-loxy)methyl)oct-2-enediamide
+2020-09-18T07:31:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hdac-inhibitor-chr-2845,Synonym:,histone deacetylase inhibitor CHR-2845
+2020-09-18T07:31:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hdac-inhibitor-chr-2845,Code name:,CHR-2845
+2020-09-18T07:31:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792522,Code name:,CKD 581
+2020-09-18T07:31:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792522,Code name:,CKD581
+2020-09-18T07:31:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792522,Code name:,CKD-581
+2020-09-18T07:31:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hdac-inhibitor-cxd101,Synonym:,histone deacetylase inhibitor CXD101
+2020-09-18T07:31:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hdac-inhibitor-cxd101,Code name:,AZD 9468
+2020-09-18T07:31:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hdac-inhibitor-cxd101,Code name:,AZD9468
+2020-09-18T07:31:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hdac-inhibitor-cxd101,Code name:,CXD101
+2020-09-18T07:31:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hdac-inhibitor-mpt0e028,Code name:,MPT 0E028
+2020-09-18T07:31:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hdac-inhibitor-mpt0e028,Code name:,MPT0E028
+2020-09-18T07:31:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hdac-inhibitor-mpt0e028,Code name:,MPT-0E028
+2020-09-18T07:31:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hdac-inhibitor-mpt0e028,Chemical structure:,"(E)-N-hydroxy-3-(1-(phenylsulfonyl)indolin-5-yl)acrylamide3-(1-benzenesulfonyl-2,3-dihydro-1H-indol-5-yl)-N-hydroxy-acrylamide"
