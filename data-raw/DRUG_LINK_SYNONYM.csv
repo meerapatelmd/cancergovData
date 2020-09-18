@@ -1368,3 +1368,92 @@ dls_datetime,drug_link,x1,x2
 2020-09-18T01:56:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/almurtide,Synonym:,nor-MDP
 2020-09-18T01:56:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/almurtide,Code name:,Cgp-11637
 2020-09-18T01:56:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/almurtide,Chemical structure:,N-acetyl-nor-muramyl-L-alanyl-D-isoglutamine
+2020-09-18T01:56:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/injectable-liposomal-vinorelbine,Synonym:,vinorelbine liposomes injection
+2020-09-18T01:56:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/injectable-liposomal-vinorelbine,US brand name:,Alocrest
+2020-09-18T01:56:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/injectable-liposomal-vinorelbine,Acronym:,VLI
+2020-09-18T01:56:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/aloe-vera-gel,NA,NA
+2020-09-18T01:56:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799796,US brand name:,Alantel
+2020-09-18T01:56:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/751302,NA,NA
+2020-09-18T01:56:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/alogliptin,Chemical structure:,"benzonitrile, 2-[[6-[(3R)-3-amino-1-piperidinyl]-3,4-dihydro-3-methyl-2,4-dioxo-1(2H)- pyrimidinyl]methyl]-"
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Alositol
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Anoprolin
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Anzief
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Apurol
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Bleminol
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Bloxanth
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Embarin
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Epidropal
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Folligan
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Geapur
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Ketobun-A
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,sodium allopurinol
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Urbol
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Uricemil
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Urosin
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Xanturat
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Zyloric
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,US brand name:,Aloprim
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,US brand name:,Lopurin
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,US brand name:,Zurinol
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,US brand name:,Zyloprim
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Adenock
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Allo-Puren
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Allozym
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Allural
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Aloral
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Alositol
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Anoprolin
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Anzief
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Apulonga
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Apurin
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Apurol
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Bleminol
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Bloxanth
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Caplenal
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Cellidrin
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Cosuric
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Dabroson
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Embarin
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Epidropal
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Folligan
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Geapur
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Gichtex
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Hamarin
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Hexanurat
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Ketanrift
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Ketobun-A
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Ledopur
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Lysuron
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Miniplanor
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Monarch
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Nektrohan
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Remid
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Riball
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Sigapurol
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Suspendol
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Takanarumin
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Urbol
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Uricemil
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Uripurinol
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Urosin
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Urtias
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Xanturat
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Zyloric
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Abbreviation:,4'-HPP
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Code name:,BW 56158
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Code name:,BW-56158
+2020-09-18T01:56:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Chemical structure:,"1,5-dihydro-4H-pyrazolo[3,4-d]pryimidin-4-one monosodium salt1H-pyrazolo[3,4-d]pyrimidin-4-ol monosodium salt4-hydroxypyrazolo[3,4-d]pyrimidine"
+2020-09-18T01:56:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/palonosetron-hydrochloride,US brand name:,Aloxi
+2020-09-18T01:56:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/palonosetron-hydrochloride,Code name:,RS 25259-197
+2020-09-18T01:56:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/palonosetron-hydrochloride,Chemical structure:,"1H-Benz(de)isoquinolin-1-one, 2-(3S)-1-azabicyclo(2.2.2)oct-3-yl-2,3,3a,4,5,6-hexahydro-, Monohydrochloride,(3aS)-"
+2020-09-18T01:56:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/alpelisib,Synonym:,phosphoinositide 3-kinase inhibitor BYL719
+2020-09-18T01:56:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/alpelisib,Synonym:,PI3K inhibitor BYL719
+2020-09-18T01:56:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/alpelisib,US brand name:,Piqray
+2020-09-18T01:56:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/alpelisib,Code name:,BYL719
+2020-09-18T01:56:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/alpha-fetoprotein-adenoviral-vector-vaccine,Abbreviation:,AdVhAFP
+2020-09-18T01:56:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/alpha-fetoprotein-plasmid-dna-vaccine,Abbreviation:,phAFP
+2020-09-18T01:57:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799503,Synonym:,aGal AGI-134
+2020-09-18T01:57:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799503,Synonym:,anti-alpha Gal immunotherapeutic AGI-134
+2020-09-18T01:57:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799503,Code name:,AGI 134
+2020-09-18T01:57:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799503,Code name:,AGI134
+2020-09-18T01:57:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799503,Code name:,AGI-134
