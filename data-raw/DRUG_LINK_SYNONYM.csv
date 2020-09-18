@@ -1784,3 +1784,969 @@ dls_datetime,drug_link,x1,x2
 2020-09-18T02:04:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anakinra,Synonym:,IL-1ra
 2020-09-18T02:04:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anakinra,Synonym:,interleukin-1 receptor antagonist
 2020-09-18T02:04:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anakinra,US brand name:,Kineret
+2020-09-18T02:04:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anamorelin-hydrochloride,Code name:,RC-1291
+2020-09-18T02:05:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anastrozole,US brand name:,Arimidex
+2020-09-18T02:05:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anastrozole,Abbreviation:,ANAS
+2020-09-18T02:05:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anastrozole,Code name:,ICI D1033
+2020-09-18T02:05:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anastrozole,Code name:,ICI-D1033
+2020-09-18T02:05:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anastrozole,Code name:,ZD-1033
+2020-09-18T02:05:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anastrozole,Chemical structure:,"2,2'-[5-(1H-1,2,4-triazol-1-ylmethyl)-1,3-phenylene]di(2-methylpropionitrile)alpha,alpha,alpha', alpha'-tetramethyl-5-(1H-1,2,4-triazol-1-ylmethyl)-1,3-benzenediacetonitrile"
+2020-09-18T02:05:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anaxirone,Synonym:,triglycidylurazol
+2020-09-18T02:05:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anaxirone,Abbreviation:,TGU
+2020-09-18T02:05:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anaxirone,Chemical structure:,"1,2,4-triglycidylurazol"
+2020-09-18T02:05:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cefazolin-sodium,US brand name:,Ancef
+2020-09-18T02:05:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cefazolin-sodium,US brand name:,Kefzol
+2020-09-18T02:05:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cefazolin-sodium,Code name:,SKF 41558
+2020-09-18T02:05:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cefazolin-sodium,Chemical structure:,"(6R-trans)-3-(((5-methyl-1,3,4-thiadiazol-2-yl)thio)methyl)-8-oxo-7-(((1H-tetrazol-1-yl)acetyl)amino)-5-thia-1-azabicyclo(4.2.0)oct-2-ene-2-carboxylic acid, sodium salt"
+2020-09-18T02:05:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ancitabine-hydrochloride,Synonym:,Cyclo-C
+2020-09-18T02:05:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ancitabine-hydrochloride,Synonym:,cycloCMP hydrochloride
+2020-09-18T02:05:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ancitabine-hydrochloride,Synonym:,cyclocytidine HCL
+2020-09-18T02:05:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ancitabine-hydrochloride,Synonym:,cyclocytidine hydrochloride
+2020-09-18T02:05:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ancitabine-hydrochloride,Foreign brand name:,Ancid
+2020-09-18T02:05:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ancitabine-hydrochloride,Code name:,"U-33, 624A"
+2020-09-18T02:05:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ancitabine-hydrochloride,Chemical structure:,"6H-furo(2',3':4,5)oxazolo(3,2-a)pyrimidine-2-methanol,2,3,3a,9a-tetrahydro-3-hydroxy-6-imino-,(2R(2alpha,3beta,3a beta,9a beta))"
+2020-09-18T02:05:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flucytosine,Synonym:,5-fluorocytosine
+2020-09-18T02:05:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flucytosine,US brand name:,Ancobon
+2020-09-18T02:05:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flucytosine,Foreign brand name:,Alcobon
+2020-09-18T02:05:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flucytosine,Foreign brand name:,Ancotil
+2020-09-18T02:05:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flucytosine,Abbreviation:,5-FC
+2020-09-18T02:05:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flucytosine,Code name:,Ro 2-9915
+2020-09-18T02:05:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flucytosine,Code name:,Ro-2-9915
+2020-09-18T02:05:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flucytosine,Chemical structure:,4-amino-5-fluoro-2(1H)-pyrimidinone
+2020-09-18T02:05:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795022,US brand name:,Andro LA
+2020-09-18T02:05:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795022,US brand name:,Delatestryl
+2020-09-18T02:05:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795022,US brand name:,Everone
+2020-09-18T02:05:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795022,US brand name:,Primosteston
+2020-09-18T02:05:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795022,US brand name:,Testate
+2020-09-18T02:05:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795022,Foreign brand name:,Androtardyl
+2020-09-18T02:05:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795022,Foreign brand name:,Testinon
+2020-09-18T02:05:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795022,Foreign brand name:,Testo-Enant
+2020-09-18T02:05:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/testosterone-gel,US brand name:,AndroGel
+2020-09-18T02:05:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/androgen-antagonist-apc-100,Code name:,APC-100
+2020-09-18T02:05:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/androgen-antagonist-apc-100,Chemical structure:,"pentamethylchromanol, 2,2,5,7,8-pentamethyl-6"
+2020-09-18T02:05:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792679,Synonym:,AR antagonist BAY 1161116
+2020-09-18T02:05:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792679,Code name:,BAY 1161116
+2020-09-18T02:05:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792679,Code name:,BAY1161116
+2020-09-18T02:05:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792679,Code name:,BAY-1161116
+2020-09-18T02:05:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792562,Synonym:,AR antagonist ONC1-0013B
+2020-09-18T02:05:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792562,Code name:,ONC 10013B
+2020-09-18T02:05:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792562,Code name:,ONC 113 B
+2020-09-18T02:05:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792562,Code name:,ONC1-0013B
+2020-09-18T02:05:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792562,Code name:,ONC-10013B
+2020-09-18T02:05:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792562,Code name:,ONC113B
+2020-09-18T02:05:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792562,Code name:,ONC1-13B
+2020-09-18T02:05:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792562,Chemical structure:,"(R)-4-(3-(4-cyano-3-(trifluoromethyl)phenyl)-4-oxo-2-thioxo-7-oxa-1,3-diazaspiro[4.4]nonan-1-yl)-2-fluoro-N-methylbenzamide"
+2020-09-18T02:05:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/androgen-receptor-antagonist-shr3680,Code name:,SHR 3680
+2020-09-18T02:05:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/androgen-receptor-antagonist-shr3680,Code name:,SHR3680
+2020-09-18T02:06:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/androgen-receptor-antagonist-tas3681,Synonym:,androgen receptor inhibitor TAS3681
+2020-09-18T02:06:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/androgen-receptor-antagonist-tas3681,Synonym:,AR antagonist TAS3681
+2020-09-18T02:06:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/androgen-receptor-antagonist-tas3681,Code name:,TAS 3681
+2020-09-18T02:06:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/androgen-receptor-antagonist-tas3681,Code name:,TAS3681
+2020-09-18T02:06:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/androgen-receptor-antagonist-trc253,Synonym:,AR antagonist TRC253
+2020-09-18T02:06:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/androgen-receptor-antagonist-trc253,Code name:,JNJ 63576253
+2020-09-18T02:06:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/androgen-receptor-antagonist-trc253,Code name:,JNJ -63576253
+2020-09-18T02:06:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/androgen-receptor-antagonist-trc253,Code name:,JNJ63576253
+2020-09-18T02:06:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/androgen-receptor-antagonist-trc253,Code name:,TRC 253
+2020-09-18T02:06:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/androgen-receptor-antagonist-trc253,Code name:,TRC253
+2020-09-18T02:06:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/androgen-receptor-antagonist-trc253,Code name:,TRC-253
+2020-09-18T02:06:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/androgen-receptor-antisense-oligonucleotide-azd5312,Synonym:,ISIS-ARRx
+2020-09-18T02:06:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/androgen-receptor-antisense-oligonucleotide-azd5312,Synonym:,ISIS-AZ1Rx
+2020-09-18T02:06:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/androgen-receptor-antisense-oligonucleotide-azd5312,Code name:,AZD5312
+2020-09-18T02:06:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/androgen-receptor-antisense-oligonucleotide-ezn-4176,Synonym:,androgen receptor mRNA antagonist LNA antisense oligonucleotide EZN-4176
+2020-09-18T02:06:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/androgen-receptor-antisense-oligonucleotide-ezn-4176,Synonym:,androgen receptor mRNA antagonist locked nucleic acid antisense oligonucleotide EZN-4176
+2020-09-18T02:06:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/androgen-receptor-antisense-oligonucleotide-ezn-4176,Code name:,EZN-4176
+2020-09-18T02:06:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798419,Synonym:,androgen receptor PROTAC degrader ARV-110
+2020-09-18T02:06:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798419,Synonym:,AR PROTAC ARV-110
+2020-09-18T02:06:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798419,Synonym:,AR-targeted PROTAC protein degrader ARV-110
+2020-09-18T02:06:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798419,Synonym:,PROTAC protein degrader ARV-110
+2020-09-18T02:06:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798419,Code name:,ARV 110
+2020-09-18T02:06:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798419,Code name:,ARV110
+2020-09-18T02:06:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798419,Code name:,ARV-110
+2020-09-18T02:06:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801809,Synonym:,AR degrader CC-94676
+2020-09-18T02:06:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801809,Code name:,CC 94676
+2020-09-18T02:06:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801809,Code name:,CC94676
+2020-09-18T02:06:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801809,Code name:,CC-94676
+2020-09-18T02:06:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/androgen-receptor-inhibitor-epi-506,Synonym:,AR inhibitor EPI-506
+2020-09-18T02:06:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/androgen-receptor-inhibitor-epi-506,Code name:,EPI-506
+2020-09-18T02:06:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801842,Synonym:,AR inhibitor EPI-7386
+2020-09-18T02:06:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801842,Code name:,EPI 7386
+2020-09-18T02:06:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801842,Code name:,EPI7386
+2020-09-18T02:06:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801842,Code name:,EPI-7386
+2020-09-18T02:06:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/771098,Synonym:,AR LBD-encoding plasmid DNA vaccine MVI-118
+2020-09-18T02:06:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/771098,Synonym:,pTVG-AR
+2020-09-18T02:06:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/771098,Synonym:,pTVG-AR vaccine
+2020-09-18T02:06:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/771098,Code name:,MVI-118
+2020-09-18T02:06:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801352,Synonym:,AR/GR antagonist CB-03-10
+2020-09-18T02:06:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801352,Code name:,CB 03 10
+2020-09-18T02:06:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801352,Code name:,CB0310
+2020-09-18T02:06:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801352,Code name:,CB-03-10
+2020-09-18T02:06:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801352,Chemical structure:,cortexolone 17alpha-valerate-21-propionate
+2020-09-18T02:06:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluoxymesterone,Synonym:,Androfluorene
+2020-09-18T02:06:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluoxymesterone,Synonym:,Androsterolo
+2020-09-18T02:06:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluoxymesterone,US brand name:,Android-F
+2020-09-18T02:06:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluoxymesterone,US brand name:,Halodrin
+2020-09-18T02:06:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluoxymesterone,US brand name:,Halotestin
+2020-09-18T02:06:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluoxymesterone,US brand name:,Ora-Testryl
+2020-09-18T02:06:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluoxymesterone,US brand name:,Ultandren
+2020-09-18T02:06:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluoxymesterone,Foreign brand name:,Oratestin
+2020-09-18T02:06:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluoxymesterone,Foreign brand name:,Stenox
+2020-09-18T02:06:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluoxymesterone,Foreign brand name:,Testoral
+2020-09-18T02:06:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluoxymesterone,Abbreviation:,FXM
+2020-09-18T02:06:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluoxymesterone,Chemical structure:,"(11Beta,17beta)-9-fluoro-11,17-dihydroxy-17-methylandrost-4-en-3-one11Beta,17beta-dihydroxy-9alpha-fluoro-17alpha-methyl-4-androsten-3-one9Alpha-fluoro-11beta-hydroxy-17alpha-methyltestosterone"
+2020-09-18T02:06:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/androstane-steroid-he3235,US brand name:,APOTONE
+2020-09-18T02:06:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/androstane-steroid-he3235,Chemical structure:,"17alpha-ethynyl-5alpha-androstane-3alpha, 17beta-diol"
+2020-09-18T02:07:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795677,Synonym:,Suxamethonium Chloride
+2020-09-18T02:07:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795677,US brand name:,Anectine
+2020-09-18T02:07:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795677,US brand name:,Quelicin
+2020-09-18T02:07:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795677,Chemical structure:,"Ethanaminium, 2,2'-((1,4-Dioxo-1,4-butanediyl)bis(oxy))bis(N,N,N-trimethyl-)"
+2020-09-18T02:07:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anetumab-ravtansine,Synonym:,anti-mesothelin antibody-drug conjugate BAY 94-9343
+2020-09-18T02:07:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anetumab-ravtansine,Code name:,BAY 94-9343
+2020-09-18T02:07:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/multifunctional-multitargeted-anticancer-agent-omn54,Synonym:,MFMT OMN54
+2020-09-18T02:07:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/multifunctional-multitargeted-anticancer-agent-omn54,US brand name:,Aneustat
+2020-09-18T02:07:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/multifunctional-multitargeted-anticancer-agent-omn54,Code name:,OMN54
+2020-09-18T02:07:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pegfilgrastim-anti-neutropenic-factor,Synonym:,PEG G-CSF ANF
+2020-09-18T02:07:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pegfilgrastim-anti-neutropenic-factor,Synonym:,pegfilgrastim ANF
+2020-09-18T02:07:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pegfilgrastim-anti-neutropenic-factor,US brand name:,ANF-Rho
+2020-09-18T02:07:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ang2-vegf-binding-peptides-antibody-fusion-protein-cvx-241,Code name:,CVX-241
+2020-09-18T02:07:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ang2-vegf-binding-peptides-antibody-fusion-protein-cvx-241,Code name:,PF-05057459
+2020-09-18T02:07:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/angelica-sinensis-root-extract,Synonym:,dong quai
+2020-09-18T02:07:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-vegf-anticalin-prs-050-peg40,Synonym:,pegylated anti-VEGF anticalin PRS-050-PEG40
+2020-09-18T02:07:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-vegf-anticalin-prs-050-peg40,US brand name:,Angiocal
+2020-09-18T02:07:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-vegf-anticalin-prs-050-peg40,Code name:,PRS-050-PEG40
+2020-09-18T02:07:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pegdinetanib,Synonym:,VEGFR-2 inhibitor peptide CT-322
+2020-09-18T02:07:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pegdinetanib,US brand name:,Angiocept
+2020-09-18T02:07:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pegdinetanib,Code name:,CT-322
+2020-09-18T02:07:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/angiogenesis-inhibitor-ji-101,Code name:,JI-101
+2020-09-18T02:07:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/angiogenesis-heparanase-inhibitor-pg545,Code name:,PG545
+2020-09-18T02:07:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/angiostatin,Synonym:,Kringles 1-4 of Plasminogen
+2020-09-18T02:07:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/angiostatin,Synonym:,PLG
+2020-09-18T02:08:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-flt-1-ribozyme,US brand name:,Angiozyme
+2020-09-18T02:08:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-flt-1-ribozyme,Foreign brand name:,Angiozyme
+2020-09-18T02:08:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-flt-1-ribozyme,Code name:,RPI.4610
+2020-09-18T02:08:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anguidine,Synonym:,Anguidin
+2020-09-18T02:08:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anguidine,Synonym:,diacetoxyscirpenol
+2020-09-18T02:08:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anguidine,Abbreviation:,DAS
+2020-09-18T02:08:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anguidine,Code name:,MM 4462
+2020-09-18T02:08:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800694,Abbreviation:,AEO
+2020-09-18T02:08:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anidulafungin,Synonym:,V-echinocandin
+2020-09-18T02:08:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anidulafungin,Synonym:,VER-002
+2020-09-18T02:08:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anidulafungin,US brand name:,Eraxis
+2020-09-18T02:08:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anidulafungin,Foreign brand name:,Eraxis
+2020-09-18T02:08:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anidulafungin,Code name:,LY303366
+2020-09-18T02:08:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/aniline-mustard,Synonym:,lymphochin
+2020-09-18T02:08:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/aniline-mustard,Synonym:,lymphocin
+2020-09-18T02:08:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/aniline-mustard,Synonym:,lymphoquin
+2020-09-18T02:08:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/aniline-mustard,Synonym:,mesylerythrol
+2020-09-18T02:08:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/aniline-mustard,Code name:,A 14489
+2020-09-18T02:08:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/aniline-mustard,Code name:,CB 1074
+2020-09-18T02:08:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/aniline-mustard,Code name:,SK 592
+2020-09-18T02:08:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/aniline-mustard,Code name:,TL 476
+2020-09-18T02:08:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/aniline-mustard,Chemical structure:,"benzenamine, N, N-bis(2-chloroethyl)-(9CI)beta, beta'-dichlorodiethylanilineN,N-bis(2-chloroethyl)anilineN,N-bis(2-chloroethyl)benzenaminephenylbis[2-chloroethylamine]"
+2020-09-18T02:08:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anlotinib-hydrochloride,Synonym:,"1-((4-((4-fluoro-2-methyl-1H-indol-5-yl)oxy)-6-methoxy-7-quinolyl)oxymethyl)cyclopropanamine, dihydrochloride"
+2020-09-18T02:08:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anlotinib-hydrochloride,Abbreviation:,ALTN HCl
+2020-09-18T02:08:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anlotinib-hydrochloride,Chemical structure:,"cyclopropanamine, 1-(((4-((4-fluoro-2-methyl-1H-indol-5-yl)oxy)-6-methoxy-7-quinolinyl)oxy)methyl)-, hydrochloride (1:2)"
+2020-09-18T02:08:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/annonaceous-acetogenins,Synonym:,acetogenins
+2020-09-18T02:08:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flurbiprofen,US brand name:,Ansaid
+2020-09-18T02:08:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flurbiprofen,Code name:,"BTS 18,322"
+2020-09-18T02:08:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flurbiprofen,Code name:,E-7869
+2020-09-18T02:08:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flurbiprofen,Code name:,MPC-7869
+2020-09-18T02:08:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flurbiprofen,Code name:,"U-27,182"
+2020-09-18T02:08:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flurbiprofen,Chemical structure:,"2-fluoro-alpha-methyl[1,1'-biphenyl]-4-acetic Acid"
+2020-09-18T02:08:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anthocyanin-rich-corn-extract,NA,NA
+2020-09-18T02:08:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anthracycline-analogue-gpx-150,Code name:,GPX-150
+2020-09-18T02:08:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anthracycline-analogue-gpx-150,Chemical structure:,5-imino-13-deoxydoxoubicin
+2020-09-18T02:08:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-c-kit-antibody-drug-conjugate-lop628,Abbreviation:,anti c-KIT ADC LOP628
+2020-09-18T02:08:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-c-kit-antibody-drug-conjugate-lop628,Code name:,LOP628
+2020-09-18T02:09:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801910,Synonym:,5T4-ADC ASN004
+2020-09-18T02:09:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801910,Synonym:,5T4-targeted antibody-drug conjugate ASN004
+2020-09-18T02:09:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801910,Synonym:,5T4-targeted dolaflexin ADC ASN004
+2020-09-18T02:09:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801910,Synonym:,anti-5T4 ADC ASN004
+2020-09-18T02:09:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801910,Code name:,ASN 004
+2020-09-18T02:09:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801910,Code name:,ASN004
+2020-09-18T02:09:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801910,Code name:,ASN-004
+2020-09-18T02:09:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-5t4-antibody-drug-conjugate-pf-06263507,Code name:,PF-06263507
+2020-09-18T02:09:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-a33-monoclonal-antibody-krn330,Code name:,KRN330
+2020-09-18T02:09:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-a5b1-integrin-monoclonal-antibody-pf-04605412,Synonym:,anti-alpha5beta1 integrin monoclonal antibody PF-04605412
+2020-09-18T02:09:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-a5b1-integrin-monoclonal-antibody-pf-04605412,Code name:,PF-04605412
+2020-09-18T02:09:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/784523,Synonym:,anti-ACTR viral vector-transduced autologous T lymphocytes ACTR087
+2020-09-18T02:09:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/784523,Synonym:,CD16-41BB-CD3zeta ACTR autologous T cells
+2020-09-18T02:09:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/784523,Synonym:,viral ATCR autologous T cells
+2020-09-18T02:09:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/784523,Synonym:,virally-delivered antibody-coupled TCR ACTR087
+2020-09-18T02:09:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/784523,Code name:,ACTR087
+2020-09-18T02:09:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/784523,Code name:,ACTR-087
+2020-09-18T02:09:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ags-16-monoclonal-antibody-ags-16m18,Code name:,AGS-16M18
+2020-09-18T02:09:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ags-5-antibody-drug-conjugate-asg-5me,Abbreviation:,anti-AGS-5 Ab-drug conjugate ASG-5ME
+2020-09-18T02:09:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ags-5-antibody-drug-conjugate-asg-5me,Code name:,ASG-5ME
+2020-09-18T02:09:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ags-8-monoclonal-antibody-ags-8m4,Code name:,AGS-8M4
+2020-09-18T02:09:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-alk-1-monoclonal-antibody-pf-03446962,Synonym:,anti-activin receptor-like kinase 1 monoclonal antibody PF-03446962
+2020-09-18T02:09:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-alk-1-monoclonal-antibody-pf-03446962,Code name:,PF-03446962
+2020-09-18T02:09:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799707,Synonym:,anti-BCMA x aCD3 T-BsAb TNB-383B
+2020-09-18T02:09:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799707,Synonym:,anti-BCMA x aCD3 T-cell engaging bispecific antibody TNB-383B
+2020-09-18T02:09:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799707,Code name:,TNB 383B
+2020-09-18T02:09:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799707,Code name:,TNB383B
+2020-09-18T02:09:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799707,Code name:,TNB-383B
+2020-09-18T02:09:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-amhr2-monoclonal-antibody-gm102,Synonym:,anti-AMHR2 monoclonal antibody GM10II
+2020-09-18T02:09:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-amhr2-monoclonal-antibody-gm102,Synonym:,GM102 antibody
+2020-09-18T02:09:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-amhr2-monoclonal-antibody-gm102,Code name:,3C23K
+2020-09-18T02:09:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-amhr2-monoclonal-antibody-gm102,Code name:,GM102
+2020-09-18T02:09:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-amhr2-monoclonal-antibody-gm102,Code name:,GM10II
+2020-09-18T02:09:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-amyloid-monoclonal-antibody-neod001,Code name:,NEOD001
+2020-09-18T02:10:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-androgen-sirna-sxl01,Code name:,SXL 01
+2020-09-18T02:10:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-androgen-sirna-sxl01,Code name:,SXL01
+2020-09-18T02:10:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-androgen-sirna-sxl01,Code name:,SXL-01
+2020-09-18T02:10:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ang2-monoclonal-antibody-medi-3617,Abbreviation:,anti-ANG2 MAb MEDI-3617
+2020-09-18T02:10:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ang2-monoclonal-antibody-medi-3617,Abbreviation:,anti-ANG2 MoAb MEDI-3617
+2020-09-18T02:10:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ang2-monoclonal-antibody-medi-3617,Code name:,MEDI-3617
+2020-09-18T02:10:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antiangiogenic-drug-combination-tl-118,Foreign brand name:,Hamsa-1
+2020-09-18T02:10:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antiangiogenic-drug-combination-tl-118,Code name:,TL-118
+2020-09-18T02:10:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-april-monoclonal-antibody-bion-1301,Synonym:,anti-A proliferation-inducing ligand monoclonal antibody BION-1301
+2020-09-18T02:10:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-april-monoclonal-antibody-bion-1301,Synonym:,anti-TNFSF13 monoclonal antibody BION-1301
+2020-09-18T02:10:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-april-monoclonal-antibody-bion-1301,Code name:,BION-1301
+2020-09-18T02:10:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795349,Synonym:,AXL Fc fusion protein AVB-S6-500
+2020-09-18T02:10:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795349,Code name:,AVB S6 500
+2020-09-18T02:10:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795349,Code name:,AVBS6500
+2020-09-18T02:10:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795349,Code name:,AVB-S6-500
+2020-09-18T02:10:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-axl-monoclonal-antibody-mmae-conjugate,Synonym:,anti-AXL/MMAE ADC
+2020-09-18T02:10:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-axl-monoclonal-antibody-mmae-conjugate,Synonym:,anti-AXL/MMAE antibody-drug conjugate
+2020-09-18T02:10:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-axl-monoclonal-antibody-mmae-conjugate,Abbreviation:,HuMax-AXL-ADC
+2020-09-18T02:10:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798273,Synonym:,ADC ADCT-601
+2020-09-18T02:10:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798273,Synonym:,anti-AXL/PBD ADC ADCT-601
+2020-09-18T02:10:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798273,Code name:,ADCT 601
+2020-09-18T02:10:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798273,Code name:,ADCT601
+2020-09-18T02:10:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798273,Code name:,ADCT-601
+2020-09-18T02:10:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798273,Code name:,BGB 601
+2020-09-18T02:10:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798273,Code name:,BGB601
+2020-09-18T02:10:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798273,Code name:,BGB-601
+2020-09-18T02:10:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-b4-blocked-ricin-immunotoxin,Synonym:,anti-B4 blocked ricin
+2020-09-18T02:10:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-b4-blocked-ricin-immunotoxin,Synonym:,monoclonal antibody anti-B4 blocked ricin
+2020-09-18T02:10:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-b4-blocked-ricin-immunotoxin,Abbreviation:,anti-B4-BR
+2020-09-18T02:10:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-b4-blocked-ricin-immunotoxin,Abbreviation:,MOAB anti-B4-bR
+2020-09-18T02:10:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-b7-h3-antibody-ds-5573a,Code name:,DS-5573a
+2020-09-18T02:10:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801901,Synonym:,anti-B7-H3/DXd ADC DS-7300a
+2020-09-18T02:10:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801901,Synonym:,anti-B7H3/DXd antibody-drug conjugate DS-7300a
+2020-09-18T02:10:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801901,Code name:,DS 7300
+2020-09-18T02:10:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801901,Code name:,DS 7300a
+2020-09-18T02:10:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801901,Code name:,DS7300
+2020-09-18T02:10:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801901,Code name:,DS7300a
+2020-09-18T02:10:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795341,Code name:,FPA 150
+2020-09-18T02:10:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795341,Code name:,FPA150
+2020-09-18T02:11:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795105,Code name:,FPA 150
+2020-09-18T02:11:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795105,Code name:,FPA150
+2020-09-18T02:11:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795105,Code name:,FPA-150
+2020-09-18T02:11:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793894,Synonym:,Anti-BCMA Afucosylated Monoclonal Antibody SEA-BCMA
+2020-09-18T02:11:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793894,Code name:,SEA-BCMA
+2020-09-18T02:11:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800471,Synonym:,anti-TAG ARC-T cells directed by BCMA bi-valent/TAG SparX protein
+2020-09-18T02:11:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800471,Synonym:,ARC-T plus anti-BCMA SparX
+2020-09-18T02:11:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800471,Synonym:,immunotherapeutic combination agent SparX protein plus CART-ddBCMA
+2020-09-18T02:11:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800471,Synonym:,TAG-containing SparX /bivalent BCMA-targeted ARC-T cells
+2020-09-18T02:11:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800119,Synonym:,anti-BCMA x anti-CD3 bispecific antibody REGN5459
+2020-09-18T02:11:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800119,Synonym:,anti-BCMA/CD3 bispecific antibody REGN5459
+2020-09-18T02:11:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800119,Synonym:,anti-CD3/anti-BCMA bispecific antibody REGN5459
+2020-09-18T02:11:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800119,Code name:,REGN 5459
+2020-09-18T02:11:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800119,Code name:,REGN5459
+2020-09-18T02:11:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800119,Code name:,REGN-5459
+2020-09-18T02:11:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801291,Synonym:,anti-BCMA x anti-CD3 BiTE AMG 420
+2020-09-18T02:11:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801291,Synonym:,BCMA/CD3-directed bispecific T-cell engager antibody AMG 420
+2020-09-18T02:11:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801291,Synonym:,bispecific T-cell engager antibody AMG 420
+2020-09-18T02:11:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801291,Synonym:,BiTE antibody AMG 420
+2020-09-18T02:11:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801291,Code name:,AMG 420
+2020-09-18T02:11:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801291,Code name:,AMG-420
+2020-09-18T02:11:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801291,Code name:,BI 836909
+2020-09-18T02:11:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801291,Code name:,BI836909
+2020-09-18T02:11:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792377,Synonym:,anti-BCMA x anti-CD3 BiTE AMG 701
+2020-09-18T02:11:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792377,Synonym:,BCMA/CD3-directed bispecific T-cell engager antibody AMG 701
+2020-09-18T02:11:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792377,Synonym:,bispecific T-cell engager antibody AMG 701
+2020-09-18T02:11:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792377,Synonym:,BiTE antibody AMG 701
+2020-09-18T02:11:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792377,Code name:,AMG 701
+2020-09-18T02:11:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792377,Code name:,AMG701
+2020-09-18T02:11:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792377,Code name:,AMG-701
+2020-09-18T02:11:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797141,Synonym:,anti-BCMA x anti-CD3 BiTE REGN5458
+2020-09-18T02:11:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797141,Synonym:,bispecific BCMA x CD3 T-cell engaging antibody REGN5458
+2020-09-18T02:11:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797141,Synonym:,BiTE antibody REGN5458
+2020-09-18T02:11:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797141,Code name:,REGN 5458
+2020-09-18T02:11:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797141,Code name:,REGN5458
+2020-09-18T02:11:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797141,Code name:,REGN-5458
+2020-09-18T02:11:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795378,Synonym:,ADC MEDI2228
+2020-09-18T02:11:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795378,Synonym:,anti-BCMA ADC MEDI2228
+2020-09-18T02:11:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795378,Synonym:,Anti-BCMA/PBD MEDI2228
+2020-09-18T02:11:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795378,Synonym:,Antibody-drug Conjugate MEDI2228
+2020-09-18T02:11:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795378,Code name:,MEDI 2228
+2020-09-18T02:11:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795378,Code name:,MEDI-2228
+2020-09-18T02:11:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibiotic-sq109,Code name:,SQ109
+2020-09-18T02:11:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibiotic-sq109,Chemical structure:,"N-geranyl-N?-(2-adamantyl) ethane-1,2-diamine"
+2020-09-18T02:11:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798433,Code name:,ABBV 011
+2020-09-18T02:11:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798433,Code name:,ABBV011
+2020-09-18T02:11:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798433,Code name:,ABBV-011
+2020-09-18T02:11:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798433,Code name:,SC 011
+2020-09-18T02:11:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798433,Code name:,SC011
+2020-09-18T02:11:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798433,Code name:,SC-011
+2020-09-18T02:11:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-abbv-085,Synonym:,ADC ABBV-085
+2020-09-18T02:18:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793089,Code name:,YS110
+2020-09-18T02:11:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-abbv-085,Code name:,ABBV-085
+2020-09-18T02:12:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796806,Synonym:,ADC ABBV-155
+2020-09-18T02:12:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796806,Code name:,ABBV 155
+2020-09-18T02:12:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796806,Code name:,ABBV155
+2020-09-18T02:12:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796806,Code name:,ABBV-155
+2020-09-18T02:12:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-abbv-176,Synonym:,ADC ABBV-176
+2020-09-18T02:12:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-abbv-176,Code name:,ABBV 176
+2020-09-18T02:12:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-abbv-176,Code name:,ABBV176
+2020-09-18T02:12:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-abbv-176,Code name:,ABBV-176
+2020-09-18T02:12:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792493,Synonym:,ADC XMT-1536
+2020-09-18T02:12:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792493,Synonym:,anti-NaPi2b ADC XMT-1536
+2020-09-18T02:12:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792493,Synonym:,anti-NaPi2b/auristatin F-HPA ADC XMT-1536
+2020-09-18T02:12:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792493,Code name:,XMT 1536
+2020-09-18T02:12:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792493,Code name:,XMT1536
+2020-09-18T02:12:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792493,Code name:,XMT-1536
+2020-09-18T02:12:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-anti-tim-1-vcmmae-cdx-014,Synonym:,ADC anti-TIM-1-vcMMAE CDX-014
+2020-09-18T02:12:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-anti-tim-1-vcmmae-cdx-014,Synonym:,ADC CDX-014
+2020-09-18T02:12:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-anti-tim-1-vcmmae-cdx-014,Synonym:,antibody-drug conjugate CDX-014
+2020-09-18T02:12:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-anti-tim-1-vcmmae-cdx-014,Synonym:,CR014-vcMMAE
+2020-09-18T02:12:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-anti-tim-1-vcmmae-cdx-014,Synonym:,CR014-vc-MMAE
+2020-09-18T02:12:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-anti-tim-1-vcmmae-cdx-014,Code name:,CDX-014
+2020-09-18T02:12:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-bay79-4620,Synonym:,ADC BAY79-4620
+2020-09-18T02:12:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-bay79-4620,Synonym:,MN-IC
+2020-09-18T02:12:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-bay79-4620,Code name:,BAY79-4620
+2020-09-18T02:12:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-dfrf4539a,Synonym:,ADC DFRF4539A
+2020-09-18T02:12:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-dfrf4539a,Code name:,DFRF4539A
+2020-09-18T02:12:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-medi7247,Synonym:,ADC MEDI7247
+2020-09-18T02:12:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-medi7247,Code name:,MEDI 7247
+2020-09-18T02:12:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-medi7247,Code name:,MEDI7247
+2020-09-18T02:12:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-sc-002,Synonym:,ADC SC-002
+2020-09-18T02:12:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-sc-002,Code name:,SC-002
+2020-09-18T02:12:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-sc-003,Synonym:,ADC SC-003
+2020-09-18T02:12:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-sc-003,Code name:,SC 003
+2020-09-18T02:12:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-sc-003,Code name:,SC003
+2020-09-18T02:12:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-sc-003,Code name:,SC-003
+2020-09-18T02:12:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-sc-004,Synonym:,ADC SC-004
+2020-09-18T02:12:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-sc-004,Code name:,SC 004
+2020-09-18T02:12:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-sc-004,Code name:,SC004
+2020-09-18T02:12:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-sc-004,Code name:,SC-004
+2020-09-18T02:12:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794353,Code name:,ADC SC-005
+2020-09-18T02:12:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794353,Code name:,SC 005
+2020-09-18T02:12:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794353,Code name:,SC005
+2020-09-18T02:12:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794353,Code name:,SC-005
+2020-09-18T02:13:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-sc-006,Synonym:,ADC SC-006
+2020-09-18T02:13:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-sc-006,Code name:,SC 006
+2020-09-18T02:13:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-sc-006,Code name:,SC006
+2020-09-18T02:13:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-drug-conjugate-sc-006,Code name:,SC-006
+2020-09-18T02:13:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792378,Code name:,ADC SC-007
+2020-09-18T02:13:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792378,Code name:,SC-007
+2020-09-18T02:13:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-like-cd95-receptor-fc-fusion-protein-can-008,Synonym:,CD95-Fc fusion protein CAN008
+2020-09-18T02:13:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-like-cd95-receptor-fc-fusion-protein-can-008,Synonym:,Fas-Fc fusion protein CAN008
+2020-09-18T02:13:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-like-cd95-receptor-fc-fusion-protein-can-008,Code name:,APG101
+2020-09-18T02:13:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-like-cd95-receptor-fc-fusion-protein-can-008,Code name:,APG-101
+2020-09-18T02:13:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-like-cd95-receptor-fc-fusion-protein-can-008,Code name:,CAN008
+2020-09-18T02:13:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/antibody-like-cd95-receptor-fc-fusion-protein-can-008,Code name:,CAN-008
+2020-09-18T02:13:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800693,Synonym:,anti-B- and T-lymphocyte attenuator monoclonal antibody TAB004
+2020-09-18T02:13:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800693,Code name:,JS 004
+2020-09-18T02:13:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800693,Code name:,JS004
+2020-09-18T02:13:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800693,Code name:,JS-004
+2020-09-18T02:13:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800693,Code name:,TAB 004
+2020-09-18T02:13:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800693,Code name:,TAB004
+2020-09-18T02:13:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800693,Code name:,TAB-004
+2020-09-18T02:13:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-c44a-antibody-drug-conjugate-bay1129980,Abbreviation:,anti-C4.4a ADC BAY1129980
+2020-09-18T02:13:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-c44a-antibody-drug-conjugate-bay1129980,Code name:,BAY1129980
+2020-09-18T02:13:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-c44a-antibody-drug-conjugate-bay1129980,Code name:,BAY112-9980
+2020-09-18T02:13:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798695,Synonym:,anti-C5aR-215
+2020-09-18T02:13:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798695,Code name:,IPH 5401
+2020-09-18T02:13:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798695,Code name:,IPH5401
+2020-09-18T02:13:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798695,Code name:,NN 8210
+2020-09-18T02:13:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ca19-9-monoclonal-antibody-5b1,Synonym:,HuMab 5B1
+2020-09-18T02:13:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ca19-9-monoclonal-antibody-5b1,Synonym:,HuMab-5B1
+2020-09-18T02:13:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ca19-9-monoclonal-antibody-5b1,Code name:,5B1
+2020-09-18T02:13:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ca19-9-monoclonal-antibody-5b1,Code name:,MVT-5873
+2020-09-18T02:13:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ca6-dm4-immunoconjugate-sar566658,Abbreviation:,huDs6-DM4
+2020-09-18T02:13:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ca6-dm4-immunoconjugate-sar566658,Code name:,SAR566658
+2020-09-18T02:13:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anticachexia-agent-mt-102,Synonym:,anti-catabolic/anabolic transforming agent MT-102
+2020-09-18T02:13:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anticachexia-agent-mt-102,Code name:,MT-102
+2020-09-18T02:13:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792150,Synonym:,antibody-drug conjugate IMGN632
+2020-09-18T02:13:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792150,Synonym:,CD123-targeted ADC IMGN632
+2020-09-18T02:13:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792150,Code name:,IMGN 632
+2020-09-18T02:13:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792150,Code name:,IMGN632
+2020-09-18T02:13:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792150,Code name:,IMGN-632
+2020-09-18T02:13:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd123-monoclonal-antibody-khk2823,Code name:,KHK2823
+2020-09-18T02:14:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd123-x-anti-cd3-bispecific-antibody-xmab14045,Synonym:,anti-CD123/anti-CD3 bispecific antibody XmAb1404
+2020-09-18T02:14:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd123-x-anti-cd3-bispecific-antibody-xmab14045,Code name:,XmAb14045
+2020-09-18T02:14:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796808,Synonym:,anti-CD123 x anti-CD3 bispecific antibody APVO436
+2020-09-18T02:14:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796808,Synonym:,bispecific anti-CD123 x anti-CD3 antibody APVO436
+2020-09-18T02:14:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796808,Synonym:,CD123 x CD3 targeting bispecific antibody APVO436
+2020-09-18T02:14:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796808,Code name:,APVO 436
+2020-09-18T02:14:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796808,Code name:,APVO436
+2020-09-18T02:14:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796808,Code name:,APVO-436
+2020-09-18T02:14:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd123-cd3-bispecific-antibody-jnj-63709178,Synonym:,humanized CD123 x CD3 duobody JNJ-63709178
+2020-09-18T02:14:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd123-cd3-bispecific-antibody-jnj-63709178,Code name:,JNJ-63709178
+2020-09-18T02:14:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798327,Synonym:,bispecific T-cell engager antibody SAR440234
+2020-09-18T02:14:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798327,Synonym:,CD123xCD3 bispecific T-cell engager SAR440234
+2020-09-18T02:14:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd123-pyrrolobenzodiazepine-dimer-antibody-drug-conjugate-sgn-cd123a,Synonym:,ADC SGN-CD123A
+2020-09-18T02:14:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd123-pyrrolobenzodiazepine-dimer-antibody-drug-conjugate-sgn-cd123a,Synonym:,antibody-drug conjugate SGN-CD123A
+2020-09-18T02:14:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd123-pyrrolobenzodiazepine-dimer-antibody-drug-conjugate-sgn-cd123a,Synonym:,anti-CD123 ADC SGN-CD123A
+2020-09-18T02:14:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd123-pyrrolobenzodiazepine-dimer-antibody-drug-conjugate-sgn-cd123a,Synonym:,anti-CD123-PBD ADC SGN-CD123A
+2020-09-18T02:14:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd123-pyrrolobenzodiazepine-dimer-antibody-drug-conjugate-sgn-cd123a,Code name:,SGN CD123A
+2020-09-18T02:14:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd123-pyrrolobenzodiazepine-dimer-antibody-drug-conjugate-sgn-cd123a,Code name:,SGN-CD123A
+2020-09-18T02:22:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800410,Code name:,BNT312
+2020-09-18T02:14:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd133-car-vector-transduced-allogeneic-t-lymphocytes,Synonym:,allogeneic anti-CD133 CAR T cells
+2020-09-18T02:14:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd133-car-vector-transduced-allogeneic-t-lymphocytes,Synonym:,allogeneic CART133
+2020-09-18T02:14:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd133-pe38-kdel-fusion-protein,Synonym:,anti-CD133-deimmunized pseudomonas exotoxin A-KDEL fusion protein
+2020-09-18T02:14:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd133-pe38-kdel-fusion-protein,Synonym:,deimmunized CD133KDEL
+2020-09-18T02:14:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd133-pe38-kdel-fusion-protein,Synonym:,deimmunized CD133KDEL toxin
+2020-09-18T02:14:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd133-pe38-kdel-fusion-protein,Code name:,CD133KDEL
+2020-09-18T02:14:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd133-pe38-kdel-fusion-protein,Code name:,dCD133KDEL
+2020-09-18T02:14:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797894,Synonym:,4-1BB-directed agonistic monoclonal antibody ADG106
+2020-09-18T02:14:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797894,Synonym:,anti-4-1BB agonistic monoclonal antibody ADG106
+2020-09-18T02:14:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797894,Synonym:,CD137-directed agonistic monoclonal antibody ADG106
+2020-09-18T02:14:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797894,Code name:,ADG 106
+2020-09-18T02:14:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797894,Code name:,ADG106
+2020-09-18T02:14:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797894,Code name:,ADG-106
+2020-09-18T02:14:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800682,Synonym:,anti-4-1BB agonistic monoclonal antibody AGEN2373
+2020-09-18T02:14:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800682,Synonym:,anti-CD137 agonist monoclonal antibody AGEN2373
+2020-09-18T02:14:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800682,Synonym:,anti-CD137 monoclonal antibody AGEN2373
+2020-09-18T02:14:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800682,Code name:,AGEN 2373
+2020-09-18T02:14:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800682,Code name:,AGEN2373
+2020-09-18T02:14:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800682,Code name:,AGEN-2373
+2020-09-18T02:14:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801898,Synonym:,anti-4-1BB monoclonal antibody ATOR-1017
+2020-09-18T02:14:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801898,Synonym:,anti-CD137 agonist monoclonal antibody ATOR-1017
+2020-09-18T02:14:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801898,Synonym:,anti-CD137 monoclonal antibody ATOR-1017
+2020-09-18T02:14:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801898,Code name:,ATOR 1017
+2020-09-18T02:14:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801898,Code name:,ATOR1017
+2020-09-18T02:14:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801898,Code name:,ATOR-1017
+2020-09-18T02:14:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798594,Synonym:,anti-4-1BB agonistic monoclonal antibody CTX-471
+2020-09-18T02:14:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798594,Code name:,CTX 471
+2020-09-18T02:14:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798594,Code name:,CTX471
+2020-09-18T02:14:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798594,Code name:,CTX-471
+2020-09-18T02:14:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801858,Synonym:,anti-4-1BB agonistic monoclonal antibody LVGN6051
+2020-09-18T02:14:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801858,Synonym:,anti-CD137 agonist monoclonal antibody LVGN6051
+2020-09-18T02:14:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801858,Synonym:,anti-CD137 monoclona antibody LVGN6051
+2020-09-18T02:14:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801858,Code name:,LVGN 6051
+2020-09-18T02:14:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801858,Code name:,LVGN-6051
+2020-09-18T02:15:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd157-monoclonal-antibody-men1112,Code name:,MEN1112
+2020-09-18T02:15:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd157-monoclonal-antibody-men1112,Code name:,OBT357NF
+2020-09-18T02:15:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd166-probody-drug-conjugate-cx-2009,Synonym:,ADC CX-2009
+2020-09-18T02:15:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd166-probody-drug-conjugate-cx-2009,Synonym:,anti-CD166-DM4 CX-2009
+2020-09-18T02:15:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd166-probody-drug-conjugate-cx-2009,Synonym:,PDC CX-2009
+2020-09-18T02:15:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd166-probody-drug-conjugate-cx-2009,Code name:,CX-2009
+2020-09-18T02:15:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801620,Synonym:,anti-CD19 AbTCR-expressing T cells ET019003
+2020-09-18T02:15:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801620,Synonym:,anti-CD19 T cells ET019003
+2020-09-18T02:15:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801620,Synonym:,anti-CD19-TCR T cells ET019003
+2020-09-18T02:15:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801620,Synonym:,CD19-targeted T cells ET019003
+2020-09-18T02:15:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801620,Synonym:,ET019003-T cells
+2020-09-18T02:15:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801620,Code name:,ET 019003
+2020-09-18T02:15:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801620,Code name:,ET019003
+2020-09-18T02:15:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801620,Code name:,ET-019003
+2020-09-18T02:15:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799644,Synonym:,CD19-specific CAR-T cells XLCART001
+2020-09-18T02:15:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799644,Code name:,XLCART001
+2020-09-18T02:15:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd19-fully-human-monoclonal-antibody-mdx-1342,Code name:,MDX-1342
+2020-09-18T02:15:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd19-monoclonal-antibody-di-b4,Synonym:,anti-CD19 MoAb DI-B4
+2020-09-18T02:15:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd19-monoclonal-antibody-di-b4,Abbreviation:,anti-CD19 MAb DI-B4
+2020-09-18T02:15:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd19-monoclonal-antibody-di-b4,Code name:,DI-B4
+2020-09-18T02:15:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd19-monoclonal-antibody-medi-551,Code name:,MEDI-551
+2020-09-18T02:15:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793132,Synonym:,anti-CD19/CD20/CD22/CD30 chimeric antigen receptor-T cells
+2020-09-18T02:15:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793132,Synonym:,CAR-T CD19/CD20/CD22/CD30
+2020-09-18T02:15:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd19-cd22-bispecific-ligand-directed-toxin-dt2219arl,Synonym:,anti-CD19/CD22 BLT DT2219ARL
+2020-09-18T02:15:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd19-cd22-bispecific-ligand-directed-toxin-dt2219arl,Code name:,DT2219ARL
+2020-09-18T02:15:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794049,Synonym:,bispecific T-cell engager antibody AMG 562
+2020-09-18T02:15:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794049,Synonym:,BiTE antibody AMG 562
+2020-09-18T02:15:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794049,Synonym:,CD19/CD3-directed bispecific T-cell engager antibody AMG 562
+2020-09-18T02:15:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794049,Code name:,AMG 562
+2020-09-18T02:15:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794049,Code name:,AMG562
+2020-09-18T02:15:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794049,Code name:,AMG-562
+2020-09-18T02:15:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd19-cd3-tetravalent-antibody-afm11,Code name:,AFM11
+2020-09-18T02:16:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/751864,Synonym:,FMC63-28Z CAR-transduced allogeneic T lymphocytes
+2020-09-18T02:16:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/751864,Synonym:,MSGV1-FMC63-28Z anti-CD19 CAR-transduced allogeneic T lymphocytes
+2020-09-18T02:16:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd19-car-retroviral-vector-transduced-autologous-t-cells,NA,NA
+2020-09-18T02:16:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800198,Synonym:,anti-CD19/CD20 CAR autologous T lymphocytes Hu1928-Hu20BB
+2020-09-18T02:16:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800198,Synonym:,autologous CAR-19/CAR-20-T cells Hu1928-Hu20BB
+2020-09-18T02:16:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800198,Synonym:,Hu1928-Hu20BB
+2020-09-18T02:16:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd19-car-cd3zeta-4-1bb-expressing-natural-killer-cells,Synonym:,anti-CD19 redirected NK cells
+2020-09-18T02:16:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd19-car-cd3zeta-4-1bb-expressing-natural-killer-cells,Synonym:,anti-CD19-CAR-CD3zeta-4-1BB-expressing allogenic NK cells
+2020-09-18T02:16:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd19-car-cd3zeta-4-1bb-expressing-natural-killer-cells,Synonym:,anti-CD19-CAR-CD3zeta-4-1BB-expressing donor natural killer cells
+2020-09-18T02:16:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd19-car-cd3zeta-4-1bb-expressing-natural-killer-cells,Synonym:,anti-CD19-CAR-CD3zeta-4-1BB-expressing donor NK cells
+2020-09-18T02:16:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd19-car-cd3zeta-4-1bb-expressing-natural-killer-cells,Synonym:,anti-CD19-CAR-CD3zeta-4-1BB-expressing NK cells
+2020-09-18T02:16:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd19-car-cd3zeta-4-1bb-expressing-natural-killer-cells,Code name:,NKCARCD19
+2020-09-18T02:16:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd19-cd20-car-cd3zeta-4-1bb-expressing-autologous-t-lymphocytes,Synonym:,anti-CD19/CD20 CAR autologous T lymphocytes
+2020-09-18T02:16:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd19-cd20-car-cd3zeta-4-1bb-expressing-autologous-t-lymphocytes,Synonym:,autologous CAR-20/19-T cells
+2020-09-18T02:16:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd19-cd28-zeta-modified-car-cd3-t-lymphocytes-jcar015,Synonym:,anti-CD19/CD28/zeta modified CAR CD3+ T lymphocytes JCAR015
+2020-09-18T02:16:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd19-cd28-zeta-modified-car-cd3-t-lymphocytes-jcar015,Code name:,JCAR 015
+2020-09-18T02:16:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd19-cd28-zeta-modified-car-cd3-t-lymphocytes-jcar015,Code name:,JCAR 15
+2020-09-18T02:16:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd19-cd28-zeta-modified-car-cd3-t-lymphocytes-jcar015,Code name:,JCAR015
+2020-09-18T02:16:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd19-dm4-immunoconjugate-sar3419,Code name:,SAR3419
+2020-09-18T02:16:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd20-b9e9-scfv-streptavidin-fusion-protein,Synonym:,anti-CD20 B9E9 scFv-SA fusion protein
+2020-09-18T02:16:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd20-b9e9-scfv-streptavidin-fusion-protein,Synonym:,anti-CD20 B9E9-SA fusion protein
+2020-09-18T02:16:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd20-b9e9-scfv-streptavidin-fusion-protein,Synonym:,B9E9 scFvSA fusion protein
+2020-09-18T02:16:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd20-b9e9-scfv-streptavidin-fusion-protein,Synonym:,recombinant anti-CD20 B9E9 scFvSA fusion protein
+2020-09-18T02:16:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd20-b9e9-scfv-streptavidin-fusion-protein,Synonym:,scFv B9E9-streptavidin fusion protein
+2020-09-18T02:16:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794877,Code name:,B 001
+2020-09-18T02:16:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794877,Code name:,B001
+2020-09-18T02:16:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802165,Code name:,BAT 4306F
+2020-09-18T02:16:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802165,Code name:,BAT4306F
+2020-09-18T02:16:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802165,Code name:,BAT-4306F
+2020-09-18T02:16:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799905,Code name:,MIL 62
+2020-09-18T02:16:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799905,Code name:,MIL62
+2020-09-18T02:16:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799905,Code name:,MIL-62
+2020-09-18T02:17:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd20-monoclonal-antibody-sct400,Code name:,SCT400
+2020-09-18T02:17:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd20-monoclonal-antibody-tl011,Code name:,TL011
+2020-09-18T02:17:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd20-monoclonal-antibody-interferon-alpha-fusion-protein-ign002,Synonym:,anti-CD20 monoclonal antibody-IFN-a fusion protein IGN002
+2020-09-18T02:17:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd20-monoclonal-antibody-interferon-alpha-fusion-protein-ign002,Code name:,IGN002
+2020-09-18T02:17:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799710,Synonym:,bispecific CD20xCD3 IgM antibody IGM2323
+2020-09-18T02:17:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799710,Synonym:,bispecific IgM antibody IGM2323
+2020-09-18T02:17:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799710,Synonym:,IgM pentamer IGM2323
+2020-09-18T02:17:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799710,Code name:,IGM 2323
+2020-09-18T02:17:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799710,Code name:,IGM2323
+2020-09-18T02:17:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799710,Code name:,IGM-2323
+2020-09-18T02:17:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd20-cd3-monoclonal-antibody-regn1979,Synonym:,anti-CD20 x anti-CD3 bispecific monoclonal antibody REGN1979
+2020-09-18T02:17:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd20-cd3-monoclonal-antibody-regn1979,Code name:,REGN1979
+2020-09-18T02:17:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd20-cd3-monoclonal-antibody-xmab13676,Synonym:,anti-CD20 x anti-CD3 bispecific monoclonal antibody XmAb13676
+2020-09-18T02:17:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd20-cd3-monoclonal-antibody-xmab13676,Code name:,XmAb13676
+2020-09-18T02:17:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799986,Code name:,ADC OBT076
+2020-09-18T02:17:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799986,Code name:,Anti-CD205
+2020-09-18T02:17:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799986,Code name:,MEN 1309
+2020-09-18T02:17:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799986,Code name:,MEN1309
+2020-09-18T02:17:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799986,Code name:,MEN-1309
+2020-09-18T02:17:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799986,Code name:,OBT 076
+2020-09-18T02:17:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799986,Code name:,OBT076
+2020-09-18T02:17:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799986,Code name:,OBT-076
+2020-09-18T02:17:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd20-car-cd3zeta-4-1bb-expressing-autologous-t-lymphocytes,NA,NA
+2020-09-18T02:17:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd20-engineered-toxin-body-mt-3724,Code name:,MT-3724
+2020-09-18T02:17:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796465,Synonym:,anti-CD22 antibody-drug conjugate TRPH-222
+2020-09-18T02:17:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796465,Synonym:,anti-CD22-4AP ADC TRPH-222
+2020-09-18T02:17:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796465,Code name:,CAT-02-106
+2020-09-18T02:17:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796465,Code name:,TRPH 222
+2020-09-18T02:17:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796465,Code name:,TRPH222
+2020-09-18T02:17:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796465,Code name:,TRPH-222
+2020-09-18T02:17:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd22-car-expressing-t-lymphocytes,Synonym:,anti-CD22 CAR-expressing T cells
+2020-09-18T02:17:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd22-car-expressing-t-lymphocytes,Abbreviation:,CD22 CAR-T
+2020-09-18T02:17:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd22-monoclonal-antibody-mmae-conjugate-dcdt2980s,Synonym:,ADC DCDT2980S
+2020-09-18T02:17:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd22-monoclonal-antibody-mmae-conjugate-dcdt2980s,Synonym:,antibody-drug conjugate DCDT2980S
+2020-09-18T02:17:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd22-monoclonal-antibody-mmae-conjugate-dcdt2980s,Code name:,DCDT2980S
+2020-09-18T02:18:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/776843,Synonym:,autologous T lymphocytes expressing CD22 CARs-expressing tandem TCR-zeta/4-1BB
+2020-09-18T02:18:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/776843,Synonym:,autologous T lymphocytes expressing CD22 chimeric antigen receptors expressing tandem TCR-zeta and 4-1BB
+2020-09-18T02:18:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/776843,Synonym:,TCRzeta/4-1BB CART22 cells
+2020-09-18T02:18:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/776843,Synonym:,TCRζ/4-1BB CART22 cells
+2020-09-18T02:18:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800848,Synonym:,Anti-CD228 Antibody-drug Conjugate SGN-CD228A
+2020-09-18T02:18:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800848,Synonym:,Anti-CD228-MMAE ADC SGN-CD228A
+2020-09-18T02:18:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800848,Synonym:,anti-melanotransferrin ADC SGN-CD228A
+2020-09-18T02:18:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800848,Code name:,SGN CD228A
+2020-09-18T02:18:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800848,Code name:,SGNCD228A
+2020-09-18T02:18:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/767368,Synonym:,anti-CD22-CAR m971-BBz cells
+2020-09-18T02:18:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802183,Synonym:,anti-CD25 monoclonal antibody RG6292
+2020-09-18T02:18:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802183,Synonym:,T-regulatory cell-depleting antibody RO7296682
+2020-09-18T02:18:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802183,Code name:,RG 6292
+2020-09-18T02:18:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802183,Code name:,RG6292
+2020-09-18T02:18:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802183,Code name:,RG-6292
+2020-09-18T02:18:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802183,Code name:,RO 7296682
+2020-09-18T02:18:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802183,Code name:,RO7296682
+2020-09-18T02:18:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802183,Code name:,RO-7296682
+2020-09-18T02:18:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd27l-antibody-drug-conjugate-amg-172,Synonym:,anti-epithelial cell adhesion molecule /anti-CD3 antibody-drug conjugate AMG 172
+2020-09-18T02:18:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd27l-antibody-drug-conjugate-amg-172,Code name:,AMG 172
+2020-09-18T02:18:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd3-immunotoxin-a-dmdt390-bisfvucht1,Synonym:,A-dmDT390-bisFv(UCHT1) fusion protein
+2020-09-18T02:18:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd3-immunotoxin-a-dmdt390-bisfvucht1,Synonym:,anti-T cell immunotoxin A-dmDT390-bisFv(UCHT1)
+2020-09-18T02:18:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd3-immunotoxin-a-dmdt390-bisfvucht1,US brand name:,Resimmune
+2020-09-18T02:18:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd3-immunotoxin-a-dmdt390-bisfvucht1,Abbreviation:,A-dmDT390-bisFv(UCHT1)
+2020-09-18T02:18:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd3-x-anti-cd20-bispecific-antibody-armed-activated-t-cells,Synonym:,CD20Bi-armed activated T cells
+2020-09-18T02:18:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd3-x-anti-cd20-bispecific-antibody-armed-activated-t-cells,Abbreviation:,anti-CD3 x anti-CD20 bi-armed ATC
+2020-09-18T02:18:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801833,Synonym:,duobody-CD3x5T4
+2020-09-18T02:18:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801833,Code name:,GEN 1044
+2020-09-18T02:18:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801833,Code name:,GEN1044
+2020-09-18T02:18:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801833,Code name:,GEN-1044
+2020-09-18T02:18:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd3-anti-bcma-bispecific-monoclonal-antibody-jnj-64007957,Synonym:,BCMA x CD3 bispecific antibody JNJ-64007957
+2020-09-18T02:18:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd3-anti-bcma-bispecific-monoclonal-antibody-jnj-64007957,Synonym:,BCMA x CD3 duobody antibody JNJ-64007957
+2020-09-18T02:18:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd3-anti-bcma-bispecific-monoclonal-antibody-jnj-64007957,Synonym:,humanized BCMA/CD3 duobody antibody JNJ-64007957
+2020-09-18T02:18:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd3-anti-bcma-bispecific-monoclonal-antibody-jnj-64007957,Code name:,JNJ 64007957
+2020-09-18T02:18:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd3-anti-bcma-bispecific-monoclonal-antibody-jnj-64007957,Code name:,JNJ64007957
+2020-09-18T02:18:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792267,Synonym:,anti-CD3/anti-BCMA bispecific antibody PF-06863135
+2020-09-18T02:18:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792267,Synonym:,B-cell maturation antigen-CD3 bispecific antibody PF-06863135
+2020-09-18T02:18:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792267,Synonym:,BCMA x CD3 bispecific antibody PF-06863135
+2020-09-18T02:18:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792267,Synonym:,BCMA-CD3 bispecific Ab PF-06863135
+2020-09-18T02:18:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792267,Code name:,PF 06863135
+2020-09-18T02:18:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792267,Code name:,PF06863135
+2020-09-18T02:18:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792267,Code name:,PF-06863135
+2020-09-18T02:19:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd3-anti-cd20-trifunctional-bispecific-monoclonal-antibody-fbta05,Synonym:,Bi20
+2020-09-18T02:19:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd3-anti-cd20-trifunctional-bispecific-monoclonal-antibody-fbta05,Code name:,FBTA05
+2020-09-18T02:19:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792477,Synonym:,GPRC5D x CD3 bispecific antibody JNJ-64407564
+2020-09-18T02:19:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792477,Synonym:,GPRC5D x CD3 duobody antibody JNJ-64407564
+2020-09-18T02:19:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792477,Synonym:,GPRC5D/CD3 duobody antibody JNJ-64407564
+2020-09-18T02:19:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792477,Synonym:,humanized GPRC5D x CD3 duobody antibody JNJ-64407564
+2020-09-18T02:19:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792477,Code name:,JNJ 64407564
+2020-09-18T02:19:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792477,Code name:,JNJ64407564
+2020-09-18T02:19:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792477,Code name:,JNJ-64407564
+2020-09-18T02:19:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800221,Synonym:,anti-CD3 x anti-GUCY2C bispecific antibody PF-07062119
+2020-09-18T02:19:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800221,Synonym:,anti-GUCY2C/anti-CD3 bispecific antibody PF-07062119
+2020-09-18T02:19:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800221,Synonym:,T-cell bispecific antibody PF-07062119
+2020-09-18T02:19:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800221,Code name:,PF 07062119
+2020-09-18T02:19:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800221,Code name:,PF07062119
+2020-09-18T02:19:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800221,Code name:,PF-07062119
+2020-09-18T02:19:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798973,US brand name:,DuoBody-CD3xCD20
+2020-09-18T02:19:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798973,Code name:,GEN 3013
+2020-09-18T02:19:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798973,Code name:,GEN3013
+2020-09-18T02:19:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798973,Code name:,GEN-3013
+2020-09-18T02:19:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793935,NA,NA
+2020-09-18T02:19:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799985,Synonym:,anti-CD3/CD7-RTA immunotoxin
+2020-09-18T02:19:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799985,Synonym:,CD3/CD7-ricin A IT
+2020-09-18T02:19:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799985,US brand name:,T-Guard
+2020-09-18T02:19:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd3-humanized-3f8-bispecific-antibody-activated-t-lymphocytes,Synonym:,anti-CD3 x hu3F8 bispecific antibody-armed ATC
+2020-09-18T02:19:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd3-humanized-3f8-bispecific-antibody-activated-t-lymphocytes,Synonym:,OKT3/humanized 3F8 bispecific antibody-activated T lymphocytes
+2020-09-18T02:19:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd3-humanized-3f8-bispecific-antibody-activated-t-lymphocytes,Abbreviation:,GD2Bi-a ATC
+2020-09-18T02:19:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd3-humanized-3f8-bispecific-antibody-activated-t-lymphocytes,Abbreviation:,Hu3F8Bi-armed ATC
+2020-09-18T02:19:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792734,Synonym:,anti-CD3/MUC1-armed PD-1 inhibitor-induced CIK cells
+2020-09-18T02:19:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792734,Synonym:,PD-1 activated CIK armed with anti-CD3/Anti-MUC1 bispecific antibody
+2020-09-18T02:19:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd30-monoclonal-antibody-mdx-1401,Code name:,MDX-1401
+2020-09-18T02:19:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd30-monoclonal-antibody-xmab2513,Code name:,XmAb2513
+2020-09-18T02:19:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd30-cd16a-monoclonal-antibody-afm13,Code name:,AFM13
+2020-09-18T02:20:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801498,Synonym:,anti-CD30/DM1 ADC F0002
+2020-09-18T02:20:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801498,Synonym:,F0002-ADC
+2020-09-18T02:20:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801498,Synonym:,FADC F0002
+2020-09-18T02:20:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801498,Code name:,F 0002
+2020-09-18T02:20:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801498,Code name:,F0002
+2020-09-18T02:20:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801498,Code name:,F-0002
+2020-09-18T02:20:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795804,Synonym:,anti-hFcγRIIB monoclonal antibody BI-1206
+2020-09-18T02:20:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795804,Synonym:,hFcgammaRIIB mAb BI-1206
+2020-09-18T02:20:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795804,Code name:,BI 1206
+2020-09-18T02:20:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795804,Code name:,BI1206
+2020-09-18T02:20:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795804,Code name:,BI-1206
+2020-09-18T02:20:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd33-antigen-cd3-receptor-bispecific-monoclonal-antibody-amv564,Synonym:,CD33 x CD3 tandem diabody AMV-564
+2020-09-18T02:20:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd33-antigen-cd3-receptor-bispecific-monoclonal-antibody-amv564,Synonym:,CD33/CD3 TandAbs AMV564
+2020-09-18T02:20:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd33-antigen-cd3-receptor-bispecific-monoclonal-antibody-amv564,Code name:,AMV 564
+2020-09-18T02:20:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd33-antigen-cd3-receptor-bispecific-monoclonal-antibody-amv564,Code name:,AMV564
+2020-09-18T02:20:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd33-antigen-cd3-receptor-bispecific-monoclonal-antibody-amv564,Code name:,AMV-564
+2020-09-18T02:20:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd33-monoclonal-antibody-bi-836858,Code name:,BI 836858
+2020-09-18T02:20:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd33-monoclonal-antibody-dm4-conjugate-ave9633,Code name:,AVE9633
+2020-09-18T02:20:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795023,Synonym:,anti-CD33 bispecific antibody GEM 333
+2020-09-18T02:20:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795023,Synonym:,anti-CD33/anti-CD3 bispecific antibody GEM 333
+2020-09-18T02:20:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795023,Synonym:,anti-CD33/CD3 antibody GEM 333
+2020-09-18T02:20:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795023,Code name:,GEM 333
+2020-09-18T02:20:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795023,Code name:,GEM333
+2020-09-18T02:20:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795023,Code name:,GEM-333
+2020-09-18T02:20:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798705,Synonym:,anti-CD33/anti-CD3 bispecific antibody JNJ-67571244
+2020-09-18T02:20:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798705,Code name:,JNJ 67571244
+2020-09-18T02:20:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798705,Code name:,JNJ67571244
+2020-09-18T02:20:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798705,Code name:,JNJ-67571244
+2020-09-18T02:20:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd33-cd3-bite-antibody-amg-330,Synonym:,bispecific T-cell engager antibody AMG 330
+2020-09-18T02:20:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd33-cd3-bite-antibody-amg-330,Synonym:,BiTE antibody AMG 330
+2020-09-18T02:20:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd33-cd3-bite-antibody-amg-330,Synonym:,CD33/CD3-directed bispecific T-cell engager antibody AMG 33
+2020-09-18T02:20:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd33-cd3-bite-antibody-amg-330,Code name:,AMG 330
+2020-09-18T02:20:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd33-cd3-bite-antibody-amg-330,Code name:,AMG330
+2020-09-18T02:20:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792374,Synonym:,anti-CD33 x anti-CD3 BiTE AMG 673
+2020-09-18T02:20:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792374,Synonym:,bispecific T-cell engager antibody AMG 673
+2020-09-18T02:20:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792374,Synonym:,BiTE antibody AMG 673
+2020-09-18T02:20:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792374,Synonym:,CD33/CD3-directed bispecific T-cell engager antibody AMG 673
+2020-09-18T02:20:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792374,Code name:,AMG 673
+2020-09-18T02:20:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792374,Code name:,AMG673
+2020-09-18T02:20:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792374,Code name:,AMG-673
+2020-09-18T02:20:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd352-antibody-drug-conjugate-sgn-cd352a,Synonym:,ADC SGN-CD352A
+2020-09-18T02:20:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd352-antibody-drug-conjugate-sgn-cd352a,Synonym:,PBD dimer ADC SGN-CD352A
+2020-09-18T02:20:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd352-antibody-drug-conjugate-sgn-cd352a,Synonym:,PBD-based anti-CD352 ADC SGN-CD352A
+2020-09-18T02:20:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd352-antibody-drug-conjugate-sgn-cd352a,Synonym:,PBD-based anti-CD352 antibody-drug conjugate SGN-CD352A
+2020-09-18T02:20:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd352-antibody-drug-conjugate-sgn-cd352a,Code name:,SGN-CD352A
+2020-09-18T02:20:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd37-antibody-drug-conjugate-imgn529,Code name:,IMGN529
+2020-09-18T02:21:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd37-monoclonal-antibody-bi-836826,Code name:,BI 836826
+2020-09-18T02:21:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd37-monoclonal-antibody-bi-836826,Code name:,mAb 37.1
+2020-09-18T02:21:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801227,Synonym:,anti-CD37-CAR T cells
+2020-09-18T02:21:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801227,Synonym:,anti-CD37-CAR-T cells
+2020-09-18T02:21:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801227,Synonym:,CAR-37 T cells
+2020-09-18T02:21:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800231,Code name:,SAR 442085
+2020-09-18T02:21:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800231,Code name:,SAR442085
+2020-09-18T02:21:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800231,Code name:,SAR-442085
+2020-09-18T02:21:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795705,Synonym:,anti-CD38 MAb TAK-079
+2020-09-18T02:21:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795705,Code name:,TAK 079
+2020-09-18T02:21:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795705,Code name:,TAK-079
+2020-09-18T02:21:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd38-monoclonal-antibody-mor03087,Code name:,MOR03087
+2020-09-18T02:21:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd38-monoclonal-antibody-mor03087,Code name:,MOR202
+2020-09-18T02:21:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd38-monoclonal-antibody-mor03087,Code name:,TJ202/MOR202
+2020-09-18T02:21:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797082,Synonym:,anti-CD38/anti-BCMA CAR T cells
+2020-09-18T02:21:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797082,Synonym:,anti-CD38/anti-BCMA CAR T lymphocytes
+2020-09-18T02:21:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797082,Synonym:,anti-CD38/BCMA CAR T cells
+2020-09-18T02:21:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802010,Synonym:,tri-specific T-cell engager SAR442257
+2020-09-18T02:21:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802010,Code name:,SAR 442257
+2020-09-18T02:21:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802010,Code name:,SAR442257
+2020-09-18T02:21:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802010,Code name:,SAR-442257
+2020-09-18T02:21:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792483,Synonym:,anti-CD38 x anti-CD3 bispecific monoclonal antibody GBR 1342
+2020-09-18T02:21:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792483,Synonym:,anti-CD38/anti-CD3 bispecific monoclonal antibody GBR 1342
+2020-09-18T02:21:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792483,Synonym:,BEAT GBR 1342
+2020-09-18T02:21:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792483,Synonym:,CD38xCD3 BsAb GBR 1342
+2020-09-18T02:21:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792483,Code name:,GBR 1342
+2020-09-18T02:21:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792483,Code name:,GBR1342
+2020-09-18T02:21:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792483,Code name:,GBR-1342
+2020-09-18T02:21:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd38-targeted-igg4-attenuated-ifna-tak-573,Synonym:,anti-CD38-targeted IgG4-attenuated interferon alpha TAK-573
+2020-09-18T02:21:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd38-targeted-igg4-attenuated-ifna-tak-573,Synonym:,CD38-targeted IgG4 fused with attenuated IFNa
+2020-09-18T02:21:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd38-targeted-igg4-attenuated-ifna-tak-573,Code name:,TAK-573
+2020-09-18T02:21:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd38-targeted-igg4-attenuated-ifna-tak-573,Code name:,TEV-48573
+2020-09-18T02:21:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798967,Code name:,TTX 030
+2020-09-18T02:21:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798967,Code name:,TTX030
+2020-09-18T02:21:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798967,Code name:,TTX-030
+2020-09-18T02:21:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802265,Synonym:,CD4 CAR T cells
+2020-09-18T02:21:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802265,Synonym:,CD4-specific CAR T cells
+2020-09-18T02:21:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd40-agonist-monoclonal-antibody-abbv-927,Synonym:,agonistic anti-CD40 monoclonal antibody ABBV-927
+2020-09-18T02:21:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd40-agonist-monoclonal-antibody-abbv-927,Synonym:,anti-CD40 monoclonal antibody ABBV-927
+2020-09-18T02:21:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd40-agonist-monoclonal-antibody-abbv-927,Code name:,ABBV-927
+2020-09-18T02:22:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793440,Synonym:,agonist CD40 antibody CDX-1140
+2020-09-18T02:22:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793440,Synonym:,anti-CD40 agonistic monoclonal antibody CDX-1140
+2020-09-18T02:22:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793440,Code name:,CDX 1140
+2020-09-18T02:22:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793440,Code name:,CDX-1140
+2020-09-18T02:22:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd40-monoclonal-antibody-chi-lob-7-4,Code name:,Chi Lob 7/4
+2020-09-18T02:22:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd40-monoclonal-antibody-sea-cd40,Code name:,SEA-CD40
+2020-09-18T02:22:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800410,Synonym:,anti-CD40/anti-CD137 bispecific agonist monoclonal antibody GEN1042
+2020-09-18T02:22:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800410,Synonym:,DuoBody-CD40x4-1BB GEN1042
+2020-09-18T02:22:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800410,Code name:,BNT 312
+2020-09-18T02:22:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800410,Code name:,BNT-312
+2020-09-18T02:22:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800410,Code name:,GEN 1042
+2020-09-18T02:22:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800410,Code name:,GEN1042
+2020-09-18T02:22:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800410,Code name:,GEN-1042
+2020-09-18T02:22:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd40l-fc-fusion-protein-bms-986004,Synonym:,Fc-fusion protein BMS986004
+2020-09-18T02:22:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd40l-fc-fusion-protein-bms-986004,Code name:,BMS986004
+2020-09-18T02:22:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd40l-fc-fusion-protein-bms-986004,Code name:,BMS-986004
+2020-09-18T02:22:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd44-monoclonal-antibody-ro5429083,Code name:,RG 7356
+2020-09-18T02:22:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd44-monoclonal-antibody-ro5429083,Code name:,RO5429083
+2020-09-18T02:22:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd45-monoclonal-antibody,NA,NA
+2020-09-18T02:22:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd45-monoclonal-antibody-ahn-12,Code name:,AHN-12
+2020-09-18T02:22:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd45-monoclonal-antibody-bc8,Abbreviation:,MOAB BC8
+2020-09-18T02:22:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd45-monoclonal-antibody-bc8-streptavidin-conjugate,Synonym:,anti-CD45 BC8 antibody-streptavidin fusion protein
+2020-09-18T02:22:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd45-monoclonal-antibody-bc8-streptavidin-conjugate,Synonym:,BC8 scFv4SA fusion protein
+2020-09-18T02:22:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd45-monoclonal-antibody-bc8-streptavidin-conjugate,Abbreviation:,BC8-SA
+2020-09-18T02:22:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795803,Synonym:,ADC FOR46
+2020-09-18T02:22:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795803,Synonym:,antibody-drug conjugate FOR46
+2020-09-18T02:22:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795803,Synonym:,anti-CD46 ADC FOR46
+2020-09-18T02:22:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795803,Synonym:,CD46-ADC FOR46
+2020-09-18T02:22:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795803,Code name:,FOR 46
+2020-09-18T02:22:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795803,Code name:,FOR46
+2020-09-18T02:22:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795803,Code name:,FOR-46
+2020-09-18T02:23:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801749,Synonym:,ADC SGN-CD47M
+2020-09-18T02:23:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801749,Synonym:,anti-CD47 antibody-drug conjugate SGN-CD47M
+2020-09-18T02:23:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801749,Code name:,SGN CD47M
+2020-09-18T02:23:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801749,Code name:,SGNCD47M
+2020-09-18T02:23:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801749,Code name:,SGN-CD47M
+2020-09-18T02:23:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797803,Code name:,AO 176
+2020-09-18T02:23:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797803,Code name:,AO176
+2020-09-18T02:23:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797803,Code name:,AO-176
+2020-09-18T02:23:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd47-monoclonal-antibody-cc-90002,Synonym:,anti-CD47 Mab CC-90002
+2020-09-18T02:23:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd47-monoclonal-antibody-cc-90002,Code name:,CC 90002
+2020-09-18T02:23:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd47-monoclonal-antibody-cc-90002,Code name:,CC-90002
+2020-09-18T02:23:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797797,Synonym:,OA3-targeted antineoplastic agent SHR-1603
+2020-09-18T02:23:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797797,Code name:,SHR 1603
+2020-09-18T02:23:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797797,Code name:,SHR1603
+2020-09-18T02:23:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797797,Code name:,SHR-1603
+2020-09-18T02:23:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795110,Code name:,SRF 231
+2020-09-18T02:23:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795110,Code name:,SRF231
+2020-09-18T02:23:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795110,Code name:,SRF-231
+2020-09-18T02:23:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801670,Code name:,TJ 011133
+2020-09-18T02:23:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801670,Code name:,TJ-011133
+2020-09-18T02:23:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801670,Code name:,TJC4
+2020-09-18T02:23:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799809,Synonym:,bispecific monoclonal antibody TG-1801
+2020-09-18T02:23:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799809,Code name:,TG 1801
+2020-09-18T02:23:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799809,Code name:,TG1801
+2020-09-18T02:23:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799809,Code name:,TG-1801
+2020-09-18T02:23:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794392,Synonym:,Anti-CD48 ADC SGN-CD48A
+2020-09-18T02:23:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794392,Code name:,SGN CD48A
+2020-09-18T02:23:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794392,Code name:,SGNCD48A
+2020-09-18T02:23:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798418,Code name:,ALLO 647
+2020-09-18T02:23:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798418,Code name:,ALLO647
+2020-09-18T02:23:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798418,Code name:,ALLO-647
+2020-09-18T02:23:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801681,Synonym:,anti-CD7 CAR T lymphocytes
+2020-09-18T02:23:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd70-antibody-drug-conjugate-mdx-1203,Abbreviation:,anti-CD70 ADC MDX-1203
+2020-09-18T02:23:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd70-antibody-drug-conjugate-mdx-1203,Code name:,MDX-1203
+2020-09-18T02:24:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd70-antibody-drug-conjugate-sgn-cd70a,Code name:,SGN-CD70A
+2020-09-18T02:24:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd70-monoclonal-antibody-mdx-1411,Code name:,MDX-1411
+2020-09-18T02:24:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794073,Synonym:,antibody prodrug-drug conjugate CX-2029
+2020-09-18T02:24:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794073,Synonym:,anti-CD71 Probody/vcMMAE drug conjugate CX-2029
+2020-09-18T02:24:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794073,Synonym:,CD71-directed PDC CX-2029
+2020-09-18T02:24:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794073,Synonym:,CD71-directed probody therapeutic CX-2029
+2020-09-18T02:24:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794073,Synonym:,PDC CX-2029
+2020-09-18T02:24:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794073,Synonym:,PDC-targeting CD71 CX-2029
+2020-09-18T02:24:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794073,Code name:,CX 2029
+2020-09-18T02:24:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794073,Code name:,CX2029
+2020-09-18T02:24:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794073,Code name:,CX-2029
+2020-09-18T02:24:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd73-monoclonal-antibody-bms-986179,Code name:,BMS 986179
+2020-09-18T02:24:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd73-monoclonal-antibody-bms-986179,Code name:,BMS-986179
+2020-09-18T02:24:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795397,Code name:,CPI 006
+2020-09-18T02:24:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795397,Code name:,CPI006
+2020-09-18T02:24:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795397,Code name:,CPI-006
+2020-09-18T02:24:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795397,Code name:,CPX-006
+2020-09-18T02:24:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797358,Code name:,NZV 930
+2020-09-18T02:24:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797358,Code name:,NZV930
+2020-09-18T02:24:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797358,Code name:,NZV-930
+2020-09-18T02:24:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797358,Code name:,SRF 373
+2020-09-18T02:24:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797358,Code name:,SRF373
+2020-09-18T02:24:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797358,Code name:,SRF-373
+2020-09-18T02:24:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797647,Code name:,TJ 004309
+2020-09-18T02:24:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797647,Code name:,TJ 4309
+2020-09-18T02:24:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797647,Code name:,TJ004309
+2020-09-18T02:24:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797647,Code name:,TJ-004309
+2020-09-18T02:24:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797647,Code name:,TJ4309
+2020-09-18T02:24:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797647,Code name:,TJ-4309
+2020-09-18T02:24:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797647,Code name:,TJD5
+2020-09-18T02:24:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd98-monoclonal-antibody-ign523,Code name:,IGN523
+2020-09-18T02:24:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cdh6-antibody-drug-conjugate-hkt288,Synonym:,CDH6 ADC HKT288
+2020-09-18T02:24:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cdh6-antibody-drug-conjugate-hkt288,Synonym:,maytansine-based ADC HKT-288
+2020-09-18T02:24:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cdh6-antibody-drug-conjugate-hkt288,Abbreviation:,CDH6-ADC
+2020-09-18T02:24:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cdh6-antibody-drug-conjugate-hkt288,Code name:,HKT 288
+2020-09-18T02:24:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cdh6-antibody-drug-conjugate-hkt288,Code name:,HKT288
+2020-09-18T02:24:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cea-bite-monoclonal-antibody-amg211,Synonym:,anti-CEA BiTE monoclonal antibody MEDI-565
+2020-09-18T02:24:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cea-bite-monoclonal-antibody-amg211,Code name:,AMG211
+2020-09-18T02:24:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cea-bite-monoclonal-antibody-amg211,Code name:,MEDI-565
+2020-09-18T02:24:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cea-bite-monoclonal-antibody-amg211,Code name:,MT111
+2020-09-18T02:24:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cea-igcd28tcr-transduced-autologous-t-cells,NA,NA
+2020-09-18T02:25:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cea-tcr-retroviral-vector-transduced-autologous-lymphocytes,NA,NA
+2020-09-18T02:25:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-fgfr2-antibody-bay1179470,Code name:,BAY1179470
+2020-09-18T02:25:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cea-anti-dtpa-in-f6-734-bispecific-antibody,NA,NA
+2020-09-18T02:25:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cea-anti-hsg-bispecific-monoclonal-antibody-tf2,Synonym:,anti-CEA x anti-histamine-succinyl-glycine bispecific monoclonal antibody TF2
+2020-09-18T02:25:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ceacam1-monoclonal-antibody-cm-24,Code name:,CM-24
+2020-09-18T02:25:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ceacam5-antibody-drug-conjugate-sar408701,Synonym:,ADC SAR408701
+2020-09-18T02:25:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ceacam5-antibody-drug-conjugate-sar408701,Code name:,SAR408701
+2020-09-18T02:25:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/768359,Synonym:,immunoconjugate L-DOS47
+2020-09-18T02:25:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/768359,Code name:,L-DOS47
+2020-09-18T02:25:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797774,Code name:,BAY 1834942
+2020-09-18T02:25:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797774,Code name:,BAY1834942
+2020-09-18T02:25:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797774,Code name:,BAY-1834942
+2020-09-18T02:25:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cea-car-autologous-t-lymphocytes,Synonym:,autologous anti-CEA CAR-T cells
+2020-09-18T02:25:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-c-fms-monoclonal-antibody-amg-820,Code name:,AMG 820
+2020-09-18T02:25:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-c-kit-monoclonal-antibody-ktn0158,Code name:,KTN0158
+2020-09-18T02:25:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802013,Synonym:,anti-CLDN18.2 monoclonal antibody AB011
+2020-09-18T02:25:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802013,Code name:,AB 011
+2020-09-18T02:25:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802013,Code name:,AB011
+2020-09-18T02:25:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802013,Code name:,AB-011
+2020-09-18T02:26:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802035,Code name:,TST 001
+2020-09-18T02:26:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802035,Code name:,TST001
+2020-09-18T02:26:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802035,Code name:,TST-001
+2020-09-18T02:26:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cldn6-monoclonal-antibody-imab027,Code name:,ASP1650
+2020-09-18T02:26:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cldn6-monoclonal-antibody-imab027,Code name:,IMAB027
+2020-09-18T02:26:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792475,Synonym:,anti-CLEC12A x CD3 bispecific antibody MCLA117
+2020-09-18T02:26:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792475,Synonym:,bispecific antibody MCLA-117
+2020-09-18T02:26:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792475,Code name:,MCLA 117
+2020-09-18T02:26:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792475,Code name:,MCLA117
+2020-09-18T02:26:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792475,Code name:,MCLA-117
+2020-09-18T02:26:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792156,Synonym:,ADC HTI-1066
+2020-09-18T02:26:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792156,Code name:,HTI 1066
+2020-09-18T02:26:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792156,Code name:,HTI-1066
+2020-09-18T02:26:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792156,Code name:,SHR-A1403
+2020-09-18T02:26:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797392,Synonym:,anti-c-Met ADC TR1801
+2020-09-18T02:26:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797392,Synonym:,TR1801-ADC
+2020-09-18T02:26:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797392,Code name:,MT 8633
+2020-09-18T02:26:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797392,Code name:,MT8633
+2020-09-18T02:26:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797392,Code name:,MT-8633
+2020-09-18T02:26:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797392,Code name:,TR 1801
+2020-09-18T02:26:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797392,Code name:,TR1801
+2020-09-18T02:26:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797392,Code name:,TR-1801
+2020-09-18T02:26:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-c-met-monoclonal-antibody-abt-700,Code name:,ABT-700
+2020-09-18T02:26:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-c-met-monoclonal-antibody-argx-111,Code name:,ARGX-111
+2020-09-18T02:26:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802302,Code name:,HLX 55
+2020-09-18T02:26:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802302,Code name:,HLX55
+2020-09-18T02:26:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802302,Code name:,HLX-55
+2020-09-18T02:26:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-c-met-monoclonal-antibody-ly2875358,Code name:,LY2875358
+2020-09-18T02:26:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-c-met-monoclonal-antibody-sait301,Code name:,SAIT301
+2020-09-18T02:26:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-csf1-monoclonal-antibody-pd-0360324,Synonym:,anti–M-CSF mAb PD-0360324
+2020-09-18T02:26:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-csf1-monoclonal-antibody-pd-0360324,Code name:,PD 0360324
+2020-09-18T02:26:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-csf1-monoclonal-antibody-pd-0360324,Code name:,PD 360324
+2020-09-18T02:26:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-csf1-monoclonal-antibody-pd-0360324,Code name:,PD-0360324
+2020-09-18T02:26:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-csf1-monoclonal-antibody-pd-0360324,Code name:,"PD-360,324"
+2020-09-18T02:27:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-csf-1r-monoclonal-antibody-imc-cs4,Code name:,IMC-CS4
+2020-09-18T02:27:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-csf-1r-monoclonal-antibody-imc-cs4,Code name:,LY3022855
+2020-09-18T02:27:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794081,Synonym:,anti-M-CSFR monoclonal antibody SNDX-6352
+2020-09-18T02:27:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794081,Code name:,SNDX 6352
+2020-09-18T02:27:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794081,Code name:,SNDX6352
+2020-09-18T02:27:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794081,Code name:,SNDX-6352
+2020-09-18T02:27:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794081,Code name:,UCB6352
+2020-09-18T02:27:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801856,Synonym:,anti-CTLA4 antibody fusion protein KN044
+2020-09-18T02:27:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801856,Code name:,KN 044
+2020-09-18T02:27:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801856,Code name:,KN044
+2020-09-18T02:27:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801856,Code name:,KN-044
+2020-09-18T02:27:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ctla4-mab-rna-gitrl-rna-transfected-autologous-dendritic-cell-vaccine,Synonym:,anti-CTLA-4 mAb heavy and light chain RNA/GITRL RNA-transfected autologous DC
+2020-09-18T02:27:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ctla4-mab-rna-gitrl-rna-transfected-autologous-dendritic-cell-vaccine,Synonym:,anti-CTLA-4 mAb heavy and light chain RNA/GITRL RNA-transfected autologous dendritic cell
+2020-09-18T02:28:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cxcr4-monoclonal-antibody-pf-06747143,Code name:,PF-06747143
+2020-09-18T02:27:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ctla4-mab-rna-gitrl-rna-transfected-autologous-dendritic-cell-vaccine,Synonym:,anti-CTLA4 MoAb RNA/GITRL RNA-transfected autologous dendritic cell vaccine
+2020-09-18T02:27:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ctla4-mab-rna-gitrl-rna-transfected-autologous-dendritic-cell-vaccine,Abbreviation:,GITRL/antiCTLA4 RNA DC
+2020-09-18T02:27:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ctla-4-mab-rna-transfected-autologous-dendritic-cell-vaccine,Synonym:,anti-CTLA-4 mAb RNA-transfected autologous DC
+2020-09-18T02:27:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ctla-4-mab-rna-transfected-autologous-dendritic-cell-vaccine,Synonym:,anti-CTLA-4 mAb RNA-transfected autologous dendritic cells
+2020-09-18T02:27:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799904,Code name:,ADG 116
+2020-09-18T02:27:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799904,Code name:,ADG116
+2020-09-18T02:27:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799904,Code name:,ADG-116
+2020-09-18T02:27:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798657,Code name:,ADU 1604
+2020-09-18T02:27:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798657,Code name:,ADU1604
+2020-09-18T02:27:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798657,Code name:,ADU-1604
+2020-09-18T02:27:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797474,Code name:,AGEN 1181
+2020-09-18T02:27:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797474,Code name:,AGEN1181
+2020-09-18T02:27:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797474,Code name:,AGEN-1181
+2020-09-18T02:27:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ctla-4-monoclonal-antibody-agen1884,Code name:,AGEN1884
+2020-09-18T02:27:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ctla-4-monoclonal-antibody-agen1884,Code name:,AGEN-1884
+2020-09-18T02:27:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ctla4-monoclonal-antibody-bms-986218,Synonym:,monoclonal antibody BMS-986218
+2020-09-18T02:27:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ctla4-monoclonal-antibody-bms-986218,Code name:,BMS 986218
+2020-09-18T02:27:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ctla4-monoclonal-antibody-bms-986218,Code name:,BMS-986218
+2020-09-18T02:27:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801868,Code name:,HBM 4003
+2020-09-18T02:27:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801868,Code name:,HBM4003
+2020-09-18T02:27:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801868,Code name:,HBM-4003
+2020-09-18T02:28:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793094,Code name:,MK 1308
+2020-09-18T02:28:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793094,Code name:,MK1308
+2020-09-18T02:28:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793094,Code name:,MK-1308
+2020-09-18T02:28:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801887,Synonym:,anti-CTLA4 monoclonal antibody ONC-392
+2020-09-18T02:28:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801887,Code name:,ONC 392
+2020-09-18T02:28:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801887,Code name:,ONC392
+2020-09-18T02:28:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801887,Code name:,ONC-392
+2020-09-18T02:28:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797920,Code name:,REGN 4659
+2020-09-18T02:28:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797920,Code name:,REGN4659
+2020-09-18T02:28:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797920,Code name:,REGN-4659
+2020-09-18T02:28:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801762,Synonym:,probody BMS-986288
+2020-09-18T02:28:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801762,Code name:,BMS 986288
+2020-09-18T02:28:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801762,Code name:,BMS986288
+2020-09-18T02:28:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801762,Code name:,BMS-986288
+2020-09-18T02:28:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801536,Synonym:,anti-CTLA4/anti-PD1 monoclonal antibody combination BCD-217
+2020-09-18T02:28:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801536,Synonym:,anti-CTLA-4/PD-1 monoclonal antibody combination BCD-217
+2020-09-18T02:28:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801536,Code name:,BCD 217
+2020-09-18T02:28:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801536,Code name:,BCD217
+2020-09-18T02:28:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801536,Code name:,BCD-217
+2020-09-18T02:28:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797814,Synonym:,anti-CTLA-4/anti-LAG-3 bispecific monoclonal antibody XmAb22841
+2020-09-18T02:28:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797814,Synonym:,CTLA-4xLAG-3 bispecific antibody XmAb22841
+2020-09-18T02:28:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797814,Code name:,XmAb 22841
+2020-09-18T02:28:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797814,Code name:,XmAb22841
+2020-09-18T02:28:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797814,Code name:,XmAb-22841
+2020-09-18T02:28:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796793,Synonym:,CTLA-4 x OX40 bispecific antibody ATOR-1015
+2020-09-18T02:28:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796793,Code name:,ADC 1015
+2020-09-18T02:28:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796793,Code name:,ADC1015
+2020-09-18T02:28:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796793,Code name:,ADC-1015
+2020-09-18T02:28:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796793,Code name:,ATOR 1015
+2020-09-18T02:28:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796793,Code name:,ATOR1015
+2020-09-18T02:28:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796793,Code name:,ATOR-1015
+2020-09-18T02:28:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cxcr4-monoclonal-antibody-pf-06747143,Synonym:,anti-CXCR4 IgG1 antibody PF-06747143
+2020-09-18T02:28:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cxcr4-monoclonal-antibody-pf-06747143,Code name:,PF 06747143
+2020-09-18T02:28:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-denatured-collagen-recombinant-monoclonal-antibody-trc093,Synonym:,anti-dn collagen monoclonal antibody TRC093
+2020-09-18T02:28:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-denatured-collagen-recombinant-monoclonal-antibody-trc093,Code name:,D93
+2020-09-18T02:28:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-denatured-collagen-recombinant-monoclonal-antibody-trc093,Code name:,TRC093
+2020-09-18T02:28:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-dkk1-monoclonal-antibody-bhq880,Code name:,BHQ880
+2020-09-18T02:28:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-dkk-1-monoclonal-antibody-ly2812176,Code name:,LY2812176
+2020-09-18T02:29:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792376,Synonym:,anti-DLL3 x anti-CD3 BiTE AMG 757
+2020-09-18T02:29:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792376,Synonym:,bispecific T-cell engager antibody AMG 757
+2020-09-18T02:29:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792376,Synonym:,BiTE antibody AMG 757
+2020-09-18T02:29:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792376,Synonym:,DLL3/CD3-directed bispecific T-cell engager antibody AMG 757
+2020-09-18T02:29:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792376,Code name:,AMG 757
+2020-09-18T02:29:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792376,Code name:,AMG757
+2020-09-18T02:29:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792376,Code name:,AMG-757
+2020-09-18T02:29:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-dll4-monoclonal-antibody-medi0639,Code name:,MEDI0639
+2020-09-18T02:29:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-dll4-monoclonal-antibody-regn421,Synonym:,anti-Delta-like 4 monoclonal antibody REGN421
+2020-09-18T02:29:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-dll4-monoclonal-antibody-regn421,Code name:,REGN421
+2020-09-18T02:29:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-dll4-vegf-bispecific-monoclonal-antibody-omp-305b83,Code name:,OMP-305B83
+2020-09-18T02:29:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-dr5-agonist-monoclonal-antibody-tra-8,Synonym:,anti-death receptor 5 agonist monoclonal antibody TRA-8
+2020-09-18T02:29:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-dr5-agonist-monoclonal-antibody-tra-8,Code name:,TRA-8
+2020-09-18T02:29:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796494,Code name:,INBRX 109
+2020-09-18T02:29:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796494,Code name:,INBRX109
+2020-09-18T02:29:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796494,Code name:,INBRX-109
+2020-09-18T02:29:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfl7-monoclonal-antibody-megf0444a,Synonym:,anti-epidermal growth factor-like domain 7 monoclonal antibody MEGF0444A
+2020-09-18T02:29:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfl7-monoclonal-antibody-megf0444a,Code name:,MEGF0444A
+2020-09-18T02:29:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797091,Synonym:,EGFR-IL12-CAR-T cells
+2020-09-18T02:29:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfr-fluorescence-imaging-agent-aby-029,Synonym:,ABY-029 trifluoroacetate salt
+2020-09-18T02:29:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfr-fluorescence-imaging-agent-aby-029,Synonym:,fluorescently-labeled Anti-EGFR affibody molecule ABY-029
+2020-09-18T02:29:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfr-fluorescence-imaging-agent-aby-029,Synonym:,IRDye 800CW maleimide-labeled affibody peptide
+2020-09-18T02:29:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfr-fluorescence-imaging-agent-aby-029,Code name:,ABY-029
+2020-09-18T02:29:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfr-monoclonal-antibody-abt-806,Abbreviation:,anti-EGFR mAb ABT-806
+2020-09-18T02:29:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfr-monoclonal-antibody-abt-806,Abbreviation:,anti-EGFR MoAb ABT-806
+2020-09-18T02:29:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfr-monoclonal-antibody-abt-806,Code name:,ABT-806
+2020-09-18T02:29:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfr-monoclonal-antibody-abt-806,Code name:,mAb-806
+2020-09-18T02:29:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794677,Code name:,CPGJ 602
+2020-09-18T02:29:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794677,Code name:,CPGJ602
+2020-09-18T02:29:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794677,Code name:,CPGJ-602
+2020-09-18T02:29:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfr-monoclonal-antibody-gc1118,Code name:,GC1118
+2020-09-18T02:30:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799130,Synonym:,cetuximab biobetter HLX07
+2020-09-18T02:30:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799130,Code name:,HLX 07
+2020-09-18T02:30:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799130,Code name:,HLX07
+2020-09-18T02:30:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799130,Code name:,HLX-07
+2020-09-18T02:30:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfr-monoclonal-antibody-mixture-mm-151,Code name:,MM-151
+2020-09-18T02:30:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfr-monoclonal-antibody-mixture-sym004,Code name:,sym004
+2020-09-18T02:30:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfr-monoclonal-antibody-ro5083945,Synonym:,anti-epidermal growth factor receptor GFR monoclonal antibody RO5083945
+2020-09-18T02:30:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfr-monoclonal-antibody-syn004,Code name:,SYN004
+2020-09-18T02:30:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfr-tap-antibody-drug-conjugate-imgn289,Synonym:,anti-EGFR-SMCC-DM1
+2020-09-18T02:30:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-egfr-tap-antibody-drug-conjugate-imgn289,Code name:,IMGN289
