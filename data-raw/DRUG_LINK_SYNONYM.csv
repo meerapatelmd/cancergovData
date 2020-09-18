@@ -11506,6 +11506,7 @@ dls_datetime,drug_link,x1,x2
 2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Fluta-Gry
 2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Flutamex
 2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Flutamin
+2020-09-18T07:09:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798450,Code name:,SLS-001
 2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Flutan
 2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Flutaplex
 2020-09-18T07:00:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/flutamide,Foreign brand name:,Fugerel
@@ -11653,6 +11654,7 @@ dls_datetime,drug_link,x1,x2
 2020-09-18T07:04:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fotemustine,Code name:,S 10036
 2020-09-18T07:04:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fotemustine,Chemical structure:,[1-[[[(2-chloroethyl)nitrosamino]-carbonyl]amino]ethyl]phosphonic acid diethyl ester1-[N-(2-chloroethyl)-N-nitrosoureido]ethylphosphonic acid diethyl esterdiethyl[1-[3-(2-chloroethyl)-3-nitrosoureido]ethyl]phosphonate
 2020-09-18T07:04:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fowlpox-virus-vaccine-vector,Abbreviation:,FOWLVAC
+2020-09-18T07:09:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/galiximab,Synonym:,anti-B7-1
 2020-09-18T07:04:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fowlpox-ny-eso-1-vaccine,Abbreviation:,rF-NY-ESO-1
 2020-09-18T07:04:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dalteparin-sodium,US brand name:,Depo-Heparin
 2020-09-18T07:04:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dalteparin-sodium,US brand name:,Fragmin
@@ -11796,3 +11798,100 @@ dls_datetime,drug_link,x1,x2
 2020-09-18T07:08:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/galactomannan-derivative,Synonym:,"1,4-beta-D-galactomannan"
 2020-09-18T07:08:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/galactomannan-derivative,US brand name:,DAVANAT
 2020-09-18T07:08:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/galactomannan-derivative,Abbreviation:,GD
+2020-09-18T07:08:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/galactose,NA,NA
+2020-09-18T07:08:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/galantamine-hydrobromide,Synonym:,lycoremine hydrobromide
+2020-09-18T07:08:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/galantamine-hydrobromide,Synonym:,Nivalin
+2020-09-18T07:08:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/galantamine-hydrobromide,US brand name:,Razadyne
+2020-09-18T07:08:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/galantamine-hydrobromide,US brand name:,Reminyl
+2020-09-18T07:08:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/galectin-inhibitor-gr-md-02,Synonym:,galactoarabino-rhamnogalacturonate
+2020-09-18T07:08:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/galectin-inhibitor-gr-md-02,Code name:,GR-MD-02
+2020-09-18T07:08:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/galectin-1-inhibitor-otx008,Synonym:,Gal-1 inhibitor OTX008
+2020-09-18T07:08:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/galectin-1-inhibitor-otx008,Code name:,OTX008
+2020-09-18T07:08:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/galeterone,Synonym:,SARM/LI TOK-001
+2020-09-18T07:08:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/galeterone,Code name:,TOK-001
+2020-09-18T07:09:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798450,Synonym:,WT-1 analog peptide vaccine SLS-001
+2020-09-18T07:09:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798450,Code name:,SLS 001
+2020-09-18T07:09:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798450,Code name:,SLS001
+2020-09-18T07:09:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/galiximab,Synonym:,anti-CD80
+2020-09-18T07:09:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/galiximab,Synonym:,MOAB anti-CD80
+2020-09-18T07:09:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/galiximab,Synonym:,monoclonal antibody anti-CD80
+2020-09-18T07:09:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/galiximab,Abbreviation:,MOAB IDEC-114
+2020-09-18T07:09:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-citrate-ga-67,US brand name:,Neoscan
+2020-09-18T07:09:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-citrate-ga-67,Chemical structure:,"1,2,3-Propanetricarboxylic Acid, 2-hydroxy-, Gallium-(sup 67)Ga(1:1) Salt"
+2020-09-18T07:09:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799979,Synonym:,68Ga-FAPi-46
+2020-09-18T07:09:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799979,Synonym:,gallium-68-FAPi-46
+2020-09-18T07:09:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796976,Synonym:,[68Ga]CBP8
+2020-09-18T07:09:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796976,Synonym:,[68Ga]CBP-8
+2020-09-18T07:09:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796976,Synonym:,gallium-68 NODAGA-CBP8
+2020-09-18T07:09:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-citrate,Abbreviation:,(68)Ga-citrate
+2020-09-18T07:09:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-citrate,Abbreviation:,68Ga-citrate
+2020-09-18T07:09:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-citrate,Abbreviation:,gallium-68 citrate
+2020-09-18T07:09:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-dota-exendin-4,Synonym:,[Lys40(Ahx-DOTA-68Ga)NH2]-exendin-4
+2020-09-18T07:09:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-dota-exendin-4,Synonym:,68Ga-DOTA-exendin-4
+2020-09-18T07:09:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801864,Synonym:,68Ga-DOTA-FAPI-04
+2020-09-18T07:09:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801864,Synonym:,68Ga-DOTA-FAPI-04
+2020-09-18T07:09:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801864,Synonym:,68Ga-FAPi-04
+2020-09-18T07:09:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801864,Synonym:,gallium-68-FAPi-04
+2020-09-18T07:09:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-dotanoc,Synonym:,Ga68-DOTANOC
+2020-09-18T07:09:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-dotatate,Synonym:,"gallium-68 DOTA-DPhe1, Tyr3-octreotate"
+2020-09-18T07:09:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-dotatate,Abbreviation:,(68)Ga-DOTA-TATE
+2020-09-18T07:09:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-dotatate,Abbreviation:,68Ga-DOTATATE
+2020-09-18T07:09:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-edotreotide,Synonym:,68Ga-DOTA-d-Phe1-Tyr3-octreotide
+2020-09-18T07:09:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-edotreotide,Synonym:,68Ga-DOTA-TOC
+2020-09-18T07:09:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-edotreotide,Synonym:,Ga-68 DOTA0-Tyr3-octreotide
+2020-09-18T07:09:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-edotreotide,Synonym:,Ga-68 DOTATOC
+2020-09-18T07:09:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-edotreotide,Synonym:,Ga-68-[Tyr3]-octreotide
+2020-09-18T07:09:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-edotreotide,Synonym:,Ga-68-DOTA-TOC
+2020-09-18T07:09:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-edotreotide,Synonym:,Ga-68-DOTA-tyr(3)-octreotide
+2020-09-18T07:09:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-edotreotide,Synonym:,gallium Ga 68-DOTATOC
+2020-09-18T07:09:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-affibody-molecule-aby-025,Synonym:,gallium Ga 68-maleimide-DOTA-Cys61-ZHER2:2891-Cys
+2020-09-18T07:09:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-affibody-molecule-aby-025,Abbreviation:,[68Ga]ABY-025
+2020-09-18T07:10:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-bnota-prgd2,Synonym:,68Ga-BNOTA-PRGD2
+2020-09-18T07:10:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-bnota-prgd2,Synonym:,68Ga-p-SCN-Bn-NOTA-PEG3-RGD2
+2020-09-18T07:10:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-dota-di-hsg-peptide-imp-288,Synonym:,Ga-68-IMP-288
+2020-09-18T07:10:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801839,Synonym:,gallium Ga 68-ACE2 inhibitor DX600
+2020-09-18T07:10:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801839,Abbreviation:,(68)Ga-DX600
+2020-09-18T07:10:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801839,Abbreviation:,68Ga-DX600
+2020-09-18T07:10:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-mln6907,Abbreviation:,[68Ga]MLN6907
+2020-09-18T07:10:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-nodaga-mj9,Synonym:,Ga-68-NODAGA-MJ9
+2020-09-18T07:10:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-psma-11,Synonym:,(68)Ga labeled Glu-NH-CO-NH-Lys(Ahx)-HBED-CC
+2020-09-18T07:10:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-psma-11,Synonym:,(68)Ga-labeled Glu-urea-Lys(Ahx)-HBED-CC
+2020-09-18T07:10:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-psma-11,Synonym:,(68)gallium-PSMA ligand Glu-urea-Lys(Ahx)-HBED-CC
+2020-09-18T07:10:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-psma-11,Synonym:,(68)Ga-PSMA ligand Glu-urea-Lys(Ahx)-HBED-CC
+2020-09-18T07:10:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-psma-11,Synonym:,[68Ga] prostate-specific membrane antigen 11
+2020-09-18T07:10:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-psma-11,Synonym:,[68Ga]GaPSMA-11
+2020-09-18T07:10:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-psma-11,Synonym:,68Ga-DKFZ-PSMA-11
+2020-09-18T07:10:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-psma-11,Synonym:,68Ga-HBED-CC-PSMA
+2020-09-18T07:10:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-psma-11,Synonym:,68Ga-labeled Glu-NH-CO-NH-Lys(Ahx)-HBED-CC
+2020-09-18T07:10:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-psma-11,Synonym:,68Ga-PSMA-11
+2020-09-18T07:10:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-psma-11,Synonym:,Ga-68-labeled PSMA-11
+2020-09-18T07:10:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-psma-11,Synonym:,gallium Ga 68 PSMA-11
+2020-09-18T07:10:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-psma-11,Synonym:,gallium-68 PSMA ligand Glu-urea-Lys(Ahx)-HBED-CC
+2020-09-18T07:10:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-psma-11,Synonym:,PSMA-HBED-CC GA-68
+2020-09-18T07:10:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-grpr-antagonist-bay86-7548,Synonym:,(68)Ga-DOTA-4-amino-1-carboxymethylpiperidine-d-Phe-Gln-Trp-Ala-Val-Gly-His-Sta-Leu-NH2
+2020-09-18T07:10:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-grpr-antagonist-bay86-7548,Synonym:,[68Ga]-labeled bombesin analog BAY86-7548
+2020-09-18T07:10:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-grpr-antagonist-bay86-7548,Synonym:,[68Ga]RM2
+2020-09-18T07:10:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-grpr-antagonist-bay86-7548,Synonym:,68-Ga RM2
+2020-09-18T07:10:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-grpr-antagonist-bay86-7548,Synonym:,68Ga-bombesin antagonist BAY86-7548
+2020-09-18T07:10:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-grpr-antagonist-bay86-7548,Synonym:,68Ga-DOTA RM2
+2020-09-18T07:10:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-grpr-antagonist-bay86-7548,Synonym:,68Ga-DOTA-bombesin analog BAY86-7548
+2020-09-18T07:10:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-grpr-antagonist-bay86-7548,Synonym:,Ga-68-labeled bombesin antagonist BAY 86-7548
+2020-09-18T07:10:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-grpr-antagonist-bay86-7548,Synonym:,gallium Ga 68-labeled GRPR antagonist BAY86-7548
+2020-09-18T07:10:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-grpr-antagonist-bay86-7548,Synonym:,gallium Ga68-labeled GRPR antagonist RM2
+2020-09-18T07:10:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-labeled-grpr-antagonist-bay86-7548,Code name:,BAY 86-7548
+2020-09-18T07:10:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-neb,Synonym:,68Ga-NOTA conjugated truncated form of Evans blue
+2020-09-18T07:10:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-neb,Abbreviation:,68Ga-NEB
+2020-09-18T07:10:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794408,Synonym:,[68Ga]-NeoB
+2020-09-18T07:10:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794408,Synonym:,68Ga-DOTA-NeoBOMB1
+2020-09-18T07:10:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794408,Synonym:,68Ga-NeoB
+2020-09-18T07:10:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794408,Synonym:,gallium Ga 68 NeoBOMB1
+2020-09-18T07:10:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794408,Synonym:,gallium-68 DOTA-NeoBOMB1
+2020-09-18T07:10:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-nodaga-ac-cys-zegfr1907,Synonym:,[68Ga]-labeled anti-EGFR affibody molecule Ac-Cys-ZEGFR:1907
+2020-09-18T07:10:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-nodaga-ac-cys-zegfr1907,Synonym:,68Ga-NODAGA-Ac-Cys-ZEGFR:1907
+2020-09-18T07:10:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-nodaga-ac-cys-zegfr1907,Synonym:,gallium Ga 68-NODAGA-Ac-Cys-Z(EGFR:1907)
+2020-09-18T07:10:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-nodaga-ecrgdyk2,Synonym:,68Ga-NODAGA-E(c[RGDyK])2
+2020-09-18T07:11:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-nodaga-zigf-1r440,Synonym:,[68Ga]-labeled anti-IGF-1R affibody molecule ZIGF-1R:4:40
+2020-09-18T07:11:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-nodaga-zigf-1r440,Synonym:,68Ga-NODAGA-ZIGF-1R:4:40
+2020-09-18T07:11:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-nodaga-zigf-1r440,Synonym:,68Ga-NODAGA-ZIGF-1R:4：40
+2020-09-18T07:11:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-nodaga-zigf-1r440,Synonym:,68Ga-NODAGA-ZIGF-1R:4Z:40
+2020-09-18T07:11:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gallium-ga-68-nota-3ptate-rgd,Synonym:,68Ga-NOTA-3PTATE-RGD
