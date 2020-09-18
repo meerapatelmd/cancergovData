@@ -13752,3 +13752,57 @@ dls_datetime,drug_link,x1,x2
 2020-09-18T07:56:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/talimogene-laherparepvec,Abbreviation:,T-VEC
 2020-09-18T07:57:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/immediate-release-afuresertib,Synonym:,GSK2110183 IR tablet
 2020-09-18T07:57:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/immediate-release-afuresertib,Synonym:,IR afuresertib
+2020-09-18T07:57:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800123,Synonym:,bupropion immediate release
+2020-09-18T07:57:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800123,Synonym:,IR bupropion
+2020-09-18T07:57:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/immediate-release-onapristone,Synonym:,IR onapristone
+2020-09-18T07:57:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/immediate-release-onapristone,Synonym:,"onapristone, immediate-release formulation"
+2020-09-18T07:57:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/disaccharide-tripeptide-glycerol-dipalmitoyl,US brand name:,ImmTher
+2020-09-18T07:57:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/disaccharide-tripeptide-glycerol-dipalmitoyl,Abbreviation:,DTP-GDP
+2020-09-18T07:57:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/disaccharide-tripeptide-glycerol-dipalmitoyl,Chemical structure:,N-acetylglucosaminyl-N-acetyhnuramyl-L-Ala-isoGlu-L-Ala-glycerol dipalmitate
+2020-09-18T07:57:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/beta-glucan,US brand name:,Immucell WGP
+2020-09-18T07:57:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/beta-glucan,Abbreviation:,b-GLUC
+2020-09-18T07:57:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/arginine-omega-3-fatty-acids-nucleotides-oral-supplement,US brand name:,Immun-Aid
+2020-09-18T07:57:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/arginine-omega-3-fatty-acids-nucleotides-oral-supplement,US brand name:,Impact
+2020-09-18T07:57:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/immune-checkpoint-inhibitor-asp8374,Code name:,ASP 8374
+2020-09-18T07:57:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/immune-checkpoint-inhibitor-asp8374,Code name:,ASP8374
+2020-09-18T07:57:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/immune-checkpoint-inhibitor-asp8374,Code name:,ASP-8374
+2020-09-18T07:57:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/immunoadjuvant-qs-dg,Code name:,QS-DG
+2020-09-18T07:57:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/whey-protein-isolate,Synonym:,milk serum protein isolate
+2020-09-18T07:57:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/whey-protein-isolate,Synonym:,undenatured bioactive whey protein derivative
+2020-09-18T07:57:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/whey-protein-isolate,US brand name:,Immunocal
+2020-09-18T07:57:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/immunoconjugate-ro5479599,Code name:,RO5479599
+2020-09-18T07:57:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/immunocytokine-nhs-il12,Code name:,NHS-IL12
+2020-09-18T07:58:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/immunocytokine-nhs-il2-lt,Foreign brand name:,Selectkine
+2020-09-18T07:58:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/immunocytokine-nhs-il2-lt,Code name:,EMD 521873
+2020-09-18T07:58:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/immunological-adjuvant-opt-821,Code name:,OPT-821
+2020-09-18T07:58:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793859,Code name:,LAM 003
+2020-09-18T07:58:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793859,Code name:,LAM003
+2020-09-18T07:58:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793859,Code name:,LAM-003
+2020-09-18T07:58:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/immunomodulator-ohr-avr118,Synonym:,Product R
+2020-09-18T07:58:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/immunomodulator-ohr-avr118,Synonym:,Reticulose
+2020-09-18T07:58:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/immunomodulator-ohr-avr118,Code name:,AVR118
+2020-09-18T07:58:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/immunomodulatory-agent-cc-11006,Code name:,CC-11006
+2020-09-18T07:58:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/immunomodulatory-agent-cc-11006,Code name:,CC-11006-MDS-001
+2020-09-18T07:58:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/immunotherapeutic-combination-product-cmb305,Synonym:,ID-CMB305
+2020-09-18T07:58:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/immunotherapeutic-combination-product-cmb305,Synonym:,LV 305 plus G 305
+2020-09-18T07:58:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/immunotherapeutic-combination-product-cmb305,Synonym:,LV305 plus G305
+2020-09-18T07:58:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/immunotherapeutic-combination-product-cmb305,Code name:,CMB 305
+2020-09-18T07:58:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/immunotherapeutic-combination-product-cmb305,Code name:,CMB305
+2020-09-18T07:58:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/immunotherapeutic-gsk1572932a,Code name:,GSK1572932A
+2020-09-18T07:58:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/immunotherapy-regimen-mkc-1106-mt,Code name:,MKC-1106-MT
+2020-09-18T07:58:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/immunotoxin-cmd-193,Code name:,CMD-193
+2020-09-18T07:58:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/immunotoxin-d2c7-scdsfv-pe38kdel,Synonym:,D2C7-(scdsFv)-PE38KDEL
+2020-09-18T07:58:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/immunotoxin-d2c7-scdsfv-pe38kdel,Synonym:,D2C7-(scdsFv)-PE38KDEL immunotoxin
+2020-09-18T07:58:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/immunotoxin-d2c7-scdsfv-pe38kdel,Abbreviation:,D2C7-IT
+2020-09-18T07:58:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/thymopentin,US brand name:,Immunox
+2020-09-18T07:58:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/thymopentin,Foreign brand name:,Mepentil
+2020-09-18T07:58:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/thymopentin,Foreign brand name:,Sintomodulina
+2020-09-18T07:58:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/thymopentin,Foreign brand name:,Timunox
+2020-09-18T07:58:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/thymopentin,Chemical structure:,N-(N-(N-(N(2)-L-Arginyl-L-Lysyl)-L-alpha-Aspartyl)-L-Valyl)-L-tyrosine
+2020-09-18T07:59:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/loperamide-hydrochloride,US brand name:,Imodium A-D
+2020-09-18T07:59:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/arginine-omega-3-fatty-acids-nucleotides-oral-supplement,US brand name:,Immun-Aid
+2020-09-18T07:59:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/arginine-omega-3-fatty-acids-nucleotides-oral-supplement,US brand name:,Impact
+2020-09-18T07:59:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pgg-beta-glucan,US brand name:,Imprime PGG
+2020-09-18T07:59:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pgg-beta-glucan,Chemical structure:,poly-(1-6)-beta-glucotriosyl-(1-3)-beta-glucopyranose beta-glucan
+2020-09-18T07:59:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/imt-1012-immunotherapeutic-vaccine,Synonym:,OCPM immunotherapeutic vaccine
+2020-09-18T07:59:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/imt-1012-immunotherapeutic-vaccine,Code name:,IMT-1012
