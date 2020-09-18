@@ -4665,3 +4665,73 @@ dls_datetime,drug_link,x1,x2
 2020-09-18T04:16:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793136,Synonym:,autologous anti-HPV-16 E6 TCR T cells
 2020-09-18T04:16:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793136,Synonym:,autologous E6 TCR T cells
 2020-09-18T04:16:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793136,Synonym:,autologous HPV-16 E6 TCR T cells
+2020-09-18T04:16:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-ebv-ctl-cd19car-zeta,NA,NA
+2020-09-18T04:16:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-ebv-transformed-b-lymphoblastoid-tumor-fusion-cell-vaccine,NA,NA
+2020-09-18T04:16:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793115,Synonym:,autologous anti-CTLA-4/PD-1-expressing EGFR-CAR-T cells
+2020-09-18T04:16:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793115,Synonym:,autologous anti-PD-1/CTLA4-targeting antibodies-expressing EGFR-specific CAR-T cells
+2020-09-18T04:16:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793115,Synonym:,autologous CTLA-4 and PD-1 antibodies expressing EGFR-CAR-T cells
+2020-09-18T04:16:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792554,Synonym:,autologous EGFRt/BCMA-41BBz CAR T cells
+2020-09-18T04:16:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792554,Synonym:,B-cell maturation antigen-targeted EGFRt/BCMA-41BBz CAR-modified T cells
+2020-09-18T04:16:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792554,Synonym:,EGFRt/BCMA-41BBz CAR T cell
+2020-09-18T04:16:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-epstein-barr-virus-specific-cytotoxic-t-lymphocytes,Synonym:,EBV-specific cytotoxic T lymphocytes
+2020-09-18T04:16:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-epstein-barr-virus-specific-cytotoxic-t-lymphocytes,Synonym:,Epstein-Barr virus-specific cytotoxic T lymphocytes
+2020-09-18T04:16:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-epstein-barr-virus-transformed-b-lymphoblastoid-cell-vaccine,Synonym:,autologous EBV-transformed B-lymphoblastoid cell vaccine
+2020-09-18T04:16:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-expanded-mesenchymal-stem-cells-oti-010,US brand name:,Stromagen
+2020-09-18T04:16:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-expanded-mesenchymal-stem-cells-oti-010,Code name:,OTI-010
+2020-09-18T04:16:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793118,Synonym:,autologous 4S-FRa-CAR-T cells
+2020-09-18T04:16:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793118,Synonym:,autologous anti-FRa-CD28-CD137-CD27-CD3z-iCasp9 CAR T cells 4SCAR-FRa
+2020-09-18T04:16:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793118,Synonym:,chimeric antigen receptor T cells 4SCAR-FRa
+2020-09-18T04:16:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793118,Synonym:,FRa-specific 4th generation CART cells
+2020-09-18T04:16:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793118,Abbreviation:,4SCAR-FRa
+2020-09-18T04:16:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799772,Synonym:,human gamma-globinG16D/short-hairpin RNA734-transduced CD34-positive cells CSL200
+2020-09-18T04:16:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799772,Code name:,CSL 200
+2020-09-18T04:16:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799772,Code name:,CSL200
+2020-09-18T04:16:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799772,Code name:,CSL-200
+2020-09-18T04:17:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/791887,Synonym:,gamma-retroviral MSGV1 139 scFv EGFRvIII CAR gene-modified autologous T lymphocytes
+2020-09-18T04:17:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/791887,Synonym:,MSGv1-EGFRvIII-CAR autologous T cells
+2020-09-18T04:17:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/791887,Synonym:,MSGV1-EGFRvIII-specific CAR-transduced autologous T lymphocytes
+2020-09-18T04:17:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-genetically-modified-mage-a4-c1032-t-cells,Synonym:,autologous genetically-modified MAGE-A4 C1032 T lymphocytes
+2020-09-18T04:17:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-genetically-modified-mage-a4-c1032-t-cells,Synonym:,autologous genetically-modified melanoma antigen A4 T cells
+2020-09-18T04:17:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-genetically-modified-mage-a4-c1032-t-cells,Synonym:,autologous MAGE-A4 C1032 TCR-modified T cells
+2020-09-18T04:17:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-genetically-modified-mage-a4-c1032-t-cells,Synonym:,autologous TCR-transduced MAGE-A4 C1032 T cells
+2020-09-18T04:17:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-genetically-modified-mage-a4-c1032-t-cells,Synonym:,MAGE-A4 SPEAR T cells
+2020-09-18T04:17:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-genetically-modified-mage-a4-c1032-t-cells,Synonym:,MAGE-A4 TCR
+2020-09-18T04:17:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-genetically-modified-mage-a4-c1032-t-cells,Synonym:,MAGE-A4-specific TCR gene-transduced C1032 T lymphocytes
+2020-09-18T04:17:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-genetically-modified-mage-a4-c1032-t-cells,Code name:,ADP-A2M4
+2020-09-18T04:17:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799099,Synonym:,ADP-A2M4CD8
+2020-09-18T04:17:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799099,Synonym:,autologous genetically-modified MAGE-A4 C1032 CD8alpha T lymphocytes
+2020-09-18T04:17:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799099,Synonym:,autologous genetically-modified melanoma antigen A4 CD8alpha T cells
+2020-09-18T04:17:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799099,Synonym:,autologous MAGE-A4 C1032 TCR-modified CD8alpha T cells
+2020-09-18T04:17:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799099,Synonym:,autologous TCR-transduced MAGE-A4 C1032 CD8alpha T cells
+2020-09-18T04:17:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799099,Synonym:,MAGE-A4 SPEAR CD8alpha T cells
+2020-09-18T04:17:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799099,Synonym:,MAGE-A4-specific TCR gene-transduced C1032 CD8alpha T lymphocytes
+2020-09-18T04:17:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799099,Synonym:,SPEAR T-cell ADP-A2M4CD8
+2020-09-18T04:17:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-glioma-cell-lysate,NA,NA
+2020-09-18T04:17:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-gm-csf-secreting-breast-cancer-vaccine,NA,NA
+2020-09-18T04:17:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/754007,Synonym:,GVAX colorectal cancer vaccine
+2020-09-18T04:17:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gvax-lung-cancer-vaccine,Synonym:,autologous GVAX lung cancer vaccine
+2020-09-18T04:17:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gvax-lung-cancer-vaccine,Synonym:,GVAX autologous lung cancer vaccine
+2020-09-18T04:17:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gvax-lung-cancer-vaccine,Code name:,CG8123
+2020-09-18T04:17:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/gvax-lung-cancer-vaccine,Code name:,CG8123V
+2020-09-18T04:17:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793088,Synonym:,autologous HCC antigens-specific CD8+ T lymphocytes
+2020-09-18T04:17:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793088,Synonym:,autologous HCC antigens-specific CD8-positive T lymphocytes
+2020-09-18T04:17:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793088,Synonym:,autologous specific HCC antigens CD8+ T cells
+2020-09-18T04:17:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-hbv-specific-tcr-redirected-t-lymphocytes,Synonym:,autologous HBV antigen-specific TCR-redirected T cells
+2020-09-18T04:17:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-hbv-specific-tcr-redirected-t-lymphocytes,Synonym:,autologous HBV/TCR-T cells
+2020-09-18T04:17:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-heat-shock-protein-70-peptide-vaccine-ag-858,Code name:,AG-858
+2020-09-18T04:17:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/643475,Synonym:,autologous TGF beta-resistant HER2/EBV-CTLs
+2020-09-18T04:17:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797396,Synonym:,HER2-AdVST
+2020-09-18T04:17:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797396,Synonym:,HER2-CAR-modified adenovirus-specific CTLs
+2020-09-18T04:17:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797396,Synonym:,HER2-CAR-modified Ad-specific CTLs
+2020-09-18T04:17:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797396,Synonym:,HER2-CAR-modified autologous AdVSTs
+2020-09-18T04:17:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797396,Abbreviation:,HER2.CAR AdVST
+2020-09-18T04:18:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795343,Synonym:,autologous HER2 CAR/EGFRt-expressing CD4+ and CD8+ T cells
+2020-09-18T04:18:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-hnscc-dna-transfected-semi-allogeneic-fibroblasts-mrc-5-vaccine,NA,NA
+2020-09-18T04:18:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797966,Synonym:,HPV16 E7 T-cell receptor engineered T cells KITE-439
+2020-09-18T04:18:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797966,Synonym:,HPV16 E7-specific HLA-A*02:01-restricted TCR gene engineered autologous T lymphocytes KITE-439
+2020-09-18T04:18:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797966,Code name:,KITE 439
+2020-09-18T04:18:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797966,Code name:,KITE439
+2020-09-18T04:18:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797966,Code name:,KITE-439
+2020-09-18T04:18:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-hpv-16-18-e6-e7-specific-tgf-beta-resistant-t-lymphocytes,Synonym:,HPVST cells
+2020-09-18T04:18:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794787,Synonym:,autologous HPV-specific immune lymphocytes
+2020-09-18T04:18:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794787,Abbreviation:,autologous HPV-CTLs
