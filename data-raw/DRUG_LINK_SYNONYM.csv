@@ -1207,6 +1207,7 @@ dls_datetime,drug_link,x1,x2
 2020-09-18T01:52:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-dendritic-cell-myeloma-idiotype-vaccine,NA,NA
 2020-09-18T01:52:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792387,Synonym:,allogeneic DNT cells
 2020-09-18T01:52:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792387,Code name:,DNT-UHN-1
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Urosin
 2020-09-18T01:52:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-epstein-barr-virus-specific-cytotoxic-t-lymphocytes,Synonym:,allogeneic EBV-specific CTL
 2020-09-18T01:52:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801494,Synonym:,allogeneic glial restricted progenitor cells
 2020-09-18T01:52:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801494,Synonym:,Q-cells
@@ -1235,3 +1236,135 @@ dls_datetime,drug_link,x1,x2
 2020-09-18T01:53:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796810,Synonym:,allogeneic HAdV antigen-specific T cells
 2020-09-18T01:53:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796810,Synonym:,allogeneic human adenovirus-specific T lymphocytes
 2020-09-18T01:53:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-hla-a2-4-1bb-ligand-expressing-melanoma-vaccine,NA,NA
+2020-09-18T01:53:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794788,Synonym:,allogeneic HPV-specific immune lymphocytes
+2020-09-18T01:53:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794788,Abbreviation:,allogeneic HPV-CTLs
+2020-09-18T01:53:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792530,Synonym:,allogeneic iC9/CAR19/IL15-transduced CB-NK cells
+2020-09-18T01:53:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792530,Synonym:,CAR-CD19-CD28-zeta-2A-iCasp9-IL15-transduced CB-NK cells
+2020-09-18T01:53:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792530,Synonym:,iC9/CAR19/IL15-transduced CB-NKs
+2020-09-18T01:53:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792530,Synonym:,iC9/CAR-CD19-CD28-zeta-2A/IL-15 CB-NK cells
+2020-09-18T01:53:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792530,Synonym:,UCB-derived CAR-CD19-CD28-zeta-2A-iCasp9-IL15 engineered NK cells
+2020-09-18T01:53:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/668180,Synonym:,cytotoxic T lymphocytes GRm13Z40-2
+2020-09-18T01:53:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/668180,Code name:,GRm13Z40-2
+2020-09-18T01:53:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792631,Synonym:,allogeneic IL-17+ CD8 T cells
+2020-09-18T01:53:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792631,Synonym:,allogeneic IL-17-producing CD8+ T cells
+2020-09-18T01:53:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792631,Synonym:,allogeneic Tc17 cells
+2020-09-18T01:54:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-irradiated-melanoma-cell-vaccine-csf470,Synonym:,CSF 470 vaccine
+2020-09-18T01:54:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-irradiated-melanoma-cell-vaccine-csf470,Synonym:,CSF470 vaccine
+2020-09-18T01:54:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-large-multivalent-immunogen-breast-cancer-vaccine,Synonym:,allogeneic LMI breast cancer vaccine
+2020-09-18T01:54:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-large-multivalent-immunogen-melanoma-vaccine-lp2307,Synonym:,allogeneic LMI melanoma vaccine LP2307
+2020-09-18T01:54:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-large-multivalent-immunogen-melanoma-vaccine-lp2307,Code name:,LP2307
+2020-09-18T01:54:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-lmp1--lmp2--specific-cytotoxic-t-lymphocytes,NA,NA
+2020-09-18T01:54:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-melanoma-vaccine-agi-101h,Code name:,AGI-101H
+2020-09-18T01:54:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/770460,Synonym:,allogeneic mesothelioma tumor lysate-pulsed autologous DC vaccine
+2020-09-18T01:54:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/770460,Synonym:,MesoCancerVac
+2020-09-18T01:54:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793439,Synonym:,most closely HLA-matched third-party donor adenovirus Specific CTLs
+2020-09-18T01:54:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793439,Synonym:,most closely HLA-matched third-party donor adenovirus-specific T cells
+2020-09-18T01:54:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-multipotent-adult-progenitor-cells,US brand name:,MultiStem
+2020-09-18T01:54:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-multivirus-specific-cytotoxic-t-lymphocytes,Synonym:,allogeneic EBV/CMV/AdV/HHV6/BKV-specific CTLs
+2020-09-18T01:54:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-multivirus-specific-cytotoxic-t-lymphocytes,Synonym:,allogeneic multivirus-specific CTLs
+2020-09-18T01:54:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-multivirus-specific-cytotoxic-t-lymphocytes,Synonym:,allogeneic partially HLA-matched virus-specific T cells
+2020-09-18T01:54:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-multivirus-specific-cytotoxic-t-lymphocytes,Synonym:,allogeneic partially HLA-matched VST
+2020-09-18T01:54:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-natural-killer-cell-line-mg4101,Abbreviation:,allogeneic NK cell line MG4101
+2020-09-18T01:54:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-natural-killer-cell-line-mg4101,Code name:,MG4101
+2020-09-18T01:54:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-nicotinamide-expanded-natural-killer-cells,Synonym:,allogeneic NAM NK cells
+2020-09-18T01:54:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-nicotinamide-expanded-natural-killer-cells,Synonym:,allogeneic NAM NKs
+2020-09-18T01:54:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-nicotinamide-expanded-natural-killer-cells,Synonym:,donor nicotinamide-expanded natural killer cells
+2020-09-18T01:55:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800069,Synonym:,allogeneic NKG2DL-targeting CAR-gd T cells
+2020-09-18T01:55:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800069,Code name:,CTM-N2D
+2020-09-18T01:55:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801755,Synonym:,allogeneic pDCs- expressing lung tumor antigens PDC*lung01
+2020-09-18T01:55:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801755,Synonym:,therapeutic cancer vaccine PDC*lung01
+2020-09-18T01:55:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801755,Code name:,PDC*lung01
+2020-09-18T01:55:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801755,Code name:,PDClung01
+2020-09-18T01:55:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-renal-cell-carcinoma-vaccine-mgn1601,Synonym:,IL-7/GM-CSF/CD80/CD154-encoding synthetic dSLIM-30L1 allogeneic renal cell carcinoma vaccine MGN1601
+2020-09-18T01:55:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-renal-cell-carcinoma-vaccine-mgn1601,Code name:,MGN1601
+2020-09-18T01:55:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793046,Synonym:,allogeneic NY-ESO-1-c259 T cells
+2020-09-18T01:55:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793046,Synonym:,NY-ESO-1 c259 T cells
+2020-09-18T01:55:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792505,Synonym:,allogeneic TCR a/b T cell-depleted PBSCs
+2020-09-18T01:55:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792505,Synonym:,allogeneic TCR alpha/beta T cell-depleted PBSCs
+2020-09-18T01:55:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802327,Abbreviation:,CTL 19
+2020-09-18T01:55:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802327,Code name:,CTL19
+2020-09-18T01:55:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802327,Code name:,CTL-19
+2020-09-18T01:55:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796718,Synonym:,allogeneic CD19-TriCAR SILK cells
+2020-09-18T01:55:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796718,Synonym:,allogeneic CD19-TriCAR-T/SILK
+2020-09-18T01:55:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796718,Synonym:,allogeneic CD19-TriCAR-T/SILK cells
+2020-09-18T01:55:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-tumor-cell-vaccine,Synonym:,Allogenic Cell Vaccine
+2020-09-18T01:55:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allogeneic-tumor-cell-vaccine,Abbreviation:,ALLOTCV
+2020-09-18T01:55:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792373,Synonym:,allogeneic UCB-derived hematopoietic stem and progenitor cells NLA101
+2020-09-18T01:55:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792373,Code name:,NLA101
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Alositol
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Anoprolin
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Anzief
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Apurol
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Bleminol
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Bloxanth
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Embarin
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Epidropal
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Folligan
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Geapur
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Ketobun-A
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,sodium allopurinol
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Urbol
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Uricemil
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Xanturat
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Synonym:,Zyloric
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,US brand name:,Aloprim
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,US brand name:,Lopurin
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,US brand name:,Zurinol
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,US brand name:,Zyloprim
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Adenock
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Allo-Puren
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Allozym
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Allural
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Aloral
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Alositol
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Anoprolin
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Anzief
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Apulonga
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Apurin
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Apurol
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Bleminol
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Bloxanth
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Caplenal
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Cellidrin
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Cosuric
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Dabroson
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Embarin
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Epidropal
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Folligan
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Geapur
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Gichtex
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Hamarin
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Hexanurat
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Ketanrift
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Ketobun-A
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Ledopur
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Lysuron
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Miniplanor
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Monarch
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Nektrohan
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Remid
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Riball
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Sigapurol
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Suspendol
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Takanarumin
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Urbol
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Uricemil
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Uripurinol
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Urosin
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Urtias
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Xanturat
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Foreign brand name:,Zyloric
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Abbreviation:,4'-HPP
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Code name:,BW 56158
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Code name:,BW-56158
+2020-09-18T01:55:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/allopurinol-sodium,Chemical structure:,"1,5-dihydro-4H-pyrazolo[3,4-d]pryimidin-4-one monosodium salt1H-pyrazolo[3,4-d]pyrimidin-4-ol monosodium salt4-hydroxypyrazolo[3,4-d]pyrimidine"
+2020-09-18T01:55:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801228,Synonym:,EGFR/HER2 inhibitor BDTX-189
+2020-09-18T01:55:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801228,Synonym:,ErbB mutant-specific inhibitor BDTX-189
+2020-09-18T01:55:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801228,Code name:,BDTX 189
+2020-09-18T01:55:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801228,Code name:,BDTX189
+2020-09-18T01:55:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801228,Code name:,BDTX-189
+2020-09-18T01:56:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/almurtide,Synonym:,n-muramyldipeptide derivative
+2020-09-18T01:56:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/almurtide,Synonym:,norMDP
+2020-09-18T01:56:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/almurtide,Synonym:,nor-MDP
+2020-09-18T01:56:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/almurtide,Code name:,Cgp-11637
+2020-09-18T01:56:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/almurtide,Chemical structure:,N-acetyl-nor-muramyl-L-alanyl-D-isoglutamine
