@@ -4735,3 +4735,334 @@ dls_datetime,drug_link,x1,x2
 2020-09-18T04:18:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-hpv-16-18-e6-e7-specific-tgf-beta-resistant-t-lymphocytes,Synonym:,HPVST cells
 2020-09-18T04:18:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794787,Synonym:,autologous HPV-specific immune lymphocytes
 2020-09-18T04:18:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794787,Abbreviation:,autologous HPV-CTLs
+2020-09-18T04:18:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/788957,Synonym:,anti-CD19-CAR genetically engineered autologous T lymphocytes huJCAR014
+2020-09-18T04:18:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/788957,Synonym:,anti-CD19-CAR genetically-engineered autologous T lymphocytes huJCAR014
+2020-09-18T04:18:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/788957,Synonym:,autologous anti-CD19CAR-4-1BB-CD3zeta-EGFRt-expressing CD4+/CD8+ T lymphocytes
+2020-09-18T04:18:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/788957,Code name:,huJCAR014
+2020-09-18T04:18:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795822,Synonym:,autologous iC9-deltaNGFR-CD19CAR-CD3zeta-4-1BB-expressing T cells
+2020-09-18T04:18:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795822,Synonym:,iCasp9-deltaNGFR-CD19CAR-CD3zeta-4-1BB-expressing autologous T cells
+2020-09-18T04:18:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795822,Synonym:,iCasp9-deltaNGFR-CD19CAR-CD3zeta-4-1BB-expressing autologous T lymphocytes
+2020-09-18T04:18:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797486,Synonym:,autologous iC9-GD2CAR-CD28-CD3zeta-IL-15-expressing T cells
+2020-09-18T04:18:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797486,Synonym:,iC9.GD2.CAR.IL-15 T-cells
+2020-09-18T04:18:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-ic9-gd2-car-expressing-vzv-specific-t-lymphocytes,Synonym:,autologous iC9-GD2-CAR-VZV-CTLs
+2020-09-18T04:18:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/791844,Synonym:,ATL-iC9-CAR-CD19
+2020-09-18T04:18:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/791844,Synonym:,autologous iC9-CAR19 T cells
+2020-09-18T04:18:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/791844,Synonym:,autologous iC9-CARCD19 T cells
+2020-09-18T04:18:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/791844,Abbreviation:,autologous iC9-CARCD19 T cells
+2020-09-18T04:18:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-icasp9-cd19-expressing-t-lymphocytes,Synonym:,autologous iC9.2A.deltaNGFR.2A.CAR.CD19 T cells
+2020-09-18T04:18:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-icasp9-cd19-expressing-t-lymphocytes,Synonym:,autologous inducible caspase 9-CD19-expressing autologous T lymphocytes
+2020-09-18T04:19:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-il-21-modulated-cd8-mart1-specific-t-cells,NA,NA
+2020-09-18T04:19:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-immunoglobulin-idiotype-klh-conjugate-vaccine,Synonym:,autologous immunoglobulin idiotype-keyhole limpet hemocyanin conjugate vaccine
+2020-09-18T04:19:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-immunoglobulin-idiotype-klh-conjugate-vaccine,Synonym:,GTOP-99
+2020-09-18T04:19:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-immunoglobulin-idiotype-klh-conjugate-vaccine,Synonym:,Id-KLH conjugate vaccine
+2020-09-18T04:19:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-immunoglobulin-idiotype-klh-conjugate-vaccine,Synonym:,recombinant Id-KLH
+2020-09-18T04:19:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-immunoglobulin-idiotype-klh-conjugate-vaccine,Abbreviation:,Id-KLH
+2020-09-18T04:19:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-interferon-producing-killer-dendritic-cells,Synonym:,autologous IKDC-like cells
+2020-09-18T04:22:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793116,Synonym:,OC-IgT cells
+2020-09-18T04:19:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-interferon-producing-killer-dendritic-cells,Abbreviation:,autologous IKDC
+2020-09-18T04:19:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-lmp1--lmp2--specific-cytotoxic-t-lymphocytes,NA,NA
+2020-09-18T04:19:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798763,Synonym:,autologous EBV-specific TCR T cells YT-E001
+2020-09-18T04:19:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798763,Code name:,YT E001
+2020-09-18T04:19:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798763,Code name:,YTE001
+2020-09-18T04:19:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798763,Code name:,YT-E001
+2020-09-18T04:19:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-lymphoid-effector-cells-specific-against-tumor-cells,Synonym:,autologous activated cytotoxic T lymphocytes/natural killer cells
+2020-09-18T04:19:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-lymphoid-effector-cells-specific-against-tumor-cells,Foreign brand name:,ALECSAT
+2020-09-18T04:19:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-lymphoma-cell-lysate-pulsed-autologous-dendritic-cell-vaccine,NA,NA
+2020-09-18T04:19:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/642645,NA,NA
+2020-09-18T04:19:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/642644,NA,NA
+2020-09-18T04:19:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-lymphoma-immunoglobulin-derived-scfv-chemokine-dna-vaccine,NA,NA
+2020-09-18T04:19:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/786272,Synonym:,autologous genetically-modified T cells MAGEA10c796
+2020-09-18T04:19:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/786272,Synonym:,autologous MAGE A10c796 T cells
+2020-09-18T04:19:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/786272,Synonym:,autologous MAGE-A10-specific HLA-A2-restricted TCR c796 gene-engineered lymphocytes
+2020-09-18T04:19:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/786272,Abbreviation:,MAGEA10c796 T
+2020-09-18T04:19:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-mage-a3-a6-specific-tcr-gene-engineered-lymphocytes-kite-718,Synonym:,autologous anti-MAGE-A3/A6 TCR-transduced T cells KITE-718
+2020-09-18T04:19:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-mage-a3-a6-specific-tcr-gene-engineered-lymphocytes-kite-718,Synonym:,MAGE-A3/A6 T cell receptor engineered T cells
+2020-09-18T04:19:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-mage-a3-a6-specific-tcr-gene-engineered-lymphocytes-kite-718,Synonym:,MAGE-A3/A6 T cell receptor engineered T cells KITE-718
+2020-09-18T04:19:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-mage-a3-a6-specific-tcr-gene-engineered-lymphocytes-kite-718,Synonym:,MAGE-A3/A6 TCR engineered T lymphocytes
+2020-09-18T04:19:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-mage-a3-a6-specific-tcr-gene-engineered-lymphocytes-kite-718,Synonym:,MAGEA3/A6-targeted TCR-transduced T cells KITE-718
+2020-09-18T04:19:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-mage-a3-a6-specific-tcr-gene-engineered-lymphocytes-kite-718,Synonym:,TCR-transduced autologous T cells KITE-718
+2020-09-18T04:19:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-mage-a3-a6-specific-tcr-gene-engineered-lymphocytes-kite-718,Code name:,KITE 718
+2020-09-18T04:19:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-mage-a3-a6-specific-tcr-gene-engineered-lymphocytes-kite-718,Code name:,KITE-718
+2020-09-18T04:20:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/762213,Synonym:,anti-MAGE-A3 HLA-A*01-restricted TCR-gene engineered lymphocytes
+2020-09-18T04:20:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795693,Synonym:,autologous CD8+ and CD4+ T cells transduced with TCR A2-MCC1
+2020-09-18T04:20:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795693,Synonym:,FH-MCVA2TCR autologous CD8+ and CD4+ T cells transduced with TCR A2-MCC1
+2020-09-18T04:20:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795693,Code name:,FH-MCVA2TCR
+2020-09-18T04:20:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798639,NA,NA
+2020-09-18T04:20:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798704,Synonym:,autologous -peptide-pulsed mDC3/8 KRAS vaccine
+2020-09-18T04:20:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-melanoma-lysate-klh-pulsed-autologous-dendritic-cell-vaccine,NA,NA
+2020-09-18T04:20:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/753553,NA,NA
+2020-09-18T04:20:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-melanoma-lysate-pulsed-autologous-dendritic-cell-vaccine,Synonym:,TLPLDC vaccine
+2020-09-18T04:20:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-mesenchymal-stem-cells-apceth-101,Synonym:,Agenmestencel-T
+2020-09-18T04:20:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-mesenchymal-stem-cells-apceth-101,Synonym:,autologous MSC_apceth_101
+2020-09-18T04:20:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792529,Synonym:,autologous CART-meso
+2020-09-18T04:20:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792529,Synonym:,Hu-CART meso cells
+2020-09-18T04:20:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793113,Synonym:,autologous anti-CTLA-4/PD-1 antibodies-expressing meso-CAR-T cells
+2020-09-18T04:20:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793113,Synonym:,autologous anti-CTLA-4/PD-1 antibodies-expressing mesothelin-targeted CAR-T cells
+2020-09-18T04:20:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793113,Synonym:,autologous CTLA-4 and PD-1 antibodies expressing mesothelin-CAR-T cells
+2020-09-18T04:20:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793113,Synonym:,autologous CTLA4/PD-1-targeting antibodies-expressing mesothelin-CAR-T cells
+2020-09-18T04:20:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794988,Synonym:,anti-mesothelin mRNA-transfected autologous PBMCs MCY-M11
+2020-09-18T04:20:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794988,Code name:,MCY-M11
+2020-09-18T04:21:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801794,Synonym:,autologous monocyte-derived lysate pulsed DCs PV-001-DC
+2020-09-18T04:21:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801794,Synonym:,PV-001-dendritic cell
+2020-09-18T04:21:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801794,Code name:,PV-001-DC
+2020-09-18T04:21:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792542,Synonym:,autologous cMET redirected CAR-T cells
+2020-09-18T04:21:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792542,Synonym:,autologous mRNA CART-cMET
+2020-09-18T04:21:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792542,Synonym:,cMET CAR-mRNA-electroporated autologous T lymphocytes
+2020-09-18T04:21:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-muc1-mannan-fusion-protein-pulsed-dendritic-cell-vaccine,Foreign brand name:,CVac
+2020-09-18T04:21:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795451,Synonym:,autologous aDC1-induced CTLs
+2020-09-18T04:21:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795451,Synonym:,autologous CTLs sensitized ex-vivo with autologous TAA-loaded alphaDC1
+2020-09-18T04:21:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795451,Synonym:,autologous natural killer-like cytotoxic lymphocytes
+2020-09-18T04:21:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795451,Synonym:,autologous nCTLs
+2020-09-18T04:21:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795451,Synonym:,autologous NK-like CTLs
+2020-09-18T04:21:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795451,Synonym:,in vitro DC-sensitized CTLs
+2020-09-18T04:21:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795451,Synonym:,in-vitro DC-sensitized autologous CTLs
+2020-09-18T04:21:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795451,Synonym:,therapeutic nCTLs
+2020-09-18T04:21:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795451,Synonym:,tumor neo-antigen-specific nCTLs
+2020-09-18T04:21:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801659,Synonym:,autologous anti-nectin-4/anti-FAP CAR-T cells
+2020-09-18T04:21:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801659,Synonym:,autologous anti-nectin4/FAP CAR-T cells
+2020-09-18T04:21:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-neuroblastoma-lysate-klh-pulsed-dendritic-cell-vaccine,Synonym:,autologous neuroblastoma lysate/KLH-pulsed DC vaccine
+2020-09-18T04:21:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-neuroblastoma-lysate-klh-pulsed-dendritic-cell-vaccine,Synonym:,keyhole limpet hemocyanin-pulsed dendritic cell vaccine
+2020-09-18T04:21:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-nkg2d-car-expressing-t-lymphocytes-cm-cs1,Synonym:,autologous CAR NKG2D
+2020-09-18T04:21:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-nkg2d-car-expressing-t-lymphocytes-cm-cs1,Synonym:,autologous CAR-T NKG2D
+2020-09-18T04:21:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-nkg2d-car-expressing-t-lymphocytes-cm-cs1,Synonym:,autologous CAR-T NKR-2
+2020-09-18T04:21:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-nkg2d-car-expressing-t-lymphocytes-cm-cs1,Synonym:,autologous NKG2D CAR-CD3zeta-DAP10-expressing T cells CYAD-01
+2020-09-18T04:21:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-nkg2d-car-expressing-t-lymphocytes-cm-cs1,Synonym:,autologous NKR 2 T cells
+2020-09-18T04:21:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-nkg2d-car-expressing-t-lymphocytes-cm-cs1,Synonym:,autologous NKR-2 CAR-T cells
+2020-09-18T04:21:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-nkg2d-car-expressing-t-lymphocytes-cm-cs1,Code name:,CM CS-1
+2020-09-18T04:21:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-nkg2d-car-expressing-t-lymphocytes-cm-cs1,Code name:,CM-CS-1
+2020-09-18T04:21:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-nkg2d-car-expressing-t-lymphocytes-cm-cs1,Code name:,CYAD-01
+2020-09-18T04:21:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-nkg2d-car-expressing-t-lymphocytes-cm-cs1,Code name:,CYAD-101
+2020-09-18T04:21:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-nkg2d-car-expressing-t-lymphocytes-cm-cs1,Code name:,NKR 2
+2020-09-18T04:21:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-nkg2d-car-expressing-t-lymphocytes-cm-cs1,Code name:,NKR-2
+2020-09-18T04:21:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-nsclc-dna-transfected-semi-allogeneic-fibroblasts-mrc-5-vaccine,Synonym:,autologous non-small cell lung cancer DNA-transfected semi-allogeneic fibroblasts MRC-5 vaccine
+2020-09-18T04:21:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-nsclc-peptide-specific-dendritic-cell-vaccine,Synonym:,autologous NSCLC peptide-specific DC vaccine
+2020-09-18T04:21:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792517,Synonym:,NY-ESO-1 T Cell receptor genetically modified autologous T cells
+2020-09-18T04:21:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-ny-eso-1-melanoma-specific-cd8-t-cells,NA,NA
+2020-09-18T04:22:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794140,Synonym:,autologous NYCE cells
+2020-09-18T04:22:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794140,Synonym:,autologous NYCE T cells
+2020-09-18T04:22:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794140,Synonym:,autologous NY-ESO-1 TCR-expressing CRISPR-edited (TCR and PD-1) T cells
+2020-09-18T04:22:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794140,Synonym:,autologous NY-ESO-1 transgenic TCR-expressing endogenous TCR-PD-1 gene-edited T cells
+2020-09-18T04:22:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794140,Synonym:,NY-ESO-1 TCR-PD-1-CRISPR-gene-edited autologous T lymphocytes
+2020-09-18T04:22:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794140,Synonym:,NY-ESO-1-redirected autologous T cells with CRISPR edited endogenous TCR and PD-1
+2020-09-18T04:22:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794140,Synonym:,NY-ESO-1-redirected autologous T cells with CRISPR-edited endogenous TCR and PD-1
+2020-09-18T04:22:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794140,Synonym:,NY-ESO-1-redirected CRISPR edited T cells
+2020-09-18T04:22:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794140,Synonym:,NY-ESO-1-redirected CRISPR-TCRendo/PD1-edited T cells
+2020-09-18T04:22:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795738,NA,NA
+2020-09-18T04:22:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-ofa-ilrp-rna-transfected-dendritic-cell-vaccine,Synonym:,oncofetal antigen-immature laminin receptor protein-loaded autologous dendritic cell vaccine
+2020-09-18T04:22:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793116,Synonym:,autologous human OC-IgT cells
+2020-09-18T04:22:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794654,Synonym:,autologous OC-CTLs
+2020-09-18T04:22:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794654,Synonym:,autologous ovarian cancer-specific CTLs
+2020-09-18T04:22:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794654,Abbreviation:,OC-CTLs
+2020-09-18T04:22:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-ovarian-tumor-cell-lysate-pulsed-dendritic-cell-vaccine,Synonym:,autologous OC-DC vaccine
+2020-09-18T04:22:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-oxidized-ovarian-tumor-cell-lysate-vaccine,Synonym:,autologous OC-L vaccine
+2020-09-18T04:22:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802181,Synonym:,autologous pancreatic adenocarcinoma lysate- and mRNA-loaded DC vaccine
+2020-09-18T04:22:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802181,Synonym:,autologous pancreatic adenocarcinoma lysate and mRNA-loaded DCs
+2020-09-18T04:22:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802181,Synonym:,autologous pancreatic adenocarcinoma lysate and mRNA-loaded dendritic cells
+2020-09-18T04:22:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792330,Synonym:,autologous PBLs expressing mutated neoantigen-specific T-cell receptors
+2020-09-18T04:22:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792330,Synonym:,autologous peripheral blood lymphocytes retrovirally-transduced with TCRs targeting neoantigens
+2020-09-18T04:22:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792330,Synonym:,individual patient TCR-transduced autologous PBLs
+2020-09-18T04:22:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792330,Synonym:,neoantigen-reactive TCRs-transduced autologous PBLs
+2020-09-18T04:22:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792330,Synonym:,neoantigen-specific TCRs gene-transduced autologous PBLs
+2020-09-18T04:22:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792459,Synonym:,autologous PD-1 antibody expressing mesothelin specific CAR-T cells
+2020-09-18T04:22:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793152,Synonym:,autologous iPD1 CD19 eCAR T cells
+2020-09-18T04:22:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-pd-1-targeted-chimeric-switch-receptor-modified-t-lymphocytes,Synonym:,autologous chimeric switch receptor PD-1:CD28 modified T cells
+2020-09-18T04:22:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-pd-1-targeted-chimeric-switch-receptor-modified-t-lymphocytes,Synonym:,autologous PD-1-targeted CSR T cells
+2020-09-18T04:22:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-pd-1-targeted-chimeric-switch-receptor-modified-t-lymphocytes,Synonym:,chimeric switch receptor PD1CD28 modified T cells
+2020-09-18T04:22:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-pd-1-targeted-chimeric-switch-receptor-modified-t-lymphocytes,Synonym:,PD1CD28 CSR T cells
+2020-09-18T04:23:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792541,Synonym:,autologous CAR-T Cells Targeting PD-L1 and CD80/CD86
+2020-09-18T04:23:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792541,Synonym:,Zeushield CTLs
+2020-09-18T04:23:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792541,Synonym:,Zeushield cytotoxic T lymphocytes
+2020-09-18T04:23:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792541,Abbreviation:,Z-CTLs
+2020-09-18T04:23:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/755595,Synonym:,autologous lymphocytes cotransduced with genes encoding IL-12 and anti-NY-ESO-1 TCR
+2020-09-18T04:23:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/755595,Synonym:,autologous PBL cotransduced with retroviral vectors encoding inducible IL-12 and anti-NY-ESO-1 TCR
+2020-09-18T04:23:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/755595,Synonym:,IL-12 plus anti-ESO-1 TCR PBL
+2020-09-18T04:23:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/755595,Synonym:,IL-12/Anti-NY-ESO-1 TCR-expressing autologous PBL
+2020-09-18T04:23:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/755595,Synonym:,IL-12/anti-NY-ESO-1 TCR-expressing autologous peripheral blood lymphocytes
+2020-09-18T04:23:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/755595,Synonym:,IL-12/Anti-NY-ESO-1 TCR-expressing autologous peripheral blood lymphocytes
+2020-09-18T04:23:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/755595,Synonym:,inducible IL-12/Anti-NY-ESO-1 TCR-expressing autologous PBL
+2020-09-18T04:23:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/755595,Synonym:,inducible IL-12/Anti-NY-ESO-1 TCR-expressing autologous peripheral blood lymphocytes
+2020-09-18T04:23:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800421,Synonym:,autologous PBLs from ibrutinib-treated CLL patients
+2020-09-18T04:23:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800421,Synonym:,autologous PBLs IOV-2001
+2020-09-18T04:23:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800421,Code name:,IOV 2001
+2020-09-18T04:23:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800421,Code name:,IOV2001
+2020-09-18T04:23:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800421,Code name:,IOV-2001
+2020-09-18T04:23:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-pluripotent-aldhbr-stem-cells-ald-451,Synonym:,ALD-451 bright cells
+2020-09-18T04:23:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-pluripotent-aldhbr-stem-cells-ald-451,Code name:,ALD-451
+2020-09-18T04:23:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795276,Synonym:,autologous anti-PRAME-TCR-expressing T cells MDG1011
+2020-09-18T04:23:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795276,Synonym:,autologous PRAME TCR-modified T cells MDG1011
+2020-09-18T04:23:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795276,Synonym:,autologous TCR-modified T cells MDG1011
+2020-09-18T04:23:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795276,Synonym:,PRAME-TCR gene-modified autologous T cells MDG1011
+2020-09-18T04:23:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795276,Code name:,MDG 1011
+2020-09-18T04:23:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795276,Code name:,MDG1011
+2020-09-18T04:23:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795276,Code name:,MDG-1011
+2020-09-18T04:23:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/640422,Code name:,BP-GMAX-CD1
+2020-09-18T04:23:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/640422,Code name:,BPX-101
+2020-09-18T04:23:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-prostate-stem-cell-antigen-specific-car-t-cells-bpx-601,Synonym:,autologous PSCA-specific CAR T cells BPX-601
+2020-09-18T04:23:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-prostate-stem-cell-antigen-specific-car-t-cells-bpx-601,Synonym:,autologous PSCA-specific chimeric antigen receptor engineered T cells BPX-601
+2020-09-18T04:23:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-prostate-stem-cell-antigen-specific-car-t-cells-bpx-601,Synonym:,GoCART BPX-601
+2020-09-18T04:23:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-prostate-stem-cell-antigen-specific-car-t-cells-bpx-601,Code name:,BPX-601
+2020-09-18T04:23:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793119,Synonym:,4SCAR-PSMA
+2020-09-18T04:23:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793119,Synonym:,autologous 4S-PSMA-CAR-T cells
+2020-09-18T04:23:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793119,Synonym:,autologous anti-PSMA-CD28-CD137-CD27-CD3z-iCasp9 CAR T cells 4SCAR-PSMA
+2020-09-18T04:23:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793119,Synonym:,chimeric antigen receptor T cells 4SCAR-PSMA
+2020-09-18T04:23:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793119,Synonym:,PSMA-specific 4th generation CART cells
+2020-09-18T04:23:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792627,Synonym:,autologous CART-PSMA-TGFbRDN T cells
+2020-09-18T04:23:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792627,Synonym:,autologous CART-PSMA-TGFβRDN cells
+2020-09-18T04:23:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792627,Synonym:,PSMA-specific/TGFb-resistant CAR-modified autologous T cells
+2020-09-18T04:23:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802318,Code name:,RAPA 201
+2020-09-18T04:23:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802318,Code name:,RAPA201
+2020-09-18T04:23:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802318,Code name:,RAPA-201
+2020-09-18T04:23:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-renal-cell-carcinoma-tumor-lysate-dendritic-cell-vaccine,Abbreviation:,autologous RCC tumor lysate-DC vaccine
+2020-09-18T04:24:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794161,Synonym:,autologous anti-ROR2 CAR-T cells CCT301-59
+2020-09-18T04:24:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794161,Synonym:,autologous CAR-T cells targeting ROR2 CCT301-59
+2020-09-18T04:24:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794161,Synonym:,autologous CCT301-59 CAR-T cells
+2020-09-18T04:24:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794161,Code name:,CCT301 59
+2020-09-18T04:24:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794161,Code name:,CCT301-59
+2020-09-18T04:24:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-sarcoma-cell-lysate,NA,NA
+2020-09-18T04:24:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-sarcoma-lysate-pulsed-dendritic-cell-vaccine,NA,NA
+2020-09-18T04:24:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/776841,Synonym:,"autologous T lymphocytes expressing NY-ESO-1-specific, enhanced TCRs"
+2020-09-18T04:24:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/776841,Synonym:,NY-ESO-1/C259T
+2020-09-18T04:24:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/776841,Synonym:,NY-ESO-1C259T
+2020-09-18T04:24:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/776841,Synonym:,NY-ESOc259T
+2020-09-18T04:24:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794138,Synonym:,autologous dendritic cells loaded with autologous tumor associated antigens
+2020-09-18T04:24:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794138,Synonym:,autologous TAAs-loaded autologous DCs AV-GBM-1
+2020-09-18T04:24:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794138,Synonym:,neoantigen-loaded autologous dendritic cells AV-GBM-1
+2020-09-18T04:24:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794138,Code name:,AV GBM 1
+2020-09-18T04:24:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794138,Code name:,AV-GBM-1
+2020-09-18T04:24:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794318,Synonym:,autologous PBMCs TBX-3400
+2020-09-18T04:24:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794318,Synonym:,autologous TBX-4000-treated human PBMCs
+2020-09-18T04:24:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794318,Synonym:,TBX-3400 cells
+2020-09-18T04:24:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794318,Code name:,TBX 3400
+2020-09-18T04:24:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794318,Code name:,TBX-3400
+2020-09-18T04:24:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792163,Synonym:,ACTengine IMA201
+2020-09-18T04:24:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792163,Synonym:,autologous T-cell receptor-engineered T cells IMA201
+2020-09-18T04:24:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792163,Synonym:,IMA201 autologous T lymphocytes
+2020-09-18T04:24:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792163,Synonym:,IMA201 T cells
+2020-09-18T04:24:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792163,Code name:,IMA 201
+2020-09-18T04:24:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792163,Code name:,IMA201
+2020-09-18T04:24:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792163,Code name:,IMA-201
+2020-09-18T04:24:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794052,Synonym:,ACTengine IMA202
+2020-09-18T04:24:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794052,Synonym:,IMA202 T cells
+2020-09-18T04:24:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794052,Synonym:,IMA202 T-cell product
+2020-09-18T04:24:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794052,Code name:,IMA 202
+2020-09-18T04:24:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794052,Code name:,IMA202
+2020-09-18T04:24:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794052,Code name:,IMA-202
+2020-09-18T04:24:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798429,Synonym:,ACTengine IMA203
+2020-09-18T04:24:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798429,Synonym:,IMA203 T cells
+2020-09-18T04:24:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798429,Synonym:,IMA203 T-cell product
+2020-09-18T04:24:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798429,Code name:,IMA 2013
+2020-09-18T04:24:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798429,Code name:,IMA203
+2020-09-18T04:24:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798429,Code name:,IMA-203
+2020-09-18T04:24:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800431,Synonym:,autologous DC vaccine MIDRIX4-LUNG
+2020-09-18T04:24:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800431,Synonym:,autologous tetravalent DC vaccine MIDRIX4-LUNG
+2020-09-18T04:24:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800431,Synonym:,tetravalent autologous dendritic cell vaccine MIDRIX4-LUNG
+2020-09-18T04:24:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800431,Code name:,MIDRIX4-LUNG
+2020-09-18T04:24:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799771,Synonym:,anti-TnMUC1-CAR-expressing autologous T lymphocytes
+2020-09-18T04:24:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799771,Synonym:,autologous anti-TnMUC1-CAR-expressing T lymphocytes
+2020-09-18T04:24:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799771,Synonym:,autologous CART-TnMUC1 cells
+2020-09-18T04:24:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799771,Synonym:,autologous Tn-MUC1-specific CAR T cells
+2020-09-18T04:24:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799771,Synonym:,autologous TnMUC1-targeted genetically-modified CAR T cells
+2020-09-18T04:24:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-tumor-cell-proteoliposome-chronic-lymphocytic-leukemia-vaccine,US brand name:,Oncoquest-L vaccine
+2020-09-18T04:25:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-tumor-cell-vaccine,Synonym:,AC vaccine
+2020-09-18T04:25:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-tumor-cell-vaccine,Synonym:,Autologous Cell Vaccine
+2020-09-18T04:25:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-tumor-cell-vaccine,Abbreviation:,ATCV
+2020-09-18T04:25:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-tumor-infiltrating-lymphocytes-ln-144,Synonym:,autologous TIL LN-144
+2020-09-18T04:25:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-tumor-infiltrating-lymphocytes-ln-144,US brand name:,Contego
+2020-09-18T04:25:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-tumor-infiltrating-lymphocytes-ln-144,Code name:,LN-144
+2020-09-18T04:25:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-tumor-infiltrating-lymphocytes-ln-145,Synonym:,autologous TILs LN-145
+2020-09-18T04:25:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-tumor-infiltrating-lymphocytes-ln-145,Synonym:,autologous tumor-infiltrating lymphocytes LN-145
+2020-09-18T04:25:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-tumor-infiltrating-lymphocytes-ln-145,Code name:,LN145
+2020-09-18T04:25:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-tumor-infiltrating-lymphocytes-ln-145,Code name:,LN-145
+2020-09-18T04:25:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802263,Code name:,CS 3002
+2020-09-18T04:25:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802263,Code name:,CS3002
+2020-09-18T04:25:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802263,Code name:,CS-3002
+2020-09-18T04:25:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798753,Synonym:,autologous tumor antigen-associated cytotoxic T lymphocytes
+2020-09-18T04:25:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798753,Synonym:,patient-derived multi-antigen associated cytotoxic T lymphocytes
+2020-09-18T04:25:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798753,Synonym:,patient-derived WT1/PRAME/survivin-specific T lymphocytes
+2020-09-18T04:25:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798753,Abbreviation:,TAA-T
+2020-09-18T04:25:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798753,Abbreviation:,TAATs
+2020-09-18T04:25:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-tumor-associated-peptide-antigen-pulsed-dendritic-cell-vaccine,Synonym:,autologous tumor-associated peptide antigen-pulsed DC vaccine KiroVAX
+2020-09-18T04:25:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-tumor-associated-peptide-antigen-pulsed-dendritic-cell-vaccine,Synonym:,KiroVAX
+2020-09-18T04:25:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-tumor-associated-peptide-antigen-pulsed-dendritic-cell-vaccine,Synonym:,TAPA loaded DC vaccine
+2020-09-18T04:25:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-tumor-associated-peptide-antigen-pulsed-dendritic-cell-vaccine,Abbreviation:,autologous TAPA-pulsed DC vaccine KiroVAX
+2020-09-18T04:25:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794072,Synonym:,MDA autologous TILs
+2020-09-18T04:25:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794072,Synonym:,MDA autologous tumor-infiltrating lymphocytes
+2020-09-18T04:25:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794072,Code name:,MDA-TILs
+2020-09-18T04:25:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793117,Synonym:,autologous TSA-DC
+2020-09-18T04:25:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793117,Synonym:,autologous TSA-DC vaccine
+2020-09-18T04:25:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793117,Synonym:,autologous TSA-DCs
+2020-09-18T04:25:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793117,Synonym:,autologous TSA-loaded dendritic cells
+2020-09-18T04:25:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793117,Synonym:,tumor specific antigen-loaded autologous dendritic cells
+2020-09-18T04:25:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-wt1-tcrc4-gene-transduced-cd8-positive-tcm-tn-lymphocytes,Synonym:,autologous WT1-transduced CD8-positive Tcm/Tn lymphocytes
+2020-09-18T04:25:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798417,Code name:,CC 122
+2020-09-18T04:25:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798417,Code name:,CC122
+2020-09-18T04:25:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798417,Code name:,CC-122
+2020-09-18T04:25:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798417,Chemical structure:,"2,6-piperidinedione, 3-(5-amino-2-methyl-4-oxo-3(4H)-quinazolinyl)-"
+2020-09-18T04:25:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tazarotene,US brand name:,Avage
+2020-09-18T04:25:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tazarotene,US brand name:,Tazorac
+2020-09-18T04:25:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tazarotene,Foreign brand name:,Retisol-A
+2020-09-18T04:25:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tazarotene,Foreign brand name:,Stieva-A
+2020-09-18T04:25:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tazarotene,Foreign brand name:,Stieva-A Forte
+2020-09-18T04:25:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tazarotene,Foreign brand name:,Vitinoin
+2020-09-18T04:25:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tazarotene,Code name:,AGN-190168
+2020-09-18T04:25:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tazarotene,Chemical structure:,"6-[(3,4-dihydro-4,4-dimethyl-2H-1-benzothiopyran-6-yl)ethynyl]- 3-Pyridinecarboxylic Acid, Ethyl EsterEthyl 6-(2-(4,4-Dimethylthiochroman-6-yl)ethynyl)nicotinate"
+2020-09-18T04:26:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/avanafil,NA,NA
+2020-09-18T04:26:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/rosiglitazone-maleate,US brand name:,Avandia
+2020-09-18T04:26:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/rosiglitazone-maleate,Abbreviation:,ROS
+2020-09-18T04:26:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/rosiglitazone-maleate,Code name:,BRL49653
+2020-09-18T04:26:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/rosiglitazone-maleate,Chemical structure:,"(+/-)-5-[[4-[2-(Methyl-2-pyridinylamino)ethoxy]phenyl]methyl]-2,4-thiazolidinedione, ( Z )-2-Butenedioate (1:1)"
+2020-09-18T04:26:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pdgfr-alpha-kit-mutant-specific-inhibitor-blu-285,Synonym:,PDGFR alpha/KIT mutant-specific inhibitor BLU-285
+2020-09-18T04:26:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pdgfr-alpha-kit-mutant-specific-inhibitor-blu-285,US brand name:,Ayvakit
+2020-09-18T04:26:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pdgfr-alpha-kit-mutant-specific-inhibitor-blu-285,Code name:,BLU-285
+2020-09-18T04:26:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab,Synonym:,anti-VEGF humanized monoclonal antibody
+2020-09-18T04:26:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab,Synonym:,anti-VEGF monoclonal antibody
+2020-09-18T04:26:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab,Synonym:,anti-VEGF rhuMAb
+2020-09-18T04:26:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab,Synonym:,bevacizumab biosimilar BAT1706
+2020-09-18T04:26:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab,Synonym:,bevacizumab biosimilar BEVZ92
+2020-09-18T04:26:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab,Synonym:,bevacizumab biosimilar BI 695502
+2020-09-18T04:26:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab,Synonym:,bevacizumab biosimilar CBT 124
+2020-09-18T04:26:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab,Synonym:,bevacizumab biosimilar CT-P16
+2020-09-18T04:26:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab,Synonym:,bevacizumab biosimilar FKB238
+2020-09-18T04:26:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab,Synonym:,bevacizumab biosimilar GB-222
+2020-09-18T04:26:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab,Synonym:,bevacizumab biosimilar HD204
+2020-09-18T04:26:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab,Synonym:,bevacizumab biosimilar HLX04
+2020-09-18T04:26:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab,Synonym:,bevacizumab biosimilar IBI305
+2020-09-18T04:26:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab,Synonym:,bevacizumab biosimilar LY01008
+2020-09-18T04:26:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab,Synonym:,bevacizumab biosimilar MB02
+2020-09-18T04:26:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab,Synonym:,bevacizumab biosimilar MIL60
+2020-09-18T04:26:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab,Synonym:,bevacizumab biosimilar PF-06439535
+2020-09-18T04:26:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab,Synonym:,bevacizumab biosimilar QL 1101
+2020-09-18T04:26:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab,Synonym:,bevacizumab biosimilar RPH-001
+2020-09-18T04:26:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab,Synonym:,bevacizumab biosimilar SCT510
+2020-09-18T04:26:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab,Synonym:,bevacizumab biosimilar TRS003
+2020-09-18T04:26:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab,Synonym:,"immunoglobulin G1 (human-mouse monoclonal rhuMab-VEGF gamma-chain anti-human vascular endothelial growth factor), disulfide with human-mouse monoclonal rhuMab-VEGF light chain, dimer"
+2020-09-18T04:26:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab,Synonym:,recombinant humanized anti-VEGF monoclonal antibody
+2020-09-18T04:26:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab,Synonym:,rhuMAb VEGF
+2020-09-18T04:26:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab,US brand name:,Avastin
+2020-09-18T04:26:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab,US brand name:,Mvasi
+2020-09-18T04:26:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab,US brand name:,Zirabev
+2020-09-18T04:26:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab,Abbreviation:,rhuMAb VEGF
+2020-09-18T04:26:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab,Abbreviation:,rhuMab-VEGF
+2020-09-18T04:26:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab,Code name:,HD204
+2020-09-18T04:26:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793425,US brand name:,Doptelet
+2020-09-18T04:26:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/colloidal-oatmeal-cream,US brand name:,Aveeno cream
+2020-09-18T04:26:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/moxifloxacin-hydrochloride,US brand name:,Avelox
+2020-09-18T04:26:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/moxifloxacin-hydrochloride,US brand name:,Viagmox
+2020-09-18T04:26:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/moxifloxacin-hydrochloride,Abbreviation:,MOXI
+2020-09-18T04:26:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/moxifloxacin-hydrochloride,Code name:,BAY 128039
+2020-09-18T04:26:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/avelumab,Synonym:,anti-PD-L1 monoclonal antibody MSB0010718C
+2020-09-18T04:26:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/avelumab,US brand name:,Bavencio
+2020-09-18T04:26:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/avelumab,Code name:,MSB0010718C
+2020-09-18T04:26:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fermented-wheat-germ-extract,US brand name:,Avemar
+2020-09-18T04:26:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fermented-wheat-germ-extract,Foreign brand name:,Avemar
+2020-09-18T04:26:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fermented-wheat-germ-extract,Acronym:,FWGE
+2020-09-18T04:26:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/morphine-sulfate,US brand name:,Avinza
+2020-09-18T04:26:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/morphine-sulfate,US brand name:,Infumorph
+2020-09-18T04:26:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/morphine-sulfate,US brand name:,Kadian
+2020-09-18T04:26:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/morphine-sulfate,US brand name:,MS Contin
+2020-09-18T04:26:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/morphine-sulfate,US brand name:,MSir
+2020-09-18T04:26:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/morphine-sulfate,US brand name:,Oramorph
+2020-09-18T04:26:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/morphine-sulfate,US brand name:,Oramorph SR
+2020-09-18T04:26:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/morphine-sulfate,US brand name:,Roxanol
+2020-09-18T04:26:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/morphine-sulfate,US brand name:,Statex SR
+2020-09-18T04:26:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/morphine-sulfate,Abbreviation:,MORPH
