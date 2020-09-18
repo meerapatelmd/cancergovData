@@ -9293,6 +9293,7 @@ dls_datetime,drug_link,x1,x2
 2020-09-18T06:10:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/docetaxel,Code name:,RP 56976
 2020-09-18T06:11:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/docetaxel-emulsion-anx-514,Code name:,ANX-514
 2020-09-18T06:11:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/docetaxel-formulation-ckd-810,Code name:,CKD-810
+2020-09-18T06:34:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801859,Code name:,JSI-1187
 2020-09-18T06:11:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/docetaxel-lipid-microspheres,Synonym:,docetaxel lipid emulsion
 2020-09-18T06:11:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/docetaxel-lipid-microspheres,Abbreviation:,DT-LM
 2020-09-18T06:11:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/nanoparticle-encapsulated-docetaxel,Synonym:,docetaxel containing CriPec (R) nanoparticles
@@ -10415,3 +10416,76 @@ dls_datetime,drug_link,x1,x2
 2020-09-18T06:33:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/eribulin-mesylate,Code name:,ER-086526
 2020-09-18T06:34:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/eritoran-tetrasodium,Code name:,E5564
 2020-09-18T06:34:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/eritoran-tetrasodium,Chemical structure:,"alpha-D-glucopyranose,3-O-decyl-2-deoxy-6-O-[2-deoxy-3-O-[(3R)-3-methoxydecyl]-6-O-methyl-2-[[(11Z)-1-oxo-11-octadecenyl]amino]-4-O-phosphono--D-glucopyranosyl]-2-[(1,3-dioxotetradecyl)amino]-1-(dihydrogen phosphate), tetrasodium salt"
+2020-09-18T06:34:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/vismodegib,Synonym:,Hedgehog antagonist GDC-0449
+2020-09-18T06:34:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/vismodegib,US brand name:,Erivedge
+2020-09-18T06:34:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/vismodegib,Code name:,GDC-0449
+2020-09-18T06:34:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/vismodegib,Chemical structure:,2-chloro-N-[4-chloro-3-(pyridin-2-yl)phenyl]-4-(methylsulfonyl)benzamide
+2020-09-18T06:34:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794989,Synonym:,ERK inhibitor ASTX029
+2020-09-18T06:34:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794989,Synonym:,extracellular signal-regulated kinase 1/2 inhibitor ASTX029
+2020-09-18T06:34:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794989,Synonym:,extracellular signal-regulated kinase inhibitor ASTX029
+2020-09-18T06:34:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794989,Code name:,ASTX 029
+2020-09-18T06:34:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794989,Code name:,ASTX029
+2020-09-18T06:34:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794989,Code name:,ASTX-029
+2020-09-18T06:34:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erk-inhibitor-cc-90003,Code name:,CC-90003
+2020-09-18T06:34:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erk-inhibitor-gdc-0994,Code name:,GDC-0994
+2020-09-18T06:34:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erk-inhibitor-ltt462,Code name:,LTT 462
+2020-09-18T06:34:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erk-inhibitor-ltt462,Code name:,LTT462
+2020-09-18T06:34:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801859,Synonym:,ERK Inhibitor JSI-1187
+2020-09-18T06:34:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801859,Synonym:,extracellular signal-regulated kinase 1/2 inhibitor JSI-1187
+2020-09-18T06:34:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801859,Code name:,JSI 1187
+2020-09-18T06:34:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erk1-2-inhibitor-ko-947,Synonym:,ERK inhibitor KO-947
+2020-09-18T06:34:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erk1-2-inhibitor-ko-947,Synonym:,extracellular signal-regulated kinase 1/2 inhibitor KO-947
+2020-09-18T06:34:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erk1-2-inhibitor-ko-947,Code name:,KO 947
+2020-09-18T06:34:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erk1-2-inhibitor-ko-947,Code name:,KO947
+2020-09-18T06:34:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erk1-2-inhibitor-ko-947,Code name:,KO-947
+2020-09-18T06:34:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erk1-2-inhibitor-ly3214996,Code name:,LY 3214996
+2020-09-18T06:34:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erk1-2-inhibitor-ly3214996,Code name:,LY3214996
+2020-09-18T06:34:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erlotinib-hydrochloride,US brand name:,Tarceva
+2020-09-18T06:34:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erlotinib-hydrochloride,Code name:,"CP-358,774"
+2020-09-18T06:34:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erlotinib-hydrochloride,Code name:,CP358774
+2020-09-18T06:34:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erlotinib-hydrochloride,Code name:,OSI774
+2020-09-18T06:34:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erlotinib-hydrochloride,Code name:,OSI-774
+2020-09-18T06:34:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erlotinib-hydrochloride,Chemical structure:,"N-(3-ethynylphenyl)-6,7-bis(2-methoxyethoxy)-4-quinazolinamine monohydrochloride"
+2020-09-18T06:34:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ertapenem-sodium,US brand name:,Invanz
+2020-09-18T06:34:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ertumaxomab,Synonym:,anti-CD3 x anti-HER-2-neu bispecific monoclonal antibody
+2020-09-18T06:34:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ertumaxomab,Synonym:,MOAB anti-CD3 x anti-HER-2-neu
+2020-09-18T06:34:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ertumaxomab,Abbreviation:,CD3-HER2neu MOAB
+2020-09-18T06:35:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/asparaginase-erwinia-chrysanthemi,Synonym:,asparaginase-Erwinia
+2020-09-18T06:35:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/asparaginase-erwinia-chrysanthemi,Synonym:,crisantaspasum
+2020-09-18T06:35:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/asparaginase-erwinia-chrysanthemi,Synonym:,cristantaspase
+2020-09-18T06:35:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/asparaginase-erwinia-chrysanthemi,Synonym:,Erwinia L-asparginase
+2020-09-18T06:35:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/asparaginase-erwinia-chrysanthemi,Synonym:,krisantaspaasi
+2020-09-18T06:35:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/asparaginase-erwinia-chrysanthemi,Synonym:,krisantaspas
+2020-09-18T06:35:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/asparaginase-erwinia-chrysanthemi,US brand name:,Erwinaze
+2020-09-18T06:35:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/asparaginase-erwinia-chrysanthemi,Foreign brand name:,Erwinase
+2020-09-18T06:35:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erythromycin,US brand name:,E-Mycin
+2020-09-18T06:35:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erythromycin,US brand name:,ERYC
+2020-09-18T06:35:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erythromycin,US brand name:,Ery-Tab
+2020-09-18T06:35:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erythromycin,US brand name:,Ilotycin
+2020-09-18T06:35:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erythromycin,US brand name:,Robimycin
+2020-09-18T06:35:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erythromycin,US brand name:,RP-Mycin
+2020-09-18T06:35:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erythromycin,US brand name:,E-Mycin
+2020-09-18T06:35:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erythromycin,US brand name:,ERYC
+2020-09-18T06:35:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erythromycin,US brand name:,Ery-Tab
+2020-09-18T06:35:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erythromycin,US brand name:,Ilotycin
+2020-09-18T06:35:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erythromycin,US brand name:,Robimycin
+2020-09-18T06:35:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erythromycin,US brand name:,RP-Mycin
+2020-09-18T06:35:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erythrocyte-encapsulated-l-asparaginase-suspension,Synonym:,GRASPA
+2020-09-18T06:35:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erythromycin,US brand name:,E-Mycin
+2020-09-18T06:35:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erythromycin,US brand name:,ERYC
+2020-09-18T06:35:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erythromycin,US brand name:,Ery-Tab
+2020-09-18T06:35:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erythromycin,US brand name:,Ilotycin
+2020-09-18T06:35:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erythromycin,US brand name:,Robimycin
+2020-09-18T06:35:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erythromycin,US brand name:,RP-Mycin
+2020-09-18T06:35:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/erythromycin-topical-cream,Foreign brand name:,Eritex
+2020-09-18T06:35:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/escitalopram-oxalate,US brand name:,Lexapro
+2020-09-18T06:35:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/escitalopram-oxalate,Code name:,Lu 26-054-0
+2020-09-18T06:35:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/escitalopram-oxalate,Chemical structure:,"5-Isobenzofurancarbonitrile, 1-(3-(dimethylamino)propyl)-1-(4-fluorophenyl)-1,3-dihydro-,(1S)-, ethanedioate(1:1)"
+2020-09-18T06:35:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/lithium-carbonate,Synonym:,Lithium
+2020-09-18T06:35:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/lithium-carbonate,US brand name:,Eskalith
+2020-09-18T06:35:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/lithium-carbonate,US brand name:,Lithane
+2020-09-18T06:35:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/lithium-carbonate,US brand name:,Lithobid
+2020-09-18T06:35:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/lithium-carbonate,US brand name:,Lithonate
+2020-09-18T06:35:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/lithium-carbonate,US brand name:,Lithotabs
+2020-09-18T06:35:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/esmolol,NA,NA
+2020-09-18T06:35:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/esomeprazole-magnesium,US brand name:,Nexium
