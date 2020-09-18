@@ -13001,3 +13001,414 @@ dls_datetime,drug_link,x1,x2
 2020-09-18T07:37:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/highly-purified-staphylococcal-protein-a-prtx-100,Code name:,PRTX-100
 2020-09-18T07:37:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/high-selenium-bakers-yeast,NA,NA
 2020-09-18T07:37:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/high-selenium-brassica-juncea,Abbreviation:,BJ-Se
+2020-09-18T07:37:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/high-titer-rsv-immune-globulin-ri-001,Code name:,RI-001
+2020-09-18T07:37:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/poly-iclc,Synonym:,poly I:poly C with poly-1-lysine stabilizer
+2020-09-18T07:37:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/poly-iclc,Synonym:,Polyinosinic-Polycytidylic Acid Stabilized with Polylysine and Carboxymethylcellulose
+2020-09-18T07:37:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/poly-iclc,Synonym:,Polyriboinosinic-Polyribocytidylic Acid-Polylysine Carboxymethylcellulose
+2020-09-18T07:37:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/poly-iclc,Synonym:,stabilized polyriboinosinic/polyribocytidylic acid
+2020-09-18T07:37:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/poly-iclc,US brand name:,Hiltonol
+2020-09-18T07:37:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/histone-lysine-n-methyltransferase-ezh2-inhibitor-gsk2816126,Synonym:,EZH2 inhibitor GSK2816126
+2020-09-18T07:37:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/histone-lysine-n-methyltransferase-ezh2-inhibitor-gsk2816126,Code name:,GSK2816126
+2020-09-18T07:37:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/histrelin-acetate,US brand name:,Supprelin
+2020-09-18T07:37:33Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/histrelin-acetate,US brand name:,Vantas
+2020-09-18T07:37:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/zalcitabine,Synonym:,dideoxycytidine
+2020-09-18T07:37:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/zalcitabine,US brand name:,Hivid
+2020-09-18T07:37:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/zalcitabine,Abbreviation:,ddC
+2020-09-18T07:37:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/zalcitabine,Chemical structure:,"2',3'-dideoxycytidine"
+2020-09-18T07:37:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hla-a0201-restricted-tert572y-tert572-peptides-vaccine-vx-001,Synonym:,HLA-A*0201 restricted telomerase-specific vaccine Vx-001
+2020-09-18T07:37:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hla-a0201-restricted-tert572y-tert572-peptides-vaccine-vx-001,Code name:,Vx-001
+2020-09-18T07:37:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hla-a0201-restricted-trp2-gp100-epha2-her2-multipeptide-vaccine,NA,NA
+2020-09-18T07:37:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hla-a0201-restricted-urlc10-vegfr1-vegfr2-multipeptide-vaccine,NA,NA
+2020-09-18T07:38:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hla-a0201-restricted-vegfr1-peptide-vaccine,NA,NA
+2020-09-18T07:38:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hla-a0201-restricted-vegfr1-vegfr2-multipeptide-vaccine,NA,NA
+2020-09-18T07:38:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hla-a2402-restricted-cdca1-a24-56-peptide-vaccine,Synonym:,HLA-A*2402-restricted cell division cycle associated 1-A24-56 peptide vaccine
+2020-09-18T07:38:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hla-a2402-restricted-cdca1-kif20a-multipeptide-vaccine,NA,NA
+2020-09-18T07:38:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hla-a2402-restricted-koc1-ttk-co16-depdc1-mphosph1-multipeptide-vaccine,NA,NA
+2020-09-18T07:38:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hla-a2402-restricted-multipeptide-vaccine-s-488410,Code name:,S-488410
+2020-09-18T07:38:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hla-a2402-restricted-urlc10-peptides-vaccine,NA,NA
+2020-09-18T07:38:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hla-a2402-restricted-urlc10-cdca1-kif20a-multipeptide-vaccine,NA,NA
+2020-09-18T07:38:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hla-a2402-restricted-urlc10-cdca1-vegfr1-vegfr2-multipeptide-vaccine,NA,NA
+2020-09-18T07:38:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hla-a2402-restricted-urlc10-koc1-vegfr1-vegfr2-multipeptide-vaccine,NA,NA
+2020-09-18T07:38:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hla-a2402-restricted-urlc10-ttk-koc1-multipeptide-vaccine,NA,NA
+2020-09-18T07:38:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hla-a2402-restricted-urlc10-ttk-vegfr1-vegfr2-multipeptide-vaccine,NA,NA
+2020-09-18T07:39:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hla-a2402-restricted-vegfr1-peptide-vaccine,NA,NA
+2020-09-18T07:39:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hla-a2402-restricted-vegfr1-2-multipeptide-vaccine,NA,NA
+2020-09-18T07:39:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hla-a2404-restricted-rnf43-tomm34-vegfr1-vegfr2-multipeptide-vaccine,NA,NA
+2020-09-18T07:39:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hla-a1-a2-b35-restricted-survivin-peptides-montanide-isa-51-vaccine,Synonym:,survivin peptide vaccine
+2020-09-18T07:39:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hla-a1-a2-b35-restricted-survivin-peptides-montanide-isa-51-vaccine,Abbreviation:,SRV PEP VAC
+2020-09-18T07:39:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/667445,NA,NA
+2020-09-18T07:39:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hla-a2-a3-restricted-fgf-5-peptides-montanide-isa-51-vaccine,Abbreviation:,HLA-A2A3-FGF5-ISA51
+2020-09-18T07:39:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/667444,NA,NA
+2020-09-18T07:39:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hla-a2-restricted-melanoma-specific-peptides-vaccine-grn-1201,Synonym:,cancer vaccine GRN-1201
+2020-09-18T07:39:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hla-a2-restricted-melanoma-specific-peptides-vaccine-grn-1201,Synonym:,peptide cancer vaccine GRN-1201
+2020-09-18T07:39:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hla-a2-restricted-melanoma-specific-peptides-vaccine-grn-1201,Synonym:,peptide vaccine GRN-1201
+2020-09-18T07:39:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hla-a2-restricted-melanoma-specific-peptides-vaccine-grn-1201,Code name:,GRN-1201
+2020-09-18T07:39:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hla-a2-restricted-synthetic-glioma-antigen-peptides-vaccine,NA,NA
+2020-09-18T07:39:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/760677,Synonym:,anti-MAGE-A3-DP4 TCR PBL
+2020-09-18T07:39:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793586,Synonym:,ADC ALT-P7
+2020-09-18T07:39:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793586,Synonym:,HM2/MMAE ADC ALT-P7
+2020-09-18T07:39:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793586,Synonym:,HM2-MMAE
+2020-09-18T07:39:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793586,Code name:,ALT-P7
+2020-09-18T07:39:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793586,Code name:,HER2ALT-P7
+2020-09-18T07:40:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ho-02-02,NA,NA
+2020-09-18T07:40:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hodgkins-antigens-gm-csf-expressing-cell-vaccine,Synonym:,Hodgkin antigens-GM-CSF-expressing cell vaccine
+2020-09-18T07:40:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hodgkins-antigens-gm-csf-expressing-cell-vaccine,Synonym:,KGEL vaccine
+2020-09-18T07:40:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/honey,NA,NA
+2020-09-18T07:40:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/honey-containing-mouthwash,Synonym:,honey mouthwash
+2020-09-18T07:40:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794074,Synonym:,antithymocyte globulin equine
+2020-09-18T07:40:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794074,Synonym:,anti-thymocyte globulin equine
+2020-09-18T07:40:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794074,Synonym:,ATG equine
+2020-09-18T07:40:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794074,Synonym:,equine ATG
+2020-09-18T07:40:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794074,Synonym:,horse ATG
+2020-09-18T07:40:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794074,Synonym:,"lymphocyte immune globulin, anti-thymocyte globulin equine"
+2020-09-18T07:40:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794074,US brand name:,Atgam
+2020-09-18T07:40:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794074,Abbreviation:,eATG
+2020-09-18T07:40:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794074,Abbreviation:,hATG
+2020-09-18T07:40:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/host-dendritic-cell-vaccine-001-mssm-biir,Synonym:,MSSM/BIIR HDC Vax-001
+2020-09-18T07:40:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hou-gu-mi-xi,Synonym:,TCM Hou Gu Mi Xi
+2020-09-18T07:40:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hou-gu-mi-xi,Synonym:,traditional Chinese medicine Hou Gu Mi Xi
+2020-09-18T07:40:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hpph,US brand name:,Photochlor
+2020-09-18T07:40:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hpph,Chemical structure:,2-(1-Hexyloxyethyl)-2-Devinyl Pyropheophorbide-a
+2020-09-18T07:40:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hpv-16-e6-peptides-vaccine-candida-albicans-extract,Synonym:,HPV 16 E6 peptides vaccine/Candin
+2020-09-18T07:40:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hpv-16-e7-antigen-expressing-lactobacillis-casei-vaccine-bls-ilb-e710c,Synonym:,L. casei-E7 BLS_ILB_E710c
+2020-09-18T07:40:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hpv-16-e7-antigen-expressing-lactobacillis-casei-vaccine-bls-ilb-e710c,Synonym:,L.casei-PgsA-E7
+2020-09-18T07:40:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hpv-16-e7-antigen-expressing-lactobacillis-casei-vaccine-bls-ilb-e710c,Synonym:,LacE7 vaccine
+2020-09-18T07:40:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hpv-16-e7-antigen-expressing-lactobacillis-casei-vaccine-bls-ilb-e710c,Code name:,BLS-ILB-E710c
+2020-09-18T07:40:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hpv-16-e786-93-peptide-vaccine,Synonym:,E7(86-93) lipopeptide
+2020-09-18T07:40:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hpv-16-e786-93-peptide-vaccine,Synonym:,HPV 16E7 86-93 Lipopeptide Vaccine
+2020-09-18T07:40:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hpv-16-e786-93-peptide-vaccine,Synonym:,HPV-16E7 (86-93)
+2020-09-18T07:40:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hpv-16-e786-93-peptide-vaccine,Abbreviation:,E7(86-93)
+2020-09-18T07:40:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hpv-dna-plasmids-therapeutic-vaccine-vgx-3100,Code name:,VGX-3100
+2020-09-18T07:41:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hpv-e1-e2-interaction-inhibitor-gel-ap611074,Abbreviation:,PPI inhibitor AP611074
+2020-09-18T07:41:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hpv-e1-e2-interaction-inhibitor-gel-ap611074,Code name:,AP611074
+2020-09-18T07:41:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hpv-e6-e7-dna-vaccine-gx-188e,Code name:,GX-188E
+2020-09-18T07:41:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800472,Synonym:,arenavirus vector-based vaccine HB-201
+2020-09-18T07:41:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800472,Synonym:,arenavirus vector-based vaccine-expressing HPV 16 E7E6 HB-201
+2020-09-18T07:41:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800472,Synonym:,HB-201 cancer vaccine
+2020-09-18T07:41:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800472,Code name:,HB 201
+2020-09-18T07:41:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800472,Code name:,HB201
+2020-09-18T07:41:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800472,Code name:,HB-201
+2020-09-18T07:41:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hpv-l1-vlp-vaccine-v504,Code name:,V504
+2020-09-18T07:41:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/785876,Synonym:,autologous lymphocyte/Tumor antigen gene vaccine BVAC-C
+2020-09-18T07:41:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/785876,Code name:,BVAC-C
+2020-09-18T07:41:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hpv-16-e7-tcr-expressing-t-lymphocytes,Synonym:,HPV-16 E7 TCR expressing T cells
+2020-09-18T07:41:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hpv-16-e7-tcr-expressing-t-lymphocytes,Synonym:,HPV-16 E7 TCR-expressing T cells
+2020-09-18T07:41:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hpv-16-e7-tcr-expressing-t-lymphocytes,Synonym:,human papillomavirus type 16 E7 TCR expressing T cells
+2020-09-18T07:41:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798742,Synonym:,anti-HPV16 E7 fusion protein CUE-101
+2020-09-18T07:41:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798742,Code name:,CUE 101
+2020-09-18T07:41:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798742,Code name:,CUE101
+2020-09-18T07:41:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798742,Code name:,CUE-101
+2020-09-18T07:41:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hpv16-l2-e6-e7-fusion-protein-vaccine-ta-cin,Synonym:,tissue antigen-cervical intraepithelial neoplasia vaccine
+2020-09-18T07:41:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hpv16-l2-e6-e7-fusion-protein-vaccine-ta-cin,Code name:,TA-CIN
+2020-09-18T07:41:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793193,Synonym:,HPV16-targeting TALEN T27
+2020-09-18T07:41:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793193,Code name:,T27
+2020-09-18T07:41:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hpv16-e711-19-peptide-vaccine-dpx-e7,Synonym:,DPX-E7 vaccine
+2020-09-18T07:41:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hpv16-e711-19-peptide-vaccine-dpx-e7,Synonym:,HPV16-E7 11-19 nanomer vaccine DPX-E7
+2020-09-18T07:41:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hpv16-e711-19-peptide-vaccine-dpx-e7,Synonym:,HPV16-E7 11-19 vaccine
+2020-09-18T07:41:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hpv16-e711-19-peptide-vaccine-dpx-e7,Code name:,DPX E7
+2020-09-18T07:41:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hpv16-e711-19-peptide-vaccine-dpx-e7,Code name:,DPX-E7
+2020-09-18T07:41:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793194,Synonym:,HPV16-targeting TALEN T512
+2020-09-18T07:41:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793194,Code name:,T512
+2020-09-18T07:42:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802021,Synonym:,HPV6/11-targeted DNA plasmid immunotherapeutic INO-3107
+2020-09-18T07:42:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802021,Synonym:,HPV-6/11-targeting immunotherapeutic vaccine INO-3107
+2020-09-18T07:42:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802021,Code name:,INO 3107
+2020-09-18T07:42:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802021,Code name:,INO3107
+2020-09-18T07:42:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802021,Code name:,INO-3107
+2020-09-18T07:42:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hpv-6-targeting-immunotherapeutic-vaccine-ino-3106,Synonym:,HPV-6 E6/E7 DNA vaccine INO-3106
+2020-09-18T07:42:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hpv-6-targeting-immunotherapeutic-vaccine-ino-3106,Synonym:,HPV-6-targeting immunotherapeutic INO-3106
+2020-09-18T07:42:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hpv-6-targeting-immunotherapeutic-vaccine-ino-3106,Code name:,INO-3106
+2020-09-18T07:42:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hsp70-peptide-tkd-il-2-activated-autologous-natural-killer-cells,Synonym:,Hsp70-peptide TKD/IL-2-activated autologous NK cells
+2020-09-18T07:42:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hsp90-antagonist-kw-2478,NA,NA
+2020-09-18T07:42:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hsp90-inhibitor-ab-010,Synonym:,heat shock protein 90 inhibitor AB-010
+2020-09-18T07:42:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hsp90-inhibitor-ab-010,Code name:,AB-010
+2020-09-18T07:42:28Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hsp90-inhibitor-at13387,Code name:,AT13387
+2020-09-18T07:42:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hsp90-inhibitor-auy922,Code name:,AUY922
+2020-09-18T07:42:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hsp90-inhibitor-biib028,Code name:,BIIB028
+2020-09-18T07:42:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hsp90-inhibitor-cnf2024,Synonym:,Hsp90 antagonist CNF2024
+2020-09-18T07:42:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hsp90-inhibitor-cnf2024,Code name:,BIIB021
+2020-09-18T07:42:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hsp90-inhibitor-cnf2024,Code name:,CNF2024
+2020-09-18T07:42:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hsp90-inhibitor-debio-0932,US brand name:,Zeven
+2020-09-18T07:42:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hsp90-inhibitor-debio-0932,Code name:,debio 0932
+2020-09-18T07:42:49Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hsp90-inhibitor-debio-0932,Chemical structure:,"ristomycin A aglycone, 5,31-dichloro-38-de(methoxycarbonyl)-7-demethyl-19-deoxy-56-O-[2-deoxy-2-[(10-methyl-1-oxoundecyl)amino]-alpha-D-glucopyranuronosyl]-38-[[[3-(dimethylamino)propyl]amino]carbonyl]-42-O-alpha-D-mannopyranosyl-N15-methyl-"
+2020-09-18T07:42:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hsp90-inhibitor-ds-2248,Code name:,DS-2248
+2020-09-18T07:43:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hsp90-inhibitor-hsp990,Code name:,HSP990
+2020-09-18T07:43:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hsp90-inhibitor-mpc-3100,Code name:,MPC-3100
+2020-09-18T07:43:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hsp90-inhibitor-pu-h71,Code name:,PUH71
+2020-09-18T07:43:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hsp90-inhibitor-pu-h71,Code name:,PU-H71
+2020-09-18T07:43:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hsp90-inhibitor-snx-2112,Code name:,PF 04928473
+2020-09-18T07:43:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hsp90-inhibitor-snx-2112,Code name:,SNX-2112
+2020-09-18T07:43:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hsp90-inhibitor-snx-5422-mesylate,Code name:,SNX-5422
+2020-09-18T07:43:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hsp90-inhibitor-snx-5422-mesylate,Code name:,SNX-5422 mesylate
+2020-09-18T07:43:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801900,Synonym:,heat shock protein 90 inhibitor TQB3474
+2020-09-18T07:43:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801900,Code name:,TQB 3474
+2020-09-18T07:43:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801900,Code name:,TQB3474
+2020-09-18T07:43:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801900,Code name:,TQB-3474
+2020-09-18T07:43:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hsp90-inhibitor-xl888,Code name:,XL888
+2020-09-18T07:43:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hsp90alpha-beta-inhibitor-tas-116,Synonym:,heat shock protein 90alpha/beta inhibitor TAS-116
+2020-09-18T07:43:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hsp90alpha-beta-inhibitor-tas-116,Synonym:,HSP90a/b inhibitor TAS-116
+2020-09-18T07:43:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hsp90alpha-beta-inhibitor-tas-116,Code name:,TAS116
+2020-09-18T07:43:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hsp90alpha-beta-inhibitor-tas-116,Code name:,TAS-116
+2020-09-18T07:43:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801530,Synonym:,Hsp90 inhibitor-linked verteporfin
+2020-09-18T07:43:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801530,Code name:,HS 201
+2020-09-18T07:43:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801530,Code name:,HS201
+2020-09-18T07:43:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801530,Code name:,HS-201
+2020-09-18T07:43:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793183,Synonym:,HDC SN-38
+2020-09-18T07:43:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793183,Code name:,PEN 866
+2020-09-18T07:43:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793183,Code name:,PEN866
+2020-09-18T07:43:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793183,Code name:,PEN-866
+2020-09-18T07:43:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793183,Code name:,STA-12-8666
+2020-09-18T07:43:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793183,Code name:,STA-8666
+2020-09-18T07:43:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hspe7,Synonym:,HPV 16 E7/HSP65 Vaccine
+2020-09-18T07:43:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hspe7,Synonym:,HPV E7 Peptide Epitope Vaccine
+2020-09-18T07:43:53Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hspe7,Code name:,SGN-00101
+2020-09-18T07:43:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hsv-tk-transduced-donor-lymphocytes,Synonym:,HSV-TK-engineered donor lymphocytes
+2020-09-18T07:44:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/htert-i540-r572y-d988y-multipeptide-vaccine,NA,NA
+2020-09-18T07:44:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/715580,Foreign brand name:,Procure
+2020-09-18T07:44:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/htert-multipeptide-montanide-isa-51-vg-imiquimod-gx-301,Code name:,GX 301
+2020-09-18T07:44:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/htert-multipeptide-montanide-isa-51-vg-imiquimod-gx-301,Code name:,GX301
+2020-09-18T07:44:19Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/htert-vaccine-v934-v935,Code name:,V934/V935
+2020-09-18T07:44:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/htert-survivin-cmv-multipeptide-vaccine,NA,NA
+2020-09-18T07:44:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/653980,NA,NA
+2020-09-18T07:44:35Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/htert-encoding-dna-vaccine-invac-1,Code name:,INVAC-1
+2020-09-18T07:44:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hu1418-il2-fusion-protein,Abbreviation:,hu14.18-IL2
+2020-09-18T07:44:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hu1418-il2-fusion-protein,Code name:,EMD 273063
+2020-09-18T07:44:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/huachansu,NA,NA
+2020-09-18T07:44:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/huaier-extract-granule,Synonym:,Huaier granule
+2020-09-18T07:44:51Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/huaier-extract-granule,Synonym:,Trametes robiniophila murr extract granule
+2020-09-18T07:44:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/huang-qi,Synonym:,astragalus root
+2020-09-18T07:44:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/huang-qi,Synonym:,HuangQi
+2020-09-18T07:44:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/huang-qi,Synonym:,Milk Vetch Root
+2020-09-18T07:44:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/huang-qi,Synonym:,milkvetch root
+2020-09-18T07:44:56Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/huang-qi,Synonym:,Radix Astragali
+2020-09-18T07:45:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hubc1-huil12-fusion-protein-as1409,Code name:,AS1409
+2020-09-18T07:45:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/insulin-lispro,US brand name:,Humalog
+2020-09-18T07:45:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799709,Synonym:,D-ADM
+2020-09-18T07:45:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799709,Synonym:,human ADM
+2020-09-18T07:45:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799709,US brand name:,DermACELL
+2020-09-18T07:45:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799709,Abbreviation:,hADM
+2020-09-18T07:45:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796481,Synonym:,human anti-CD30 CAR-expressing autologous T-cells
+2020-09-18T07:45:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796481,Synonym:,human anti-CD30scFv CAR-expressing autologous T-lymphocytes
+2020-09-18T07:45:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/human-combinatorial-antibody-library-based-antibody-vay736,Synonym:,HuCAL-based antibody VAY736
+2020-09-18T07:45:23Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/human-combinatorial-antibody-library-based-antibody-vay736,Code name:,VAY736
+2020-09-18T07:45:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/human-gp100-plasmid-dna-vaccine,Synonym:,gp100 Plasmid DNA
+2020-09-18T07:45:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/human-lactoferrin-peptide-hlf1-11,Abbreviation:,hLF(1-11)
+2020-09-18T07:45:39Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802324,Synonym:,human lysozyme goat milk
+2020-09-18T07:45:44Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/human-mhc-non-restricted-cytotoxic-t-cell-line-tall-104,Code name:,TALL-104
+2020-09-18T07:45:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/human-monoclonal-antibody-216,Abbreviation:,MoAb 216
+2020-09-18T07:45:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/human-monoclonal-antibody-b11-hcg-beta-fusion-protein-cdx-1307,Code name:,CDX-1307
+2020-09-18T07:46:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/human-myeloid-progenitor-cells-clt-008,Abbreviation:,hMPC CLT-008
+2020-09-18T07:46:00Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/human-myeloid-progenitor-cells-clt-008,Code name:,CLT-008
+2020-09-18T07:46:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/human-papillomavirus-16-e7-peptide,Synonym:,HPV16 E7
+2020-09-18T07:46:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/human-papillomavirus-16-e7-peptide,Synonym:,HPV-16 E7
+2020-09-18T07:46:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/human-papillomavirus-vaccine-v503,Code name:,V503
+2020-09-18T07:46:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/human-prostate-specific-membrane-antigen-plasmid-dna-vaccine,Synonym:,PSMA DNA vaccine
+2020-09-18T07:46:16Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/human-prostate-specific-membrane-antigen-plasmid-dna-vaccine,Abbreviation:,human PSMA DNA
+2020-09-18T07:46:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/human-trefoil-factor-1-secreting-lactococcus-lactis-ag013,Abbreviation:,hTFF1-secreting Lactococcus lactis AG013
+2020-09-18T07:46:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/human-trefoil-factor-1-secreting-lactococcus-lactis-ag013,Code name:,AG013
+2020-09-18T07:46:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/human-varicella-zoster-immune-globulin,Synonym:,human varicella-zoster immune globulin
+2020-09-18T07:46:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/human-varicella-zoster-immune-globulin,Synonym:,varicella zoster immune globulin human
+2020-09-18T07:46:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/human-varicella-zoster-immune-globulin,US brand name:,VariZIG
+2020-09-18T07:46:27Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/human-varicella-zoster-immune-globulin,US brand name:,VariZIG vaccine
+2020-09-18T07:46:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/paromomycin-sulfate,Synonym:,aminosidine sulfate
+2020-09-18T07:46:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/paromomycin-sulfate,Synonym:,humycin sulfate
+2020-09-18T07:46:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/paromomycin-sulfate,Synonym:,paramomycin sulfate
+2020-09-18T07:46:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/paromomycin-sulfate,US brand name:,Humatin
+2020-09-18T07:46:32Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/paromomycin-sulfate,Chemical structure:,"D-Streptamine, O-2-amino-2-deoxy-alpha-D-glucopyranosyl-(1->4)-O-(O-2,6-diamino-2,6-dideoxy-beta-L-idopyranosyl-(1->3)-beta-D-ribofuranosyl-(1->5))-2-deoxy-, Sulfate(salt)"
+2020-09-18T07:46:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/insulin-nph,US brand name:,Humulin N
+2020-09-18T07:46:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/insulin-nph,US brand name:,Novolin N
+2020-09-18T07:46:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/insulin-regular,US brand name:,Humulin R Insulin
+2020-09-18T07:46:43Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/insulin-regular,US brand name:,Regular Novolin R
+2020-09-18T07:46:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792714,Synonym:,HPV E6/7 Semliki Forest virus based cancer vaccine
+2020-09-18T07:46:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792714,Synonym:,"rSFVeE6,7"
+2020-09-18T07:46:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792714,Synonym:,Vvax001 therapeutic cancer vaccine
+2020-09-18T07:46:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792714,Code name:,"SFVeE6,7"
+2020-09-18T07:46:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792714,Code name:,Vvax001
+2020-09-18T07:46:48Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792714,Code name:,Vvax-001
+2020-09-18T07:46:54Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hyaluronic-acid-based-hydrating-vaginal-gel,US brand name:,Hyalo GYN
+2020-09-18T07:46:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hyaluronic-acid,Synonym:,hyaluronan
+2020-09-18T07:46:59Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hyaluronic-acid,Synonym:,hyaluronate
+2020-09-18T07:47:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hyaluronic-acid-based-hydrating-vaginal-gel,US brand name:,Hyalo GYN
+2020-09-18T07:47:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hyaluronic-acid-containing-topical-cream,US brand name:,HylaCare™ cream
+2020-09-18T07:47:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/topotecan-hydrochloride,Synonym:,hycamptamine
+2020-09-18T07:47:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/topotecan-hydrochloride,Synonym:,topotecan HCl
+2020-09-18T07:47:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/topotecan-hydrochloride,US brand name:,Hycamtin
+2020-09-18T07:47:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/topotecan-hydrochloride,Abbreviation:,TOPO
+2020-09-18T07:47:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/topotecan-hydrochloride,Code name:,SKF S-104864-A
+2020-09-18T07:47:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/topotecan-hydrochloride,Chemical structure:,"(S)-10-[(dimethylamino)methyl]-4-ethyl-4,9-dihydroxy-1H-pyrano[3',4'; 6,7] indolizino[1,2-b] quinoline-3,14-(4H,12H)-dione monohydrochloride"
+2020-09-18T07:47:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/oral-topotecan-hydrochloride,US brand name:,Hycamtin Capsules
+2020-09-18T07:47:20Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/oral-topotecan-hydrochloride,Chemical structure:,"S)-10-[(dimethylamino)methyl]-4-ethyl-4,9-dihydroxy-1H-pyrano[3',4':6,7] indolizino [1,2-b]quinoline-3,14-(4H,12H)-dione monohydrochloride"
+2020-09-18T07:47:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hycanthone,Synonym:,Hycanthone mesylate
+2020-09-18T07:47:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hycanthone,US brand name:,Etrenol
+2020-09-18T07:47:25Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hycanthone,Abbreviation:,HYC
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Synonym:,delta(1)hydrocortisone
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Synonym:,delta1-dehydro-hydrocortisone
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Synonym:,deltahydrocortisone
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Synonym:,metacortandralone
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,US brand name:,Cortalone
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,US brand name:,Delta-Cortef
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,US brand name:,Hydeltra
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,US brand name:,Hydeltrasol
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,US brand name:,Meti-derm
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,US brand name:,Prelone
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Adnisolone
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Aprednislon
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Capsoid
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Cortisolone
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Dacortin H
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Decaprednil
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Decortin H
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Delta- Cortef
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Deltacortril
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Delta-Diona
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Delta-Phoricol
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Deltasolone
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Deltidrosol
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Dhasolone
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Di-Adreson-F
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Dontisolon D
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Estilsona
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Fisopred
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Frisolona
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Gupisone
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Hostacortin H
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Klismacort
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Kuhlprednon
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Lenisolone
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Lepi-Cortinolo
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Linola-H N
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Linola-H-Fett N
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Longiprednil
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Meticortelone
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Opredsone
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Panafcortelone
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Precortisyl
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Pred-Clysma
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Predeltilone
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Predni-Coelin
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Prednicortelone
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Predni-Helvacort
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Prenilone
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Abbreviation:,PRDL
+2020-09-18T07:47:30Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Chemical structure:,"(11beta)-11,17,21-trihydroxypregna-1,4-diene-3,20-dione1,2-dehydrohydrocortisone"
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Synonym:,delta(1)hydrocortisone
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Synonym:,delta1-dehydro-hydrocortisone
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Synonym:,deltahydrocortisone
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Synonym:,metacortandralone
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,US brand name:,Cortalone
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,US brand name:,Delta-Cortef
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,US brand name:,Hydeltra
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,US brand name:,Hydeltrasol
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,US brand name:,Meti-derm
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,US brand name:,Prelone
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Adnisolone
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Aprednislon
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Capsoid
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Cortisolone
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Dacortin H
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Decaprednil
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Decortin H
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Delta- Cortef
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Deltacortril
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Delta-Diona
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Delta-Phoricol
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Deltasolone
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Deltidrosol
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Dhasolone
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Di-Adreson-F
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Dontisolon D
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Estilsona
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Fisopred
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Frisolona
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Gupisone
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Hostacortin H
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Klismacort
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Kuhlprednon
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Lenisolone
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Lepi-Cortinolo
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Linola-H N
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Linola-H-Fett N
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Longiprednil
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Meticortelone
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Opredsone
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Panafcortelone
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Precortisyl
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Pred-Clysma
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Predeltilone
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Predni-Coelin
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Prednicortelone
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Predni-Helvacort
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Foreign brand name:,Prenilone
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Abbreviation:,PRDL
+2020-09-18T07:47:36Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prednisolone,Chemical structure:,"(11beta)-11,17,21-trihydroxypregna-1,4-diene-3,20-dione1,2-dehydrohydrocortisone"
+2020-09-18T07:47:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydrated-sodium-calcium-aluminosilicate,Abbreviation:,HSCAS
+2020-09-18T07:47:41Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydrated-sodium-calcium-aluminosilicate,Code name:,ACCS100
+2020-09-18T07:47:46Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydrazine-sulfate,Foreign brand name:,Sehydrin
+2020-09-18T07:47:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydroxyurea,Synonym:,HYD
+2020-09-18T07:47:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydroxyurea,Synonym:,Hydroxycarbamide
+2020-09-18T07:47:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydroxyurea,Synonym:,Hydurea
+2020-09-18T07:47:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydroxyurea,US brand name:,Droxia
+2020-09-18T07:47:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydroxyurea,US brand name:,Hydrea
+2020-09-18T07:47:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydroxyurea,Foreign brand name:,Litalir
+2020-09-18T07:47:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydroxyurea,Foreign brand name:,Onco-Carbide
+2020-09-18T07:47:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydroxyurea,Foreign brand name:,Oxeron
+2020-09-18T07:47:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydroxyurea,Foreign brand name:,Syrea
+2020-09-18T07:47:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydroxyurea,Abbreviation:,HU
+2020-09-18T07:47:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydroxyurea,Code name:,SQ 1089
+2020-09-18T07:47:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydroxyurea,Code name:,SQ-1089
+2020-09-18T07:47:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydroxyurea,Code name:,WR 83799
+2020-09-18T07:47:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydrocodone-acetaminophen,US brand name:,Lorcet
+2020-09-18T07:47:57Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydrocodone-acetaminophen,US brand name:,Vicodin
+2020-09-18T07:48:02Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792851,Synonym:,hydrocortisone sodium succinate mixed with aluminum phosphate gel
+2020-09-18T07:48:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydrogen-peroxide-hyaluronic-acid-tumor-injectable-formulation,Synonym:,H2O2-HA tumor injectable formulation
+2020-09-18T07:48:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydrogen-peroxide-hyaluronic-acid-tumor-injectable-formulation,Synonym:,hydrogen peroxide-hyaluronic acid intratumoral injectable formulation
+2020-09-18T07:48:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydromorphone-hydrochloride,US brand name:,Dilaudid
+2020-09-18T07:48:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydromorphone-hydrochloride,US brand name:,Dilaudid HP
+2020-09-18T07:48:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydromorphone-hydrochloride,US brand name:,Dimorphone
+2020-09-18T07:48:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydromorphone-hydrochloride,US brand name:,Hydrostat
+2020-09-18T07:48:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydromorphone-hydrochloride,US brand name:,Hymorphan
+2020-09-18T07:48:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydromorphone-hydrochloride,US brand name:,Laudicon
+2020-09-18T07:48:13Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydromorphone-hydrochloride,US brand name:,Novolauden
+2020-09-18T07:48:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydromorphone-hydrochloride,US brand name:,Dilaudid
+2020-09-18T07:48:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydromorphone-hydrochloride,US brand name:,Dilaudid HP
+2020-09-18T07:48:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydromorphone-hydrochloride,US brand name:,Dimorphone
+2020-09-18T07:48:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydromorphone-hydrochloride,US brand name:,Hydrostat
+2020-09-18T07:48:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydromorphone-hydrochloride,US brand name:,Hymorphan
+2020-09-18T07:48:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydromorphone-hydrochloride,US brand name:,Laudicon
+2020-09-18T07:48:18Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydromorphone-hydrochloride,US brand name:,Novolauden
+2020-09-18T07:48:24Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydroxychloroquine,Abbreviation:,HCQ
+2020-09-18T07:48:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydroxytyrosol,Abbreviation:,"3,4-DHPEA"
+2020-09-18T07:48:29Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydroxytyrosol,Chemical structure:,"2-(3,4-dihydroxyphenyl)ethanol3,4-dihydroxyphenylethanol4-(2-hydroxyethyl)-1,2-benzenediol"
+2020-09-18T07:48:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydroxyurea,Synonym:,HYD
+2020-09-18T07:48:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydroxyurea,Synonym:,Hydroxycarbamide
+2020-09-18T07:48:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydroxyurea,Synonym:,Hydurea
+2020-09-18T07:48:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydroxyurea,US brand name:,Droxia
+2020-09-18T07:48:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydroxyurea,US brand name:,Hydrea
+2020-09-18T07:48:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydroxyurea,Foreign brand name:,Litalir
+2020-09-18T07:48:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydroxyurea,Foreign brand name:,Onco-Carbide
+2020-09-18T07:48:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydroxyurea,Foreign brand name:,Oxeron
+2020-09-18T07:48:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydroxyurea,Foreign brand name:,Syrea
+2020-09-18T07:48:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydroxyurea,Abbreviation:,HU
+2020-09-18T07:48:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydroxyurea,Code name:,SQ 1089
+2020-09-18T07:48:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydroxyurea,Code name:,SQ-1089
+2020-09-18T07:48:34Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydroxyurea,Code name:,WR 83799
+2020-09-18T07:48:40Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hyaluronic-acid-containing-topical-cream,US brand name:,HylaCare™ cream
+2020-09-18T07:48:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydromorphone-hydrochloride,US brand name:,Dilaudid
+2020-09-18T07:48:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydromorphone-hydrochloride,US brand name:,Dilaudid HP
+2020-09-18T07:48:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydromorphone-hydrochloride,US brand name:,Dimorphone
+2020-09-18T07:48:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydromorphone-hydrochloride,US brand name:,Hydrostat
+2020-09-18T07:48:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydromorphone-hydrochloride,US brand name:,Hymorphan
+2020-09-18T07:48:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydromorphone-hydrochloride,US brand name:,Laudicon
+2020-09-18T07:48:45Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydromorphone-hydrochloride,US brand name:,Novolauden
+2020-09-18T07:48:50Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/b16alphagal-melanoma-vaccine,US brand name:,Hyperacute Melanoma
+2020-09-18T07:48:55Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hyperbaric-oxygen,NA,NA
+2020-09-18T07:49:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hyper-cvad-regimen,Synonym:,HyperCVAD Regimen
+2020-09-18T07:49:01Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hyper-cvad-regimen,Synonym:,hyperfractionated cyclophosphamide-vincristine-adriamycin-dexamethasone regimen
+2020-09-18T07:49:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/isoniazid,Abbreviation:,INH
+2020-09-18T07:49:06Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/isoniazid,Chemical structure:,isonicotinic acid hydrazideisonicotinyl hydrazine
+2020-09-18T07:49:11Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hyperimmune-bovine-colostrum,Synonym:,hyperimmune colostrum
+2020-09-18T07:49:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/688700,Synonym:,hyperpolarized 13C-pyruvate
+2020-09-18T07:49:17Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/688700,Synonym:,hyperpolarized pyruvate (13C)
+2020-09-18T07:49:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hyperpolarized-helium-3,Synonym:,hyperpolarized He3
+2020-09-18T07:49:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hyperpolarized-helium-3,Synonym:,hyperpolarized He-3
+2020-09-18T07:49:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hyperpolarized-helium-3,Synonym:,hyperpolarized helium-3
+2020-09-18T07:49:22Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hyperpolarized-helium-3,Abbreviation:,HP3He
