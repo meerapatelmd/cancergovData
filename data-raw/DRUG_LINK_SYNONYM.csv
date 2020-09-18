@@ -10257,3 +10257,72 @@ dls_datetime,drug_link,x1,x2
 2020-09-18T06:31:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epidermal-growth-factor-ointment,Synonym:,EGF ointment
 2020-09-18T06:31:05Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epidermal-growth-factor-ointment,Synonym:,sesal yeongo
 2020-09-18T06:31:10Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799672,Abbreviation:,EDP
+2020-09-18T06:31:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cannabidiol,Synonym:,CBD oil
+2020-09-18T06:31:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cannabidiol,US brand name:,Epidiolex
+2020-09-18T06:31:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cannabidiol,Abbreviation:,CBD
+2020-09-18T06:31:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cannabidiol,Code name:,GWP42003-P
+2020-09-18T06:31:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cannabidiol,Chemical structure:,"1,3-benzenediol, 2-(3-methyl-6-(1-methylethenyl)-2-cyclohexen-1-yl)-5-pentyl-, (1R-trans)-"
+2020-09-18T06:31:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epigallocatechin-gallate,Synonym:,(-)-epigallocatechin-3-gallate
+2020-09-18T06:31:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epigallocatechin-gallate,Synonym:,"[(2R,3R)-2-(3,4,5-trihydroxyphenyl)-5,7-dihydroxy-chroman-3-yl] 3,4,5-trihydroxybenzoate"
+2020-09-18T06:31:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epigallocatechin-gallate,Synonym:,epigallocatechin-3-gallate
+2020-09-18T06:31:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epigallocatechin-gallate,Synonym:,epigallocatechingallate
+2020-09-18T06:31:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epigallocatechin-gallate,Synonym:,tea catechin
+2020-09-18T06:31:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epigallocatechin-gallate,Abbreviation:,EGCG
+2020-09-18T06:31:21Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epigallocatechin-gallate,Chemical structure:,"(2R-cis)-3,4-dihydro-5,7-dihydroxy-2-(3,4,5-trihydroxyphenyl)-2H-1-benzopyran-3-yl 3,4,5-trihydroxybenzoate"
+2020-09-18T06:31:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/divalproex-sodium,Synonym:,sodium divalproex
+2020-09-18T06:31:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/divalproex-sodium,Synonym:,valproate semisodium
+2020-09-18T06:31:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/divalproex-sodium,US brand name:,Depacon
+2020-09-18T06:31:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/divalproex-sodium,US brand name:,Depakote
+2020-09-18T06:31:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/divalproex-sodium,US brand name:,Depakote ER
+2020-09-18T06:31:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/divalproex-sodium,US brand name:,Epilex
+2020-09-18T06:31:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/divalproex-sodium,US brand name:,Epival
+2020-09-18T06:31:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/divalproex-sodium,US brand name:,Valparin
+2020-09-18T06:31:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/divalproex-sodium,Code name:,Abbott 50711
+2020-09-18T06:31:26Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/divalproex-sodium,Chemical structure:,sodium hydrogen bis(2-propylpentanoate)
+2020-09-18T06:31:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epirubicin-hydrochloride,US brand name:,Ellence
+2020-09-18T06:31:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epirubicin-hydrochloride,Foreign brand name:,Pharmorubicin PFS
+2020-09-18T06:31:31Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epirubicin-hydrochloride,Code name:,IMI-28
+2020-09-18T06:31:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793471,Code name:,HMPL 813
+2020-09-18T06:31:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793471,Code name:,HMPL813
+2020-09-18T06:31:37Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793471,Code name:,HMPL-813
+2020-09-18T06:31:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/carbamazepine,US brand name:,Epitol
+2020-09-18T06:31:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/carbamazepine,US brand name:,Tegretol
+2020-09-18T06:31:42Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/carbamazepine,Chemical structure:,"5H-Dibenz(b,f)azepine-5-carboxamide"
+2020-09-18T06:31:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/divalproex-sodium,Synonym:,sodium divalproex
+2020-09-18T06:31:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/divalproex-sodium,Synonym:,valproate semisodium
+2020-09-18T06:31:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/divalproex-sodium,US brand name:,Depacon
+2020-09-18T06:31:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/divalproex-sodium,US brand name:,Depakote
+2020-09-18T06:31:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/divalproex-sodium,US brand name:,Depakote ER
+2020-09-18T06:31:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/divalproex-sodium,US brand name:,Epilex
+2020-09-18T06:31:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/divalproex-sodium,US brand name:,Epival
+2020-09-18T06:31:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/divalproex-sodium,US brand name:,Valparin
+2020-09-18T06:31:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/divalproex-sodium,Code name:,Abbott 50711
+2020-09-18T06:31:47Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/divalproex-sodium,Chemical structure:,sodium hydrogen bis(2-propylpentanoate)
+2020-09-18T06:31:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/lamivudine,US brand name:,Epivir
+2020-09-18T06:31:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/lamivudine,Abbreviation:,3TC
+2020-09-18T06:31:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/lamivudine,Abbreviation:,LAM
+2020-09-18T06:31:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/eplerenone,US brand name:,Inspra
+2020-09-18T06:31:58Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/eplerenone,Chemical structure:,"9,11alpha-epoxy-17-hydroxy-3-oxo-17alpha-pregn-4-ene-7alpha,21-dicarboxylic acid, gamma-lactone, methyl ester"
+2020-09-18T06:32:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoch-regimen,Synonym:,CHEOP regimen
+2020-09-18T06:32:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoch-regimen,Synonym:,DA-EPOCH
+2020-09-18T06:32:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoch-regimen,Synonym:,dose-adjusted etoposide/vincristine/doxorubicin/cyclophosphamide/prednisone regimen
+2020-09-18T06:32:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoch-regimen,Synonym:,EPOCH
+2020-09-18T06:32:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoch-regimen,Synonym:,etoposide-prednisone-Oncovin-cyclophosphamide-hydroxydaunorubicin regimen
+2020-09-18T06:32:03Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoch-regimen,Acronym:,CHEOP regimen
+2020-09-18T06:32:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoch-o-regimen,Synonym:,DA EPOCH-O
+2020-09-18T06:32:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoch-o-regimen,Synonym:,dose-adjusted EPOCH-ofatumumab
+2020-09-18T06:32:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoch-o-regimen,Synonym:,dose-adjusted etoposide/vincristine/doxorubicin/cyclophosphamide/prednisone plus ofatumumab regimen
+2020-09-18T06:32:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoch-o-regimen,Synonym:,dose-adjusted etoposide-prednisone-vincristine-cyclophosphamide-ofatumumab
+2020-09-18T06:32:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoch-o-regimen,Synonym:,EPOCH plus Arzerra
+2020-09-18T06:32:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoch-o-regimen,Synonym:,EPOCH plus ofatumumab
+2020-09-18T06:32:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoch-o-regimen,Synonym:,etoposide-prednisone-Oncovin-cyclophosphamide-hydroxydaunorubicin-ofatumumab regimen
+2020-09-18T06:32:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoch-o-regimen,Synonym:,O-EPOCH
+2020-09-18T06:32:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoch-o-regimen,Synonym:,O-EPOCH regimen
+2020-09-18T06:32:08Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoch-o-regimen,Abbreviation:,EPOCH-O
+2020-09-18T06:32:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoetin-alfa,Synonym:,erythropoietin
+2020-09-18T06:32:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoetin-alfa,Synonym:,r-HuEPO
+2020-09-18T06:32:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoetin-alfa,US brand name:,Epogen
+2020-09-18T06:32:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoetin-alfa,US brand name:,Procrit
+2020-09-18T06:32:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoetin-alfa,US brand name:,Retacrit
+2020-09-18T06:32:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoetin-alfa,Foreign brand name:,Eprex
+2020-09-18T06:32:14Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epoetin-alfa,Abbreviation:,EPO
