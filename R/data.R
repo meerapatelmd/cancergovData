@@ -1,6 +1,6 @@
 #' @title CONCEPT
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 7758 rows and 10 variables:
+#' @format A data frame with 7772 rows and 10 variables:
 #' \describe{
 #'   \item{\code{concept_id}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{concept_name}}{character COLUMN_DESCRIPTION}
@@ -18,7 +18,7 @@
 
 #' @title CONCEPT_DEFINITION
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 7790 rows and 3 variables:
+#' @format A data frame with 7804 rows and 3 variables:
 #' \describe{
 #'   \item{\code{concept_id}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{concept_name}}{character COLUMN_DESCRIPTION}
@@ -29,7 +29,7 @@
 
 #' @title CONCEPT_SYNONYM
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 35823 rows and 3 variables:
+#' @format A data frame with 35881 rows and 3 variables:
 #' \describe{
 #'   \item{\code{concept_id}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{concept_synonym_name}}{character COLUMN_DESCRIPTION}
