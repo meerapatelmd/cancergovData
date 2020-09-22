@@ -65,7 +65,7 @@
 
 #' @title DRUG_DICTIONARY_LOG
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 2 rows and 2 variables:
+#' @format A data frame with 3 rows and 2 variables:
 #' \describe{
 #'   \item{\code{ddl_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{drug_count}}{double COLUMN_DESCRIPTION} 
