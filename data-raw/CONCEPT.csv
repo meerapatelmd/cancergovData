@@ -574,6 +574,7 @@ concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concep
 918135301,anti-CA19-9 monoclonal antibody 5B1,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918135302,anti-CA6-DM4 immunoconjugate SAR566658,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918135303,anticachexia agent MT-102,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
+918137577,Elspar,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918135304,anti-CD123 ADC IMGN632,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918135305,anti-CD123 monoclonal antibody KHK2823,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918135306,anti-CD123 x anti-CD3 bispecific antibody XmAb14045,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
@@ -918,6 +919,7 @@ concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concep
 918135646,anti-mesothelin antibody-drug conjugate BMS-986148,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918135647,anti-mesothelin CAR vector-transduced autologous T lymphocytes,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918135648,anti-mesothelin cytolytic fusion protein LMB-100,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
+918135830,Aranelle,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918135649,anti-mesothelin iCasp9M28z CAR-transduced autologous T lymphocytes,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918135650,anti-mesothelin/MMAE antibody-drug conjugate RC88,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918135651,anti-mesothelin-CAR mRNA-transduced autologous T lymphocytes,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
@@ -1099,7 +1101,6 @@ concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concep
 918135827,Aquasol A,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918135828,AR antagonist BMS-641988,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918135829,Aralast,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
-918135830,Aranelle,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918135831,Aranesp,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918135832,Arava,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918135833,ARC fusion protein SL-279252,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
@@ -2645,6 +2646,7 @@ concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concep
 918137373,diphtheria-tetanus-acellular pertussis-inactivated poliomyelitis-Haemophilus influenzae type b vaccine,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918137374,Diprivan,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918137375,dipyridamole,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
+918137440,dovitinib lactate,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918137376,disaccharide tripeptide glycerol dipalmitoyl,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918137377,Disalcid,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918137378,distilled water,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
@@ -2709,7 +2711,6 @@ concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concep
 918137437,Dostinex,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918137438,DOTAP:chol-Fus1 liposome complex,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918137439,DOTAREM,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
-918137440,dovitinib lactate,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918137441,Dovonex,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918137442,doxazosin mesylate,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918137443,doxepin hydrochloride,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
@@ -2846,7 +2847,6 @@ concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concep
 918137574,Eloxatin,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918137575,elsamitrucin,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918137576,elsiglutide,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
-918137577,Elspar,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918137578,eltrombopag olamine,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918137579,Elunate,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918137580,Elzonris,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
@@ -3661,6 +3661,7 @@ concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concep
 918138389,hemoporfin,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918138390,henatinib maleate,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918138391,heparan sulfate glycosaminoglycan mimetic M402,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
+918138511,Hsp90 inhibitor TQB3474,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918138392,heparan sulfate glycosaminoglycan mimetic nanopolymer mouthwash,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918138393,heparin calcium,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918138394,heparin sodium,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
@@ -3723,6 +3724,7 @@ concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concep
 918138450,HLA-A*0201-restricted VEGFR1-VEGFR2 multipeptide vaccine,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918138451,HLA-A*2402-restricted CDCA1-A24-56 peptide vaccine,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918138452,HLA-A*2402-restricted CDCA1-KIF20A multipeptide vaccine,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
+918138512,Hsp90 inhibitor XL888,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918138453,HLA-A*2402-restricted KOC1-TTK-CO16-DEPDC1-MPHOSPH1 multipeptide vaccine,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918138454,HLA-A*2402-restricted multipeptide vaccine S-488410,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918138455,HLA-A*2402-restricted URLC10 peptides vaccine,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
@@ -3781,8 +3783,6 @@ concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concep
 918138508,HSP90 inhibitor PU-H71,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918138509,Hsp90 inhibitor SNX-2112,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918138510,Hsp90 inhibitor SNX-5422 mesylate,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
-918138511,Hsp90 inhibitor TQB3474,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
-918138512,Hsp90 inhibitor XL888,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918138513,HSP90alpha/beta inhibitor TAS-116,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918138514,HSP90-targeted photosensitizer HS-201,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918138515,HSP90-targeted SN-38 conjugate PEN-866,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
@@ -3913,6 +3913,7 @@ concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concep
 918138641,IgM-enriched immunoglobulins,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918138642,IH636 grape seed proanthocyanidin extract,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918138643,IL-10 immunomodulator MK-1966,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
+918138711,indibulin,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918138644,IL-12-expressing mesenchymal stem cell vaccine GX-051,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918138645,"IL-12sc, IL-15sushi, IFNa and GM-CSF mRNA-based immunotherapeutic agent SAR441000",Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918138646,IL13Ralpha2-specific hinge-optimized 41BB-co-stimulatory CAR truncated CD19-expressing autologous T-lymphocytes,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
@@ -3980,7 +3981,6 @@ concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concep
 918138708,incomplete Freund's adjuvant,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918138709,incyclinide,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918138710,Inderal,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
-918138711,indibulin,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918138712,indicine-N-oxide,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918138713,indinavir sulfate,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918138714,Indium 111 ProstaScint,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
@@ -4385,6 +4385,7 @@ concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concep
 918139113,Lioresal,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918139114,liothyronine sodium,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918139115,lipegfilgrastim,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
+918140189,Padcev,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918139116,lipid nanoparticle encapsulated mRNAs encoding human IL-12A/IL-12B MEDI-1191,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918139117,lipid nanoparticle encapsulating mRNAs encoding human OX40L/IL-23/IL-36gamma mRNA-2752,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918139118,lipid nanoparticle-encapsulated OX40L mRNA-2416,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
@@ -4853,6 +4854,7 @@ concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concep
 918139581,mocetinostat,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918139582,modafinil,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918139583,Modicon,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
+918140793,Quixin,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918139584,modified citrus pectin supplement,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918139585,modified vaccinia Ankara (Bavarian Nordic)-HER2 vaccine,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918139586,modified vaccinia virus ankara vaccine expressing p53,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
@@ -4981,6 +4983,7 @@ concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concep
 918139709,Multiferon,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918139710,multifunctional/multitargeted anticancer agent OMN54,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918139711,multi-glioblastoma-peptide-targeting autologous dendritic cell vaccine ICT-107,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
+918140794,Qvar,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918139712,MultiHance,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918139713,MultiHance,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918139714,multikinase inhibitor 4SC-203,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
@@ -5458,7 +5461,6 @@ concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concep
 918140186,paclitaxel polymeric micelle formulation NANT-008,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918140187,paclitaxel vitamin E-based emulsion formulation,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918140188,pacritinib,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
-918140189,Padcev,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918140190,padeliporfin,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918140191,PADRE 965.10,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918140192,PADRE-CMV fusion peptide vaccine,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
@@ -6062,8 +6064,6 @@ concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concep
 918140790,quinidine,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918140791,quinine,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918140792,quisinostat,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
-918140793,Quixin,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
-918140794,Qvar,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918140795,R-(-)-gossypol acetic acid,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918140796,R(+)XK469,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918140797,R1 Cooling Gel Plus R2 Moisturizing/Sun Protecting Lotion,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
@@ -6130,6 +6130,7 @@ concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concep
 918140858,recombinant bispecific single-chain antibody rM28,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918140859,recombinant bovine basic fibroblast growth factor,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918140860,recombinant CD40-ligand,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
+918140921,recombinant parathyroid hormone,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918140861,recombinant cell-surface anchored sialidase DAS181,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918140862,recombinant dHER2 vaccine,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918140863,recombinant DNA-L523S vaccine,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
@@ -6190,7 +6191,6 @@ concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concep
 918140918,recombinant oncolytic poliovirus PVS-RIPO,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918140919,recombinant Ornithodoros moubata saliva-derived small protein complement C5 inhibitor,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918140920,recombinant oxytocin,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
-918140921,recombinant parathyroid hormone,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918140922,recombinant platelet factor 4,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918140923,recombinant PRAME protein plus AS15 adjuvant GSK2302025A,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918140924,recombinant Saccharomyces cerevisia-CEA(610D) vaccine GI-6207,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
@@ -7357,6 +7357,7 @@ concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concep
 918142085,valganciclovir,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918142086,Valparin,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918142087,valproic acid,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
+918142233,Vivelle,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918142088,valproic acid-expanded umbilical cord blood-derived CD34-positive cells,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918142089,valrubicin,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918142090,valsartan,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
@@ -7502,7 +7503,6 @@ concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concep
 918142230,vitamins/minerals/proteins-based synthetic meal replacement,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918142231,vitespen,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918142232,Vitrakvi,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
-918142233,Vivelle,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918142234,Vizamyl,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918142235,Vizimpro,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA
 918142236,VLP-encapsulated TLR9 agonist CMP-001,Drug,NCI Drug Dictionary,NA,NA,NA,2020-09-18,2099-12-31,NA

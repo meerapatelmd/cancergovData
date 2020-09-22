@@ -7,7 +7,7 @@
 \format{
 A data frame with 7804 rows and 3 variables:
 \describe{
-\item{\code{concept_id}}{double COLUMN_DESCRIPTION}
+\item{\code{concept_id}}{character COLUMN_DESCRIPTION}
 \item{\code{concept_name}}{character COLUMN_DESCRIPTION}
 \item{\code{concept_definition}}{character COLUMN_DESCRIPTION}
 }

@@ -1825,6 +1825,7 @@ concept_id,concept_synonym_name,language_concept_id
 918141406,"(E)-4,4'-(1,2-diethyl-1,2-ethenediyl)bisphenol3,4-bis(p-hydroxyphenyl)-3-hexene4,4'-dihydroxy-alpha,beta-diethylstilbenealpha,alpha'-diethylstilbenedioltrans-bis-(hydroxy-4-phenyl)-3,4 hexene-3",4180186
 918141407,"(E)-4,4'-(1,2-diethyl-1,2-ethenediyl)bisphenol3,4-bis(p-hydroxyphenyl)-3-hexene4,4'-dihydroxy-alpha,beta-diethylstilbenealpha,alpha'-diethylstilbenedioltrans-bis-(hydroxy-4-phenyl)-3,4 hexene-3",4180186
 918141408,"(E)-4,4'-(1,2-diethyl-1,2-ethenediyl)bisphenol3,4-bis(p-hydroxyphenyl)-3-hexene4,4'-dihydroxy-alpha,beta-diethylstilbenealpha,alpha'-diethylstilbenedioltrans-bis-(hydroxy-4-phenyl)-3,4 hexene-3",4180186
+918137380,dumitone,4180186
 918141490,"(E)-4,4'-(1,2-diethyl-1,2-ethenediyl)bisphenol3,4-bis(p-hydroxyphenyl)-3-hexene4,4'-dihydroxy-alpha,beta-diethylstilbenealpha,alpha'-diethylstilbenedioltrans-bis-(hydroxy-4-phenyl)-3,4 hexene-3",4180186
 918141511,"(E)-4,4'-(1,2-diethyl-1,2-ethenediyl)bisphenol3,4-bis(p-hydroxyphenyl)-3-hexene4,4'-dihydroxy-alpha,beta-diethylstilbenealpha,alpha'-diethylstilbenedioltrans-bis-(hydroxy-4-phenyl)-3,4 hexene-3",4180186
 918142077,"(E)-4,4'-(1,2-diethyl-1,2-ethenediyl)bisphenol3,4-bis(p-hydroxyphenyl)-3-hexene4,4'-dihydroxy-alpha,beta-diethylstilbenealpha,alpha'-diethylstilbenedioltrans-bis-(hydroxy-4-phenyl)-3,4 hexene-3",4180186
@@ -2043,7 +2044,6 @@ concept_id,concept_synonym_name,language_concept_id
 918134862,dumitone,4180186
 918136192,dumitone,4180186
 918137193,dumitone,4180186
-918137380,dumitone,4180186
 918134862,novophone,4180186
 918136192,novophone,4180186
 918137193,novophone,4180186
@@ -3278,6 +3278,7 @@ concept_id,concept_synonym_name,language_concept_id
 918138043,Alendronate,4180186
 918134998,Alendronic Acid Monosodium Salt Trihydrate,4180186
 918136373,Alendronic Acid Monosodium Salt Trihydrate,4180186
+918140610,Portia,4180186
 918138043,Alendronic Acid Monosodium Salt Trihydrate,4180186
 918134998,Binosto,4180186
 918136373,Binosto,4180186
@@ -3413,7 +3414,6 @@ concept_id,concept_synonym_name,language_concept_id
 918139076,Portia,4180186
 918139516,Portia,4180186
 918139923,Portia,4180186
-918140610,Portia,4180186
 918141177,Portia,4180186
 918141178,Portia,4180186
 918141965,Portia,4180186
@@ -3525,6 +3525,7 @@ concept_id,concept_synonym_name,language_concept_id
 918135010,LGD1057,4180186
 918140235,LGD1057,4180186
 918142483,sodium allopurinol,4180186
+918135034,ALLO-715 cells,4180186
 918135010,"3,7-dimethyl-9-(2,6,6-trimethyl-1-cyclohexen-1-yl)2-cis-4-trans-6-trans-8-trans-nonatetraenoic Acid3,7-dimethyl-9-(2,6,6-trimethyl-1-cyclohexen-1-yl)2-trans-4-trans-6-cis-8-trans-nonatetraenoic Acid",4180186
 918140235,"3,7-dimethyl-9-(2,6,6-trimethyl-1-cyclohexen-1-yl)2-cis-4-trans-6-trans-8-trans-nonatetraenoic Acid3,7-dimethyl-9-(2,6,6-trimethyl-1-cyclohexen-1-yl)2-trans-4-trans-6-cis-8-trans-nonatetraenoic Acid",4180186
 918135011,ASP3026,4180186
@@ -3634,7 +3635,6 @@ concept_id,concept_synonym_name,language_concept_id
 918135033,allogeneic adipose-derived MSCs,4180186
 918135033,allogeneic adipose-derived stem/stromal cells,4180186
 918135033,allogeneic mesenchymal stem/stromal cells,4180186
-918135034,ALLO-715 cells,4180186
 918135034,alloCAR T ALLO-715,4180186
 918135034,anti-BCMA allogeneic CAR T cells ALLO-715,4180186
 918135034,BCMA allogeneic CAR T cells ALLO-715,4180186
@@ -4100,6 +4100,7 @@ concept_id,concept_synonym_name,language_concept_id
 918135107,RS 25259-197,4180186
 918140202,RS 25259-197,4180186
 918135107,"1H-Benz(de)isoquinolin-1-one, 2-(3S)-1-azabicyclo(2.2.2)oct-3-yl-2,3,3a,4,5,6-hexahydro-, Monohydrochloride,(3aS)-",4180186
+918138428,hexamethylmelamine,4180186
 918140202,"1H-Benz(de)isoquinolin-1-one, 2-(3S)-1-azabicyclo(2.2.2)oct-3-yl-2,3,3a,4,5,6-hexahydro-, Monohydrochloride,(3aS)-",4180186
 918135108,phosphoinositide 3-kinase inhibitor BYL719,4180186
 918140501,phosphoinositide 3-kinase inhibitor BYL719,4180186
@@ -4214,7 +4215,6 @@ concept_id,concept_synonym_name,language_concept_id
 918138428,Hexalen,4180186
 918135134,hexamethylmelamine,4180186
 918138426,hexamethylmelamine,4180186
-918138428,hexamethylmelamine,4180186
 918135134,Hexastat,4180186
 918138426,Hexastat,4180186
 918138428,Hexastat,4180186
@@ -4797,6 +4797,7 @@ concept_id,concept_synonym_name,language_concept_id
 918135847,ICI-D1033,4180186
 918135205,ZD-1033,4180186
 918135847,ZD-1033,4180186
+918135217,JNJ -63576253,4180186
 918135205,"2,2'-[5-(1H-1,2,4-triazol-1-ylmethyl)-1,3-phenylene]di(2-methylpropionitrile)alpha,alpha,alpha', alpha'-tetramethyl-5-(1H-1,2,4-triazol-1-ylmethyl)-1,3-benzenediacetonitrile",4180186
 918135221,AR degrader CC-94676,4180186
 918135221,CC 94676,4180186
@@ -4912,7 +4913,6 @@ concept_id,concept_synonym_name,language_concept_id
 918135216,TAS3681,4180186
 918135217,AR antagonist TRC253,4180186
 918135217,JNJ 63576253,4180186
-918135217,JNJ -63576253,4180186
 918135217,JNJ63576253,4180186
 918135217,TRC 253,4180186
 918135217,TRC253,4180186
@@ -5137,6 +5137,7 @@ concept_id,concept_synonym_name,language_concept_id
 918135258,anti-activin receptor-like kinase 1 monoclonal antibody PF-03446962,4180186
 918135258,PF-03446962,4180186
 918135259,anti-BCMA x aCD3 T-BsAb TNB-383B,4180186
+918135287,ADC CDX-014,4180186
 918135259,anti-BCMA x aCD3 T-cell engaging bispecific antibody TNB-383B,4180186
 918135259,TNB 383B,4180186
 918135259,TNB383B,4180186
@@ -5254,7 +5255,6 @@ concept_id,concept_synonym_name,language_concept_id
 918135286,XMT1536,4180186
 918135286,XMT-1536,4180186
 918135287,ADC anti-TIM-1-vcMMAE CDX-014,4180186
-918135287,ADC CDX-014,4180186
 918135287,antibody-drug conjugate CDX-014,4180186
 918135287,CR014-vcMMAE,4180186
 918135287,CR014-vc-MMAE,4180186
@@ -8175,6 +8175,7 @@ concept_id,concept_synonym_name,language_concept_id
 918135982,autologous ET1402L1-CAR-T cells,4180186
 918135982,autologous T cells transduced with ET1402L1-CAR,4180186
 918135982,ET1402L1-CAR-T cells,4180186
+918136103,YTE001,4180186
 918135983,autologous ICAM-1-targeted CAR T cells AIC100,4180186
 918135983,autologous ICAM-1-targeted CAR-T cells AIC100,4180186
 918135983,autologous ICAM-1-targeted CAR-T lymphocytes AIC100,4180186
@@ -8271,6 +8272,7 @@ concept_id,concept_synonym_name,language_concept_id
 918136007,ATLCAR.CD30-CD28zeta-CCR4 cells,4180186
 918136007,ATLs co-expressing CD30-CARCD28zeta and CCR4,4180186
 918136007,autologous CCR4-CAR-CD19-CD28-zeta-transduced T lymphocytes,4180186
+918136103,YT-E001,4180186
 918136007,CCR4-CAR-CD30-28zeta-specific autologous T cells,4180186
 918136007,SFG.CCR4-CAR.CD30 autologous T lymphocytess,4180186
 918136008,4SCAR123 T cells,4180186
@@ -8367,6 +8369,7 @@ concept_id,concept_synonym_name,language_concept_id
 918136030,anti-CD38 CAR-T cells 4SCAR38,4180186
 918136030,anti-CD38-CD28-CD137-CD27-CD3z-iCasp9 CAR T cells 4SCAR38,4180186
 918136030,CD38-4SCAR-expressing T lymphocytes,4180186
+918136167,Oncoquest-L vaccine,4180186
 918136030,CD38-scFv/CD28/CD137/CD27/CD3z-iCasp9 T cells,4180186
 918136030,CD38-specific 4th generation chimeric antigen receptor-modified T cells,4180186
 918136030,4SCAR38,4180186
@@ -8552,8 +8555,6 @@ concept_id,concept_synonym_name,language_concept_id
 918136101,autologous IKDC,4180186
 918136103,autologous EBV-specific TCR T cells YT-E001,4180186
 918136103,YT E001,4180186
-918136103,YTE001,4180186
-918136103,YT-E001,4180186
 918136104,autologous activated cytotoxic T lymphocytes/natural killer cells,4180186
 918136104,ALECSAT,4180186
 918136109,autologous genetically-modified T cells MAGEA10c796,4180186
@@ -8642,6 +8643,7 @@ concept_id,concept_synonym_name,language_concept_id
 918136141,autologous peripheral blood lymphocytes retrovirally-transduced with TCRs targeting neoantigens,4180186
 918136141,individual patient TCR-transduced autologous PBLs,4180186
 918136141,neoantigen-reactive TCRs-transduced autologous PBLs,4180186
+918140055,Oncoquest-L vaccine,4180186
 918136141,neoantigen-specific TCRs gene-transduced autologous PBLs,4180186
 918136142,autologous PD-1 antibody expressing mesothelin specific CAR-T cells,4180186
 918136143,autologous iPD1 CD19 eCAR T cells,4180186
@@ -8741,8 +8743,6 @@ concept_id,concept_synonym_name,language_concept_id
 918136166,autologous CART-TnMUC1 cells,4180186
 918136166,autologous Tn-MUC1-specific CAR T cells,4180186
 918136166,autologous TnMUC1-targeted genetically-modified CAR T cells,4180186
-918136167,Oncoquest-L vaccine,4180186
-918140055,Oncoquest-L vaccine,4180186
 918136168,AC vaccine,4180186
 918136168,Autologous Cell Vaccine,4180186
 918136168,ATCV,4180186
@@ -9429,6 +9429,7 @@ concept_id,concept_synonym_name,language_concept_id
 918141723,immune globulin intravenous,4180186
 918142161,immune globulin intravenous,4180186
 918142162,immune globulin intravenous,4180186
+918141723,Venoglobulin-I,4180186
 918142278,immune globulin intravenous,4180186
 918136256,immune globulin IV,4180186
 918138158,immune globulin IV,4180186
@@ -9558,7 +9559,6 @@ concept_id,concept_synonym_name,language_concept_id
 918140214,Venoglobulin-I,4180186
 918140573,Venoglobulin-I,4180186
 918141146,Venoglobulin-I,4180186
-918141723,Venoglobulin-I,4180186
 918142161,Venoglobulin-I,4180186
 918142162,Venoglobulin-I,4180186
 918142278,Venoglobulin-I,4180186
@@ -12698,6 +12698,7 @@ concept_id,concept_synonym_name,language_concept_id
 918136984,Co-Q10,4180186
 918136984,"2-(3,7,11,15,19,23,27,31,35,39-Decamethyl-2,6,10,14,18,22,26,30,34,38-tetracontadecanyl)-5,6-dimethoxy-3-methyl-2,5-cyclohexadiene-1,4-dione",4180186
 918136985,"5,10 methylenetetrahydrofolate",4180186
+918136999,Cyclogest,4180186
 918138029,"5,10 methylenetetrahydrofolate",4180186
 918136985,"5,10-methylenetetrahydrofolate",4180186
 918138029,"5,10-methylenetetrahydrofolate",4180186
@@ -12827,7 +12828,6 @@ concept_id,concept_synonym_name,language_concept_id
 918140685,Corluvite,4180186
 918140695,Corluvite,4180186
 918141729,Corluvite,4180186
-918136999,Cyclogest,4180186
 918138219,Cyclogest,4180186
 918139122,Cyclogest,4180186
 918139240,Cyclogest,4180186
@@ -13310,6 +13310,7 @@ concept_id,concept_synonym_name,language_concept_id
 918137027,"1(2H)-isoquinolinone, 8-chloro-2-phenyl-3-((1S)-1-(9H-purin-6-ylamino)ethyl)-8-chloro-2-phenyl-3-((1S)-1-(7H-purin-6-ylamino)ethyl)isoquinolin-1(2H)-one",4180186
 918137477,"1(2H)-isoquinolinone, 8-chloro-2-phenyl-3-((1S)-1-(9H-purin-6-ylamino)ethyl)-8-chloro-2-phenyl-3-((1S)-1-(7H-purin-6-ylamino)ethyl)isoquinolin-1(2H)-one",4180186
 918137028,cyclophosphamide/prednisone/procarbazine/vincristine,4180186
+918137236,Delta-Cortef,4180186
 918137028,cyclophosphamide-Oncovin-procarbazine-prednisone regimen,4180186
 918137028,CTX/PCB/PRED/VCR,4180186
 918137028,COPP,4180186
@@ -13422,7 +13423,6 @@ concept_id,concept_synonym_name,language_concept_id
 918140638,Cortalone,4180186
 918140644,Cortalone,4180186
 918137064,Delta-Cortef,4180186
-918137236,Delta-Cortef,4180186
 918138558,Delta-Cortef,4180186
 918138559,Delta-Cortef,4180186
 918139498,Delta-Cortef,4180186
@@ -14716,6 +14716,7 @@ concept_id,concept_synonym_name,language_concept_id
 918138774,ASTX727,4180186
 918137221,Declomycin,4180186
 918137241,Declomycin,4180186
+918137245,Idoxene,4180186
 918137221,"7-chloro-4-(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,6,10,12,12a-pentahydroxy-1,11-dioxo-2-naphthacenecarboxamide monohydrochloride",4180186
 918141420,IDUR,4180186
 918137245,IdURD,4180186
@@ -14832,7 +14833,6 @@ concept_id,concept_synonym_name,language_concept_id
 918138420,Idexur,4180186
 918138629,Idexur,4180186
 918141420,Idexur,4180186
-918137245,Idoxene,4180186
 918138420,Idoxene,4180186
 918138629,Idoxene,4180186
 918141420,Idoxene,4180186
@@ -15312,6 +15312,7 @@ concept_id,concept_synonym_name,language_concept_id
 918137311,GSK 2398852,4180186
 918137311,GSK2398852,4180186
 918137311,GSK-2398852,4180186
+918139005,Lanoxin,4180186
 918137312,Dexamethasone-High-dose-Ara-C-cis-Platin,4180186
 918137313,Docosahexaenoic Acid-Paclitaxel conjugate,4180186
 918141583,Docosahexaenoic Acid-Paclitaxel conjugate,4180186
@@ -15426,7 +15427,6 @@ concept_id,concept_synonym_name,language_concept_id
 918137340,digestive starch,4180186
 918137340,DS,4180186
 918137341,Lanoxin,4180186
-918139005,Lanoxin,4180186
 918137342,DHAC,4180186
 918137342,"1,3,5-triazin-2(1H)-one, 4-amino-3, 6-dihydro-1-beta-D-ribofuranosyl monohydrochloride5,6-dihydro-5-azacytidine HCl5,6-dihydro-5-azacytidine hydrochloride",4180186
 918137343,Dihydro-lenperone,4180186
@@ -16933,6 +16933,7 @@ concept_id,concept_synonym_name,language_concept_id
 918137641,Gd-EOB-DTPA,4180186
 918138100,Gd-EOB-DTPA,4180186
 918137641,"(4S)-4-(4-ththoxylmethyl)-3,6,9-tris(carboxylatomethyl)-3,6,9-triazaundecanedoic acid, gadolinium complex, disodium salt",4180186
+918137668,monoclonal antibody LL2,4180186
 918138100,"(4S)-4-(4-ththoxylmethyl)-3,6,9-tris(carboxylatomethyl)-3,6,9-triazaundecanedoic acid, gadolinium complex, disodium salt",4180186
 918137642,PGE2 receptor antagonist ONO-4578,4180186
 918137642,prostaglandin E2 receptor antagonist ONO-4578,4180186
@@ -17044,7 +17045,6 @@ concept_id,concept_synonym_name,language_concept_id
 918139284,Humanized Anti-CD22 Monoclonal Antibody IgG1,4180186
 918137668,LL2,4180186
 918139284,LL2,4180186
-918137668,monoclonal antibody LL2,4180186
 918139284,monoclonal antibody LL2,4180186
 918137668,LymphoCide,4180186
 918139284,LymphoCide,4180186
@@ -17158,6 +17158,7 @@ concept_id,concept_synonym_name,language_concept_id
 918141561,"N-(3-ethynylphenyl)-6,7-bis(2-methoxyethoxy)-4-quinazolinamine monohydrochloride",4180186
 918137693,Invanz,4180186
 918138798,Invanz,4180186
+918140263,velcalcetide,4180186
 918137694,anti-CD3 x anti-HER-2-neu bispecific monoclonal antibody,4180186
 918137694,CD3-HER2neu MOAB,4180186
 918137698,GRASPA,4180186
@@ -17282,7 +17283,6 @@ concept_id,concept_synonym_name,language_concept_id
 918137722,SR-2508,4180186
 918137722,"1H-imidazole-1-acetamide, N-(2-hydroxyethyl)-2-nitro-2-nitroimidazole-1-acetamide, N-(2-hydroxyethyl)-",4180186
 918137724,velcalcetide,4180186
-918140263,velcalcetide,4180186
 918137724,Parsabiv,4180186
 918140263,Parsabiv,4180186
 918137724,AMG 416,4180186
@@ -18744,6 +18744,7 @@ concept_id,concept_synonym_name,language_concept_id
 918138106,OTX008,4180186
 918138107,SARM/LI TOK-001,4180186
 918138107,TOK-001,4180186
+918138142,gallium Ga 68 P15-041,4180186
 918138108,WT-1 analog peptide vaccine SLS-001,4180186
 918138108,SLS 001,4180186
 918138108,SLS001,4180186
@@ -18853,7 +18854,6 @@ concept_id,concept_synonym_name,language_concept_id
 918138141,68Ga-Sgc8,4180186
 918138142,[68Ga]P15-041,4180186
 918138142,gallium 68 P15 041,4180186
-918138142,gallium Ga 68 P15-041,4180186
 918138143,[68Ga] HBED-CC-PHENOXY-PSMA,4180186
 918138143,[68Ga]P16-093,4180186
 918138143,Ga-68 P16-093,4180186
@@ -19413,6 +19413,7 @@ concept_id,concept_synonym_name,language_concept_id
 918138326,"N-[[2,4-(2-ethyl-4,6-dimethyl-1H-imidazo[4,5-c]pyridin-1-yl)phenylethylamino]carbonyl]-4-methyl-benzenesulfonamide",4180186
 918138327,green propolis in oil supplement,4180186
 918138327,propolis supplement,4180186
+918138406,HER-2 ICD Peptide,4180186
 918138327,Taiwan green propolis supplement,4180186
 918138329,green tea polyphenols,4180186
 918138330,green tea polyphenols/epigallocatechin gallate antioxidant solution,4180186
@@ -19531,6 +19532,7 @@ concept_id,concept_synonym_name,language_concept_id
 918138368,(S)-N-hydroxy-4-(3-methyl-2-phenylbutanamido)benzamide,4180186
 918138369,HDI CG200745,4180186
 918138369,CG200745,4180186
+918138406,HER-2/neu ICD Protein,4180186
 918138369,(E)-N(1)-(3-(dimethylamino)propyl)-N(8)-hydroxy-2-((naphthalene-1-loxy)methyl)oct-2-enediamide,4180186
 918138370,histone deacetylase inhibitor CHR-2845,4180186
 918138370,CHR-2845,4180186
@@ -19639,8 +19641,6 @@ concept_id,concept_synonym_name,language_concept_id
 918138405,tri-specific NK cell engager DF1001,4180186
 918138405,DF 1001,4180186
 918138405,DF-1001,4180186
-918138406,HER-2 ICD Peptide,4180186
-918138406,HER-2/neu ICD Protein,4180186
 918138407,HER-2,4180186
 918140253,aminosidine sulfate,4180186
 918138408,anti-CD3 x anti-Her2/neu bispecific antibody-armed activated T cells,4180186
@@ -19751,6 +19751,7 @@ concept_id,concept_synonym_name,language_concept_id
 918140005,trastuzumab biosimilar ABP 980,4180186
 918140064,trastuzumab biosimilar ABP 980,4180186
 918141908,trastuzumab biosimilar ABP 980,4180186
+918141918,ABP 980,4180186
 918141918,trastuzumab biosimilar ABP 980,4180186
 918138417,trastuzumab biosimilar ALT02,4180186
 918138421,trastuzumab biosimilar ALT02,4180186
@@ -19870,7 +19871,6 @@ concept_id,concept_synonym_name,language_concept_id
 918140005,ABP 980,4180186
 918140064,ABP 980,4180186
 918141908,ABP 980,4180186
-918141918,ABP 980,4180186
 918138417,PF-05280014,4180186
 918138421,PF-05280014,4180186
 918138937,PF-05280014,4180186
@@ -20095,6 +20095,7 @@ concept_id,concept_synonym_name,language_concept_id
 918138516,HPV 16 E7/HSP65 Vaccine,4180186
 918138516,HPV E7 Peptide Epitope Vaccine,4180186
 918138516,SGN-00101,4180186
+918138638,PL225B,4180186
 918138517,HSV-TK-engineered donor lymphocytes,4180186
 918138519,Procure,4180186
 918138520,GX 301,4180186
@@ -20431,7 +20432,6 @@ concept_id,concept_synonym_name,language_concept_id
 918138636,isopropanol,4180186
 918138636,2-propanol,4180186
 918138637,IGF-1R/AS ODN-treated autologous glioma cells,4180186
-918138638,PL225B,4180186
 918138640,765IGF-MTX,4180186
 918138641,IgM-enriched immunoglobulin,4180186
 918138641,immunoglobulin GMA,4180186
@@ -20752,6 +20752,7 @@ concept_id,concept_synonym_name,language_concept_id
 918138783,methionyl interferon consensus,4180186
 918138752,methionyl-interferon-consensus,4180186
 918138783,methionyl-interferon-consensus,4180186
+918138799,Invirase,4180186
 918138752,recombinant consensus interferon,4180186
 918138783,recombinant consensus interferon,4180186
 918138752,recombinant methionyl human consensus interferon,4180186
@@ -20877,7 +20878,6 @@ concept_id,concept_synonym_name,language_concept_id
 918140898,Viraferon,4180186
 918138796,Sch 30500,4180186
 918140898,Sch 30500,4180186
-918138799,Invirase,4180186
 918141157,Invirase,4180186
 918138802,Xenetix,4180186
 918138846,I 131 TM-601,4180186
@@ -21436,6 +21436,8 @@ concept_id,concept_synonym_name,language_concept_id
 918141022,LEE011,4180186
 918138959,LEE-011,4180186
 918141022,LEE-011,4180186
+918142216,Visco-ease,4180186
+918139001,LMS-611,4180186
 918138959,"7-cyclopentyl-N,N-dimethyl-2-((5-(piperazin-1-yl)pyridin-2-yl)amino)-7H-pyrrolo[2,3-d]pyrimidine-6-carboxamide",4180186
 918141022,"7-cyclopentyl-N,N-dimethyl-2-((5-(piperazin-1-yl)pyridin-2-yl)amino)-7H-pyrrolo[2,3-d]pyrimidine-6-carboxamide",4180186
 918138960,keyhole-limpet hemocyanin fluorescein isothiocyanate conjugate,4180186
@@ -21541,8 +21543,6 @@ concept_id,concept_synonym_name,language_concept_id
 918139001,RIX-LMS-611x-20,4180186
 918142216,RIX-LMS-611x-20,4180186
 918139001,Visco-ease,4180186
-918142216,Visco-ease,4180186
-918139001,LMS-611,4180186
 918142216,LMS-611,4180186
 918139001,OXB/1-20,4180186
 918142216,OXB/1-20,4180186
@@ -21984,6 +21984,7 @@ concept_id,concept_synonym_name,language_concept_id
 918142183,Victoza,4180186
 918139158,NN2211,4180186
 918142183,NN2211,4180186
+918139251,PM01183,4180186
 918139158,N26-(hexadecanoyl-gamma-glutamyle)-(34-arginine)glucagon-like-peptide-1-(7-37)-peptide,4180186
 918142183,N26-(hexadecanoyl-gamma-glutamyle)-(34-arginine)glucagon-like-peptide-1-(7-37)-peptide,4180186
 918139159,anti-KIR monoclonal antibody IPH2102,4180186
@@ -22090,6 +22091,9 @@ concept_id,concept_synonym_name,language_concept_id
 918141159,"4-[2-[4-(3,10-Dibromo-8-chloro-6,11-dihydro-5H-benzo[5,6]cyclohepta[1,2-b]pyridin-11-yl)-1-piperidinyl]-2-oxoethyl]-1-piperidinecarboxamide",4180186
 918139202,progesterone receptor antagonist ZK 230211,4180186
 918139202,ZK 230211,4180186
+918142401,PM01183,4180186
+918139252,GG 211,4180186
+918139252,GI-147211,4180186
 918139202,"11β-(4-acetylphenyl)-20,20,21,21,21-pentafluro-17-hydroxy-19-nor-17α-pregna-4,9- dien-3-one19-norpregna-4,9-dien-3-one, 11-(4-acetylphenyl)-20,20,21,21,21-pentafluro-17- hydroxy-, (11β,17α)-",4180186
 918139203,antibody-drug conjugate ADCT-402,4180186
 918139203,anti-CD19 PBD-conjugate ADCT-402,4180186
@@ -22199,10 +22203,6 @@ concept_id,concept_synonym_name,language_concept_id
 918142401,DNA minor groove-binding agent PM01183,4180186
 918139251,Zepzelca,4180186
 918142401,Zepzelca,4180186
-918139251,PM01183,4180186
-918142401,PM01183,4180186
-918139252,GG 211,4180186
-918139252,GI-147211,4180186
 918139252,GI147211C,4180186
 918139253,luspatercept,4180186
 918140848,luspatercept,4180186
@@ -22770,6 +22770,7 @@ concept_id,concept_synonym_name,language_concept_id
 918139434,EP-100,4180186
 918139436,E0167,4180186
 918139437,menin-KMT2A inhibitor KO 539,4180186
+918140754,Purixan,4180186
 918139437,menin-mixed lineage leukemia protein-protein interaction inhibitor KO 539,4180186
 918139437,menin-MLL inhibitor KO-539,4180186
 918139437,KO 539,4180186
@@ -22890,7 +22891,6 @@ concept_id,concept_synonym_name,language_concept_id
 918139445,6-MP oral suspension,4180186
 918140754,6-MP oral suspension,4180186
 918139445,Purixan,4180186
-918140754,Purixan,4180186
 918139445,Xaluprine,4180186
 918140754,Xaluprine,4180186
 918139446,mercaptopurine anhydrous,4180186
@@ -23598,6 +23598,7 @@ concept_id,concept_synonym_name,language_concept_id
 918139650,RG 7828,4180186
 918139650,RG7828,4180186
 918139651,AMG 706,4180186
+918139792,BA-003,4180186
 918139651,"3-pyridinecarboxamide, N-(2,3-dihydro-3,3-dimethyl-1H-indol-6-yl)-2-[(4- pyridinylmethyl)amino]-N-(3,3-dimethyl-2,3-dihydro-1H-indol-6-yl)-2-[(pyridin-4- ylmethyl)amino]pyridine-3-carboxamide",4180186
 918139652,gadolinium texaphyrin,4180186
 918142305,gadolinium texaphyrin,4180186
@@ -23931,7 +23932,6 @@ concept_id,concept_synonym_name,language_concept_id
 918141357,SN132D,4180186
 918139792,doxorubicin Transdrug,4180186
 918139792,Livatag,4180186
-918139792,BA-003,4180186
 918139793,NCP nanoparticles CPI-100,4180186
 918139793,CPI 100,4180186
 918139793,CPI100,4180186
@@ -24583,6 +24583,8 @@ concept_id,concept_synonym_name,language_concept_id
 918141259,TMC435,4180186
 918140020,TMC-435,4180186
 918141259,TMC-435,4180186
+918140051,ASP9801,4180186
+918140051,ASP-9801,4180186
 918140020,"N-(17-(2-(4-isopropylthiazole-2-yl)-7-methoxy-8-methylquinolin-4-yloxy)-13-methyl-2,14-dioxo-3,13-diazatricyclo(13.3.0.04,6)octadec-7-ene-4-carbonyl)(cyclopropyl)sulfonamide",4180186
 918141259,"N-(17-(2-(4-isopropylthiazole-2-yl)-7-methoxy-8-methylquinolin-4-yloxy)-13-methyl-2,14-dioxo-3,13-diazatricyclo(13.3.0.04,6)octadec-7-ene-4-carbonyl)(cyclopropyl)sulfonamide",4180186
 918140021,homoharringtonine,4180186
@@ -24697,8 +24699,6 @@ concept_id,concept_synonym_name,language_concept_id
 918140050,TG6002,4180186
 918140050,TG-6002,4180186
 918140051,ASP 9801,4180186
-918140051,ASP9801,4180186
-918140051,ASP-9801,4180186
 918140052,genetically-modified HSV-1 oncolytic immunotherapeutic RP1,4180186
 918140052,HSV-1 engineered RP1,4180186
 918140052,HSV-1 oncolytic viral strain RP1,4180186
@@ -25720,6 +25720,7 @@ concept_id,concept_synonym_name,language_concept_id
 918140493,ro 03-8799,4180186
 918140493,Ro 03-8799,4180186
 918140494,Pinverin,4180186
+918140646,pneumococcal 7-valent conjugate vaccine (diphtheria CRM197 protein),4180186
 918140494,"morpholinium, 4-[(2-bromo-4,5-dimethoxyphenyl)methyl]-4-[2-[2-(6,6-dimethylbicyclo[3.1.1]hept-2-yl)ethoxy]ethyl]-, bromide",4180186
 918140495,DOT1L inhibitor EPZ-5676,4180186
 918140495,EPZ-5676,4180186
@@ -25828,7 +25829,6 @@ concept_id,concept_synonym_name,language_concept_id
 918140535,PCV 13,4180186
 918140647,PCV 13,4180186
 918140536,pneumococcal 7-valent conjugate vaccine (diphtheria CRM197 protein),4180186
-918140646,pneumococcal 7-valent conjugate vaccine (diphtheria CRM197 protein),4180186
 918140536,Prevnar,4180186
 918140646,Prevnar,4180186
 918140536,PCV7,4180186
@@ -26497,6 +26497,7 @@ concept_id,concept_synonym_name,language_concept_id
 918140840,R-CHOP,4180186
 918140840,Rituxan/CHOP,4180186
 918140840,rituximab/cyclophosphamide/doxorubicin/prednisone/vincristine,4180186
+918141248,myeloid differentiation inducing protein,4180186
 918140840,rituximab-cyclophosphamide-hydroxydaunorubicin-Oncovin-prednisone regimen,4180186
 918140840,CTX/DOX/MOAB IDEC-C2B8/PRED/VCR,4180186
 918140841,rituximab-cyclophosphamide-vincristine-prednisone regimen,4180186
@@ -26611,6 +26612,7 @@ concept_id,concept_synonym_name,language_concept_id
 918140880,recombinant human BMP4,4180186
 918140880,hrBM-4,4180186
 918140880,hrBMP4,4180186
+918142395,Zemuron,4180186
 918140882,Center of Molecular Immunology (CIMA) epidermal growth factor (EGF) vaccine,4180186
 918140882,Center of Molecular Immunology epidermal growth factor vaccine,4180186
 918140882,CIMAvax EGF,4180186
@@ -26730,7 +26732,6 @@ concept_id,concept_synonym_name,language_concept_id
 918140910,interleukin-6,4180186
 918141248,interleukin-6,4180186
 918140910,myeloid differentiation inducing protein,4180186
-918141248,myeloid differentiation inducing protein,4180186
 918140910,plasmacytoma growth factor,4180186
 918141248,plasmacytoma growth factor,4180186
 918140910,Sigosix,4180186
@@ -27066,6 +27067,7 @@ concept_id,concept_synonym_name,language_concept_id
 918141054,rituximab biosimilar PF-05280586,4180186
 918141115,rituximab biosimilar PF-05280586,4180186
 918141984,rituximab biosimilar PF-05280586,4180186
+918141074,ORG 9426,4180186
 918141052,rituximab biosimilar Reditux,4180186
 918141054,rituximab biosimilar Reditux,4180186
 918141115,rituximab biosimilar Reditux,4180186
@@ -27180,8 +27182,6 @@ concept_id,concept_synonym_name,language_concept_id
 918141073,SLx-2119,4180186
 918141073,2-[3-[4-(1H-indazol-5-ylamino)-2-quinazolinyl]phenoxy]-N-(1-methylethyl)-acetamide,4180186
 918141074,Zemuron,4180186
-918142395,Zemuron,4180186
-918141074,ORG 9426,4180186
 918142395,ORG 9426,4180186
 918141074,"pyrrolidinium, 1-((2beta,3alpha,5alpha,16beta,17beta)-17-(acetyloxy)-3-hydroxy-2-(4-morpholinyl)androstan-16-yl)-1-(2-propenyl)-, bromide",4180186
 918142395,"pyrrolidinium, 1-((2beta,3alpha,5alpha,16beta,17beta)-17-(acetyloxy)-3-hydroxy-2-(4-morpholinyl)androstan-16-yl)-1-(2-propenyl)-, bromide",4180186
@@ -29095,6 +29095,7 @@ concept_id,concept_synonym_name,language_concept_id
 918141996,CS055,4180186
 918141996,HBI-8000,4180186
 918141996,N-(2-amino-5-fluorine benzyl)-4-[N-(pyridine-3-acrylyl) ammonia methyl] benzamideN-(2-amino-5-fluorophenyl)-4-[[[1-oxo-3-(3-pyridinyl)-2-propen-1-yl]amino]methyl]-benzamide,4180186
+918142072,VACTYROS,4180186
 918141997,huKS-IL2 fusion protein,4180186
 918141997,KSA-Interleukin-2 Fusion Protein,4180186
 918141997,EMD 273066,4180186
@@ -29215,7 +29216,6 @@ concept_id,concept_synonym_name,language_concept_id
 918142070,vDLN cells,4180186
 918142071,JX-929,4180186
 918142072,rV-TYR Vaccine,4180186
-918142072,VACTYROS,4180186
 918142073,V. myrtillus/M. cordata/E. angustfolia granules,4180186
 918142073,Samital granules,4180186
 918142074,TGFBR1 inhibitor TEW-7197,4180186
@@ -29326,6 +29326,7 @@ concept_id,concept_synonym_name,language_concept_id
 918142149,CG53135-05,4180186
 918142151,INXN-1001,4180186
 918142151,RG-115932,4180186
+918142338,yttrium Y 90 SMT 487,4180186
 918142151,"benzoic acid, 2-ethyl-3-methoxy-, 2-(3,5-dimethylbenzoyl)-2-((1R)-1-(1,1-dimethylethyl)butyl)hydrazide",4180186
 918142152,ABT-888,4180186
 918142153,GS 5816,4180186
@@ -29560,7 +29561,6 @@ concept_id,concept_synonym_name,language_concept_id
 918142373,Y90-DOTA-tyr3-octreotide,4180186
 918142338,yttrium Y 90 -DOTATOC,4180186
 918142373,yttrium Y 90 -DOTATOC,4180186
-918142338,yttrium Y 90 SMT 487,4180186
 918142373,yttrium Y 90 SMT 487,4180186
 918142338,Y-90 OctreoTher,4180186
 918142373,Y-90 OctreoTher,4180186
@@ -29781,6 +29781,7 @@ concept_id,concept_synonym_name,language_concept_id
 918142471,eFT-226,4180186
 918142471,"4-((5aR,6S,7S,8R,8aS)-7-((dimethylamino)methyl)-8,8a-dihydroxy-1,3-dimethoxy-6-phenyl-6,7,8,8a-tetrahydro-5aH-cyclopenta(4,5)furo(3,2-C)pyridin-5a-yl)benzonitrile",4180186
 918134730,(61)Cu-ATSM,4180186
+918134989,alcohol,4180186
 918134731,[18F]-labeled substance P antagonist receptor quantifier,4180186
 918134732,[18F]L-FAC,4180186
 918134733,[18F]L-FMAC,4180186
@@ -29986,7 +29987,6 @@ concept_id,concept_synonym_name,language_concept_id
 918134985,albendazole,4180186
 918134987,albumin-binding cisplatin prodrug BTP-114,4180186
 918134988,albuterol sulfate,4180186
-918134989,alcohol,4180186
 918134992,aldesleukin,4180186
 918134993,aldoxorubicin,4180186
 918134995,alectinib,4180186
@@ -30169,6 +30169,7 @@ concept_id,concept_synonym_name,language_concept_id
 918135215,androgen receptor antagonist SHR3680,4180186
 918135216,androgen receptor antagonist TAS3681,4180186
 918135217,androgen receptor antagonist TRC253,4180186
+918135749,anti-ROR1 ADC VLS-101,4180186
 918135218,androgen receptor antisense oligonucleotide AZD5312,4180186
 918135219,androgen receptor antisense oligonucleotide EZN-4176,4180186
 918135220,androgen receptor degrader ARV-110,4180186
@@ -30344,6 +30345,7 @@ concept_id,concept_synonym_name,language_concept_id
 918135397,anti-CD40 agonist monoclonal antibody CDX-1140,4180186
 918135398,anti-CD40 monoclonal antibody Chi Lob 7/4,4180186
 918135399,anti-CD40 monoclonal antibody SEA-CD40,4180186
+918135883,astaxanthin,4180186
 918135400,anti-CD40/anti-4-1BB bispecific agonist monoclonal antibody GEN1042,4180186
 918135401,anti-CD40L Fc-fusion protein BMS-986004,4180186
 918135402,anti-CD44 monoclonal antibody RO5429083,4180186
@@ -30693,7 +30695,6 @@ concept_id,concept_synonym_name,language_concept_id
 918135746,anti-PSMA/PBD ADC MEDI3726,4180186
 918135747,anti-PVRIG monoclonal antibody COM701,4180186
 918135748,anti-RANKL monoclonal antibody GB-223,4180186
-918135749,anti-ROR1 ADC VLS-101,4180186
 918135750,anti-RSPO3 monoclonal antibody OMP-131R10,4180186
 918135751,anti-RSV nanobody ALX-0171,4180186
 918135752,anti-S15 monoclonal antibody NC318,4180186
@@ -30791,7 +30792,6 @@ concept_id,concept_synonym_name,language_concept_id
 918135878,asparaginase,4180186
 918135879,asparaginase Erwinia chrysanthemi,4180186
 918135882,astatine At 211 anti-CD38 monoclonal antibody OKT10-B10,4180186
-918135883,astaxanthin,4180186
 918135884,Astragalus membranaceus/Angelica gigas/Trichosanthes kirilowii Maximowicz mixed herbal extract SH003,4180186
 918135885,Astragalus-based formulation Qing Shu Yi Qi Tang,4180186
 918135887,astuprotimut-R,4180186
@@ -31213,6 +31213,7 @@ concept_id,concept_synonym_name,language_concept_id
 918136371,bimatoprost ophthalmic solution,4180186
 918136372,binimetinib,4180186
 918136374,bintrafusp alfa,4180186
+918136879,chlorzoxazone,4180186
 918136376,bio-enhanced curcumin extract formulation,4180186
 918136377,Biomed 101,4180186
 918136382,biricodar dicitrate,4180186
@@ -31322,6 +31323,7 @@ concept_id,concept_synonym_name,language_concept_id
 918136502,buformin hydrochloride,4180186
 918136504,buparlisib,4180186
 918136506,bupivacaine hydrochloride,4180186
+918136880,cholecalciferol,4180186
 918136507,bupivacaine hydrochloride liposome injectable suspension,4180186
 918136508,buprenorphine transdermal matrix patch,4180186
 918136509,bupropion hydrochloride,4180186
@@ -31634,8 +31636,6 @@ concept_id,concept_synonym_name,language_concept_id
 918136876,chlorozotocin,4180186
 918136877,chlorpromazine,4180186
 918136878,chlorpropamide,4180186
-918136879,chlorzoxazone,4180186
-918136880,cholecalciferol,4180186
 918136881,cholecalciferol/d-alpha tocopherol/L-selenomethionine/green tea extract/saw palmetto berry extract/daidzein/genistein/lycopene prostate health supplement,4180186
 918136882,cholecalciferol/whey protein isolate/EPA/DHA-based nutritional supplement,4180186
 918136885,cholic acid-24-13C,4180186
@@ -32488,6 +32488,7 @@ concept_id,concept_synonym_name,language_concept_id
 918138009,fluvoxamine maleate,4180186
 918138011,fluzoparib,4180186
 918138012,FMS inhibitor JNJ-40346527,4180186
+918139443,mepolizumab,4180186
 918138013,Fms/Trk tyrosine kinase inhibitor PLX7486,4180186
 918138014,folate binding protein E39 peptide vaccine,4180186
 918138015,folate binding protein J65 peptide vaccine,4180186
@@ -33303,6 +33304,7 @@ concept_id,concept_synonym_name,language_concept_id
 918139034,lenapenem,4180186
 918139035,lenograstim,4180186
 918139036,Lenti-D/ABCD1-transduced autologous hematopoietic stem cells,4180186
+918139444,mercaptopurine,4180186
 918139038,lentivirus vector CCR5 shRNA/TRIM5alpha/TAR decoy-transduced autologous CD34-positive hematopoietic progenitor cells,4180186
 918139039,lentivirus vector rHIV7-shI-TAR-CCR5RZ-transduced hematopoietic progenitor cells,4180186
 918139040,lenvatinib mesylate,4180186
@@ -33408,6 +33410,7 @@ concept_id,concept_synonym_name,language_concept_id
 918139171,live freeze-dried lactic acid bacteria probiotic,4180186
 918139172,live-attenuated double-deleted Listeria monocytogenes bacteria JNJ-64041809,4180186
 918139173,live-attenuated Listeria monocytogenes cancer vaccine ADXS11-001,4180186
+918140291,PDK1 inhibitor AR-12,4180186
 918139174,live-attenuated Listeria monocytogenes encoding EGFRvIII-mesothelin vaccine JNJ-64041757,4180186
 918139175,live-attenuated Listeria monocytogenes encoding EGFRvIII-NY-ESO-1 vaccine ADU-623,4180186
 918139176,live-attenuated listeria-encoding human mesothelin vaccine CRS-207,4180186
@@ -33510,6 +33513,7 @@ concept_id,concept_synonym_name,language_concept_id
 918139310,MAGE-A3 reactive T cell receptor-transduced autologous T cells,4180186
 918139311,MAGE-A3/HPV 16 peptide vaccine,4180186
 918139312,MAGE-A3-expressing adenovirus type5 vaccine,4180186
+918140834,ravulizumab-cwvz,4180186
 918139313,MAGE-A4-specific TCR gene-transduced T lymphocytes TBI-1201,4180186
 918139314,magnesium citrate,4180186
 918139316,magnesium hydroxide,4180186
@@ -33617,8 +33621,6 @@ concept_id,concept_synonym_name,language_concept_id
 918139439,menogaril,4180186
 918139441,meperidine hydrochloride,4180186
 918139442,mepivacaine hydrochloride,4180186
-918139443,mepolizumab,4180186
-918139444,mercaptopurine,4180186
 918139445,mercaptopurine oral suspension,4180186
 918139446,mercaptopurine tablet,4180186
 918139447,merestinib,4180186
@@ -34247,7 +34249,6 @@ concept_id,concept_synonym_name,language_concept_id
 918140288,PD-1 knockout autologous T lymphocytes,4180186
 918140289,PD-1 knockout EBV-specific cytotoxic T lymphocytes,4180186
 918140290,PD-1-directed probody CX-188,4180186
-918140291,PDK1 inhibitor AR-12,4180186
 918140292,PD-L1 inhibitor INCB086550,4180186
 918140293,PD-L1 peptide vaccine,4180186
 918140294,PD-L1/IDO peptide vaccine,4180186
@@ -34349,6 +34350,7 @@ concept_id,concept_synonym_name,language_concept_id
 918140417,phenethyl isothiocyanate-containing watercress juice,4180186
 918140418,phenformin hydrochloride,4180186
 918140419,phenobarbital,4180186
+918140839,razoxane,4180186
 918140420,phenoxybenzamine hydrochloride,4180186
 918140421,phenprocoumon,4180186
 918140422,phentolamine mesylate,4180186
@@ -34560,6 +34562,7 @@ concept_id,concept_synonym_name,language_concept_id
 918140681,proflavine hemisulfate,4180186
 918140682,progenipoietin,4180186
 918140684,progesterone vaginal insert,4180186
+918140840,R-CHOP regimen,4180186
 918140688,prohibitin-targeting peptide 1,4180186
 918140697,promestriene,4180186
 918140698,promethazine hydrochloride,4180186
@@ -34665,9 +34668,6 @@ concept_id,concept_synonym_name,language_concept_id
 918140831,ras peptide cancer vaccine,4180186
 918140832,rasburicase,4180186
 918140833,ravuconazole,4180186
-918140834,ravulizumab-cwvz,4180186
-918140839,razoxane,4180186
-918140840,R-CHOP regimen,4180186
 918140841,R-CVP regimen,4180186
 918140842,Re-186 hydroxyethylidene diphosphonate,4180186
 918140843,realgar-Indigo naturalis formulation,4180186
