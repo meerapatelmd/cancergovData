@@ -54,7 +54,7 @@
 
 #' @title DRUG_DICTIONARY
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 7763 rows and 3 variables:
+#' @format A data frame with 7768 rows and 3 variables:
 #' \describe{
 #'   \item{\code{dd_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{drug}}{character COLUMN_DESCRIPTION}
