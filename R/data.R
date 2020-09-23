@@ -86,7 +86,7 @@
 
 #' @title DRUG_LINK_SYNONYM
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 27181 rows and 4 variables:
+#' @format A data frame with 27192 rows and 4 variables:
 #' \describe{
 #'   \item{\code{dls_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{drug_link}}{character COLUMN_DESCRIPTION}
