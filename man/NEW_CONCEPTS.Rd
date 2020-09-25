@@ -8,7 +8,7 @@
 A data frame with 50 rows and 3 variables:
 \describe{
 \item{\code{component}}{character COLUMN_DESCRIPTION}
-\item{\code{concept_id}}{character COLUMN_DESCRIPTION}
+\item{\code{concept_id}}{integer COLUMN_DESCRIPTION}
 \item{\code{new_concept_name}}{character COLUMN_DESCRIPTION}
 }
 }
