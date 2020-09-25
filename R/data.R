@@ -65,10 +65,10 @@
 
 #' @title DRUG_DICTIONARY_LOG
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 4 rows and 2 variables:
+#' @format A data frame with 3 rows and 2 variables:
 #' \describe{
 #'   \item{\code{ddl_datetime}}{double COLUMN_DESCRIPTION}
-#'   \item{\code{drug_count}}{double COLUMN_DESCRIPTION} 
+#'   \item{\code{drug_count}}{character COLUMN_DESCRIPTION} 
 #'}
 #' @details DETAILS
 "DRUG_DICTIONARY_LOG"
@@ -84,9 +84,20 @@
 #' @details DETAILS
 "DRUG_LINK"
 
+#' @title DRUG_LINK_NCIT
+#' @description DATASET_DESCRIPTION
+#' @format A data frame with 8 rows and 3 variables:
+#' \describe{
+#'   \item{\code{dln_datetime}}{double COLUMN_DESCRIPTION}
+#'   \item{\code{drug_link}}{character COLUMN_DESCRIPTION}
+#'   \item{\code{ncit_code}}{character COLUMN_DESCRIPTION} 
+#'}
+#' @details DETAILS
+"DRUG_LINK_NCIT"
+
 #' @title DRUG_LINK_SYNONYM
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 27192 rows and 4 variables:
+#' @format A data frame with 18938 rows and 4 variables:
 #' \describe{
 #'   \item{\code{dls_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{drug_link}}{character COLUMN_DESCRIPTION}
@@ -95,3 +106,25 @@
 #'}
 #' @details DETAILS
 "DRUG_LINK_SYNONYM"
+
+#' @title DRUG_LINK_URL
+#' @description DATASET_DESCRIPTION
+#' @format A data frame with 16 rows and 3 variables:
+#' \describe{
+#'   \item{\code{dlu_datetime}}{double COLUMN_DESCRIPTION}
+#'   \item{\code{drug_link}}{character COLUMN_DESCRIPTION}
+#'   \item{\code{drug_link_url}}{character COLUMN_DESCRIPTION} 
+#'}
+#' @details DETAILS
+"DRUG_LINK_URL"
+
+#' @title NEW_CONCEPTS
+#' @description DATASET_DESCRIPTION
+#' @format A data frame with 50 rows and 3 variables:
+#' \describe{
+#'   \item{\code{component}}{character COLUMN_DESCRIPTION}
+#'   \item{\code{concept_id}}{character COLUMN_DESCRIPTION}
+#'   \item{\code{new_concept_name}}{character COLUMN_DESCRIPTION} 
+#'}
+#' @details DETAILS
+"NEW_CONCEPTS"
