@@ -65,7 +65,7 @@
 
 #' @title DRUG_DICTIONARY_LOG
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 4 rows and 2 variables:
+#' @format A data frame with 5 rows and 2 variables:
 #' \describe{
 #'   \item{\code{ddl_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{drug_count}}{double COLUMN_DESCRIPTION} 
@@ -75,7 +75,7 @@
 
 #' @title DRUG_LINK
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 7777 rows and 3 variables:
+#' @format A data frame with 7780 rows and 3 variables:
 #' \describe{
 #'   \item{\code{dl_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{drug}}{character COLUMN_DESCRIPTION}
