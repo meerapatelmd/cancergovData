@@ -5,7 +5,7 @@
 \alias{DRUG_DICTIONARY_LOG}
 \title{DRUG_DICTIONARY_LOG}
 \format{
-A data frame with 5 rows and 2 variables:
+A data frame with 6 rows and 2 variables:
 \describe{
 \item{\code{ddl_datetime}}{double COLUMN_DESCRIPTION}
 \item{\code{drug_count}}{double COLUMN_DESCRIPTION}
