@@ -4,6 +4,7 @@ DRUG_DICTIONARY_LOG <- readr::read_csv('/Users/meerapatel/GitHub/cancergovData/d
 DRUG_LINK <- readr::read_csv('/Users/meerapatel/GitHub/cancergovData/data-raw/DRUG_LINK.csv')
 DRUG_LINK_SYNONYM <- readr::read_csv('/Users/meerapatel/GitHub/cancergovData/data-raw/DRUG_LINK_SYNONYM.csv')
 DRUG_LINK_URL <- readr::read_csv('/Users/meerapatel/GitHub/cancergovData/data-raw/DRUG_LINK_URL.csv')
+DRUG_LINK_NCIT <- readr::read_csv('/Users/meerapatel/GitHub/cancergovData/data-raw/DRUG_LINK_NCIT.csv')
 
 usethis::use_data(
 	CONCEPT,

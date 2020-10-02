@@ -54,3 +54,14 @@
 #'}
 #' @details DETAILS
 "DRUG_LINK_URL"
+
+#' @title DRUG_LINK_NCIT
+#' @description DATASET_DESCRIPTION
+#' @format A data frame with 8 rows and 3 variables:
+#' \describe{
+#'   \item{\code{dln_datetime}}{double COLUMN_DESCRIPTION}
+#'   \item{\code{drug_link}}{character COLUMN_DESCRIPTION}
+#'   \item{\code{ncit_code}}{character COLUMN_DESCRIPTION} 
+#'}
+#' @details DETAILS
+"DRUG_LINK_NCIT"
