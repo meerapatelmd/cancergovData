@@ -782,3 +782,15 @@ Timestamp	Activity Type	Function	File	Details
 2020-10-02T03:37:38Z	write	simply_write_csv	/Users/meerapatel/GitHub/cancergovData//data-raw/DRUG_LINK_SYNONYM.csv	
 2020-10-02T03:37:39Z	write	simply_write_csv	/Users/meerapatel/GitHub/cancergovData//data-raw/DRUG_LINK_URL.csv	
 2020-10-02T03:37:39Z	write	simply_write_csv	/Users/meerapatel/GitHub/cancergovData//data-raw/NEW_CONCEPTS.csv	
+2020-10-02T04:15:10Z	write	simply_write_csv	/Users/meerapatel/GitHub/cancergovData/data-raw/DRUG_DICTIONARY.csv	
+2020-10-02T04:15:10Z	write	simply_write_csv	/Users/meerapatel/GitHub/cancergovData/data-raw/DRUG_DICTIONARY_LOG.csv	
+2020-10-02T04:15:10Z	write	simply_write_csv	/Users/meerapatel/GitHub/cancergovData/data-raw/DRUG_LINK.csv	
+2020-10-02T04:15:10Z	write	simply_write_csv	/Users/meerapatel/GitHub/cancergovData/data-raw/DRUG_LINK_SYNONYM.csv	
+2020-10-02T04:15:10Z	write	simply_write_csv	/Users/meerapatel/GitHub/cancergovData/data-raw/DRUG_LINK_URL.csv	
+2020-10-02T04:15:10Z	write	simply_write_csv	/Users/meerapatel/GitHub/cancergovData/data-raw/DRUG_LINK_NCIT.csv	
+2020-10-02T04:17:47Z	write	simply_write_csv	/Users/meerapatel/GitHub/cancergovData/data-raw/DRUG_DICTIONARY.csv	
+2020-10-02T04:17:47Z	write	simply_write_csv	/Users/meerapatel/GitHub/cancergovData/data-raw/DRUG_DICTIONARY_LOG.csv	
+2020-10-02T04:17:47Z	write	simply_write_csv	/Users/meerapatel/GitHub/cancergovData/data-raw/DRUG_LINK.csv	
+2020-10-02T04:17:47Z	write	simply_write_csv	/Users/meerapatel/GitHub/cancergovData/data-raw/DRUG_LINK_SYNONYM.csv	
+2020-10-02T04:17:47Z	write	simply_write_csv	/Users/meerapatel/GitHub/cancergovData/data-raw/DRUG_LINK_URL.csv	
+2020-10-02T04:17:47Z	write	simply_write_csv	/Users/meerapatel/GitHub/cancergovData/data-raw/DRUG_LINK_NCIT.csv	
