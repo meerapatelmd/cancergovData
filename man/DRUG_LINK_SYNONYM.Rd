@@ -5,12 +5,10 @@
 \alias{DRUG_LINK_SYNONYM}
 \title{DRUG_LINK_SYNONYM}
 \format{
-A data frame with 37439 rows and 6 variables:
+A data frame with 18944 rows and 4 variables:
 \describe{
 \item{\code{dls_datetime}}{double COLUMN_DESCRIPTION}
 \item{\code{drug_link}}{character COLUMN_DESCRIPTION}
-\item{\code{x1}}{character COLUMN_DESCRIPTION}
-\item{\code{x2}}{character COLUMN_DESCRIPTION}
 \item{\code{drug_synonym_type}}{character COLUMN_DESCRIPTION}
 \item{\code{drug_synonym}}{character COLUMN_DESCRIPTION}
 }

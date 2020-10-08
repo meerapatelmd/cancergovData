@@ -2679,6 +2679,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,DNA-PK/PI3K delta inhibitor BR101801,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801432
 2020-09-18T00:24:24Z,DNA-PK/TOR kinase inhibitor CC-115,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dna-pk-tor-kinase-inhibitor-cc-115
 2020-09-18T00:24:24Z,DNAi® drug PNT2258,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dna-interference-oligonucleotide-pnt2258
+2020-10-06T19:28:05Z,DNAJB1/PRKACA fusion protein,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/803026
 2020-09-18T00:24:24Z,DNMT1 inhibitor NTX-301,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802300
 2020-09-18T00:24:24Z,DNP-modified autologous renal cell carcinoma tumor cell vaccine,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dnp-modified-autologous-renal-cell-carcinoma-tumor-cell-vaccine
 2020-09-18T00:24:24Z,DNR-expressing nasopharyngeal carcinoma-specific cytotoxic T lymphocytes,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dnr-expressing-nasopharyngeal-carcinoma-specific-cytotoxic-t-lymphocytes
@@ -5922,6 +5923,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,pralsetinib,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ret-mutation-fusion-inhibitor-blu-667
 2020-09-18T00:24:24Z,PRAME-targeting T-cell receptor/I\inducible caspase 9 BPX-701,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prame-targeting-t-cell-receptor-iinducible-caspase-9-bpx-701
 2020-09-18T00:24:24Z,pramipexole dihydrochloride,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pramipexole-dihydrochloride
+2020-10-06T19:28:05Z,pramlintide,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/803038
 2020-09-18T00:24:24Z,Prandin,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/repaglinide
 2020-09-18T00:24:24Z,prasterone,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prasterone
 2020-09-18T00:24:24Z,Pravachol,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pravastatin-sodium
@@ -7773,6 +7775,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,Zybrestat,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fosbretabulin-tromethamine
 2020-09-18T00:24:24Z,ZYBRESTAT,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fosbretabulin-disodium
 2020-09-18T00:24:24Z,ZYC300,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/zyc300
+2020-10-03T20:40:08Z,Zyclara,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/imiquimod
 2020-09-18T00:24:24Z,Zydelig,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idelalisib
 2020-09-18T00:24:24Z,Zyflo,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/zileuton
 2020-09-18T00:24:24Z,Zykadia,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ceritinib
