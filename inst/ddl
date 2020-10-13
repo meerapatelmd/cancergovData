@@ -1,3 +1,4 @@
+DROP TABLE IF EXISTS cancergov.cancergov_drug;
 CREATE TABLE cancergov.cancergov_drug (
     cd_datetime timestamp without time zone,
     drug_link character varying(255),
@@ -6,29 +7,34 @@ CREATE TABLE cancergov.cancergov_drug (
     cancergov_drug text
 );
 
+DROP TABLE IF EXISTS cancergov.drug_dictionary;
 CREATE TABLE cancergov.drug_dictionary (
     dd_datetime timestamp without time zone,
     drug character varying(255),
     definition text
 );
 
+DROP TABLE IF EXISTS cancergov.drug_dictionary_log;
 CREATE TABLE cancergov.drug_dictionary_log (
     ddl_datetime timestamp without time zone,
     drug_count bigint
 );
 
+DROP TABLE IF EXISTS cancergov.drug_link;
 CREATE TABLE cancergov.drug_link (
     dl_datetime timestamp without time zone,
     drug character varying(255),
     drug_link character varying(255)
 );
 
+DROP TABLE IF EXISTS cancergov.drug_link_ncit;
 CREATE TABLE cancergov.drug_link_ncit (
     dln_datetime timestamp without time zone,
     drug_link character varying(255),
     ncit_code character varying(255)
 );
 
+DROP TABLE IF EXISTS cancergov.drug_link_synonym;
 CREATE TABLE cancergov.drug_link_synonym (
     dls_datetime timestamp without time zone,
     drug_link character varying(255),
@@ -36,12 +42,14 @@ CREATE TABLE cancergov.drug_link_synonym (
     drug_synonym text
 );
 
+DROP TABLE IF EXISTS cancergov.drug_link_url;
 CREATE TABLE cancergov.drug_link_url (
     dlu_datetime timestamp without time zone,
     drug_link character varying(255),
     drug_link_url character varying(255)
 );
 
+DROP TABLE IF EXISTS cancergov.ncit_synonym;
 CREATE TABLE cancergov.ncit_synonym (
     ns_datetime timestamp without time zone,
     ncit_code character varying(255),
