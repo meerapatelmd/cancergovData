@@ -1,6 +1,6 @@
 #' @title DRUG_DICTIONARY
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 7776 rows and 3 variables:
+#' @format A data frame with 8053 rows and 3 variables:
 #' \describe{
 #'   \item{\code{dd_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{drug}}{character COLUMN_DESCRIPTION}
@@ -11,7 +11,7 @@
 
 #' @title DRUG_DICTIONARY_LOG
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 8 rows and 2 variables:
+#' @format A data frame with 9 rows and 2 variables:
 #' \describe{
 #'   \item{\code{ddl_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{drug_count}}{double COLUMN_DESCRIPTION} 
@@ -21,7 +21,7 @@
 
 #' @title DRUG_LINK
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 7785 rows and 3 variables:
+#' @format A data frame with 10044 rows and 3 variables:
 #' \describe{
 #'   \item{\code{dl_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{drug}}{character COLUMN_DESCRIPTION}
@@ -32,7 +32,7 @@
 
 #' @title DRUG_LINK_SYNONYM
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 18944 rows and 4 variables:
+#' @format A data frame with 26020 rows and 4 variables:
 #' \describe{
 #'   \item{\code{dls_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{drug_link}}{character COLUMN_DESCRIPTION}
@@ -44,7 +44,7 @@
 
 #' @title DRUG_LINK_URL
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 11842 rows and 3 variables:
+#' @format A data frame with 15769 rows and 3 variables:
 #' \describe{
 #'   \item{\code{dlu_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{drug_link}}{character COLUMN_DESCRIPTION}
@@ -55,7 +55,7 @@
 
 #' @title DRUG_LINK_NCIT
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 5842 rows and 3 variables:
+#' @format A data frame with 7782 rows and 3 variables:
 #' \describe{
 #'   \item{\code{dln_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{drug_link}}{character COLUMN_DESCRIPTION}
@@ -66,7 +66,7 @@
 
 #' @title NCIT_SYNONYM
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 34603 rows and 7 variables:
+#' @format A data frame with 49791 rows and 7 variables:
 #' \describe{
 #'   \item{\code{ns_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{ncit_code}}{character COLUMN_DESCRIPTION}
