@@ -6,3 +6,8 @@ Data scrape from the NCI Drug Dictionary using the skyscraper R Package
 devtools::install_github("meerapatelmd/cancergovData")
 ```
 
+# Load Data    
+```
+library(cancergovData)
+```
+
