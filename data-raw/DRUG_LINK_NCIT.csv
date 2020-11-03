@@ -145,6 +145,7 @@ dln_datetime,drug_link,ncit_code
 2020-10-04T06:54:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/778444,C125654
 2020-10-04T06:54:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/778524,C125658
 2020-10-04T06:54:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/780143,C129687
+2020-11-03T11:31:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/780220,C128622
 2020-10-04T06:54:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/780444,C126639
 2020-10-04T06:54:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/780967,C127121
 2020-10-14T17:11:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/782063,C128283
@@ -511,6 +512,7 @@ dln_datetime,drug_link,ncit_code
 2020-10-04T06:54:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794285,C66255
 2020-10-04T06:54:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794290,C154286
 2020-10-03T20:57:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794297,C153885
+2020-11-03T11:31:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794301,C162535
 2020-10-04T06:54:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794318,C154565
 2020-10-04T06:54:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794320,C154566
 2020-10-04T06:54:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794323,C154567
@@ -1357,11 +1359,19 @@ dln_datetime,drug_link,ncit_code
 2020-10-04T06:54:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802777,C167271
 2020-10-04T06:54:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802781,C47594
 2020-10-04T06:54:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802787,C167393
+2020-10-23T13:40:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802792,C174410
 2020-10-04T06:54:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802820,C78126
 2020-10-04T06:54:07Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802824,C167056
+2020-10-23T13:40:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802841,C169797
+2020-10-23T13:40:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802842,C87230
+2020-10-23T13:40:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802912,C80963
 2020-10-06T19:29:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/803026,C122559
+2020-10-23T13:40:12Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/803029,C175411
 2020-10-06T19:29:09Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/803038,C61901
 2020-10-20T13:45:52Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/803125,C175211
+2020-11-03T11:31:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/803210,C29501
+2020-11-03T11:31:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/803239,C152315
+2020-11-03T11:31:15Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/803259,C175251
 2020-10-03T20:57:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/851b-gel,C48637
 2020-10-03T20:57:38Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/852a,C61104
 2020-10-14T17:11:04Z,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/a-101-topical-solution,C150374

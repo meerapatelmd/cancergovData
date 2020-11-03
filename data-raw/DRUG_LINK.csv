@@ -204,6 +204,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,ADE regimen,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ade-regimen
 2020-09-18T00:24:24Z,adecatumumab,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/adecatumumab
 2020-09-18T00:24:24Z,adefovir dipivoxil,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/adefovir-dipivoxil
+2020-10-23T13:31:33Z,adenosine A2A receptor antagonist CS3005,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802908
 2020-09-18T00:24:24Z,adenosine A2A receptor antagonist NIR178,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793151
 2020-10-14T03:19:56Z,adenosine A2A receptor antagonist NIR178,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/adenosine-a2a-receptor-antagonist-nir178
 2020-09-18T00:24:24Z,adenosine A2A receptor antagonist PBF-509,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/adenosine-a2a-receptor-antagonist-pbf-509
@@ -342,6 +343,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,Aldactone,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/spironolactone
 2020-09-18T00:24:24Z,Aldara,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/imiquimod
 2020-09-18T00:24:24Z,aldesleukin,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/aldesleukin
+2020-11-03T11:27:35Z,ALDH inhibitor NYH817G and mitochondria complex 1 inhibitor NYH100P,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/803109
 2020-09-18T00:24:24Z,aldoxorubicin,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/aldoxorubicin
 2020-09-18T00:24:24Z,Alecensa,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/alectinib
 2020-09-18T00:24:24Z,alectinib,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/alectinib
@@ -665,6 +667,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,anti-5T4 antibody-drug conjugate ASN004,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801910
 2020-10-14T03:19:56Z,anti-5T4 antibody-drug conjugate ASN004,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-5t4-antibody-drug-conjugate-asn004
 2020-09-18T00:24:24Z,anti-5T4 antibody-drug conjugate PF-06263507,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-5t4-antibody-drug-conjugate-pf-06263507
+2020-10-23T13:31:33Z,anti-5T4 antibody-drug conjugate SYD1875,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802782
 2020-09-18T00:24:24Z,anti-A33 monoclonal antibody KRN330,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-a33-monoclonal-antibody-krn330
 2020-09-18T00:24:24Z,anti-A5B1 integrin monoclonal antibody PF-04605412,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-a5b1-integrin-monoclonal-antibody-pf-04605412
 2020-09-18T00:24:24Z,anti-ACTR/4-1BB/CD3zeta-viral vector-transduced autologous T lymphocytes ACTR087,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/784523
@@ -709,6 +712,7 @@ dl_datetime,drug,drug_link
 2020-10-14T03:19:56Z,anti-BCMA/PBD ADC MEDI2228,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-bcma-pbd-adc-medi2228
 2020-09-18T00:24:24Z,anti-BTLA monoclonal antibody TAB004,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800693
 2020-10-14T03:19:56Z,anti-BTLA monoclonal antibody TAB004,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-btla-monoclonal-antibody-tab004
+2020-10-23T13:31:33Z,anti-BTN3A agonistic monoclonal antibody ICT01,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802942
 2020-09-18T00:24:24Z,anti-c-fms monoclonal antibody AMG 820,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-c-fms-monoclonal-antibody-amg-820
 2020-10-14T03:19:56Z,anti-c-KIT monoclonal antibody KTN0158,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-c-kit-monoclonal-antibody-cdx-0158
 2020-09-18T00:24:24Z,anti-c-KIT monoclonal antibody KTN0158,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-c-kit-monoclonal-antibody-ktn0158
@@ -730,6 +734,7 @@ dl_datetime,drug,drug_link
 2020-10-14T03:19:56Z,anti-C5aR monoclonal antibody IPH5401,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/avdoralimab
 2020-09-18T00:24:24Z,anti-CA19-9 monoclonal antibody 5B1,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ca19-9-monoclonal-antibody-5b1
 2020-09-18T00:24:24Z,anti-CA6-DM4 immunoconjugate SAR566658,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ca6-dm4-immunoconjugate-sar566658
+2020-10-23T13:31:33Z,anti-CCR7 antibody-drug conjugate JBH492,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802920
 2020-09-18T00:24:24Z,anti-CD123 ADC IMGN632,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792150
 2020-10-14T03:19:56Z,anti-CD123 ADC IMGN632,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd123-adc-imgn632
 2020-09-18T00:24:24Z,anti-CD123 monoclonal antibody KHK2823,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd123-monoclonal-antibody-khk2823
@@ -874,6 +879,7 @@ dl_datetime,drug,drug_link
 2020-10-14T03:19:56Z,anti-CD38/CD28xCD3 trispecific T cell engager SAR442257,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd38-cd28xcd3-tri-specific-monoclonal-antibody-sar442257
 2020-09-18T00:24:24Z,anti-CD38/CD3 bispecific monoclonal antibody GBR 1342,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792483
 2020-10-14T03:19:56Z,anti-CD38/CD3 bispecific monoclonal antibody GBR 1342,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd38-cd3-bispecific-monoclonal-antibody-gbr-1342
+2020-11-03T11:27:35Z,anti-CD39 monoclonal antibody IPH5201,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/803103
 2020-09-18T00:24:24Z,anti-CD39 monoclonal antibody TTX-030,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798967
 2020-10-14T03:19:56Z,anti-CD39 monoclonal antibody TTX-030,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd39-monoclonal-antibody-ttx-030
 2020-09-18T00:24:24Z,anti-CD4 CAR T cells,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802265
@@ -907,6 +913,7 @@ dl_datetime,drug,drug_link
 2020-10-14T03:19:56Z,anti-CD47 monoclonal antibody SRF231,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/urabrelimab
 2020-09-18T00:24:24Z,anti-CD47 monoclonal antibody TJC4,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801670
 2020-10-14T03:19:56Z,anti-CD47 monoclonal antibody TJC4,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd47-monoclonal-antibody-tjc4
+2020-11-03T11:27:35Z,anti-CD47 monoclonal antibody ZL-1201,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/803163
 2020-09-18T00:24:24Z,anti-CD47/CD19 bispecific monoclonal antibody TG-1801,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799809
 2020-10-14T03:19:56Z,anti-CD47/CD19 bispecific monoclonal antibody TG-1801,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd47-cd19-bispecific-monoclonal-antibody-tg-1801
 2020-09-18T00:24:24Z,anti-CD48/MMAE antibody-drug conjugate SGN-CD48A,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794392
@@ -1184,6 +1191,7 @@ dl_datetime,drug,drug_link
 2020-10-14T03:19:56Z,anti-IL-1 alpha monoclonal antibody CA-18C3,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bermekimab
 2020-09-18T00:24:24Z,anti-IL-13 humanized monoclonal antibody TNX-650,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-il-13-humanized-monoclonal-antibody-tnx-650
 2020-09-18T00:24:24Z,anti-IL-15 monoclonal antibody AMG 714,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-il-15-monoclonal-antibody-amg-714
+2020-10-23T13:31:33Z,anti-IL-27p28 monoclonal antibody SRF388,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802792
 2020-09-18T00:24:24Z,anti-IL-4/IL-13 combination agent QBX258,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-il-4-il-13-combination-agent-qbx258
 2020-10-14T03:19:56Z,anti-IL-8 monoclonal antibody HuMax-IL8,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-il-8-monoclonal-antibody-bms-986253
 2020-09-18T00:24:24Z,anti-IL-8 monoclonal antibody HuMax-IL8,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-il-8-monoclonal-antibody-humax-il8
@@ -1226,10 +1234,12 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,anti-LAG3 monoclonal antibody TSR-033,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-lag3-monoclonal-antibody-tsr-033
 2020-10-14T03:19:56Z,anti-LAG3 monoclonal antibody TSR-033,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/encelimab
 2020-09-18T00:24:24Z,anti-LAMP1 antibody-drug conjugate SAR428926,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-lamp1-antibody-drug-conjugate-sar428926
+2020-10-23T13:31:33Z,anti-Lewis B/Lewis Y monoclonal antibody GNX102,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/803029
 2020-09-18T00:24:24Z,anti-LeY-CAR-transduced autologous T lymphocytes,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ley-car-transduced-autologous-t-lymphocytes
 2020-09-18T00:24:24Z,anti-LGR5 monoclonal antibody BNC101,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-lgr5-monoclonal-antibody-bnc101
 2020-09-18T00:24:24Z,anti-LIF monoclonal antibody MSC-1,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795377
 2020-10-14T03:19:56Z,anti-LIF monoclonal antibody MSC-1,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-lif-monoclonal-antibody-msc-1
+2020-10-23T13:31:33Z,anti-LILRB4 monoclonal antibody IO-202,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802926
 2020-09-18T00:24:24Z,anti-LOXL2 monoclonal antibody GS-6634,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-loxl2-monoclonal-antibody-gs-6634
 2020-10-14T03:19:56Z,anti-LOXL2 monoclonal antibody GS-6634,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/simtuzumab
 2020-09-18T00:24:24Z,anti-Ly6E antibody-drug conjugate DLYE5953A,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ly6e-antibody-drug-conjugate-dlye5953a
@@ -1283,6 +1293,7 @@ dl_datetime,drug,drug_link
 2020-10-14T03:19:56Z,anti-NY-ESO1/LAGE-1A TCR/scFv anti-CD3 IMCnyeso,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ny-eso1-lage-1a-tcr-scfv-anti-cd3-imcnyeso
 2020-09-18T00:24:24Z,anti-OX40 agonist monoclonal antibody ABBV-368,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792559
 2020-10-14T03:19:56Z,anti-OX40 agonist monoclonal antibody ABBV-368,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/revdofilimab
+2020-10-23T13:31:33Z,anti-OX40 agonist monoclonal antibody BGB-A445,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802825
 2020-09-18T00:24:24Z,anti-OX40 antibody BMS 986178,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ox40-antibody-bms-986178
 2020-10-14T03:19:56Z,anti-OX40 antibody PF-04518600,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ox40-agonist-monoclonal-antibody-pf-04518600
 2020-09-18T00:24:24Z,anti-OX40 antibody PF-04518600,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ox40-antibody-pf-04518600
@@ -1374,6 +1385,7 @@ dl_datetime,drug,drug_link
 2020-10-14T03:19:56Z,anti-PD1 monoclonal antibody AGEN2034,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/lung-cancer-pt2b-tnm-finding-v8
 2020-09-18T00:24:24Z,anti-PD1/anti-CTLA4 antibody mixture PSB205,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798992
 2020-10-14T03:19:56Z,anti-PD1/anti-CTLA4 antibody mixture PSB205,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-pd1-anti-ctla4-antibody-mixture-psb205
+2020-11-03T11:27:35Z,anti-PD1/anti-CTLA4 antibody mixture QL1706,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-pd1-anti-ctla4-antibody-mixture-psb205
 2020-09-18T00:24:24Z,anti-PD1/CTLA4 bispecific antibody XmAb20717,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793410
 2020-10-14T03:19:56Z,anti-PD1/CTLA4 bispecific antibody XmAb20717,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-pd1-ctla4-bispecific-antibody-xmab20717
 2020-09-18T00:24:24Z,anti-PD1/ICOS bispecific monoclonal antibody XmAb23104,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/796973
@@ -1410,6 +1422,7 @@ dl_datetime,drug,drug_link
 2020-10-14T03:19:56Z,anti-PVRIG monoclonal antibody COM701,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-pvrig-monoclonal-antibody-com701
 2020-09-18T00:24:24Z,anti-RANKL monoclonal antibody GB-223,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802325
 2020-10-14T03:19:56Z,anti-RANKL monoclonal antibody GB-223,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-rankl-monoclonal-antibody-gb-223
+2020-10-21T18:58:28Z,anti-RANKL monoclonal antibody JMT103,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802778
 2020-09-18T00:24:24Z,anti-ROR1 ADC VLS-101,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797160
 2020-10-14T03:19:56Z,anti-ROR1 ADC VLS-101,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-ror1-adc-vls-101
 2020-09-18T00:24:24Z,anti-RSPO3 monoclonal antibody OMP-131R10,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-rspo3-monoclonal-antibody-omp-131r10
@@ -1425,6 +1438,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,anti-SLITRK6 monoclonal antibody-MMAE conjugate AGS15E,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-slitrk6-monoclonal-antibody-mmae-conjugate-ags15e
 2020-09-18T00:24:24Z,anti-SSTR2/CD3 monoclonal antibody XmAb18087,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792257
 2020-10-14T03:19:56Z,anti-SSTR2/CD3 monoclonal antibody XmAb18087,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tidutamab
+2020-11-03T11:27:35Z,anti-survivin T-cell receptor/anti-CD3 bispecific therapeutic ABBV-184,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/803161
 2020-09-18T00:24:24Z,anti-TAG-72 monoclonal antibody CC49-streptavidin conjugate,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-tag-72-monoclonal-antibody-cc49-streptavidin-conjugate
 2020-09-18T00:24:24Z,anti-TF monoclonal antibody ALT-836,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-tf-monoclonal-antibody-alt-836
 2020-09-18T00:24:24Z,anti-TGF-beta monoclonal antibody NIS793,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-tgf-beta-monoclonal-antibody-nis793
@@ -1676,6 +1690,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,atropine sulfate,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/atropine-sulfate
 2020-09-18T00:24:24Z,attenuated chimpanzee adenovirus 5T4 vaccine,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/attenuated-chimpanzee-adenovirus-5t4-vaccine
 2020-09-18T00:24:24Z,attenuated Listeria monocytogenes CRS-100,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/attenuated-listeria-monocytogenes-crs-100
+2020-10-21T18:58:28Z,attenuated measles virus encoding SCD transgene TMV-018,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802771
 2020-09-18T00:24:24Z,Augmentin,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/amoxicillin-clavulanate-potassium
 2020-10-14T03:19:56Z,auranofin,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-csf1r-monoclonal-antibody-imc-cs4
 2020-09-18T00:24:24Z,auranofin,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/auranofin
@@ -1728,6 +1743,7 @@ dl_datetime,drug,drug_link
 2020-10-14T03:19:56Z,autologous anti-CD19 CAR TCR-zeta/4-1BB-transduced T lymphocytes BinD19,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-anti-cd19-car-tcr-zeta-4-1bb-transduced-t-lymphocytes-bind19
 2020-09-18T00:24:24Z,autologous anti-CD19 CAR TCR-zeta/4-1BB-transduced T lymphocytes huCART19,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795543
 2020-10-14T03:19:56Z,autologous anti-CD19 CAR TCR-zeta/4-1BB-transduced T lymphocytes huCART19,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-anti-cd19-car-tcr-zeta-4-1bb-transduced-t-lymphocytes-hucart19
+2020-10-23T13:31:33Z,autologous anti-CD19 CAR-4-1BB-CD3zeta-expressing T cells CNCT19,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802902
 2020-09-18T00:24:24Z,autologous anti-CD19 CAR-CD3zeta-4-1BB-expressing T cells,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793525
 2020-10-14T03:19:56Z,autologous anti-CD19 CAR-CD3zeta-4-1BB-expressing T cells,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-anti-cd19-car-cd3zeta-4-1bb-expressing-t-cells
 2020-09-18T00:24:24Z,autologous anti-CD19 CAR-CD3zeta-4-1BB-expressing T cells PZ01,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793588
@@ -1786,6 +1802,7 @@ dl_datetime,drug,drug_link
 2020-10-14T03:19:56Z,autologous anti-HLA-A*0201/AFP CAR-T cells ET1402L1,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-anti-hla-a0201-afp-car-t-cells-et1402l1
 2020-09-18T00:24:24Z,autologous anti-ICAM-1-CAR-CD28-4-1BB-CD3zeta-expressing T cells AIC100,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801844
 2020-10-14T03:19:56Z,autologous anti-ICAM-1-CAR-CD28-4-1BB-CD3zeta-expressing T cells AIC100,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-anti-icam-1-car-cd28-4-1bb-cd3zeta-expressing-t-cells-aic100
+2020-10-23T13:31:33Z,autologous anti-kappa light chain CAR-CD28-expressing T lymphocytes,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802840
 2020-09-18T00:24:24Z,autologous anti-MART-1 F5 T-cell receptor gene-engineered peripheral blood lymphocytes,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/560192
 2020-09-18T00:24:24Z,autologous anti-mesothelin CAR-CD3zeta-4-1-BB-expressing T cells,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795279
 2020-10-14T03:19:56Z,autologous anti-mesothelin CAR-CD3zeta-4-1-BB-expressing T cells,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-anti-mesothelin-car-cd3zeta-4-1-bb-expressing-t-cells
@@ -1802,6 +1819,7 @@ dl_datetime,drug,drug_link
 2020-10-14T03:19:56Z,autologous anti-PD-1 antibody-activated tumor-infiltrating lymphocytes,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-anti-pd-1-antibody-activated-tumor-infiltrating-lymphocytes
 2020-09-18T00:24:24Z,autologous anti-PSCA-CAR-4-1BB/TCRzeta-CD19t-expressing T lymphocytes,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797158
 2020-10-14T03:19:56Z,autologous anti-PSCA-CAR-4-1BB/TCRzeta-CD19t-expressing T lymphocytes,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-anti-psca-car-4-1bb-tcrzeta-cd19t-expressing-t-lymphocytes
+2020-10-23T13:31:33Z,autologous anti-PSMA CAR T cells P-PSMA-101,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/803027
 2020-09-18T00:24:24Z,autologous anti-PSMA gene-modified T-cells,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-anti-psma-gene-modified-t-cells
 2020-10-14T03:19:56Z,autologous anti-PSMA gene-modified T-cells,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-anti-psma-gene-modified-t-lymphocytes
 2020-09-18T00:24:24Z,autologous anti-SLAMF7 CAR-expressing T cells,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798436
@@ -1822,11 +1840,13 @@ dl_datetime,drug,drug_link
 2020-10-14T03:19:56Z,autologous beta-A(T87Q)-globin gene-transduced CD34-positive cells,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/betibeglogene-autotemcel
 2020-09-18T00:24:24Z,autologous bi-epitope BCMA-targeted CAR T cells JNJ-68284528,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792630
 2020-10-14T03:19:56Z,autologous bi-epitope BCMA-targeted CAR T cells JNJ-68284528,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ciltacabtagene-autoleucel
+2020-10-23T13:31:33Z,autologous bispecific BCMA/CD19-targeted CAR T cells GC012F,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802916
 2020-09-18T00:24:24Z,autologous bispecific CD19/CD22-targeted CAR-T cells GC022F,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800937
 2020-10-14T03:19:56Z,autologous bispecific CD19/CD22-targeted CAR-T cells GC022F,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-bispecific-cd19-cd22-targeted-car-t-cells-gc022
 2020-09-18T00:24:24Z,autologous bone marrow-derived CD34/CXCR4-positive stem cells AMR-001,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-bone-marrow-derived-cd34-cxcr4-positive-stem-cells-amr-001
 2020-09-18T00:24:24Z,autologous c-Met/PD-L1-specific CAR T cells,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798662
 2020-10-14T03:19:56Z,autologous c-Met/PD-L1-specific CAR T cells,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-c-met-pd-l1-specific-car-t-cells
+2020-10-23T13:31:33Z,autologous CAR-CD28-expressing T lymphocytes,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802837
 2020-09-18T00:24:24Z,autologous CAR-mbIL15-safety switch T cells PRGN-3006,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798420
 2020-10-14T03:19:56Z,autologous CAR-mbIL15-safety switch T cells PRGN-3006,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-car-mbil15-safety-switch-t-cells-prgn-3006
 2020-09-18T00:24:24Z,autologous CCR4-CD30CAR-CD28-CD3zeta-expressing T lymphocytes,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794781
@@ -1845,6 +1865,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,autologous CD19-28z chimeric antigen receptor-expressing T lymphocytes,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-cd19-28z-chimeric-antigen-receptor-expressing-t-lymphocytes
 2020-09-18T00:24:24Z,autologous CD19-CD8-CD28-CD3zeta-CAR-mbIL15-HER1t T cells,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793561
 2020-10-14T03:19:56Z,autologous CD19-CD8-CD28-CD3zeta-CAR-mbIL15-HER1t T cells,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-cd19-cd8-cd28-cd3zeta-car-mbil15-her1t-t-cells
+2020-10-23T13:31:33Z,autologous CD19-targeted CAR T cells CC 97540,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802907
 2020-09-18T00:24:24Z,autologous CD19-targeted CAR T cells JWCAR029,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794777
 2020-10-14T03:19:56Z,autologous CD19-targeted CAR T cells JWCAR029,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-cd19-targeted-car-t-cells-jwcar029
 2020-09-18T00:24:24Z,autologous CD19-targeted CAR-T cells GC007F,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800931
@@ -2029,6 +2050,7 @@ dl_datetime,drug,drug_link
 2020-10-14T03:19:56Z,autologous PD-L1/CD80/CD86-targeted CAR-T cells,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-pd-l1-cd80-cd86-targeted-car-t-cells
 2020-09-18T00:24:24Z,autologous PD1-inhibiting anti-CD19 4-1BB CAR T cells,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793152
 2020-10-14T03:19:56Z,autologous PD1-inhibiting anti-CD19 4-1BB CAR T cells,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-pd1-inhibiting-anti-cd19-4-1bb-car-t-cells
+2020-10-23T13:31:33Z,autologous PD1-knockout CD19-specific CAR T cells,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802819
 2020-09-18T00:24:24Z,autologous peripheral blood lymphocytes cotransduced with retroviral vectors encoding inducible IL-12 and anti-NY-ESO-1 TCR,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/755595
 2020-09-18T00:24:24Z,autologous peripheral blood lymphocytes from ibrutinib-treated chronic lymphocytic leukemia patients IOV-2001,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800421
 2020-09-18T00:24:24Z,autologous pluripotent ALDHbr stem cells ALD-451,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-pluripotent-aldhbr-stem-cells-ald-451
@@ -2075,6 +2097,7 @@ dl_datetime,drug,drug_link
 2020-10-14T03:19:56Z,autologous tumor-infiltrating lymphocytes MDA-TIL,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-tumor-infiltrating-lymphocytes-mda-til
 2020-09-18T00:24:24Z,autologous tumor-specific antigen-loaded dendritic cells,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793117
 2020-10-14T03:19:56Z,autologous tumor-specific antigen-loaded dendritic cells,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-tumor-specific-antigen-loaded-dendritic-cells
+2020-10-23T13:31:33Z,autologous universal CAR-expressing T lymphocytes UniCAR02-T,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802895
 2020-09-18T00:24:24Z,autologous WT1-TCRc4 gene-transduced CD8-positive Tcm/Tn lymphocytes,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/autologous-wt1-tcrc4-gene-transduced-cd8-positive-tcm-tn-lymphocytes
 2020-09-18T00:24:24Z,avadomide,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/798417
 2020-10-14T03:19:56Z,avadomide,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/avadomide
@@ -2083,6 +2106,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,Avandia,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/rosiglitazone-maleate
 2020-10-14T03:19:56Z,avapritinib,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/avapritinib
 2020-09-18T00:24:24Z,avapritinib,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pdgfr-alpha-kit-mutant-specific-inhibitor-blu-285
+2020-10-23T13:31:33Z,avasopasem manganese,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802841
 2020-09-18T00:24:24Z,Avastin,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bevacizumab
 2020-09-18T00:24:24Z,avatrombopag maleate,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793425
 2020-10-14T03:19:56Z,avatrombopag maleate,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/avatrombopag-maleate
@@ -2269,6 +2293,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,BET inhibitor GS-5829,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bet-inhibitor-gs-5829
 2020-09-18T00:24:24Z,BET inhibitor GSK2820151,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bet-inhibitor-gsk2820151
 2020-09-18T00:24:24Z,BET inhibitor INCB054329,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bet-inhibitor-incb054329
+2020-11-03T11:27:35Z,BET inhibitor INCB057643,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/780220
 2020-09-18T00:24:24Z,BET inhibitor RO6870810,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bet-inhibitor-ro6870810
 2020-09-18T00:24:24Z,BET-bromodomain inhibitor ODM-207,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792467
 2020-10-14T03:19:56Z,BET-bromodomain inhibitor ODM-207,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bet-bromodomain-inhibitor-odm-207
@@ -2386,6 +2411,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,Boost,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/nutritional-supplement-drink
 2020-09-18T00:24:24Z,Boost Breeze,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797097
 2020-10-14T03:19:56Z,Boost Breeze,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/whey-protein-isolate-based-nutritional-supplement
+2020-10-23T13:31:33Z,boron-based gel,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802919
 2020-09-18T00:24:24Z,boron-dipyrromethene-modified olaparib fluorescent imaging agent,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/boron-dipyrromethene-modified-olaparib-fluorescent-imaging-agent
 2020-09-18T00:24:24Z,boronophenylalanine-fructose complex,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/boronophenylalanine-fructose-complex
 2020-09-18T00:24:24Z,bortezomib,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bortezomib
@@ -2529,6 +2555,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,c-Met inhibitor AMG 337,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/c-met-inhibitor-amg-337
 2020-09-18T00:24:24Z,c-Met inhibitor CBT-101,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793087
 2020-10-14T03:19:56Z,c-Met inhibitor CBT-101,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/c-met-inhibitor-cbt-101
+2020-10-23T13:31:33Z,c-Met inhibitor GST-HG161,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802843
 2020-09-18T00:24:24Z,c-Met inhibitor HS-10241,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/c-met-inhibitor-hs-10241
 2020-09-18T00:24:24Z,c-Met inhibitor JNJ-38877605,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/c-met-inhibitor-jnj-38877605
 2020-09-18T00:24:24Z,c-Met inhibitor MSC2156119J,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/c-met-inhibitor-msc2156119j
@@ -2772,6 +2799,7 @@ dl_datetime,drug,drug_link
 2020-10-14T03:19:56Z,CD11b agonist GB1275,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cd11b-agonist-gb1275
 2020-09-18T00:24:24Z,CD123-CD33 compound CAR T cells,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802178
 2020-10-14T03:19:56Z,CD123-CD33 compound CAR T cells,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cd123-cd33-compound-car-t-cells
+2020-10-23T13:31:33Z,CD123-specific targeting molecule TM123,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802894
 2020-09-18T00:24:24Z,CD133 antigen peptide-pulsed autologous dendritic cell vaccine,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cd133-antigen-peptide-pulsed-autologous-dendritic-cell-vaccine
 2020-09-18T00:24:24Z,CD137L/Epstein-Barr virus-targeting autologous dendritic cell vaccine,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793585
 2020-10-14T03:19:56Z,CD137L/Epstein-Barr virus-targeting autologous dendritic cell vaccine,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cd137l-epstein-barr-virus-targeting-autologous-dendritic-cell-vaccine
@@ -2845,6 +2873,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,CDK inhibitor SNS-032,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cdk-inhibitor-sns-032
 2020-09-18T00:24:24Z,CDK1 inhibitor BEY1107,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799135
 2020-10-14T03:19:56Z,CDK1 inhibitor BEY1107,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cdk1-inhibitor-bey1107
+2020-11-03T11:27:35Z,CDK2 inhibitor PF-07104091,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/803259
 2020-09-18T00:24:24Z,CDK2/4/6/FLT3 inhibitor FN-1501,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795267
 2020-10-14T03:19:56Z,CDK2/4/6/FLT3 inhibitor FN-1501,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cdk2-4-6-flt3-inhibitor-fn-1501
 2020-09-18T00:24:24Z,CDK2/5/9 inhibitor CYC065,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/cdk2-5-9-inhibitor-cyc065
@@ -3227,6 +3256,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,Coreg CR,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/carvedilol-phosphate-extended-release-capsule
 2020-09-18T00:24:24Z,Corgard,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/nadolol
 2020-09-18T00:24:24Z,Coriolus versicolor extract,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/coriolus-versicolor-extract
+2020-10-21T18:58:28Z,Coriolus versicolor-based vaginal gel,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802779
 2020-09-18T00:24:24Z,Corlanor,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792710
 2020-10-14T03:19:56Z,Corlanor,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ivabradine-hydrochloride
 2020-09-18T00:24:24Z,corn starch,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801632
@@ -3241,6 +3271,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,Cortispray,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/therapeutic-hydrocortisone
 2020-09-18T00:24:24Z,Cortril,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/therapeutic-hydrocortisone
 2020-09-18T00:24:24Z,Corynebacterium granulosum P40,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/corynebacterium-granulosum-p40
+2020-11-03T11:27:35Z,Cosentyx,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/803239
 2020-09-18T00:24:24Z,Cosmegen,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dactinomycin
 2020-10-14T03:19:56Z,Cotara,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/iodine-i-131-derlotuximab-biotin
 2020-09-18T00:24:24Z,Cotara,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/iodine-i-131-monoclonal-antibody-tnt-1-b
@@ -3441,6 +3472,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,Definity,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/perflutren
 2020-09-18T00:24:24Z,Definity,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/perflutren-lipid-microspheres
 2020-09-18T00:24:24Z,Defitelio,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/defibrotide-sodium
+2020-10-23T13:31:33Z,deflazacort,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802842
 2020-09-18T00:24:24Z,degarelix,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/degarelix
 2020-09-18T00:24:24Z,deglycosylated ricin A chain-conjugated anti-CD19/anti-CD22 immunotoxins,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/deglycosylated-ricin-a-chain-conjugated-anti-cd19-anti-cd22-immunotoxins
 2020-09-18T00:24:24Z,dehydrated human amnion/chorion membrane,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dehydrated-human-amnion-chorion-membrane
@@ -3511,6 +3543,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,detorubicin,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/detorubicin
 2020-09-18T00:24:24Z,Detox-B adjuvant,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/detox-b-adjuvant
 2020-09-18T00:24:24Z,DetoxPC,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/detoxpc
+2020-10-23T13:31:33Z,deupirfenidone,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802943
 2020-09-18T00:24:24Z,deuterated 3-methylhistidine,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/deuterated-3-methylhistidine
 2020-09-18T00:24:24Z,deuterated enzalutamide,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797006
 2020-10-14T03:19:56Z,deuterated enzalutamide,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/deuterated-enzalutamide
@@ -3615,6 +3648,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,distilled water,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/distilled-water
 2020-09-18T00:24:24Z,disulfiram,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/disulfiram
 2020-09-18T00:24:24Z,Disulone,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dapsone
+2020-10-23T13:31:33Z,ditiocarb sodium,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802912
 2020-09-18T00:24:24Z,divalproex sodium,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/divalproex-sodium
 2020-09-18T00:24:24Z,Divine 9 with Carragel,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/carrageenan-containing-gel
 2020-09-18T00:24:24Z,DJ-927,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/dj-927
@@ -3821,6 +3855,7 @@ dl_datetime,drug,drug_link
 2020-10-14T03:19:56Z,EGFR inhibitor DBPR112,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/egfr-inhibitor-dbpr112
 2020-09-18T00:24:24Z,EGFR inhibitor EGF816,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/egfr-inhibitor-egf816
 2020-10-14T03:19:56Z,EGFR inhibitor EGF816,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/nazartinib
+2020-10-23T13:31:33Z,EGFR inhibitor TY-9591,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802783
 2020-09-18T00:24:24Z,EGFR mutant-selective inhibitor TQB3804,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801857
 2020-10-14T03:19:56Z,EGFR mutant-selective inhibitor TQB3804,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/egfr-mutant-selective-inhibitor-tqb3804
 2020-09-18T00:24:24Z,EGFR mutant-specific inhibitor BPI-7711,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794290
@@ -3895,6 +3930,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,Emend,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/aprepitant
 2020-09-18T00:24:24Z,emepepimut-S,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/emepepimut-s
 2020-09-18T00:24:24Z,Emergent-EZ,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hydrocortisone-sodium-succinate
+2020-10-23T13:31:33Z,Emflaza,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802842
 2020-09-18T00:24:24Z,Empirin,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/acetylsalicylic-acid
 2020-10-14T03:19:56Z,Empirin,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/aspirin
 2020-09-18T00:24:24Z,Empliciti,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/elotuzumab
@@ -3919,6 +3955,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,Endometrin,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/progesterone-vaginal-insert
 2020-09-18T00:24:24Z,endothelin B receptor agonist SPI-1620,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/endothelin-b-receptor-agonist-spi-1620
 2020-10-14T03:19:56Z,endothelin B receptor agonist SPI-1620,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/sovateltide
+2020-10-23T13:31:33Z,endothelin B receptor blocker ENB 003,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802784
 2020-09-18T00:24:24Z,enfortumab vedotin-ejfv,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-nectin-4-antibody-drug-conjugate-asg-22ce
 2020-10-14T03:19:56Z,enfortumab vedotin-ejfv,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/enfortumab-vedotin
 2020-10-14T03:19:56Z,Engerix-B,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hepatitis-b-vaccine
@@ -4036,6 +4073,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,esmolol,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/esmolol
 2020-09-18T00:24:24Z,esomeprazole magnesium,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/esomeprazole-magnesium
 2020-09-18T00:24:24Z,esorubicin,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/esorubicin
+2020-11-03T11:27:35Z,ESR1 peptides/GM-CSF/Montanide ISA vaccine,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/803159
 2020-09-18T00:24:24Z,Essiac,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/essiac
 2020-09-18T00:24:24Z,Estinyl,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ethinyl-estradiol
 2020-09-18T00:24:24Z,Estrace,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/therapeutic-estradiol
@@ -4195,6 +4233,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,fenretinide,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fenretinide
 2020-09-18T00:24:24Z,fenretinide lipid matrix,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fenretinide-lipid-matrix
 2020-09-18T00:24:24Z,Fenretinide Lym-X-Sorb,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fenretinide-lipid-matrix
+2020-10-23T13:31:33Z,fenretinide phospholipid suspension ST-001,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802915
 2020-09-18T00:24:24Z,fentanyl buccal soluble film,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fentanyl-buccal-soluble-film
 2020-09-18T00:24:24Z,fentanyl citrate,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fentanyl-citrate
 2020-09-18T00:24:24Z,fentanyl citrate buccal tablet,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fentanyl-citrate-buccal-tablet
@@ -4232,6 +4271,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,FGFR inhibitor debio 1347,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr-inhibitor-debio-1347
 2020-09-18T00:24:24Z,FGFR inhibitor1/2/3 HMPL-453,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792789
 2020-10-14T03:19:56Z,FGFR inhibitor1/2/3 HMPL-453,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr1-2-3-inhibitor-hmpl-453
+2020-10-23T13:31:33Z,FGFR/CSF-1R inhibitor 3D185,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802839
 2020-10-14T03:19:56Z,FGFR1 receptor antagonist HGS1036,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgf-receptor-antagonist-hgs1036
 2020-09-18T00:24:24Z,FGFR1 receptor antagonist HGS1036,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr1-receptor-antagonist-hgs1036
 2020-09-18T00:24:24Z,FGFR4 antagonist INCB062079,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fgfr4-antagonist-incb062079
@@ -4379,6 +4419,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,fluorine F 18-AlF-cys-variant 3 pH low insertion peptides,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799307
 2020-10-14T03:19:56Z,fluorine F 18-AlF-cys-variant 3 pH low insertion peptides,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-alf-cys-variant-3-ph-low-insertion-peptides
 2020-09-18T00:24:24Z,fluorine F 18-alfatide II,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-alfatide-ii
+2020-10-23T13:31:33Z,fluorine F 18-AMBF3-TATE,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802786
 2020-09-18T00:24:24Z,fluorine F 18-ara-G,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-ara-g
 2020-09-18T00:24:24Z,fluorine F 18-AV-133,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/fluorine-f-18-av-133
 2020-09-18T00:24:24Z,fluorine F 18-azafol,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794120
@@ -4443,6 +4484,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,Forane,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/isoflurane
 2020-09-18T00:24:24Z,foretinib,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/foretinib
 2020-09-18T00:24:24Z,Forfivo XL,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/bupropion-hydrochloride
+2020-10-23T13:31:33Z,foritinib succinate,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802918
 2020-09-18T00:24:24Z,formestane,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/formestane
 2020-09-18T00:24:24Z,formoterol fumarate oral,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/formoterol-fumarate-oral
 2020-09-18T00:24:24Z,formoterol fumarate/roxithromycin,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/formoterol-fumarate-roxithromycin
@@ -5075,6 +5117,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,huachansu,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/huachansu
 2020-09-18T00:24:24Z,Huaier extract granule,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/huaier-extract-granule
 2020-09-18T00:24:24Z,Huang Qi,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/huang-qi
+2020-11-03T11:27:35Z,Huangqi Guizhi Wuwu decoction,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/803106
 2020-09-18T00:24:24Z,huBC1-huIL12 fusion protein AS1409,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hubc1-huil12-fusion-protein-as1409
 2020-09-18T00:24:24Z,Humalog,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/insulin-lispro
 2020-09-18T00:24:24Z,human acellular dermal matrix,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799709
@@ -5148,6 +5191,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,Hypoxin,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/hypoxia-activated-prodrug-th-4000
 2020-09-18T00:24:24Z,Hytone,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/therapeutic-hydrocortisone
 2020-09-18T00:24:24Z,I 131 monoclonal antibody CC49,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/i-131-monoclonal-antibody-cc49
+2020-11-03T11:27:35Z,IAP inhibitor APG-1387,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794301
 2020-09-18T00:24:24Z,IAP inhibitor AT-406,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/iap-inhibitor-at-406
 2020-10-14T03:19:56Z,IAP inhibitor AT-406,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/smac-mimetic-debio-1143
 2020-09-18T00:24:24Z,IAP inhibitor HGS1029,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/iap-inhibitor-hgs1029
@@ -5182,6 +5226,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,idasanutlin,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idasanutlin
 2020-09-18T00:24:24Z,idelalisib,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idelalisib
 2020-09-18T00:24:24Z,IDH1(R132) inhibitor IDH305,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idh1r132-inhibitor-idh305
+2020-11-03T11:27:35Z,IDH1/IDH2 dual inhibitor HMPL-306,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/803162
 2020-09-18T00:24:24Z,IDH1R132H mutation-targeting IDH1 peptide vaccine,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idh1r132h-mutation-targeting-idh1-peptide-vaccine
 2020-09-18T00:24:24Z,IDH1R132H-specific peptide vaccine PEPIDH1M,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/idh1r132h-specific-peptide-vaccine-pepidh1m
 2020-09-18T00:24:24Z,Idhifa,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/enasidenib-mesylate
@@ -5218,6 +5263,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,IL-10 immunomodulator MK-1966,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/il-10-immunomodulator-mk-1966
 2020-09-18T00:24:24Z,IL-12-expressing mesenchymal stem cell vaccine GX-051,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/il-12-expressing-mesenchymal-stem-cell-vaccine-gx-051
 2020-09-18T00:24:24Z,"IL-12sc, IL-15sushi, IFNa and GM-CSF mRNA-based immunotherapeutic agent SAR441000",https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800230
+2020-11-03T11:27:35Z,IL-15/IL-15 receptor alpha heterodimer NIZ985,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/803105
 2020-09-18T00:24:24Z,IL-2 plasmid DNA/lipid complex,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/il-2-plasmid-dna-lipid-complex
 2020-09-18T00:24:24Z,IL-2 recombinant fusion protein ALT-801,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/il-2-recombinant-fusion-protein-alt-801
 2020-09-18T00:24:24Z,IL-2/9/15 gamma chain receptor inhibitor BNZ-1,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792153
@@ -5283,6 +5329,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,Imprime PGG,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pgg-beta-glucan
 2020-09-18T00:24:24Z,IMT-1012 immunotherapeutic vaccine,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/imt-1012-immunotherapeutic-vaccine
 2020-09-18T00:24:24Z,Imuran,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/azathioprine-sodium
+2020-10-23T13:31:33Z,Imuthiol,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802912
 2020-09-18T00:24:24Z,Imvamune,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/801908
 2020-10-14T03:19:56Z,Imvamune,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/mva-bn-smallpox-vaccine
 2020-09-18T00:24:24Z,inactivated poliovirus vaccine,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/inactivated-poliovirus-vaccine
@@ -5355,6 +5402,7 @@ dl_datetime,drug,drug_link
 2020-10-14T03:19:56Z,ingenol derivative LEO 43204 gel,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ingenol-disoxate
 2020-09-18T00:24:24Z,ingenol mebutate,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ingenol-mebutate
 2020-09-18T00:24:24Z,ingenol mebutate gel,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ingenol-mebutate-gel
+2020-10-23T13:31:33Z,inhaled voriconazole,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802845
 2020-09-18T00:24:24Z,iniparib,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/iniparib
 2020-09-18T00:24:24Z,injectable Astragalus membranaceus polysaccharide,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/injectable-astragalus-membranaceus-polysaccharide
 2020-09-18T00:24:24Z,injectable liposomal vinorelbine,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/injectable-liposomal-vinorelbine
@@ -5803,6 +5851,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,linifanib,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/linifanib
 2020-09-18T00:24:24Z,linoleyl carbonate-paclitaxel,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/linoleyl-carbonate-paclitaxel
 2020-09-18T00:24:24Z,Linomide,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/roquinimex
+2020-11-03T11:27:35Z,linperlisib,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/linperlisib
 2020-09-18T00:24:24Z,linsitinib,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/linsitinib
 2020-09-18T00:24:24Z,lintuzumab,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/lintuzumab
 2020-09-18T00:24:24Z,Linzess,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/linaclotide-acetate
@@ -6021,6 +6070,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,lycopene,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/lycopene
 2020-09-18T00:24:24Z,Lymphazurin,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/isosulfan-blue
 2020-09-18T00:24:24Z,LymphoCide,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/epratuzumab
+2020-10-23T13:31:33Z,lymphodepleted autologous CD4-directed CAR T cells,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802838
 2020-09-18T00:24:24Z,lymphokine-activated killer cells,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/lymphokine-activated-killer-cells
 2020-09-18T00:24:24Z,lymphoma TAA-specific cytotoxic T lymphocytes,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/lymphoma-taa-specific-cytotoxic-t-lymphocytes
 2020-09-18T00:24:24Z,Lymphoseek,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/technetium-tc-99m-labeled-tilmanocept
@@ -6271,6 +6321,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,methionine C 11,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/methionine-c-11
 2020-09-18T00:24:24Z,Methosarb,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/calusterone
 2020-09-18T00:24:24Z,methotrexate,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/methotrexate
+2020-10-21T18:58:28Z,methotrexate sodium,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/methotrexate
 2020-09-18T00:24:24Z,methotrexate-e therapeutic implant,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/methotrexate-e-therapeutic-implant
 2020-09-18T00:24:24Z,methotrexate-encapsulating autologous tumor-derived microparticles,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/methotrexate-encapsulating-autologous-tumor-derived-microparticles
 2020-09-18T00:24:24Z,methoxsalen,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/methoxsalen
@@ -6482,6 +6533,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,motesanib diphosphate,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/motesanib-diphosphate
 2020-09-18T00:24:24Z,motexafin gadolinium,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/motexafin-gadolinium
 2020-09-18T00:24:24Z,motexafin lutetium,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/motexafin-lutetium
+2020-11-03T11:27:35Z,motolimod,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/motolimod
 2020-09-18T00:24:24Z,Motrin,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ibuprofen
 2020-09-18T00:24:24Z,mouse gp100 plasmid DNA vaccine,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/mouse-gp100-plasmid-dna-vaccine
 2020-09-18T00:24:24Z,mouse prostate-specific membrane antigen plasmid DNA vaccine,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/mouse-prostate-specific-membrane-antigen-plasmid-dna-vaccine
@@ -6971,6 +7023,7 @@ dl_datetime,drug,drug_link
 2020-10-14T03:19:56Z,oncolytic HSV-1 C134,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/oncolytic-hsv-1-c134
 2020-09-18T00:24:24Z,oncolytic HSV-1 rQNestin34.5v.2,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/oncolytic-hsv-1-rqnestin345v2
 2020-09-18T00:24:24Z,oncolytic HSV-1 rRp450,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/oncolytic-hsv-1-rrp450
+2020-10-23T13:31:33Z,oncolytic HSV-1-expressing IL-12 and anti-PD-1 antibody T3011,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802928
 2020-09-18T00:24:24Z,oncolytic HSV-1716,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/oncolytic-hsv-1716
 2020-10-14T03:19:56Z,oncolytic HSV-1716,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/oncolytic-hsv1716
 2020-09-18T00:24:24Z,oncolytic measles virus encoding thyroidal sodium iodide symporter,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/oncolytic-measles-virus-encoding-thyroidal-sodium-iodide-symporter
@@ -7058,6 +7111,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,oraxol,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/oraxol
 2020-09-18T00:24:24Z,Orazol,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/enteric-coated-zoledronic-acid-tablet-mer-101
 2020-09-18T00:24:24Z,oregovomab,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/oregovomab
+2020-11-03T11:27:35Z,orelabrutinib,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/btk-inhibitor-icp-022
 2020-09-18T00:24:24Z,Orencia,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/abatacept
 2020-09-18T00:24:24Z,Orestralyn,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ethinyl-estradiol
 2020-09-18T00:24:24Z,Orilissa,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793786
@@ -7126,6 +7180,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,P-p68 inhibitor RX-5902,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/p-p68-inhibitor-rx-5902
 2020-09-18T00:24:24Z,p.DOM-WT1-126 DNA vaccine,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pdom-wt1-126-dna-vaccine
 2020-09-18T00:24:24Z,p.DOM-WT1-37 DNA vaccine,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pdom-wt1-37-dna-vaccine
+2020-10-23T13:31:33Z,P2RX3 antagonist BAY 1817080,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/803037
 2020-09-18T00:24:24Z,p300/CBP bromodomain inhibitor CCS1477,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/797847
 2020-10-14T03:19:56Z,p300/CBP bromodomain inhibitor CCS1477,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/p300-cbp-bromodomain-inhibitor-ccs1477
 2020-09-18T00:24:24Z,p38 MAPK inhibitor LY2228820 dimesylate,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/p38-mapk-inhibitor-ly2228820-dimesylate
@@ -7165,6 +7220,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,PADRE 965.10,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/padre-96510
 2020-09-18T00:24:24Z,PADRE-CMV fusion peptide vaccine,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/padre-cmv-fusion-peptide-vaccine
 2020-09-18T00:24:24Z,PAK4 inhibitor PF-03758309,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pak4-inhibitor-pf-03758309
+2020-11-03T11:27:35Z,PAK4/NAMPT inhibitor ATG-019,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pak4-nampt-inhibitor-kpt-9274
 2020-09-18T00:24:24Z,PAK4/NAMPT inhibitor KPT-9274,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/pak4-nampt-inhibitor-kpt-9274
 2020-09-18T00:24:24Z,palbociclib,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/palbociclib
 2020-09-18T00:24:24Z,Palestrol,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/diethylstilbestrol
@@ -7256,6 +7312,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,PARP7 inhibitor RBN-2397,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800790
 2020-10-14T03:19:56Z,PARP7 inhibitor RBN-2397,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/parp7-inhibitor-rbn-2397
 2020-09-18T00:24:24Z,Parsabiv,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/etelcalcetide
+2020-11-03T11:27:35Z,parsaclisib,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/parsaclisib
 2020-09-18T00:24:24Z,partially engineered T-regulatory cell donor graft TRGFT-201,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800419
 2020-10-14T03:19:56Z,partially engineered T-regulatory cell donor graft TRGFT-201,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/partially-engineered-t-regulatory-cell-donor-graft-trgft-201
 2020-09-18T00:24:24Z,partially HLA-matched AdV/CMV/EBV-specific allogeneic T lymphocytes,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795554
@@ -7816,6 +7873,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,propylthiouracil,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/propylthiouracil
 2020-09-18T00:24:24Z,Prorex,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/promethazine-hydrochloride
 2020-09-18T00:24:24Z,Proscar,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/finasteride
+2020-10-23T13:31:33Z,Prosta-Q,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/803041
 2020-09-18T00:24:24Z,prostate cancer vaccine ONY-P1,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prostate-cancer-vaccine-ony-p1
 2020-09-18T00:24:24Z,Prostate Health Cocktail,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/596155
 2020-10-14T03:19:56Z,Prostate Health Cocktail,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/prostate-health-cocktail-dietary-supplement
@@ -7918,6 +7976,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,Quelicin,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795677
 2020-10-14T03:19:56Z,Quelicin,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/succinylcholine-chloride
 2020-09-18T00:24:24Z,quercetin,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/quercetin
+2020-10-23T13:31:33Z,quercetin/saw palmetto/cranberry/bromelain/papain/zinc supplement,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/803041
 2020-09-18T00:24:24Z,Quillivant XR,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/methylphenidate-hydrochloride
 2020-09-18T00:24:24Z,quinacrine dihydrochloride,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/quinacrine-dihydrochloride
 2020-10-14T03:19:56Z,quinacrine dihydrochloride,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/quinacrine-hydrochloride
@@ -8408,6 +8467,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,Seasonique,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ethinyl-estradiol-levonorgestrel
 2020-09-18T00:24:24Z,seclidemstat,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/794410
 2020-10-14T03:19:56Z,seclidemstat,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/seclidemstat
+2020-11-03T11:27:35Z,secukinumab,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/803239
 2020-09-18T00:24:24Z,sedoxantrone trihydrochloride,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/sedoxantrone-trihydrochloride
 2020-09-18T00:24:24Z,Seigen,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/lactobacillus-fermented-extract
 2020-09-18T00:24:24Z,selatinib ditosilate,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/selatinib-ditosilate
@@ -8602,6 +8662,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,sodium stibogluconate,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/sodium-stibogluconate
 2020-09-18T00:24:24Z,sodium sulfate/potassium sulfate/magnesium sulfate-based laxative,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/sodium-sulfate-potassium-sulfate-magnesium-sulfate-based-laxative
 2020-09-18T00:24:24Z,sodium thiosulfate,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/sodium-thiosulfate
+2020-11-03T11:27:35Z,sodium thiosulfate formulation DB-020,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/803108
 2020-09-18T00:24:24Z,sodium-potassium adenosine triphosphatase inhibitor RX108,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795834
 2020-10-14T03:19:56Z,sodium-potassium adenosine triphosphatase inhibitor RX108,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/sodium-potassium-adenosine-triphosphatase-inhibitor-rx108
 2020-09-18T00:24:24Z,Sodothiol,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/sodium-thiosulfate
@@ -8661,6 +8722,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,Src kinase inhibitor KX2-391 ointment,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/src-kinase-inhibitor-kx2-391-ointment
 2020-09-18T00:24:24Z,Src/Abl kinase inhibitor AZD0424,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/src-abl-kinase-inhibitor-azd0424
 2020-09-18T00:24:24Z,src/tubulin inhibitor KX02,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/src-tubulin-inhibitor-kx02
+2020-10-23T13:31:33Z,SRPK1/ABCG2 inhibitor SCO-101,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/803025
 2020-09-18T00:24:24Z,SS1(dsFv)-PE38 immunotoxin,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ss1dsfv-pe38-immunotoxin
 2020-09-18T00:24:24Z,SSD,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/silver-sulfadiazine
 2020-09-18T00:24:24Z,ssRNA-based immunomodulator CV8102,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792862
@@ -8851,6 +8913,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,TachoSil,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/absorbable-fibrin-sealant-patch
 2020-09-18T00:24:24Z,tacrolimus,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tacrolimus
 2020-09-18T00:24:24Z,tadalafil,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tadalafil
+2020-10-23T13:31:33Z,TAEK-VAC-HerBy vaccine,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/803024
 2020-09-18T00:24:24Z,tafamidis meglumine,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tafamidis-meglumine
 2020-09-18T00:24:24Z,tafasitamab-cxix,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/anti-cd19-monoclonal-antibody-xmab5574
 2020-10-14T03:19:56Z,tafasitamab-cxix,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tafasitamab
@@ -8945,6 +9008,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,TechneScan MDP,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/technetium-tc-99m-methylene-diphosphonate
 2020-09-18T00:24:24Z,technetium Tc 94m sestamibi,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/technetium-tc-94m-sestamibi
 2020-09-18T00:24:24Z,technetium Tc 99 hydrazinonicotinamide-tricine-linked interleukin-2,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/technetium-tc-99-hydrazinonicotinamide-tricine-linked-interleukin-2
+2020-11-03T11:27:35Z,technetium Tc 99m anti-HER2 affibody HPArk2,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/803157
 2020-09-18T00:24:24Z,technetium Tc 99m demobesin-4,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/technetium-tc-99m-demobesin-4
 2020-09-18T00:24:24Z,technetium Tc 99m DTPA,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/technetium-tc-99m-dtpa
 2020-09-18T00:24:24Z,technetium Tc 99m ethylenedicysteine-deoxyglucose,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/technetium-tc-99m-ethylenedicysteine-deoxyglucose
@@ -9111,6 +9175,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,Thermazene,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/silver-sulfadiazine
 2020-09-18T00:24:24Z,ThermoDox,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/lyso-thermosensitive-liposomal-doxorubicin
 2020-10-14T03:19:56Z,ThermoDox,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/lyso-thermosensitive-liposome-doxorubicin
+2020-10-23T13:31:33Z,thermogenic regulator RZL-012,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802844
 2020-09-18T00:24:24Z,thiabendazole,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/thiabendazole
 2020-09-18T00:24:24Z,thiamine,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/thiamine
 2020-09-18T00:24:24Z,thiarabine,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/thiarabine
@@ -9125,6 +9190,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,thorium Th 227 anetumab,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/795118
 2020-10-14T03:19:56Z,thorium Th 227 anetumab,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/thorium-th-227-anetumab
 2020-09-18T00:24:24Z,threonine tyrosine kinase inhibitor CFI-402257,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/threonine-tyrosine-kinase-inhibitor-cfi-402257
+2020-10-23T13:31:33Z,Thrombi-Gel,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802785
 2020-09-18T00:24:24Z,thrombomodulin alfa,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/thrombomodulin-alfa
 2020-09-18T00:24:24Z,Thymectacin,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/brivudine-phosphoramidate
 2020-09-18T00:24:24Z,thymidine,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/thymidine
@@ -9151,6 +9217,8 @@ dl_datetime,drug,drug_link
 2020-10-14T03:19:56Z,tilarginine,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tilarginine
 2020-09-18T00:24:24Z,tildrakizumab,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/799836
 2020-10-14T03:19:56Z,tildrakizumab,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tildrakizumab
+2020-11-03T11:27:35Z,tilsotolimod sodium,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tilsotolimod-sodium
+2020-11-03T11:27:35Z,timolol maleate,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/803210
 2020-09-18T00:24:24Z,timolol maleate gel forming solution,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/timolol-maleate-gel-forming-solution
 2020-09-18T00:24:24Z,timonacic,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/timonacic
 2020-09-18T00:24:24Z,Timoptic-XE,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/timolol-maleate-gel-forming-solution
@@ -9208,6 +9276,7 @@ dl_datetime,drug,drug_link
 2020-10-14T03:19:56Z,TM4SF1-CAR/EpCAM-CAR-expressing autologous T cells,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tm4sf1-car-epcam-car-expressing-autologous-t-cells
 2020-09-18T00:24:24Z,TMPRSS6 RNAi SLN124,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802321
 2020-10-14T03:19:56Z,TMPRSS6 RNAi SLN124,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tmprss6-rnai-sln124
+2020-10-23T13:31:33Z,TNFalpha/IL-2-encoding oncolytic adenovirus TILT-123,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802826
 2020-09-18T00:24:24Z,TNFerade,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/golnerminogene-pradenovec
 2020-10-14T03:19:56Z,TNP-470,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/o-chloroacetylcarbamoylfumagillol
 2020-09-18T00:24:24Z,TNP-470,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/tnp-470
@@ -9262,6 +9331,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,topical potassium dobesilate,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/793156
 2020-10-14T03:19:56Z,topical potassium dobesilate,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/topical-potassium-dobesilate
 2020-09-18T00:24:24Z,topical sirolimus,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/topical-sirolimus
+2020-10-23T13:31:33Z,topical thrombin gel,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802785
 2020-09-18T00:24:24Z,topical VBP-926 solution,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/792148
 2020-10-14T03:19:56Z,topical VBP-926 solution,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/topical-vbp-926-solution
 2020-09-18T00:24:24Z,topical vitamin E,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/topical-vitamin-e
@@ -9795,6 +9865,7 @@ dl_datetime,drug,drug_link
 2020-09-18T00:24:24Z,WT1 peptide vaccine WT2725,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/wt1-peptide-vaccine-wt2725
 2020-09-18T00:24:24Z,WT1 protein-derived peptide vaccine DSP-7888,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/wt1-protein-derived-peptide-vaccine-dsp-7888
 2020-09-18T00:24:24Z,WT1-A10/AS01B immunotherapeutic GSK2130579A,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/wt1-a10-as01b-immunotherapeutic-gsk2130579a
+2020-10-21T18:58:28Z,WT1-H/K-HELP-survivin-H/K-HELP-MAGE-A4-H ⁄ K-HELP-MUC1-22 peptide-loaded autologous dendritic cells,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/802780
 2020-09-18T00:24:24Z,WT1-loaded artificial adjuvant vector cell immunotherapeutic ASP7517,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/800591
 2020-10-14T03:19:56Z,WT1-loaded artificial adjuvant vector cell immunotherapeutic ASP7517,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/wt1-loaded-artificial-adjuvant-vector-cell-immunotherapeutic-asp7517
 2020-10-14T03:19:56Z,WT1-sensitized T cells,https://www.cancer.gov/publications/dictionaries/cancer-drug/def/wt1-sensitized-allogeneic-t-lymphocytes
