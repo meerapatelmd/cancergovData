@@ -1,5 +1,5 @@
 # cancergovData
-Data scrape from the NCI Drug Dictionary using the skyscraper R Package    
+Data scraped from the NCI Drug Dictionary using the skyscraper R Package    
 
 # Installation    
 ```
