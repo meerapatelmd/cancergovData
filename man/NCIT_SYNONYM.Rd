@@ -5,7 +5,7 @@
 \alias{NCIT_SYNONYM}
 \title{NCIT_SYNONYM}
 \format{
-A data frame with 36123 rows and 7 variables:
+A data frame with 42942 rows and 7 variables:
 \describe{
 \item{\code{ns_datetime}}{double COLUMN_DESCRIPTION}
 \item{\code{ncit_code}}{character COLUMN_DESCRIPTION}

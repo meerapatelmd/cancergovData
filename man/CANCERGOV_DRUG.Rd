@@ -5,7 +5,7 @@
 \alias{CANCERGOV_DRUG}
 \title{CANCERGOV_DRUG}
 \format{
-A data frame with 66456 rows and 5 variables:
+A data frame with 67835 rows and 5 variables:
 \describe{
 \item{\code{cd_datetime}}{double COLUMN_DESCRIPTION}
 \item{\code{drug_link}}{character COLUMN_DESCRIPTION}
